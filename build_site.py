@@ -58,6 +58,7 @@ with open(SOURCES_FILE, "r", encoding="utf-8") as file:
 def get_full_name(person):
     first = person["first_name"]
     middle = person.get("middle_name")
+    nickname = person.get("nickname")
     last = person["last_name"]
     suffix = person.get("suffix")
 
@@ -65,6 +66,9 @@ def get_full_name(person):
 
     if middle:
         name_parts.append(middle)
+
+    if nickname:
+        name_parts.append(f'"{nickname}"')
 
     name_parts.append(last)
 
