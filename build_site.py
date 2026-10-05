@@ -13,7 +13,7 @@ DATA_FILE = BASE_DIR / "data" / "people.json"
 SOURCES_FILE = BASE_DIR / "data" / "sources.json"
 TEMPLATE_DIR = BASE_DIR / "templates"
 # Create output folders
-OUTPUT_DIR = BASE_DIR / "output"
+OUTPUT_DIR = BASE_DIR / "docs"
 PEOPLE_DIR = OUTPUT_DIR / "people"
 # Copy static files such as CSS and JavaScript
 STATIC_DIR = BASE_DIR / "static"
