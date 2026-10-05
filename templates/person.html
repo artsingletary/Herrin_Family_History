@@ -112,6 +112,26 @@
                 </p>
             {% endif %}
 
+            {% if siblings %}
+
+                <h3>Siblings</h3>
+
+                <ul>
+
+                    {% for sibling in siblings %}
+
+                        <li>
+                            <a href="{{ sibling.id }}.html">
+                                {{ sibling.display_name }}
+                            </a>
+                        </li>
+
+                    {% endfor %}
+
+                </ul>
+
+            {% endif %}
+
 
             {% if spouses %}
                 <p>

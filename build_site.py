@@ -109,6 +109,35 @@ def get_children(person_id):
 
     return children
 
+
+def get_siblings(person):
+    siblings = []
+
+    father_id = person.get("father")
+    mother_id = person.get("mother")
+
+    for other_person in people:
+
+        # Don't include the person themself
+        if other_person["id"] == person["id"]:
+            continue
+
+        same_father = (
+            father_id is not None
+            and other_person.get("father") == father_id
+        )
+
+        same_mother = (
+            mother_id is not None
+            and other_person.get("mother") == mother_id
+        )
+
+        if same_father or same_mother:
+            siblings.append(other_person)
+
+    return siblings
+
+
 def get_sources(person_id):
     person_sources = []
 
@@ -231,6 +260,7 @@ for person in people:
     # Find children
     children = get_children(person["id"])
     person_sources = get_sources(person["id"])
+    siblings = get_siblings(person)
 
 
     # Send all of this information to person.html
@@ -240,7 +270,8 @@ for person in people:
         mother=mother,
         spouses=spouses,
         children=children,
-        sources=person_sources
+        siblings=siblings,
+        sources=person_sources,
     )
 
 
