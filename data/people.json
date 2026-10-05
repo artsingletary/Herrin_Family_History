@@ -1,0 +1,461 @@
+[
+    {
+        "id": "thomas-levi-herrin-1854",
+        "first_name": "Thomas",
+        "middle_name": "Levi",
+        "last_name": "Herrin",
+        "profile_photo": "thomas_levi_herrin.jpg",
+        "birth_year": 1854,
+        "birth_date": "1854-05-22",
+        "birth_place": "Clinch, Georgia, United States",
+        "death_year": 1922,
+        "death_date": "1922-12-13",
+        "death_place": "Clinch, Georgia, United States",
+        "father": "william-m-herrin-1831",
+        "mother": "mary-hargraves-1838",
+        "spouses": ["nancy-t-jewell-1854"]
+    },
+    {
+        "id": "nancy-t-jewell-1854",
+        "first_name": "Nancy",
+        "middle_name": "T.",
+        "last_name": "Jewell",
+        "profile_photo": "nancy_jewell.jpg", 
+        "birth_year": 1854,
+        "birth_date": "1854-05-04",
+        "birth_place": "Clinch, Georgia, United States",
+        "death_year": 1918,
+        "death_date": "1918-10-30",
+        "death_place": "Clinch, Georgia, United States",
+        "father": null,
+        "mother": null,
+        "spouses": [
+            "thomas-levi-herrin-1854"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-1892",
+        "first_name": "William",
+        "middle_name": "Levi",
+        "last_name": "Herrin",
+        "profile_photo": "william_levi_herrin.jpg",
+        "birth_year": 1892,
+        "birth_date": "1892-05-04",
+        "birth_place": "Homerville, Clinch, Georgia, United States",
+        "death_year": 1975,
+        "death_date": "1975-03-12",
+        "death_place": "Taylor, Florida, United States",
+        "father": "thomas-levi-herrin-1854",
+        "mother": "nancy-t-jewell-1854",
+        "spouses": [
+            "lauretta-palmer-1898"
+        ]
+    },
+    {
+        "id": "lauretta-palmer-1898",
+        "first_name": "Lauretta",
+        "middle_name": null,
+        "last_name": "Palmer",
+        "profile_photo": "laura_etta_palmer.jpg",
+        "birth_year": 1898,
+        "birth_date": "1898-06-25",
+        "birth_place": "Pearson, Atkinson, Georgia, United States",
+        "death_year": 1959,
+        "death_date": "1959-07-03",
+        "death_place": "Perry, Taylor, Florida, United States",
+        "father": "henry-hw-palmer",
+        "mother": "laura-williams-1855",
+        "spouses": [
+            "william-levi-herrin-1892"
+        ],
+        "biography": [
+            "Lauretta Palmer was born on June 25, 1898, in Pearson, Atkinson County, Georgia.",
+            "She was recorded as Lauretta Palmer in the 1900 census when she was a young child.  In later",
+            "records, her name appears as Laura, Laura E.,and Laura Etta Palmer"
+        ] 
+    },
+    {
+        "id": "henry-hw-palmer",
+        "first_name": "Henry",
+        "middle_name": null,
+        "nickname": "H.W.",
+        "last_name": "Palmer",
+        "birth_year": null,
+        "death_year": null,
+        "death_before": 1900,
+        "father": null,
+        "mother": null,
+        "spouses": [
+            "laura-williams-1855"
+        ]
+    },
+    {
+        "id": "laura-williams-1855",
+        "first_name": "Laura",
+        "middle_name": null,
+        "last_name": "Williams",
+        "profile_photo": "laura_williams.jpg", 
+        "birth_year": 1855,
+        "birth_date": "1855-04-29",
+        "birth_place": "Homerville, Clinch, Georgia, United States",
+        "death_year": 1944,
+        "death_date": "1944-04-29",
+        "death_place": "Atkinson County, Georgia, United States",
+        "father": "hezekiah-ponder-williams-1828",
+        "mother": "charlotte-herrin-1837",
+        "spouses": [
+            "henry-hw-palmer"
+        ],
+        "biography": [
+            "Laura Williams was born on April 29, 1855, in Homerville, Clinch County, Georgia.",
+            "She married Henry Palmer. She died on her 89th birthday on April 29, 1944, in Atkinson County, Georgia."
+        ] 
+    },
+    {
+        "id": "ollie-mae-herrin-1917",
+        "first_name": "Ollie",
+        "middle_name": "Mae",
+        "last_name": "Herrin",
+        "profile_photo": "ollie_mae_herrin.jpg",
+
+        "birth_year": 1917,
+        "birth_date": "1917-09-06",
+        "birth_place": "Homerville, Clinch, Georgia, United States",
+
+        "death_year": 1992,
+        "death_date": "1992-06-07",
+        "death_place": "Perry, Taylor, Florida, United States",
+
+        "father": "william-levi-herrin-1892",
+        "mother": "lauretta-palmer-1898",
+
+        "spouses": [
+            "dewey-singletary-1919"
+        ],
+        "biography": [
+            "Ollie Mae Herrin was born on September 6, 1917, in Homerville, Clinch County, Georgia.",
+            "She married Dewey Singletary and later lived in Florida.  She died on June 7, 1992, in Perry, Taylor County, Florida."
+        ] 
+    },
+    {
+        "id": "dewey-singletary-1919",
+        "first_name": "Dewey",
+        "middle_name": null,
+        "last_name": "Singletary",
+        "profile_photo": "dewey_singletary.jpg",
+        "birth_year": 1919,
+        "birth_date": "1919-08-23",
+        "birth_place": "Mayo, Lafayette, Florida, United States",
+        "death_year": 1973,
+        "death_date": "1973-11-19",
+        "death_place": "Perry, Taylor, Florida, United States",
+        "father": null,
+        "mother": null,
+        "spouses": [
+             "ollie-mae-herrin-1917"
+        ]
+    },
+    {
+        "id": "john-williams-sr-1799",
+        "first_name": "John",
+        "middle_name": null,
+        "suffix": "Sr.",
+        "last_name": "Williams",
+        "birth_year": 1799,
+        "death_year": 1881,
+        "father": null,
+        "mother": null,
+        "spouses": [
+             "nancy-smith-1799"
+        ]
+    },
+    {
+        "id": "nancy-smith-1799",
+        "first_name": "Nancy",
+        "middle_name": null,
+        "last_name": "Smith",
+        "birth_year": 1799,
+        "death_year": 1883,
+        "father": null,
+        "mother": null,
+        "spouses": [
+             "john-williams-sr-1799"
+        ]
+    },
+    {
+        "id": "hezekiah-ponder-williams-1828",
+        "first_name": "Hezekiah",
+        "middle_name": "Ponder",
+        "last_name": "Williams",
+        "birth_year": 1828,
+        "birth_place": "Georgia, United States",
+        "death_year": 1897,
+        "death_date": "1897-02-18",
+        "death_place": "Clinch, Georgia, United States",
+        "father": "john-williams-sr-1799",
+        "mother": "nancy-smith-1799",
+        "spouses": [
+            "charlotte-herrin-1837"
+        ] 
+    },
+    {
+        "id": "charlotte-herrin-1837",
+        "first_name": "Charlotte",
+        "middle_name": null,
+        "last_name": "Herrin",
+        "birth_year": 1837,
+        "birth_place": "Georgia, United States",
+        "death_year": 1876,
+        "father": "levi-herrin-1804",
+        "mother": "charity-sears-1812",
+        "spouses": [
+            "hezekiah-ponder-williams-1828"
+        ]
+    },
+    {
+        "id": "levi-herrin-1804",
+        "first_name": "Levi",
+        "middle_name": "Henry",
+        "last_name": "Herrin",
+        "profile_photo": "levi_henry_herrin.jpg",
+        "birth_year": 1804,
+        "birth_date": "1804-07-08",
+        "birth_place": "Clinch, Georgia, United States",
+        "death_year": 1890,
+        "death_date": "1890-09-29",
+        "death_place": "Millwood, Clinch, Georgia, United States",
+        "father": null,
+        "mother": null,
+        "spouses": ["charity-sears-1812"],
+        "military_service": [
+            {
+            "conflict": "American Civil War",
+            "side": "Confederate",
+            "unit": "50th Regiment, Georgia Infantry",
+            "company": "Company I",
+            "rank_in": "Private",
+            "rank_out": "Private"
+            }
+        ]
+    },
+    {
+        "id": "charity-sears-1812",
+        "first_name": "Charity",
+        "middle_name": null,
+        "last_name": "Sears",
+        "birth_year": 1812,
+        "birth_date": "1812-10-28",
+        "birth_place": "Georgia, United States",
+        "death_year": 1898,
+        "death_date": "1898-05-28",
+        "death_place": "Millwood, Clinch, Georgia, United States",
+        "father": null,
+        "mother": null,
+        "spouses": ["levi-herrin-1804"]
+    },
+    {
+        "id": "william-m-herrin-1831",
+        "first_name": "William",
+        "middle_name": "M.",
+        "last_name": "Herrin",
+        "birth_year": 1831,
+        "birth_place": "Georgia, United States",
+        "death_year": null,
+        "father": "levi-herrin-1804",
+        "mother": "charity-sears-1812",
+        "spouses": ["mary-hargraves-1838"]
+    },
+    {
+        "id": "mary-hargraves-1838",
+        "first_name": "Mary",
+        "middle_name": null,
+        "last_name": "Hargraves",
+        "birth_year": 1838,
+        "birth_place": null,
+        "death_year": null,
+        "father": null,
+        "mother": null,
+        "spouses": ["william-m-herrin-1831"]
+},
+{
+       "id": "james-talmage-herrin-1919",
+       "first_name": "James",
+        "middle_name": "Talmage",
+        "last_name": "Herrin",
+        "profile_photo": "james_talmage_herrin.jpg",
+        "suffix": "Sr.",
+        "birth_date": "1919-11-12",
+        "birth_year": 1919,
+        "birth_place": "Pearson, Atkinson, Georgia, United States",
+        "death_date": "1986-02-08",
+        "death_year": 1986,
+        "death_place": "Lake City, Columbia, Florida, United States",
+        "father": "william-levi-herrin-1892",
+        "mother": "lauretta-palmer-1898",
+        "spouses": [],
+        "biography": [
+             "James Talmage Herrin Sr. was born on November 12, 1919, in Pearson, Atkinson County, Georgia.",
+             "He was a son of William Levi Herrin and Laura Etta Palmer. He died on February 8, 1986, in Lake City, Columbia County, Florida."
+        ]
+},
+{
+    "id": "ida-mae-herrin-1922",
+    "first_name": "Ida",
+    "middle_name": "Mae",
+    "last_name": "Herrin",
+    "profile_photo": "ida_mae_herrin.jpg", 
+    "nickname": "Shorty",
+    "birth_date": "1922-01-02",
+    "birth_year": 1922,
+    "birth_place": "Homerville, Georgia, United States",
+    "death_date": "2003-07-14",
+    "death_year": 2003,
+    "death_place": "Fanning Springs, Gilchrist, Florida, United States",
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "Ida Mae Herrin was born on January 2, 1922, in Homerville, Georgia.",
+        "Known as \"Shorty,\" she was a daughter of William Levi Herrin and Laura Etta Palmer. She died on July 14, 2003, in Fanning Springs, Gilchrist County, Florida."
+    ]
+},
+{
+    "id": "gladys-lucille-herrin-1924",
+    "first_name": "Gladys",
+    "middle_name": "Lucille",
+    "last_name": "Herrin",
+    "profile_photo": "gladys_lucille_herrin.jpg",
+    "birth_date": "1924-05-25",
+    "birth_year": 1924,
+    "birth_place": "Pearson, Atkinson, Georgia, United States",
+    "death_date": "1954-09-27",
+    "death_year": 1954,
+    "death_place": "Foley, Taylor, Florida, United States",
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "Gladys Lucille Herrin was born on May 25, 1924, in Pearson, Atkinson County, Georgia.",
+        "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on September 27, 1954, in Foley, Taylor County, Florida."
+    ]
+},
+{
+    "id": "mary-lou-herrin-1927",
+    "first_name": "Mary",
+    "middle_name": "Lou",
+    "last_name": "Herrin",
+    "profile_photo": "mary_lou_herrin.jpg",
+    "birth_date": "1927-05-08",
+    "birth_year": 1927,
+    "birth_place": "Pearson, Atkinson, Georgia, United States",
+    "death_date": "1972-12-16",
+    "death_year": 1972,
+    "death_place": "Orlando, Orange, Florida, United States",
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "Mary Lou Herrin was born on May 8, 1927, in Pearson, Atkinson County, Georgia.",
+        "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on December 16, 1972, in Orlando, Orange County, Florida."
+    ]
+},
+{
+    "id": "dorothy-herrin-1929",
+    "first_name": "Dorothy",
+    "middle_name": null,
+    "last_name": "Herrin",
+    "profile_photo": "dorothy_herrin.jpg",
+    "birth_date": "1929-12-27",
+    "birth_year": 1929,
+    "birth_place": "Georgia, United States",
+    "death_date": "2021-06-06",
+    "death_year": 2021,
+    "death_place": "Florida, United States",
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "Dorothy Herrin was born on December 27, 1929, in Georgia.",
+        "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on June 6, 2021, in Florida."
+    ]
+},
+{
+    "id": "william-levi-herrin-1932",
+    "first_name": "William",
+    "middle_name": "Levi",
+    "last_name": "Herrin",
+    "profile_photo": "billy_herrin.jpg",
+    "nickname": "Billy",
+    "birth_date": "1932-05-10",
+    "birth_year": 1932,
+    "birth_place": "Pearson, Atkinson, Georgia, United States",
+    "death_date": "1988-07-19",
+    "death_year": 1988,
+    "death_place": "Salem, Marion, Oregon, United States",
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "William Levi Herrin was born on May 10, 1932, in Pearson, Atkinson County, Georgia.",
+        "Known as \"Billy,\" he was a son of William Levi Herrin and Laura Etta Palmer. He died on July 19, 1988, in Salem, Marion County, Oregon."
+    ]
+},
+{
+    "id": "evelyn-herrin-1934",
+    "first_name": "Evelyn",
+    "middle_name": null,
+    "last_name": "Herrin",
+    "profile_photo": "evelyn_herrin.jpg",
+    "birth_date": "1934-09-14",
+    "birth_year": 1934,
+    "birth_place": "Pearson, Atkinson, Georgia, United States",
+    "death_date": "2011-02-19",
+    "death_year": 2011,
+    "death_place": "Florida, United States",
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "Evelyn Herrin was born on September 14, 1934, in Pearson, Atkinson County, Georgia.",
+        "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on February 19, 2011, in Florida."
+    ]
+},
+{
+    "id": "shelby-jean-herrin-1939",
+    "first_name": "Shelby",
+    "middle_name": "Jean",
+    "last_name": "Herrin",
+    "profile_photo": "shelby_jean_herrin.jpg",
+    "birth_date": "1939-02-26",
+    "birth_year": 1939,
+    "birth_place": "Pearson, Atkinson, Georgia, United States",
+    "death_date": "1978-09-12",
+    "death_year": 1978,
+    "death_place": "Stockbridge, Henry, Georgia, United States",
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "Shelby Jean Herrin was born on February 26, 1939, in Pearson, Atkinson County, Georgia.",
+        "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on September 12, 1978, in Stockbridge, Henry County, Georgia."
+    ]
+},
+{
+    "id": "deloris-herrin-1942",
+    "first_name": "Deloris",
+    "middle_name": null,
+    "last_name": "Herrin",
+    "profile_photo": "deloris_herrin.jpg",
+    "birth_year": 1942,
+    "birth_place": "Lafayette County, Florida, United States",
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "william-levi-herrin-1892",
+    "mother": "lauretta-palmer-1898",
+    "spouses": [],
+    "biography": [
+        "Deloris Herrin was born in 1942 in Lafayette County, Florida. She is a daughter of William Levi Herrin and Laura Etta Palmer."
+    ]
+}
+]

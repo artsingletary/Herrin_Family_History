@@ -1,0 +1,134 @@
+[
+    {
+        "id": "ollie-mae-herrin-birth-certificate",
+        "type": "Birth Certificate",
+        "title": "Birth Certificate of Ollie Mae Herrin",
+        "people": [
+            "ollie-mae-herrin-1917",
+            "william-levi-herrin-1892",
+            "lauretta-palmer-1898"
+        ],
+        "date": "1917-09-06",
+        "description": "Birth certificate documenting the birth of Ollie Mae Herrin in Homerville, Clinch County, Georgia. The certificate identifies her parents as William Levi Herrin and Laura Etta Palmer.",
+        "supports": [
+            "Ollie Mae Herrin's birth date",
+            "Ollie Mae Herrin's birth place",
+            "William Levi Herrin as Ollie Mae Herrin's father",
+            "Laura Etta Palmer as Ollie Mae Herrin's mother"
+        ],
+        "documents": [
+            "ollie_mae_herrin_birth_certificate.jpg"
+        ]
+    },
+    {
+        "id": "ollie-mae-herrin-obituary",
+        "type": "Obituary",
+        "title": "Obituary of Ollie Mae Herrin",
+        "people": [
+            "ollie-mae-herrin-1917",
+            "dewey-singletary-1919"
+        ],
+        "date": "1992",
+        "description": "Obituary for Ollie Mae Herrin, including family and biographical information.",
+        "supports": [
+            "Ollie Mae Herrin's death",
+            "Family relationships",
+            "Biographical information"
+        ],
+        "documents": [
+             "ollie_mae_herrin_obituary.jpg"
+        ]
+    },
+    {
+        "id": "ollie-mae-herrin-death-certificate",
+        "type": "Death Certificate",
+        "title": "Death Certificate of Ollie Mae Herrin",
+        "people": [
+             "ollie-mae-herrin-1917"
+        ],
+        "date": "1992-06-07",
+        "location": "Perry, Taylor, Florida, United States",
+        "description": "Death certificate documenting the death of Ollie Mae Herrin in Perry, Taylor County, Florida.",
+        "supports": [
+            "Ollie Mae Herrin's death date",
+            "Ollie Mae Herrin's death place"
+        ],
+        "documents": [
+            "ollie_mae_herrin_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "levi-herrin-family-1850-census",
+        "type": "Census",
+        "title": "1850 United States Census — Levi Herrin Household",
+        "people": [
+            "levi-herrin-1804",
+            "charity-sears-1812",
+            "william-m-herrin-1831",
+            "charlotte-herrin-1837"
+        ],
+        "date": "1850",
+        "location": "Division 89, Ware, Georgia, United States",
+        "household": "Levi Herring Household",
+        "household_members": [
+            "Levi Herring, age 46",
+            "Charity Herring, age 37",
+            "William Herring, age 19",
+            "Hiram Herring, age 16",
+            "Martha Herring, age 15",
+            "Charlotte Herring, age 13",
+            "Richmond Herring, age 11",
+            "Matthew Herring, age 8",
+            "David Herring, age 6",
+            "Jackson Herring, age 4",
+            "Oliff Herring, age 3",
+            "Mildred Herring, age 0"
+        ],
+        "description": "1850 United States Census for Division 89, Ware County, Georgia, recording the household of Levi Herring.",
+        "supports": [
+            "Levi Herrin and Charity Sears as members of the same household",
+            "William Herrin as a child in the Levi and Charity Herring household",
+            "Charlotte Herrin as a child in the Levi and Charity Herring household",
+            "Georgia as the birthplace of William Herrin",
+            "Georgia as the birthplace of Charlotte Herrin"
+        ],
+        "documents": [
+            "1850_census_levi_herrin_page_1.jpg",
+            "1850_census_levi_herrin_page_2.jpg"
+        ]
+    },
+
+
+    {
+        "id": "levi-herrin-family-1860-census",
+        "type": "Census",
+        "title": "1860 United States Census — Levi Herrin Household",
+        "people": [
+            "levi-herrin-1804",
+            "charity-sears-1812"
+        ],
+        "date": "1860",
+        "location": "4th District 1030 Georgia Militia, Coffee, Georgia, United States",
+        "household": "Levi Herrin Household",
+        "household_members": [
+            "Levi Herrin, age 52",
+            "Charity Herrin, age 46",
+            "Richmond Herrin, age 21",
+            "David Herrin, age 15",
+            "Jackson Herrin, age 14",
+            "Ollif Herrin, age 12",
+            "Mildred Herrin, age 10",
+            "Mary Herrin, age 8",
+            "Charity Herrin, age 2"
+        ],
+        "description": "1860 United States Census for the 4th District, 1030 Georgia Militia District, Coffee County, Georgia, recording the household of Levi Herrin. The original event place is recorded as The 4 Dist 1030 G M, Coffee, Georgia, United States.",
+        "supports": [
+            "Levi Herrin residing in Coffee County, Georgia in 1860",
+            "Charity Herrin residing in the same household",
+            "Levi Herrin recorded as age 52 and born in Georgia"
+        ],
+        "documents": [
+            "1860_census_levi_herrin_page_1.jpg"
+        ]
+    }
+]

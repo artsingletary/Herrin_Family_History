@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Herrin Family History</title>
+</head>
+
+<link rel="stylesheet" href="static/css/style.css">
+
+
+<body>
+
+    <header>
+        <h1>Herrin Family History</h1>
+
+        <p>
+            Preserving our family's history for future generations
+        </p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="#">Family Tree</a>
+        <a href="#">Photos</a>
+        <a href="#">Stories</a>
+        <a href="#">Documents</a>
+        <a href="#">Reunions</a>
+    </nav>
+
+    <main>
+
+        <h2>Welcome</h2>
+
+        <p>
+            Welcome to the Herrin Family History website.
+            This site is dedicated to preserving our family's history,
+            photographs, stories, and memories for future generations.
+        </p>
+
+        <h2>Family Members</h2>
+
+        <ul class="family-list">
+
+            {% for person in people %}
+
+                <li>
+                    <a href="people/{{ person.id }}.html">
+                        {{ person.display_name }}
+                    </a>
+
+                    {% if person.years %}
+                        — {{ person.years }}
+                    {% endif %}
+                </li>
+
+            {% endfor %}
+
+        </ul>
+
+    </main>
+
+    <footer>
+        Herrin Family History
+    </footer>
+
+</body>
+
+</html>
