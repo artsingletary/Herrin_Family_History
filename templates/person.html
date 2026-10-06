@@ -167,7 +167,6 @@
             {% endif %}
 
         </section>
-
         <section class="person-section">
 
             <h2>Military Service</h2>
@@ -176,20 +175,33 @@
 
                 {% for service in person.military_service %}
 
-                    <p>
-                        <strong>Conflict:</strong>
-                        {{ service.conflict }}
-                    </p>
+                    {% if service.branch %}
+                        <p>
+                            <strong>Branch:</strong>
+                            {{ service.branch }}
+                        </p>
+                    {% endif %}
 
-                    <p>
-                        <strong>Side:</strong>
-                        {{ service.side }}
-                    </p>
+                    {% if service.conflict %}
+                         <p>
+                            <strong>Conflict:</strong>
+                            {{ service.conflict }}
+                        </p>
+                    {% endif %}
 
-                    <p>
-                        <strong>Unit:</strong>
-                        {{ service.unit }}
-                    </p>
+                    {% if service.side %}
+                        <p>
+                            <strong>Side:</strong>
+                            {{ service.side }}
+                        </p>
+                    {% endif %}
+
+                    {% if service.unit %}
+                        <p>
+                            <strong>Unit:</strong>
+                            {{ service.unit }}
+                        </p>
+                    {% endif %}
 
                     {% if service.company %}
                         <p>
@@ -205,12 +217,33 @@
                         </p>
                     {% endif %}
 
+                    {% if service.enlistment_date %}
+                        <p>
+                            <strong>Enlisted:</strong>
+                            {{ service.enlistment_date | format_date }}
+                        </p>
+                    {% endif %}
+
+                    {% if service.enlistment_place %}
+                        <p>
+                            <strong>Enlisted:</strong>
+                            {{ service.enlistment_place}}
+                        </p>
+                    {% endif %}
+
+                    {% if service.discharge_date %}
+                       <p>
+                            <strong>Discharged:</strong>
+                            {{ service.discharge_date | format_date }}
+                        </p>
+                    {% endif %}
+
                 {% endfor %}
 
             {% else %}
 
                 <p>
-                    No military service information has been added.
+                   No military service information has been added.
                 </p>
 
             {% endif %}
@@ -242,9 +275,38 @@
 
             <h2>Photos</h2>
 
-            <p>
-                Family photographs will be added here.
-            </p>
+            {% if photos %}
+
+                <div class="photo-gallery">
+
+                    {% for photo in photos %}
+
+                        <figure class="gallery-photo">
+
+                        <img
+                            src="../photos/{{ photo.file }}"
+                            alt="{{ photo.caption }}"
+                        >
+
+                        {% if photo.caption %}
+                            <figcaption>
+                                {{ photo.caption }}
+                            </figcaption>
+                         {% endif %}
+
+                        </figure>
+
+                    {% endfor %}
+
+                </div>
+
+            {% else %}
+
+                 <p>No additional photographs have been added.</p>
+
+            {% endif %}
+
+        </section>
 
         </section>
 

@@ -293,9 +293,9 @@
         "spouses": ["william-m-herrin-1831"]
 },
 {
-       "id": "james-talmage-herrin-1919",
-       "first_name": "James",
-        "middle_name": "Talmage",
+        "id": "james-talmage-herrin-1919",
+        "first_name": "James",
+        "middle_name": "Talmadge",
         "last_name": "Herrin",
         "suffix": "Sr.",
         "profile_photo": "james_talmage_herrin.jpg",
@@ -307,9 +307,20 @@
         "death_place": "Lake City, Columbia, Florida, United States",
         "father": "william-levi-herrin-1892",
         "mother": "lauretta-palmer-1898",
-        "spouses": [],
+        "spouses": [
+            "myrtice-irene-hurst"
+        ],
+        "military_service": [
+        {
+            "branch": "United States Army",
+            "conflict":"World War II",
+            "rank_in": "Private",
+            "enlistment_date": "1941-06-05",
+            "enlistment_place": "Camp Blanding, Florida"
+        }
+        ],
         "biography": [
-             "James Talmage Herrin Sr. was born on November 12, 1919, in Pearson, Atkinson County, Georgia.",
+             "James Talmadge Herrin Sr. was born on November 12, 1919, in Pearson, Atkinson County, Georgia.",
              "He was a son of William Levi Herrin and Laura Etta Palmer. He died on February 8, 1986, in Lake City, Columbia County, Florida."
         ]
 },
@@ -498,6 +509,7 @@
     "first_name": "Arthur",
     "middle_name": null,
     "last_name": "Singletary",
+    "profile_photo": "arthur_singletary_sr.jpg",
     "suffix": "Sr.",
     "birth_date": "1941-02-24",
     "birth_year": 1941,
@@ -511,6 +523,7 @@
     "military_service": [
         {
             "branch": "United States Marine Corps",
+            "conflict":"Vietnam War",
             "enlistment_date": "1960-09-09",
             "discharge_date": "1986-04-30"
         }
@@ -531,6 +544,24 @@
     "father": "dewey-singletary-1919",
     "mother": "ollie-mae-herrin-1917",
     "spouses": [],
+    "biography": []
+},
+{
+    "id": "myrtice-irene-hurst",
+    "first_name": "Myrtice",
+    "middle_name": "Irene",
+    "last_name": "Hurst",
+    "birth_date": null,
+    "birth_year": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "james-talmage-herrin-1919"
+    ],
     "biography": []
 }
 ]

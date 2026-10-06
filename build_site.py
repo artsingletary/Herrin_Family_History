@@ -11,6 +11,8 @@ from jinja2 import Environment, FileSystemLoader
 BASE_DIR = Path(__file__).resolve().parent
 DATA_FILE = BASE_DIR / "data" / "people.json"
 SOURCES_FILE = BASE_DIR / "data" / "sources.json"
+PHOTOS_FILE = BASE_DIR/ "data"/ "photos.json"
+
 TEMPLATE_DIR = BASE_DIR / "templates"
 # Create output folders
 OUTPUT_DIR = BASE_DIR / "docs"
@@ -50,6 +52,8 @@ with open(DATA_FILE, "r", encoding="utf-8") as file:
     people = json.load(file)
 with open(SOURCES_FILE, "r", encoding="utf-8") as file:
     sources = json.load(file)
+with open(PHOTOS_FILE, encoding="utf-8") as file:
+    photos = json.load(file)
 
 # --------------------------------------------------
 # Helper functions
@@ -151,6 +155,16 @@ def get_sources(person_id):
 
     return person_sources
 
+def get_photos(person_id):
+    person_photos = []
+
+    for photo in photos:
+        if person_id in photo.get("people", []):
+            person_photos.append(photo)
+
+    return person_photos
+
+
 def format_date(date_string):
 
     if not date_string:
@@ -200,6 +214,8 @@ for person in people:
 environment = Environment(
     loader=FileSystemLoader(TEMPLATE_DIR)
 )
+
+environment.filters["format_date"] = format_date
 
 index_template = environment.get_template("index.html")
 person_template = environment.get_template("person.html")
@@ -265,7 +281,7 @@ for person in people:
     children = get_children(person["id"])
     person_sources = get_sources(person["id"])
     siblings = get_siblings(person)
-
+    person_photos = get_photos(person["id"])
 
     # Send all of this information to person.html
     html = person_template.render(
@@ -276,6 +292,7 @@ for person in people:
         children=children,
         siblings=siblings,
         sources=person_sources,
+        photos=person_photos,
     )
 
 

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "james-myrtice-photo",
+        "file": "james_talmadge_and_myrtice.jpg",
+        "caption": "James Talmadge Herrin Sr. and Myrtice Irene Hurst.",
+        "people": [
+            "james-talmage-herrin-1919",
+            "myrtice-irene-hurst"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-photo-01",
+        "file": "william_levi_herrin_01.jpg",
+        "caption": "William Levi Herrin.",
+        "people": [
+            "william-levi-herrin-1892"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-photo-02",
+        "file": "william_levi_herrin_02.jpg",
+        "caption": "William Levi Herrin.",
+        "people": [
+            "william-levi-herrin-1892"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-and-dewey",
+        "file": "william_levi_herrin_and_dewey.jpg",
+        "caption": "William Levi Herrin and Dewey Singletary.",
+        "people": [
+            "william-levi-herrin-1892",
+            "dewey-singletary-1919"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-and-billy",
+        "file": "william_levi_herrin_and_billy.jpg",
+        "caption": "William Levi Herrin and Billy Herrin.",
+        "people": [
+            "william-levi-herrin-1892",
+            "william-levi-herrin-1932"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-and-brother",
+        "file": "william_levi_herrin_and_brother.jpg",
+        "caption": "William Levi Herrin and his brother.",
+        "people": [
+            "william-levi-herrin-1892"
+        ]
+    }
+]

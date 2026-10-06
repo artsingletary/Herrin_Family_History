@@ -473,5 +473,53 @@
         "documents": [
             "james_loyd_singletary_death_certificate.jpg"
         ]
-    }
+    },
+    {
+    "id": "james-talmage-herrin-draft-registration",
+    "type": "Draft Registration Card",
+    "title": "Selective Service Registration Card of James Talmage Herrin",
+    "people": [
+        "james-talmage-herrin-1919"
+    ],
+    "date": "1940",
+    "location": "Mayo, Lafayette County, Florida, United States",
+    "description": "Selective Service registration card for James Talmadge Herrin. The card records his residence as Mayo, Lafayette County, Florida, his birth on November 12, 1919, in Pearson, Georgia, and his citizenship as United States. James identified his father, W. L. Herrin of Mayo, as the person who would always know his address.",
+    "supports": [
+        "James Talmage Herrin's birth date of November 12, 1919",
+        "James Talmage Herrin's birthplace as Pearson, Georgia",
+        "James Talmage Herrin's residence in Mayo, Lafayette County, Florida",
+        "William Levi Herrin as James Talmage Herrin's father"
+    ],
+    "documents": [
+        "james_talmage_herrin_draft_registration_card.jpg"
+    ]
+},
+{
+    "id": "james-herrin-family-1950-census",
+    "type": "Census",
+    "title": "1950 United States Census - James Talmadge Herrin Household",
+    "people": [
+        "james-talmage-herrin-1919",
+        "myrtice-irene-hurst"
+    ],
+    "date": "1950",
+    "location": "Lake Butler, Union County, Florida, United States",
+    "description": "The 1950 United States Census records James Talmadge Herrin and his wife, Myrtice Irene Herrin, living in Lake Butler, Union County, Florida, with their children James Talmadge Jr., William Melvin, and Diane. James was 30 and born in Georgia; Myrtice was 28 and born in Florida.",
+    "household_members": [
+        "James Talmadge Herrin - Head - age 30 - born Georgia",
+        "Myrtice Irene Herrin - Wife - age 28 - born Florida",
+        "James Talmadge Herrin Jr. - Son - age 2 - born Florida",
+        "William Melvin Herrin - Son - age recorded as 1 - born Florida",
+        "Diane Herrin - Daughter - age 1 - born Florida"
+    ],
+    "supports": [
+        "Residence of James Talmadge Herrin and family in Lake Butler, Union County, Florida, in 1950",
+        "Marriage of James Talmadge Herrin and Myrtice Irene Herrin",
+        "Presence of children James Talmadge Jr., William Melvin, and Diane in the household"
+    ],
+    "documents": [
+        "1950_census_james_herrin_family.jpg"
+    ]
+}
+
 ]
