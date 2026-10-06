@@ -50,6 +50,14 @@
         "mother": "nancy-t-jewell-1854",
         "spouses": [
             "lauretta-palmer-1898"
+        ],
+        "biography": [
+            "William Levi Herrin was born on May 4, 1892, in Clinch County, Georgia, the son of Thomas Levi Herrin and Nancy T. Jewell. He grew up in south Georgia and as a young man married Laura Etta Palmer of Pearson, Georgia. Together they would raise a large family of ten children.",
+            "By 1920, William and Laura Etta were living in Clinch County with their first two children, Ollie Clayton and James Talmage. William was working as a farmer on a general farm. During the following decade the family moved to the Pearson area of Atkinson County, Georgia. By 1930, William and Laura owned their home and were raising six children: Ollie, James, Ida Mae, Gladys, Mary Lou, and Dorothy. William continued to support his growing family through farming.",
+            "The family continued to grow during the 1930s with the births of William \"Billy,\" Evelyn, and Shelby Jean. By 1940, William and Laura Etta had moved their family from Georgia to Lafayette County, Florida. Their tenth and youngest child, Deloris, was born in Florida in 1942. The 1950 census found William and Laura Etta still in Lafayette County, with five of their younger children remaining at home. William, then 58, was still working as a farmer.",
+            "Farming was a major part of William's working life, but in his later years he also worked in the logging and sawmill business. In 1954, he moved from Mayo to Perry, Florida. Laura Etta died in 1959, leaving William a widower after more than four decades of marriage.",
+            "William remained in the Perry area for the rest of his life and was a member of the Church of Jesus Christ of Latter-day Saints. He died at Doctors Memorial Hospital in Perry on March 12, 1975, at the age of 82. He was buried at Woodlawn Cemetery in Perry, where Laura Etta had been buried sixteen years earlier.",
+            "By the time of William's death, the family he and Laura Etta had begun many decades earlier had grown considerably. His obituary reported eight surviving children, 28 grandchildren, and 28 great-grandchildren."
         ]
     },
     {
@@ -70,9 +78,11 @@
             "william-levi-herrin-1892"
         ],
         "biography": [
-            "Lauretta Palmer was born on June 25, 1898, in Pearson, Atkinson County, Georgia.",
-            "She was recorded as Lauretta Palmer in the 1900 census when she was a young child.  In later",
-            "records, her name appears as Laura, Laura E.,and Laura Etta Palmer"
+                "Laura Etta Palmer was born on June 25, 1898, in Pearson, Georgia, the daughter of Henry Palmer and Laura Williams. She grew up in south Georgia and as a young woman married William Levi Herrin. Together they would raise a large family of ten children.",
+                "By 1920, Laura Etta and William were living in Clinch County with their first two children, Ollie Clayton and James Talmage. During the following decade, the family moved to the Pearson area of Atkinson County. By 1930, Laura Etta was raising six children at home: Ollie, James, Ida Mae, Gladys, Mary Lou, and Dorothy.",
+                "The family continued to grow with the births of William \"Billy,\" Evelyn, and Shelby Jean during the 1930s. By 1940, Laura Etta and William had moved their family from Georgia to Lafayette County, Florida. Their youngest child, Deloris, was born in Florida in 1942. By 1950, the older children had begun establishing homes and families of their own, while Dorothy, Billy, Evelyn, Shelby Jean, and Deloris remained with their parents.",
+                "Laura Etta spent her later years in the Mayo and Perry areas of Florida. On July 3, 1959, she died at the Perry home of her daughter Ollie Mae and son-in-law Dewey Singletary. She was 61 years old. She was buried at Woodlawn Cemetery in Perry.",
+                "Laura Etta's obituary provides a glimpse of the family she left behind. In addition to her husband and children, she had 21 grandchildren. Her surviving brothers included Elias Palmer of Pearson, Georgia, and Frank Palmer of Punta Gorda, Florida."
         ] 
     },
     {
@@ -121,7 +131,7 @@
 
         "birth_year": 1917,
         "birth_date": "1917-09-06",
-        "birth_place": "Homerville, Clinch, Georgia, United States",
+        "birth_place": "Homerville, Clinch County, Georgia, United States",
 
         "death_year": 1992,
         "death_date": "1992-06-07",
@@ -134,9 +144,13 @@
             "dewey-singletary-1919"
         ],
         "biography": [
-            "Ollie Mae Herrin was born on September 6, 1917, in Homerville, Clinch County, Georgia.",
-            "She married Dewey Singletary and later lived in Florida.  She died on June 7, 1992, in Perry, Taylor County, Florida."
-        ] 
+            "Ollie Mae Herrin was born on September 6, 1917, in Homerville, Clinch County, Georgia, the oldest child of William Levi Herrin and Laura Etta Palmer. As a young child she was recorded as Ollie Clayton, a name she did not like and later replaced in everyday use with Ollie Mae. By 1940, contemporary records were consistently identifying her as Ollie Mae.",
+            "Ollie spent her childhood in south Georgia as her parents' family steadily grew. The 1920 census found her with her parents and younger brother James Talmage in Clinch County. By 1930, the family was living in Pearson, Atkinson County, and included six children. During the 1930s the Herrin family moved from Georgia to Lafayette County, Florida, where the 1940 census recorded Ollie Mae, then 22, still living with her parents and younger siblings.",
+            "On June 21, 1940, Ollie Mae married Dewey Singletary in Lafayette County, Florida. They established their home in the Mayo area. The 1945 Florida State Census records Ollie and Dewey with their four-year-old son Arthur. Dewey was working as a laborer, while Ollie was recorded as a housewife. By 1950, their family had grown with the birth of another son, Emory, and Dewey was working as an automobile mechanic.",
+            "In 1955, Ollie Mae and Dewey experienced the loss of their son James Loyd, who was stillborn at Tallahassee Memorial Hospital. Surviving records disagree slightly on the exact date, with evidence indicating September 24 or September 25.",
+            "Ollie Mae and Dewey eventually made their home in the Perry area. Dewey died in 1973, leaving Ollie a widow. Ollie remained in Perry for the rest of her life.",
+            "Ollie Mae Singletary died at Doctors Memorial Hospital in Perry on June 7, 1992, at the age of 74. She was buried at Woodlawn Cemetery in Perry, where other members of the Herrin and Singletary families are also buried."
+        ]
     },
     {
         "id": "dewey-singletary-1919",
@@ -218,7 +232,6 @@
         "first_name": "Levi",
         "middle_name": "Henry",
         "last_name": "Herrin",
-        "suffix": "Jr.",
         "profile_photo": "levi_henry_herrin.jpg",
         "birth_year": 1804,
         "birth_date": "1804-07-08",
@@ -460,5 +473,64 @@
     "biography": [
         "Deloris Herrin was born in 1942 in Lafayette County, Florida. She is a daughter of William Levi Herrin and Laura Etta Palmer."
     ]
+},
+{
+    "id": "james-loyd-singletary-1955",
+    "first_name": "James",
+    "middle_name": "Loyd",
+    "last_name": "Singletary",
+    "birth_date": null,
+    "birth_year": 1955,
+    "birth_place": "Tallahassee, Leon County, Florida, United States",
+    "death_date": null,
+    "death_year": 1955,
+    "death_place": "Tallahassee, Leon County, Florida, United States",
+    "father": "dewey-singletary-1919",
+    "mother": "ollie-mae-herrin-1917",
+    "spouses": [],
+    "biography": [
+        "James Loyd Singletary was the son of Dewey Singletary and Ollie Mae Herrin. He was stillborn in Tallahassee, Florida, in September 1955. Surviving records disagree slightly on the exact date, with evidence indicating September 24 or September 25.",
+        "James Loyd was buried at Woodlawn Cemetery in Perry, Florida."
+    ]
+},
+{
+    "id": "arthur-singletary-1941",
+    "first_name": "Arthur",
+    "middle_name": null,
+    "last_name": "Singletary",
+    "suffix": "Sr.",
+    "birth_date": "1941-02-24",
+    "birth_year": 1941,
+    "birth_place": "Alton, Lafayette County, Florida, United States",
+    "death_date": "2011-01-07",
+    "death_year": 2011,
+    "death_place": "Gainesville, Alachua County, Florida, United States",
+    "father": "dewey-singletary-1919",
+    "mother": "ollie-mae-herrin-1917",
+    "spouses": [],
+    "military_service": [
+        {
+            "branch": "United States Marine Corps",
+            "enlistment_date": "1960-09-09",
+            "discharge_date": "1986-04-30"
+        }
+    ],
+    "biography": []
+},
+{
+    "id": "emory-dewey-singletary-1945",
+    "first_name": "Emory",
+    "middle_name": "Dewey",
+    "last_name": "Singletary",
+    "birth_date": null,
+    "birth_year": 1945,
+    "birth_place": "Lafayette County, Florida, United States",
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "dewey-singletary-1919",
+    "mother": "ollie-mae-herrin-1917",
+    "spouses": [],
+    "biography": []
 }
 ]

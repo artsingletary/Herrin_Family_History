@@ -4,9 +4,7 @@
         "type": "Birth Certificate",
         "title": "Birth Certificate of Ollie Mae Herrin",
         "people": [
-            "ollie-mae-herrin-1917",
-            "william-levi-herrin-1892",
-            "lauretta-palmer-1898"
+            "ollie-mae-herrin-1917"
         ],
         "date": "1917-09-06",
         "description": "Birth certificate documenting the birth of Ollie Mae Herrin in Homerville, Clinch County, Georgia. The certificate identifies her parents as William Levi Herrin and Laura Etta Palmer.",
@@ -25,8 +23,7 @@
         "type": "Obituary",
         "title": "Obituary of Ollie Mae Herrin",
         "people": [
-            "ollie-mae-herrin-1917",
-            "dewey-singletary-1919"
+            "ollie-mae-herrin-1917"
         ],
         "date": "1992",
         "description": "Obituary for Ollie Mae Herrin, including family and biographical information.",
@@ -129,6 +126,352 @@
         ],
         "documents": [
             "1860_census_levi_herrin_page_1.jpg"
+        ]
+    },
+        {
+        "id": "william-levi-herrin-family-1920-census",
+        "type": "Census",
+        "title": "1920 United States Census — William Levi Herrin Household",
+        "people": [
+            "william-levi-herrin-1892",
+            "lauretta-palmer-1898",
+            "ollie-mae-herrin-1917",
+            "james-talmage-herrin-1919"
+        ],
+        "date": "1920",
+        "location": "District 1061, Clinch, Georgia, United States",
+        "household": "William L. Herren Household",
+        "household_members": [
+            "William L. Herren, head, age 27",
+            "Laura E. Herren, wife, age 22",
+            "Ollie Clayton Herren, daughter, age 2 3/12",
+            "James T. Herren, son, age 2/12"
+        ],
+        "description": "1920 United States Census recording William L. Herren and his family in Clinch County, Georgia. William was recorded as a farmer working a general farm. The census records his daughter Ollie under her original name, Ollie Clayton.",
+        "supports": [
+            "William Levi Herrin and Laura Etta Palmer residing in Clinch County, Georgia in 1920",
+            "William Levi Herrin working as a farmer",
+            "Ollie Clayton Herrin residing with her parents",
+            "James Talmage Herrin residing with his parents",
+            "Ollie Herrin recorded under her original name, Ollie Clayton"
+        ],
+        "documents": [
+            "1920_census_william_levi_herrin.jpg"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-family-1930-census",
+        "type": "Census",
+        "title": "1930 United States Census — William Levi Herrin Household",
+        "people": [
+            "william-levi-herrin-1892",
+            "lauretta-palmer-1898",
+            "ollie-mae-herrin-1917",
+            "james-talmage-herrin-1919",
+            "ida-mae-herrin-1922",
+            "gladys-lucille-herrin-1924",
+            "mary-lou-herrin-1927",
+            "dorothy-herrin-1929"
+        ],
+        "date": "1930",
+        "location": "Pearson, Atkinson, Georgia, United States",
+        "household": "William L. Herrin Household",
+        "household_members": [
+            "William L. Herrin, head, age 38",
+            "Laura Herrin, wife, age 32",
+            "Ollie Herrin, daughter, age 12",
+            "James Herrin, son, age 10",
+            "Ida Mae Herrin, daughter, age 8",
+            "Gladys Herrin, daughter, age 5",
+            "Mary L. Herrin, daughter, age 3",
+            "Dorothy Herrin, daughter, age 2"
+        ],
+        "description": "1930 United States Census recording the household of William L. Herrin in Pearson, Atkinson County, Georgia. William was recorded as a farmer on a general farm, and the family owned its home.",
+        "supports": [
+            "William Levi Herrin and Laura Etta Palmer residing in Pearson, Georgia in 1930",
+            "William Levi Herrin working as a farmer",
+            "The Herrin family owning its home",
+            "Ollie, James, Ida Mae, Gladys, Mary Lou, and Dorothy residing with their parents"
+        ],
+        "documents": [
+            "1930_census_william_levi_herrin.jpg"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-family-1940-census",
+        "type": "Census",
+        "title": "1940 United States Census — William Levi Herrin Household",
+        "people": [
+            "william-levi-herrin-1892",
+            "lauretta-palmer-1898",
+            "ollie-mae-herrin-1917",
+            "james-talmage-herrin-1919",
+            "ida-mae-herrin-1922",
+            "gladys-lucille-herrin-1924",
+            "mary-lou-herrin-1927",
+            "dorothy-herrin-1929",
+            "william-levi-herrin-1932",
+            "evelyn-herrin-1934",
+            "shelby-jean-herrin-1939"
+        ],
+        "date": "1940",
+        "location": "Lafayette, Florida, United States",
+        "household": "William L. Harring Household",
+        "household_members": [
+            "William L. Harring, head, age 47",
+            "Laura E. Harring, wife, age 40",
+            "Ollie Mae Harring, daughter, age 22",
+            "James Harring, son, age 20",
+            "Ida Mae Harring, daughter, age 18",
+            "Gladys Harring, daughter, age 15",
+            "Mary Lou Harring, daughter, age 13",
+            "Dorothy Harring, daughter, age 10",
+            "Billie Harring, son, age 8",
+            "Evelyn Harring, daughter, age 5",
+            "Shelby Dean Harring, daughter, age 1"
+        ],
+        "description": "1940 United States Census recording William and Laura Etta Herrin and their family in Lafayette County, Florida. The family surname was recorded as Harring. The census reports their earlier residence in Georgia near the Pearson and Atkinson County area.",
+        "supports": [
+            "William Levi Herrin and Laura Etta Palmer residing in Lafayette County, Florida in 1940",
+            "The Herrin family's move from Georgia to Florida",
+            "Nine children residing with William and Laura Etta",
+            "Ollie recorded as Ollie Mae by 1940",
+            "William Levi Herrin Jr. recorded as Billie",
+            "Shelby Jean Herrin recorded as Shelby Dean"
+        ],
+        "documents": [
+            "1940_census_william_levi_herrin_page_1.jpg",
+            "1940_census_william_levi_herrin_page_2.jpg"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-family-1950-census",
+        "type": "Census",
+        "title": "1950 United States Census — William Levi Herrin Household",
+        "people": [
+            "william-levi-herrin-1892",
+            "lauretta-palmer-1898",
+            "dorothy-herrin-1929",
+            "william-levi-herrin-1932",
+            "evelyn-herrin-1934",
+            "shelby-jean-herrin-1939",
+            "deloris-herrin-1942"
+        ],
+        "date": "1950",
+        "location": "Lafayette, Florida, United States",
+        "household": "William L. Herrin Household",
+        "household_members": [
+            "William L. Herrin, head, age 58",
+            "Laura E. Herrin, wife, age 55",
+            "Dorothy Herrin, daughter, age 20",
+            "Billy Herrin, son, age 17",
+            "Evelyn Herrin, daughter, age 16",
+            "Shelby J. Herrin, daughter, age 11",
+            "Deloris Herrin, daughter, age 7"
+        ],
+        "description": "1950 United States Census recording William and Laura Etta Herrin and five of their children in Lafayette County, Florida. William was still working as a farmer.",
+        "supports": [
+            "William Levi Herrin and Laura Etta Palmer residing in Lafayette County, Florida in 1950",
+            "William Levi Herrin working as a farmer",
+            "Dorothy, Billy, Evelyn, Shelby Jean, and Deloris residing with their parents",
+            "Deloris Herrin recorded as born in Florida"
+        ],
+        "documents": [
+            "1950_census_william_levi_herrin.jpg"
+        ]
+    },
+        {
+        "id": "laura-etta-herrin-death-certificate",
+        "type": "Death Certificate",
+        "title": "Death Certificate of Laura Etta Herrin",
+        "people": [
+            "lauretta-palmer-1898"
+        ],
+        "date": "1959-07-03",
+        "location": "Perry, Taylor, Florida, United States",
+        "description": "Florida death certificate for Laura Etta Herrin. The certificate records her birth on June 25, 1898, in Pearson, Georgia; her parents as Henry Palmer and Laura Williams; and her usual residence as Mayo, Lafayette County, Florida. Laura Etta died in Perry on July 3, 1959. Mrs. Dewey Singletary, her daughter Ollie Mae, was the informant.",
+        "supports": [
+            "Laura Etta Herrin's birth date and birth place",
+            "Laura Williams as Laura Etta Herrin's mother",
+            "Henry Palmer as Laura Etta Herrin's father",
+            "Laura Etta Herrin's death date and death place",
+            "Laura Etta Herrin's residence in Mayo, Florida",
+            "Ollie Mae Singletary as the informant",
+            "Laura Etta Herrin's burial at Woodlawn Cemetery in Perry"
+        ],
+        "documents": [
+            "laura_etta_herrin_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "laura-etta-herrin-obituary-1959",
+        "type": "Obituary",
+        "title": "Obituary of Laura Etta Palmer Herrin",
+        "people": [
+            "lauretta-palmer-1898"
+        ],
+        "date": "1959-07-05",
+        "location": "Perry, Taylor, Florida, United States",
+        "description": "Obituary for Laura Etta Palmer Herrin published in the Tallahassee Democrat on July 5, 1959. The obituary states that she died at the Perry home of her daughter, Mrs. Dewey Singletary, and identifies her surviving family, including her husband, children, 21 grandchildren, and brothers Elias Palmer and Frank Palmer.",
+        "supports": [
+            "Laura Etta Herrin's death in 1959",
+            "Laura Etta Herrin dying at the home of her daughter Ollie Mae Singletary",
+            "William Levi Herrin as Laura Etta Herrin's husband",
+            "Family relationships",
+            "Laura Etta Herrin having 21 grandchildren at the time of her death",
+            "Elias Palmer and Frank Palmer as Laura Etta Herrin's brothers"
+        ],
+        "documents": [
+            "laura_etta_herrin_obituary_1959.jpg"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-death-certificate",
+        "type": "Death Certificate",
+        "title": "Death Certificate of William Levi Herrin",
+        "people": [
+            "william-levi-herrin-1892"
+        ],
+        "date": "1975-03-12",
+        "location": "Perry, Taylor, Florida, United States",
+        "description": "Florida death certificate for William Levi Herrin, recorded on the certificate as William Levie Herrin. It documents his birth on May 4, 1892, in Georgia and his death on March 12, 1975, at Doctors Memorial Hospital in Perry. His usual occupation was recorded as logging in the sawmill industry. His daughter Deloris Morgan was the informant. The certificate identifies his father as Thomas L. Herrin and records his mother as Nancy Smith, which differs from other family information identifying his mother as Nancy T. Jewell.",
+        "supports": [
+            "William Levi Herrin's birth date",
+            "William Levi Herrin's death date and death place",
+            "William Levi Herrin's later work in logging and the sawmill industry",
+            "Thomas L. Herrin as William Levi Herrin's father",
+            "Deloris Morgan as the informant",
+            "William Levi Herrin's burial at Woodlawn Cemetery in Perry",
+            "A conflicting record of William Levi Herrin's mother's name"
+        ],
+        "documents": [
+            "william_levi_herrin_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "william-levi-herrin-obituary-1975",
+        "type": "Obituary",
+        "title": "Obituary of William Levi Herrin",
+        "people": [
+            "william-levi-herrin-1892"
+        ],
+        "date": "1975-03-13",
+        "location": "Perry, Taylor, Florida, United States",
+        "description": "Obituary for William Levi Herrin published in the Tallahassee Democrat on March 13, 1975. The obituary describes him as a native of Clinch County, Georgia, who moved to Perry from Mayo in 1954 and worked in the logging business. It identifies his surviving children and reports 28 grandchildren and 28 great-grandchildren.",
+        "supports": [
+            "William Levi Herrin's Clinch County, Georgia origins",
+            "William Levi Herrin's move from Mayo to Perry in 1954",
+            "William Levi Herrin's work in the logging business",
+            "William Levi Herrin's membership in the Church of Jesus Christ of Latter-day Saints",
+            "William Levi Herrin's surviving children",
+            "William Levi Herrin having 28 grandchildren and 28 great-grandchildren at the time of his death"
+        ],
+        "documents": [
+            "william_levi_herrin_obituary_1975.jpg"
+        ]
+    },
+    {
+        "id": "dewey-singletary-ollie-mae-herrin-marriage-1940",
+        "type": "Marriage Record",
+        "title": "Marriage of Dewey Singletary and Ollie Mae Herrin",
+        "people": [
+            "dewey-singletary-1919",
+            "ollie-mae-herrin-1917"
+        ],
+        "date": "1940-06-21",
+        "location": "Mayo, Lafayette County, Florida, United States",
+        "description": "Marriage application, license, and certificate documenting the marriage of Dewey Singletary and Ollie Mae Herrin in Mayo, Lafayette County, Florida, on June 21, 1940. The records spell Ollie's maiden name as Herring. The application records both as age 21 and previously unmarried. Dewey was living in Mayo, was born in Lafayette County, and was working as a laborer. Ollie was living in Mayo and reported her birthplace as Homerville, Georgia.",
+        "supports": [
+            "Marriage of Dewey Singletary and Ollie Mae Herrin",
+            "Marriage date of June 21, 1940",
+            "Marriage place of Mayo, Lafayette County, Florida",
+            "Dewey Singletary's residence and occupation",
+            "Ollie Mae Herrin's residence",
+            "Ollie Mae Herrin's reported birthplace of Homerville, Georgia"
+        ],
+        "documents": [
+            "Marriage Application - Dewey Singletary - Ollie Mae Herrin.jpg",
+            "Marriage License - Dewey Singletary - Ollie Mae Herrin.jpg"
+        ]
+    },
+    {
+        "id": "dewey-ollie-singletary-family-1945-florida-census",
+        "type": "State Census",
+        "title": "1945 Florida State Census — Dewey and Ollie Singletary Family",
+        "people": [
+            "dewey-singletary-1919",
+            "ollie-mae-herrin-1917",
+            "arthur-singletary-1941"
+        ],
+        "date": "1945",
+        "location": "Airline, Lafayette County, Florida, United States",
+        "household_members": [
+            "Dewey Singletary — age 25, born Florida, laborer",
+            "Ollie Singletary — age 26, born Georgia, housewife",
+            "Arthur Singletary — age 4, born Florida"
+        ],
+        "description": "The 1945 Florida State Census records Dewey and Ollie Singletary living in Precinct No. 3, Airline, Lafayette County, Florida, with their four-year-old son Arthur. Dewey was working as a laborer and Ollie was recorded as a housewife. Other members of Dewey Singletary's family, including his parents and siblings, were also living in the Airline community and appear on the same census page.",
+        "supports": [
+            "Residence of Dewey and Ollie Singletary in Airline, Lafayette County, Florida in 1945",
+            "Arthur Singletary as a member of the household",
+            "Dewey Singletary's occupation as a laborer",
+            "Ollie Singletary's birthplace as Georgia",
+            "Arthur Singletary's birthplace as Florida"
+        ],
+        "documents": [
+            "1945_florida_census_dewey_ollie_singletary.jpg"
+        ]
+    },
+    {
+        "id": "dewey-ollie-singletary-family-1950-census",
+        "type": "United States Census",
+        "title": "1950 United States Census — Dewey and Ollie Singletary Family",
+        "people": [
+            "dewey-singletary-1919",
+            "ollie-mae-herrin-1917",
+            "arthur-singletary-1941",
+            "emory-dewey-singletary-1945"
+        ],
+        "date": "1950",
+        "location": "Lafayette County, Florida, United States",
+        "household_members": [
+            "Dewey Singletary — head, age 30, born Florida",
+            "Ollie M. Singletary — wife, age 32, born Georgia",
+            "Arthur Singletary — son, age 9, born Florida",
+            "Emory D. Singletary — son, age 4, born Florida"
+        ],
+        "description": "The 1950 United States Census records Dewey and Ollie Singletary living in Lafayette County, Florida, with their sons Arthur and Emory. Dewey was working as an automobile mechanic.",
+        "supports": [
+            "Residence of Dewey and Ollie Singletary in Lafayette County, Florida, in 1950",
+            "Arthur Singletary as their son",
+            "Emory Dewey Singletary as their son",
+            "Ollie Mae Singletary's birthplace as Georgia",
+            "Arthur and Emory Singletary's birthplaces as Florida",
+            "Dewey Singletary's occupation as an automobile mechanic"
+        ],
+        "documents": [
+            "1950_census_dewey_ollie_singletary.jpg"
+        ]
+    },
+    {
+        "id": "james-loyd-singletary-stillbirth-certificate",
+        "type": "Certificate of Stillbirth",
+        "title": "Certificate of Stillbirth of James Loyd Singletary",
+        "people": [
+            "james-loyd-singletary-1955"
+        ],
+        "date": "1955",
+        "location": "Tallahassee, Leon County, Florida, United States",
+        "description": "Florida Certificate of Stillbirth for James Loyd Singletary, son of Dewey Singletary and Ollie Mae Herrin. The certificate records the stillbirth at Tallahassee Memorial Hospital in Leon County, Florida, in September 1955. The exact date on the surviving certificate is difficult to read and appears to be September 24, while James Loyd's grave marker at Woodlawn Cemetery gives September 25, 1955.",
+        "supports": [
+            "James Loyd Singletary as the son of Dewey Singletary and Ollie Mae Herrin",
+            "James Loyd Singletary's stillbirth in September 1955",
+            "Tallahassee Memorial Hospital as the place of stillbirth",
+            "Dewey Singletary as James Loyd Singletary's father",
+            "Ollie Mae Herrin as James Loyd Singletary's mother"
+        ],
+        "documents": [
+            "james_loyd_singletary_death_certificate.jpg"
         ]
     }
 ]

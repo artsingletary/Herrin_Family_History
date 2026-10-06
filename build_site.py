@@ -145,6 +145,10 @@ def get_sources(person_id):
         if person_id in source.get("people", []):
             person_sources.append(source)
 
+    person_sources.sort(
+        key=lambda source: source.get("date", "9999")
+    )
+
     return person_sources
 
 def format_date(date_string):
