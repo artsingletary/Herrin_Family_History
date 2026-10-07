@@ -49,5 +49,54 @@
         "people": [
             "william-levi-herrin-1892"
         ]
-    }
+    },
+    {
+        "id": "thomas-levi-herrin-photo-01",
+        "file": "thomas_levi_herrin_01.jpg",
+        "caption": "Thomas Levi Herrin.",
+        "people": [
+            "thomas-levi-herrin-1854"
+        ]
+    },
+    {
+        "id": "thomas-levi-herrin-and-nancy-jewell",
+        "file": "thomas_levi_herrin_02.jpg",
+        "caption": "Thomas Levi Herrin and Nancy T. Jewell.",
+        "people": [
+            "thomas-levi-herrin-1854",
+            "nancy-t-jewell-1854"
+        ]
+    },
+    {
+        "id": "lela-mae-mathis-singletary-children",
+        "file": "lela_mae_mathis_singletary_children.jpg",
+        "caption": "Lela Mae with children Marlene, Margaret, and Vershal",
+        "people": [
+            "lela-mae-mathis-1902"
+        ]
+    }, 
+   {
+        "id": "lela-mae-mathis-02",
+        "file": "lela_mae_mathis_02.jpg",
+        "caption": "Lela Mae",
+        "people": [
+            "lela-mae-mathis-1902"
+        ]
+    },
+    {
+        "id": "lela-mae-mathis-03",
+        "file": "lela_mae_mathis_03.jpg",
+        "caption": "Lela Mae",
+        "people": [
+            "lela-mae-mathis-1902"
+        ]
+    },
+     {
+        "id": "george-william-singletary-garden",
+        "file": "george_william_singletary_garden.jpg",
+        "caption": "George William Singletary",
+        "people": [
+            "george-william-singletary-1895"
+        ]
+    }        
 ]

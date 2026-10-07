@@ -520,6 +520,56 @@
     "documents": [
         "1950_census_james_herrin_family.jpg"
     ]
+},
+{
+    "id": "john-singletary-family-1900-census",
+    "type": "Census",
+    "title": "1900 United States Census - John Singletary Household",
+    "people": [
+        "george-william-singletary-1895"
+    ],
+    "date": "1900",
+    "location": "Lafayette County, Florida, United States",
+    "description": "The 1900 United States Census records George Singletary as a young child living in the household of John Singletary and his wife, Mary, in Lafayette County, Florida.",
+    "household_members": [
+        "John Singletary - Head",
+        "Mary Singletary - Wife",
+        "George Singletary - Son"
+    ],
+    "supports": [
+        "George William Singletary living in the household of John and Mary Singletary in 1900",
+        "George William Singletary's residence in Lafayette County, Florida, in 1900"
+    ],
+    "documents": [
+        "1900_census_john_singletary_family.jpg"
+    ]
+},
+{
+    "id": "john-singletary-family-1910-census",
+    "type": "Census",
+    "title": "1910 United States Census - John Singletary Household",
+    "people": [
+        "george-william-singletary-1895"
+    ],
+    "date": "1910",
+    "location": "Lafayette County, Florida, United States",
+    "description": "The 1910 United States Census records John and Mary Singletary living in Lafayette County, Florida, with their children Annie, George, Albert, Allis, and Viola. John Vershal Singletary's brother, Jacob Singletary, is recorded separately on the same census page.",
+    "household_members": [
+        "John Singletary - Head",
+        "Mary Singletary - Wife",
+        "Annie Singletary - Daughter",
+        "George Singletary - Son",
+        "Albert Singletary - Son",
+        "Allis Singletary - Daughter",
+        "Viola Singletary - Daughter"
+    ],
+    "supports": [
+        "George William Singletary living with his parents and siblings in 1910",
+        "George William Singletary's residence in Lafayette County, Florida, in 1910",
+        "George William Singletary as a member of the John and Mary Singletary household"
+    ],
+    "documents": [
+        "1910_census_john_singletary_family.jpg"
+    ]
 }
-
 ]
