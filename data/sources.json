@@ -805,7 +805,7 @@
     "location": "Norton Creek, Madison County, Florida, United States",
     "description": "The 1910 United States Census records Daniel Mathis and his wife Mary living in the Norton Creek area of Madison County, Florida, with their children. Their daughter Lela was recorded as seven years old and born in Florida. Her age is consistent with her September 26, 1902, birth date.",
     "household_members": [
-        "Daniel Mathis — Head, age 27",
+        "Daniel Mathis — Head, age 37 (handwriting unclear; possibly 27",
         "Mary Mathis — Wife, age 28",
         "Claude Mathis — Son, age 10",
         "Lela Mathis — Daughter, age 7",
@@ -821,6 +821,94 @@
     ],
      "documents": [
         "1910_census_daniel_mathis_family.jpg"
+    ]
+},
+{
+    "id": "1899-marriage-daniel-mathis-mary-darling",
+    "type": "Marriage",
+    "title": "1899 Marriage Record — Daniel Mathis and Mary F. Darling",
+    "people": [
+        "daniel-m-mathis",
+        "mary-frances-darling"
+    ],
+    "date": "1899-01-01",
+    "location": "Madison County, Florida",
+    "description": "Marriage record for Daniel Mathis and Miss Mary F. Darling. The marriage license was issued on December 31, 1898, by the Madison County Court, and the marriage was performed on January 1, 1899, by O. F. Peck, Notary Public.",
+    "supports": [
+        "Marriage of Daniel Mathis and Mary F. Darling on January 1, 1899",
+        "Marriage location in Madison County, Florida",
+        "Identification of Mary F. Darling as Daniel Mathis's wife"
+    ],
+    "documents": [
+        "1899_marriage_daniel_mathis_mary_darling.jpg"
+    ]
+},
+{
+    "id": "1918-wwi-draft-daniel-mathis",
+    "type": "Military",
+    "title": "1918 World War I Draft Registration — Daniel M. Mathis",
+    "people": [
+        "daniel-m-mathis"
+    ],
+    "date": "1918-09-12",
+    "location": "Mayo, Lafayette County, Florida",
+    "description": "Daniel M. Mathis registered for the World War I draft on September 12, 1918, in Lafayette County, Florida. He reported his birth date as December 13, 1873, his occupation as farmer, and his nearest relative as Mary Mathis. His physical description recorded medium height, medium build, blue eyes, and dark hair. Draft registration does not establish military service.",
+    "supports": [
+        "Daniel M. Mathis's reported birth date of December 13, 1873",
+        "Daniel's residence in Mayo, Lafayette County, Florida, in 1918",
+        "Daniel's occupation as a farmer",
+        "Identification of Mary Mathis as Daniel's nearest relative"
+    ],
+    "documents": [
+        "1918_wwi_draft_daniel_mathis_front.jpg",
+        "1918_wwi_draft_daniel_mathis_back.jpg"
+    ]
+},
+{
+    "id": "1900-census-daniel-mathis-family",
+    "type": "Census",
+    "title": "1900 U.S. Census — Daniel Mathis Family",
+    "people": [
+        "daniel-m-mathis",
+        "mary-frances-darling"
+    ],
+    "date": "1900-06-22",
+    "location": "Precinct 3, Madison County, Florida",
+    "description": "The 1900 United States Census records Daniel Mathis as head of household, living with his wife Mary and their infant son Claude in Madison County, Florida. Daniel's birth was recorded as December 1874, although his 1918 World War I draft registration gives December 13, 1873. Mary's birth was recorded as June 1879.",
+    "household_members": [
+        "Daniel Mathis — Head, born December 1874, age 25",
+        "Mary Mathis — Wife, born June 1879, age 20",
+        "Claude Mathis — Son, born January 1900, age 4/12 (4 months)"
+    ],
+    "supports": [
+        "Daniel Mathis's residence in Madison County, Florida, in 1900",
+        "Marriage of Daniel and Mary Mathis by 1900",
+        "Mary Mathis's reported birth month and year of June 1879",
+        "Claude Mathis as the son of Daniel and Mary",
+        "Daniel Mathis's reported birth month and year of December 1874"
+    ],
+    "documents": [
+        "1900_census_daniel_mathis_family.jpg"
+    ]
+},
+{
+    "id": "1870-marriage-malachi-matthews-mary-williams",
+    "type": "Marriage",
+    "title": "1870 Marriage Record — Malachi Matthews and Mary Williams",
+    "people": [
+        "malachi-m-matthews",
+        "mary-williams"
+    ],
+    "date": "1870-10-27",
+    "location": "Madison County, Florida",
+    "description": "Madison County marriage register, page 139, upper-right entry, documenting the marriage of Malachi Matthews and Mary Williams on October 27, 1870. The marriage date agrees with the Matthews family Bible transcription. The original record identifies the bride as Mary Williams but does not provide her middle name.",
+    "supports": [
+        "Marriage of Malachi Matthews and Mary Williams on October 27, 1870",
+        "Marriage location in Madison County, Florida",
+        "Identification of Mary Williams as Malachi Matthews's wife"
+    ],
+    "documents": [
+        "1870_marriage_malachi_matthews_mary_williams.jpg"
     ]
 }
 ]

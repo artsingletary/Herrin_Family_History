@@ -729,11 +729,15 @@
         "singletary"
     ],
     "profile_photo": "daniel_m_mathis.jpg",
+    "birth_date": "1873-12-13",
+    "birth_year": 1873,
+    "father": "malachi-m-matthews",
+    "mother": "mary-williams",
     "spouses": [
         "mary-frances-darling"
     ],
     "biography": [
-        "Daniel M. Mathis was the husband of Mary Frances Darling and the father of Lela Mae Mathis. In 1910, the family was living in the Norton Creek area of Madison County, Florida."
+        "Daniel M. Mathis was born on December 13, 1873, according to his World War I draft registration. He married Mary Frances Darling on January 1, 1899, in Madison County, Florida. By 1918, Daniel was living in Mayo, Lafayette County, Florida, where he worked as a farmer."
     ]
 },
 {
@@ -750,6 +754,44 @@
     ],
     "biography": [
         "Mary Frances Darling was the wife of Daniel M. Mathis and the mother of Lela Mae Mathis. The family was living in Madison County, Florida, when the 1910 United States Census was recorded."
+    ]
+},
+{
+    "id": "malachi-m-matthews",
+    "first_name": "Malachi",
+    "middle_name": "M.",
+    "last_name": "Matthews",
+    "family_lines": [
+        "singletary"
+    ],
+    "birth_year": 1840,
+    "death_date": "1924-08-23",
+    "death_year": 1924,
+    "death_place": "Norton Creek, Madison County, Florida",
+    "spouses": [
+        "mary-williams"
+    ],
+    "biography": [
+        "Malachi M. Matthews was born around 1840. His Florida death certificate identifies his birthplace as Thomas County, Georgia, and his father as David Mathis.",
+        "Malachi married Mary Williams on October 27, 1870, in Madison County, Florida. Their marriage is documented in the county marriage register.",
+        "Historical records use several variations of the family surname, including Matthews, Mathews, and Mathis. Malachi died on August 23, 1924, in Madison County, Florida."
+    ]
+},
+{
+    "id": "mary-williams",
+    "first_name": "Mary",
+    "last_name": "Williams",
+    "family_lines": [
+        "singletary"
+    ],
+    "death_date": "1903-07-16",
+    "death_year": 1903,
+    "spouses": [
+        "malachi-m-matthews"
+    ],
+    "biography": [
+        "Mary Williams married Malachi M. Matthews on October 27, 1870, in Madison County, Florida.",
+        "The transcription of the Matthews family Bible records her death as July 16, 1903. Her birth year remains uncertain because the Bible transcription and the 1885 Florida Census provide conflicting information."
     ]
 }
 ]
