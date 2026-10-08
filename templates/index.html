@@ -3,19 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Herrin Family History</title>
+    <link rel="stylesheet" href="static/css/style.css">
+
+    <title>Singletary-Herrin Family Archive</title>
 </head>
-
-<link rel="stylesheet" href="static/css/style.css">
-
-
 <body>
 
     <header>
         <h1>Singletary-Herrin Family Archive</h1>
 
         <p>
-            Preserving the history, photographs, records, and stories of the Singletary and Herrin families of sourthern Georgia and northern Florida. 
+            Preserving the history, photographs, records, and stories of the Singletary and Herrin families of southern Georgia and northern Florida. 
         </p>
     </header>
 
@@ -33,31 +31,57 @@
         <h2>Welcome</h2>
 
         <p>
-            Welcome to the Herrin Family History website.
-            This site is dedicated to preserving our family's history,
-            photographs, stories, and memories for future generations.
+            Welcome to the Singletary-Herrin Family Archive.
+            This site is dedicated to preserving the history, 
+            photographs, stories, and memories of the Singletary and Herrin families
+            for future generations.
         </p>
 
-        <h2>Family Members</h2>
+        <h2>Explore Our Family History</h2>
 
-        <ul class="family-list">
+        <p>
+            Explore the people, photographs, records, and stories preserved
+            in the Singletary-Herrin Family Archive.
+        </p>
 
-            {% for person in people %}
+        <div class="family-sections">
 
-                <li>
-                    <a href="people/{{ person.id }}.html">
-                        {{ person.display_name }}
-                    </a>
+            <section class="family-section">
+                <h3>Herrin Family</h3>
 
-                    {% if person.years %}
-                        — {{ person.years }}
-                    {% endif %}
-                </li>
+                 <p>
+                    Explore ancestors and family members associated with
+                    the Herrin family line.
+                </p>
 
-            {% endfor %}
+                <a href="herrin-family.html">Explore the Herrin Family →</a>
+            </section>
 
-        </ul>
 
+            <section class="family-section">
+                <h3>Singletary Family</h3>
+
+                <p>
+                    Explore ancestors and family members associated with
+                    the Singletary family line.
+                </p>
+
+                <a href="singletary-family.html">Explore the Singletary Family →</a>
+            </section>
+
+
+            <section class="family-section">
+                <h3>All Family Members</h3>
+
+                <p>
+                    Browse everyone currently documented in the
+                    Singletary-Herrin Family Archive.
+                </p>
+
+                <a href="all-family.html">View All Family Members →</a>
+            </section>
+
+        </div>
     </main>
 
     <footer>
@@ -67,3 +91,8 @@
 </body>
 
 </html>
+
+
+
+
+

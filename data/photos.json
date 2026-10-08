@@ -98,5 +98,88 @@
         "people": [
             "george-william-singletary-1895"
         ]
-    }        
+    },
+    {
+        "id": "george-william-singletary-and-lela-mae-mathis-grave",
+        "file": "george_william_singletary_and_lela_mae_mathis_grave.jpg",
+        "type": "grave",
+        "caption": "Grave marker of George William Singletary and Lela Mae Mathis Singletary.",
+        "people": [
+            "george-william-singletary-1895",
+            "lela-mae-mathis-1902"
+        ],
+        "location": "Airline Cemetery, Mayo, Lafayette County, Florida"
+    },
+    {
+        "id": "arthur-singletary-master-sergeant",
+        "file": "arthur_singletary_master_sergeant.jpg",
+        "type": "military",
+        "caption": "Arthur Singletary Sr. in his United States Marine Corps uniform at the time of his promotion to Master Sergeant.",
+        "people": [
+            "arthur-singletary-1941"
+        ]
+    },
+    {
+        "id": "arthur-singletary-vietnam",
+        "file": "arthur_singletary_vietnam.jpg",
+        "type": "military",
+        "caption": "Arthur Singletary Sr. during his service with the United States Marine Corps in Vietnam.",
+        "people": [
+            "arthur-singletary-1941"
+        ],
+        "location": "Vietnam"
+    },
+    {
+        "id": "arthur-singletary-navy-commendation-medal",
+        "file": "arthur_singletary_navy_commendation_medal.jpg",
+        "type": "military",
+        "caption": "Gunnery Sergeant Arthur Singletary Sr. receiving the Navy Commendation Medal during an official United States Marine Corps award ceremony.",
+        "people": [
+            "arthur-singletary-1941"
+        ]
+    },
+    {
+        "id": "arthur-singletary-with-fellow-marines",
+        "file": "arthur_singletary_with_fellow_marines.jpg",
+        "type": "military",
+        "caption": "Arthur Singletary Sr. (left), believed to be a First Lieutenant, with two fellow Marines following a run.",
+        "people": [
+            "arthur-singletary-1941"
+        ]
+    },
+    {
+    "id": "singletary-herrin-family-group-photo",
+    "file": "singletary_herrin_family_group_photo.jpg",
+    "type": "family",
+    "caption": "Family photograph showing Dewey Singletary (far left), Ollie Mae Herrin Singletary, William Levi Herrin (wearing overalls), and Emory Dewey Singletary (far right), with three young children believed to be Emory's.",
+    "people": [
+        "dewey-singletary-1919",
+        "ollie-mae-herrin-1917",
+        "william-levi-herrin-1892",
+        "emory-dewey-singletary-1945"
+    ]
+    },
+    {
+    "id": "dewey-ollie-arthur-emory-family-photo",
+    "file": "dewey_ollie_arthur_emory_singletary.jpg",
+    "type": "family",
+    "caption": "Dewey Singletary (back left) and Ollie Mae Herrin Singletary (back right) with their sons, Emory Dewey Singletary (front left) and Arthur Singletary Sr. (front right).",
+    "people": [
+        "dewey-singletary-1919",
+        "ollie-mae-herrin-1917",
+        "arthur-singletary-1941",
+        "emory-dewey-singletary-1945"
+    ]
+    },
+    {
+    "id": "dewey-ollie-singletary-grave",
+    "file": "dewey_ollie_singletary_grave.jpg",
+    "type": "grave",
+    "caption": "Shared grave marker of Dewey Singletary (1919–1973) and Ollie Mae Herrin Singletary (1917–1992).",
+    "people": [
+        "dewey-singletary-1919",
+        "ollie-mae-herrin-1917"
+    ],
+    "location": "Woodlawn Cemetery, Perry, Taylor County, Florida"
+    }
 ]

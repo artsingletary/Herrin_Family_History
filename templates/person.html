@@ -309,6 +309,48 @@
         </section>
 
 
+        {% if grave_photos %}
+
+        <section class="person-section">
+
+            <h2>Grave &amp; Burial</h2>
+
+            <div class="photo-gallery">
+
+                {% for photo in grave_photos %}
+
+                    <figure class="gallery-photo">
+
+                        <img
+                            src="../photos/{{ photo.file }}"
+                            alt="{{ photo.caption }}"
+                        >
+
+                        {% if photo.caption %}
+
+                            <figcaption>
+                                {{ photo.caption }}
+
+                                {% if photo.location %}
+                                    <br>
+                                    {{ photo.location }}
+                                {% endif %}
+
+                            </figcaption>
+
+                        {% endif %}
+
+                    </figure>
+
+                {% endfor %}
+
+            </div>
+
+        </section>
+
+        {% endif %}
+
+
         <section class="person-section">
 
             <h2>Sources</h2>

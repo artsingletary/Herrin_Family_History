@@ -4,6 +4,9 @@
         "first_name": "Thomas",
         "middle_name": "Levi",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "thomas_levi_herrin.jpg",
         "birth_year": 1854,
         "birth_date": "1854-05-22",
@@ -20,6 +23,9 @@
         "first_name": "Nancy",
         "middle_name": "T.",
         "last_name": "Jewell",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "nancy_jewell.jpg", 
         "birth_year": 1854,
         "birth_date": "1854-05-04",
@@ -38,6 +44,9 @@
         "first_name": "William",
         "middle_name": "Levi",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "suffix": "Sr.",
         "profile_photo": "william_levi_herrin.jpg",
         "birth_year": 1892,
@@ -65,6 +74,9 @@
         "first_name": "Laura",
         "middle_name": "Etta",
         "last_name": "Palmer",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "laura_etta_palmer.jpg",
         "birth_year": 1898,
         "birth_date": "1898-06-25",
@@ -91,6 +103,9 @@
         "middle_name": null,
         "nickname": "H.W.",
         "last_name": "Palmer",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": null,
         "death_year": null,
         "death_before": 1900,
@@ -105,6 +120,9 @@
         "first_name": "Laura",
         "middle_name": null,
         "last_name": "Williams",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "laura_williams.jpg", 
         "birth_year": 1855,
         "birth_date": "1855-04-29",
@@ -127,6 +145,9 @@
         "first_name": "Ollie",
         "middle_name": "Mae",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "ollie_mae_herrin.jpg",
 
         "birth_year": 1917,
@@ -157,6 +178,9 @@
         "first_name": "Dewey",
         "middle_name": null,
         "last_name": "Singletary",
+        "family_lines": [
+            "singletary"
+        ],
         "profile_photo": "dewey_singletary.jpg",
         "birth_year": 1919,
         "birth_date": "1919-08-23",
@@ -168,6 +192,17 @@
         "mother": "lela-mae-mathis-1902",
         "spouses": [
              "ollie-mae-herrin-1917"
+        ],
+        "biography": [
+            "Dewey Singletary was born on August 23, 1919, in Lafayette County, Florida, the son of George William Singletary and Lela Mae Mathis Singletary. He grew up in rural North Florida, where his family lived in the Mayo area of Lafayette County.",
+            "Dewey appears in the 1920 United States Census as an infant living with his parents and other family members in Lafayette County. By the 1930 census, he was ten years old and living with his parents and younger siblings.",
+            "Dewey married Ollie Mae Herrin, the daughter of William Levi Herrin and Laura Etta Palmer Herrin. Together, they raised a family that included their sons Arthur Singletary Sr. and Emory Dewey Singletary. Their son James Loyd Singletary was stillborn in 1955.",
+            "On October 16, 1940, at the age of 21, Dewey registered for the World War II draft in Lafayette County. His registration card identified Ollie Mae as his wife and listed his employer as a Works Progress Administration (WPA) project in Tallahassee, Florida. Although Dewey registered for the draft, no records confirming military service during World War II have been identified.",
+            "Dewey was a skilled mechanic who operated his own repair shop. According to family recollections, he was exceptionally good at his trade, but operating the business presented financial difficulties because some customers failed to pay for the work he performed. He eventually closed his shop and went to work for the Florida State Road Department, where he continued working as a mechanic.",
+            "Dewey and Ollie later made their home in Perry, Taylor County, Florida. Family photographs preserve memories of their life together, including gatherings with their sons and members of the extended Singletary and Herrin families.",
+            "Dewey died on November 19, 1973, at Doctors Memorial Hospital in Perry, Florida, at the age of 54. His death certificate identifies the cause of death as an acute myocardial infarction resulting from arteriosclerotic cardiovascular disease.",
+            "He was buried on November 21, 1973, at Woodlawn Cemetery in Perry. His wife, Ollie Mae, died on June 7, 1992, and is buried alongside him.",
+            "Dewey's life reflects the experiences of a North Florida family during the Great Depression and the decades that followed. His work as a mechanic, his years of employment with the State Road Department, and the family he raised with Ollie remain important parts of his story."
         ]
     },
     {
@@ -176,6 +211,9 @@
         "middle_name": null,
         "suffix": "Sr.",
         "last_name": "Williams",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": 1799,
         "death_year": 1881,
         "father": null,
@@ -189,6 +227,9 @@
         "first_name": "Nancy",
         "middle_name": null,
         "last_name": "Smith",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": 1799,
         "death_year": 1883,
         "father": null,
@@ -202,6 +243,9 @@
         "first_name": "Hezekiah",
         "middle_name": "Ponder",
         "last_name": "Williams",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": 1828,
         "birth_place": "Georgia, United States",
         "death_year": 1897,
@@ -218,6 +262,9 @@
         "first_name": "Charlotte",
         "middle_name": null,
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": 1837,
         "birth_place": "Georgia, United States",
         "death_year": 1876,
@@ -232,6 +279,9 @@
         "first_name": "Levi",
         "middle_name": "Henry",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "levi_henry_herrin.jpg",
         "birth_year": 1804,
         "birth_date": "1804-07-08",
@@ -258,6 +308,9 @@
         "first_name": "Charity",
         "middle_name": null,
         "last_name": "Sears",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": 1812,
         "birth_date": "1812-10-28",
         "birth_place": "Georgia, United States",
@@ -273,6 +326,9 @@
         "first_name": "William",
         "middle_name": "M.",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": 1831,
         "birth_place": "Georgia, United States",
         "death_year": null,
@@ -285,6 +341,9 @@
         "first_name": "Mary",
         "middle_name": null,
         "last_name": "Hargraves",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_year": 1838,
         "birth_place": null,
         "death_year": null,
@@ -297,6 +356,9 @@
         "first_name": "James",
         "middle_name": "Talmadge",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "suffix": "Sr.",
         "profile_photo": "james_talmage_herrin.jpg",
         "birth_date": "1919-11-12",
@@ -329,6 +391,9 @@
         "first_name": "Ida",
         "middle_name": "Mae",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "ida_mae_herrin.jpg", 
         "nickname": "Shorty",
         "birth_date": "1922-01-02",
@@ -350,6 +415,9 @@
         "first_name": "Gladys",
         "middle_name": "Lucille",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "gladys_lucille_herrin.jpg",
         "birth_date": "1924-05-25",
         "birth_year": 1924,
@@ -370,6 +438,9 @@
         "first_name": "Mary",
         "middle_name": "Lou",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "mary_lou_herrin.jpg",
         "birth_date": "1927-05-08",
         "birth_year": 1927,
@@ -390,6 +461,9 @@
         "first_name": "Dorothy",
         "middle_name": null,
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "dorothy_herrin.jpg",
         "birth_date": "1929-12-27",
         "birth_year": 1929,
@@ -410,6 +484,9 @@
         "first_name": "William",
         "middle_name": "Levi",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "suffix": "Jr.",
         "profile_photo": "billy_herrin.jpg",
         "nickname": "Billy",
@@ -432,6 +509,9 @@
         "first_name": "Evelyn",
         "middle_name": null,
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "evelyn_herrin.jpg",
         "birth_date": "1934-09-14",
         "birth_year": 1934,
@@ -452,6 +532,9 @@
         "first_name": "Shelby",
         "middle_name": "Jean",
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "shelby_jean_herrin.jpg",
         "birth_date": "1939-02-26",
         "birth_year": 1939,
@@ -472,6 +555,9 @@
         "first_name": "Deloris",
         "middle_name": null,
         "last_name": "Herrin",
+        "family_lines": [
+            "herrin"
+        ], 
         "profile_photo": "deloris_herrin.jpg",
         "birth_year": 1942,
         "birth_place": "Lafayette County, Florida, United States",
@@ -490,6 +576,9 @@
         "first_name": "James",
         "middle_name": "Loyd",
         "last_name": "Singletary",
+        "family_lines": [
+            "singletary"
+        ], 
         "birth_date": null,
         "birth_year": 1955,
         "birth_place": "Tallahassee, Leon County, Florida, United States",
@@ -509,6 +598,10 @@
         "first_name": "Arthur",
         "middle_name": null,
         "last_name": "Singletary",
+        "family_lines": [
+            "singletary",
+            "herrin"
+        ], 
         "profile_photo": "arthur_singletary_sr.jpg",
         "suffix": "Sr.",
         "birth_date": "1941-02-24",
@@ -535,6 +628,11 @@
         "first_name": "Emory",
         "middle_name": "Dewey",
         "last_name": "Singletary",
+        "family_lines": [
+            "singletary",
+            "herrin"
+        ], 
+        "profile_photo": "emory_dewey_singletary.jpg",
         "birth_date": null,
         "birth_year": 1945,
         "birth_place": "Lafayette County, Florida, United States",
@@ -551,6 +649,9 @@
         "first_name": "Myrtice",
         "middle_name": "Irene",
         "last_name": "Hurst",
+        "family_lines": [
+            "herrin"
+        ], 
         "birth_date": null,
         "birth_year": null,
         "birth_place": null,
@@ -569,6 +670,9 @@
     "first_name": "George",
     "middle_name": "William",
     "last_name": "Singletary",
+    "family_lines": [
+            "singletary"
+    ], 
     "profile_photo": "george_william_singletary.jpg",
     "birth_date": "1895-11-15",
     "birth_year": 1895,
@@ -599,6 +703,9 @@
     "first_name": "Lela",
     "middle_name": "Mae",
     "last_name": "Mathis",
+    "family_lines": [
+            "singletary"
+    ], 
     "profile_photo": "lela_mae_mathis.jpg",
     "birth_date": "1902-09-26",
     "birth_year": 1902,

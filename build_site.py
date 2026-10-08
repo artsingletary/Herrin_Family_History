@@ -155,14 +155,31 @@ def get_sources(person_id):
 
     return person_sources
 
+
 def get_photos(person_id):
     person_photos = []
 
     for photo in photos:
-        if person_id in photo.get("people", []):
+        if (
+            person_id in photo.get("people", [])
+            and photo.get("type") != "grave"
+        ):
             person_photos.append(photo)
 
     return person_photos
+
+
+def get_grave_photos(person_id):
+    grave_photos = []
+
+    for photo in photos:
+        if (
+            person_id in photo.get("people", [])
+            and photo.get("type") == "grave"
+        ):
+            grave_photos.append(photo)
+
+    return grave_photos
 
 
 def format_date(date_string):
@@ -219,6 +236,7 @@ environment.filters["format_date"] = format_date
 
 index_template = environment.get_template("index.html")
 person_template = environment.get_template("person.html")
+family_template = environment.get_template("family.html")
 
 
 # --------------------------------------------------
@@ -230,11 +248,28 @@ PEOPLE_DIR.mkdir(exist_ok=True)
 
 
 # --------------------------------------------------
+# Organize people by family line
+# --------------------------------------------------
+
+herrin_people = [
+    person for person in people
+    if "herrin" in person.get("family_lines", [])
+]
+
+singletary_people = [
+    person for person in people
+    if "singletary" in person.get("family_lines", [])
+]
+
+
+# --------------------------------------------------
 # Generate index.html
 # --------------------------------------------------
 
 html = index_template.render(
-    people=people
+    people=people,
+    herrin_people=herrin_people,
+    singletary_people=singletary_people
 )
 
 index_file = OUTPUT_DIR / "index.html"
@@ -242,6 +277,41 @@ index_file = OUTPUT_DIR / "index.html"
 with open(index_file, "w", encoding="utf-8") as file:
     file.write(html)
 
+
+# --------------------------------------------------
+# Generate family pages
+# --------------------------------------------------
+
+family_pages = [
+    {
+        "family_name": "Herrin",
+        "people": herrin_people,
+        "filename": "herrin-family.html"
+    },
+    {
+        "family_name": "Singletary",
+        "people": singletary_people,
+        "filename": "singletary-family.html"
+    },
+    {
+        "family_name": "All",
+        "people": people,
+        "filename": "all-family.html"
+    }
+]
+
+
+for family in family_pages:
+
+    html = family_template.render(
+        family_name=family["family_name"],
+        family_people=family["people"]
+    )
+
+    family_file = OUTPUT_DIR / family["filename"]
+
+    with open(family_file, "w", encoding="utf-8") as file:
+        file.write(html)
 
 # --------------------------------------------------
 # Generate individual person pages
@@ -282,6 +352,7 @@ for person in people:
     person_sources = get_sources(person["id"])
     siblings = get_siblings(person)
     person_photos = get_photos(person["id"])
+    grave_photos = get_grave_photos(person["id"])
 
     # Send all of this information to person.html
     html = person_template.render(
@@ -293,6 +364,7 @@ for person in people:
         siblings=siblings,
         sources=person_sources,
         photos=person_photos,
+        grave_photos=grave_photos,
     )
 
 

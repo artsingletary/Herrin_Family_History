@@ -159,3 +159,29 @@ footer {
     color: #555;
     text-align: center;
 }
+/* Family navigation cards */
+
+.family-sections {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 30px;
+}
+
+.family-section {
+    padding: 28px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.family-section h3 {
+    margin-top: 0;
+}
+
+.family-section a {
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: bold;
+    text-decoration: none;
+}

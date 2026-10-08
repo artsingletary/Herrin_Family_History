@@ -571,5 +571,225 @@
     "documents": [
         "1910_census_john_singletary_family.jpg"
     ]
+}, 
+{
+    "id": "george-singletary-family-1920-census",
+    "type": "Census",
+    "title": "1920 United States Census - George W. Singletary Household",
+    "people": [
+        "george-william-singletary-1895",
+        "lela-mae-mathis-1902",
+        "dewey-singletary-1919"
+    ],
+    "date": "1920-01-28",
+    "location": "Precinct No. 2, Mayo, Lafayette County, Florida, United States",
+    "description": "The 1920 United States Census records George W. Singletary and his wife, Lela M. Singletary, living in Precinct No. 2, Mayo, Lafayette County, Florida. Their five-month-old son, Dewey, appears as \"Duie\" in the census. George's younger sisters Alice Geneva and Viola Singletary were also living in the household. The census page was enumerated on January 28 and 29, 1920.",
+    "household_members": [
+        "Gorg W. Singletary - Head",
+        "Lela M. Singletary - Wife",
+        "Duie Singletary - Son - age 5/12",
+        "Allice Singletary - Sister",
+        "Viola Singletary - Sister"
+    ],
+    "supports": [
+        "George William Singletary living in Lafayette County, Florida, in 1920",
+        "Lela Mae Mathis living as George William Singletary's wife",
+        "Dewey Singletary living as their five-month-old son",
+        "Alice Geneva Singletary living in George William Singletary's household as his sister",
+        "Viola Singletary living in George William Singletary's household as his sister"
+    ],
+    "documents": [
+        "1920_census_george_singletary_family.jpg"
+    ]
+},
+{
+    "id": "george-singletary-lela-mathis-marriage-1917",
+    "type": "Marriage Record",
+    "title": "Marriage License - G. W. Singletary and Lela May Mathis",
+    "people": [
+        "george-william-singletary-1895",
+        "lela-mae-mathis-1902"
+    ],
+    "date": "1917-03-06",
+    "location": "Lafayette County, Florida, United States",
+    "description": "Marriage license and return documenting the marriage of G. W. Singletary and Lela May Mathis. The license was issued in Lafayette County on March 5, 1917. The couple was married on March 6, 1917, and the record was filed on March 15, 1917. The record identifies the bride as \"Lela May Mathis.\"",
+    "supports": [
+        "Marriage of George William Singletary and Lela Mae Mathis on March 6, 1917",
+        "Marriage in Lafayette County, Florida",
+        "Contemporary record of Lela's name as Lela May Mathis"
+    ],
+    "documents": [
+        "george_singletary_lela_mathis_marriage_01.jpg",
+        "george_singletary_lela_mathis_marriage_02.jpg"
+    ]
+},
+{
+    "id": "george-william-singletary-wwi-draft-1917",
+    "type": "Military Record",
+    "title": "World War I Draft Registration Card - George W. Singletary",
+    "people": [
+        "george-william-singletary-1895"
+    ],
+    "date": "1917-06-05",
+    "location": "Precinct No. 2, Lafayette County, Florida, United States",
+    "description": "World War I draft registration card for George W. Singletary, completed on June 5, 1917. George reported that he was born on November 15, 1895, in Old Town, Florida, and was living in Mayo, Florida. He reported his occupation as farming and identified J. A. Croft as his employer. George stated that he was married and was supporting his wife and one sister. He also cited his wife and one sister when claiming exemption from the draft. The registration card contains George W. Singletary's signature.",
+    "supports": [
+        "George William Singletary's birth date of November 15, 1895",
+        "George William Singletary's birthplace as Old Town, Florida",
+        "George William Singletary's residence in Mayo, Florida, in 1917",
+        "George William Singletary working in farming for J. A. Croft",
+        "George William Singletary being married by June 1917",
+        "George William Singletary supporting his wife and one sister in June 1917"
+    ],
+    "documents": [
+        "george_william_singletary_wwi_draft_01.jpg",
+        "george_william_singletary_wwi_draft_02.jpg"
+    ]
+},
+{
+    "id": "george-william-singletary-veterans-bureau-index",
+    "type": "Military Record",
+    "title": "U.S. Veterans Bureau Master Index - George W. Singletary",
+    "people": [
+        "george-william-singletary-1895"
+    ],
+    "date": "1917-09-19",
+    "location": "Alton, Florida, United States",
+    "description": "U.S. Veterans Bureau Master Index card for George W. Singletary. The record identifies him as a Private in Company B, 124th Infantry. It records his birth date as November 15, 1895, his enlistment date as September 19, 1917, and his discharge date as January 18, 1918. His residence is recorded as Alton, Florida.",
+    "supports": [
+        "George William Singletary's birth date of November 15, 1895",
+        "George William Singletary's military service as a Private",
+        "George William Singletary's service in Company B, 124th Infantry",
+        "George William Singletary's enlistment on September 19, 1917",
+        "George William Singletary's discharge on January 18, 1918",
+        "George William Singletary's residence in Alton, Florida"
+    ],
+    "documents": [
+        "george_william_singletary_veterans_bureau_index.jpg"
+    ]
+},
+{
+    "id": "lela-mae-mathis-singletary-death-certificate-1951",
+    "type": "Death Certificate",
+    "title": "Florida Death Certificate - Lela Mae Singletary",
+    "people": [
+        "lela-mae-mathis-1902"
+    ],
+    "date": "1951-07-19",
+    "location": "Lafayette County, Florida, United States",
+    "description": "Florida death certificate for Lela Mae Singletary, who died on July 19, 1951, in rural Mayo, Lafayette County, Florida. The certificate records her birthplace as Madison County, Florida, and identifies her parents as Daniel Mathis and Mary Darling. It records her birth date as September 26, 1905, and her age as 46. These two entries are internally inconsistent, and other family records support a birth date of September 26, 1902. The cause of death was recorded as acute gastritis. Lela was buried at Airline Cemetery in Lafayette County on July 20, 1951.",
+    "supports": [
+        "Lela Mae Mathis Singletary's death on July 19, 1951",
+        "Lela Mae Mathis Singletary's birthplace as Madison County, Florida",
+        "Daniel Mathis as Lela Mae Mathis Singletary's father",
+        "Mary Darling as Lela Mae Mathis Singletary's mother",
+        "Lela Mae Mathis Singletary's burial at Airline Cemetery",
+        "Conflicting evidence concerning Lela Mae Mathis Singletary's birth year"
+    ],
+    "documents": [
+        "lela_mae_mathis_singletary_death_certificate.jpg"
+    ]
+},
+{
+    "id": "george-singletary-family-1930-census",
+    "type": "Census",
+    "title": "1930 United States Census - George W. Singletary Household",
+    "people": [
+        "george-william-singletary-1895",
+        "lela-mae-mathis-1902",
+        "dewey-singletary-1919"
+    ],
+    "date": "1930-04-04",
+    "location": "Election Precinct No. 3, Lafayette County, Florida, United States",
+    "description": "The 1930 United States Census records George W. Singletary and his wife, Lela M. Singletary, living in Election Precinct No. 3, Lafayette County, Florida, with their children Dewey, Lewie, Loyd M., Irena, and George W. Lela's brother Glover Mathis appears in a nearby Mathis household on the same census page.",
+    "household_members": [
+        "George W. Singletary - Head - age 34",
+        "Lela M. Singletary - Wife - age 27",
+        "Dewey Singletary - Son - age 10",
+        "Lewie Singletary - Daughter - age 8",
+        "Loyd M. Singletary - Son - age 6",
+        "Irena Singletary - Daughter - age 4",
+        "George W. Singletary - Son - age 2"
+    ],
+    "supports": [
+        "George William Singletary living in Lafayette County, Florida, in 1930",
+        "Lela Mae Mathis living as George William Singletary's wife in 1930",
+        "Lela Mae Mathis recorded as age 27 in 1930",
+        "Dewey Singletary living as a son in the household",
+        "George and Lela Singletary living with five children in 1930",
+        "Lela Mae Mathis's brother Glover Mathis living nearby"
+    ],
+    "documents": [
+        "1930_census_george_singletary_family.jpg"
+    ]
+},
+{
+    "id": "arthur-singletary-parris-island-promotion-1961",
+    "type": "Newspaper Article",
+    "title": "Arthur Singletary Meritoriously Promoted at Parris Island",
+    "people": [
+        "arthur-singletary-1941"
+    ],
+    "date": "1961-01-30",
+    "location": "Parris Island, South Carolina, United States",
+    "description": "An article published in the Tallahassee Democrat on January 30, 1961, reports that Arthur Singletary was meritoriously promoted to Private First Class on December 13, 1960, following completion of recruit training at Marine Corps Recruit Depot Parris Island, South Carolina. The promotion recognized his outstanding performance during training. The article states that Arthur enlisted in September 1960 and previously attended North Florida Junior College in Madison, Florida. It also identifies his parents as Mr. and Mrs. Dewey Singletary of Perry, Florida.",
+    "supports": [
+        "Arthur Singletary's service in the United States Marine Corps",
+        "Arthur Singletary's completion of recruit training at Parris Island",
+        "Arthur Singletary's meritorious promotion to Private First Class on December 13, 1960",
+        "Arthur Singletary's enlistment in September 1960",
+        "Arthur Singletary's attendance at North Florida Junior College",
+        "Dewey and Ollie Singletary as Arthur Singletary's parents"
+    ],
+    "documents": [
+        "arthur_singletary_parris_island_promotion_1961.jpg"
+    ]
+},
+{
+    "id": "dewey-singletary-ww2-draft-registration-1940",
+    "type": "Military Draft Registration",
+    "title": "Dewey Singletary — World War II Draft Registration Card",
+    "people": [
+        "dewey-singletary-1919"
+    ],
+    "date": "1940-10-16",
+    "location": "Mayo, Lafayette County, Florida, United States",
+    "description": "Dewey Singletary registered for the World War II draft on October 16, 1940, at age 21. He reported that he was born on August 23, 1919, in Lafayette County, Florida, and resided in Mayo. His wife, Mrs. Ollie Mae Singletary, was listed as the person who would always know his address. Dewey reported employment with a W.P.A. project in Tallahassee, Leon County, Florida. The registrar described him as approximately 5 feet 8 inches tall, weighing 145 pounds, with blue eyes, blond hair, and a light complexion.",
+    "supports": [
+        "Dewey Singletary's birth date of August 23, 1919",
+        "Dewey Singletary's birthplace in Lafayette County, Florida",
+        "Dewey Singletary's residence in Mayo, Florida, in October 1940",
+        "Dewey Singletary's marriage to Ollie Mae Singletary by October 1940",
+        "Dewey Singletary's employment with a W.P.A. project in Tallahassee",
+        "Dewey Singletary's physical description in 1940"
+    ],
+    "documents": [
+        "dewey_singletary_ww2_draft_front.jpg",
+        "dewey_singletary_ww2_draft_back.jpg"
+    ]
+},
+{
+    "id": "dewey-singletary-death-certificate-1973",
+    "type": "Death Certificate",
+    "title": "Florida Death Certificate — Dewey Singletary (1973)",
+    "people": [
+        "dewey-singletary-1919"
+    ],
+    "date": "1973-11-19",
+    "location": "Perry, Taylor County, Florida, United States",
+    "description": "Florida death certificate documenting the death of Dewey Singletary on November 19, 1973, at Doctors Memorial Hospital in Perry, Florida. He was born August 23, 1919, and was 54 years old. His parents were identified as George William Singletary and Lela Mae Mathis, and his surviving wife was Ollie Mae Herrin Singletary. Dewey worked as a mechanic for the State Road Department. His death was attributed to an acute myocardial infarction caused by arteriosclerotic cardiovascular disease. He was buried at Woodlawn Cemetery in Perry on November 21, 1973. His wife, Ollie Mae Singletary, was the informant.",
+    "supports": [
+        "Dewey Singletary's date of birth",
+        "Dewey Singletary's date and place of death",
+        "George William Singletary and Lela Mae Mathis as Dewey's parents",
+        "Ollie Mae Herrin Singletary as Dewey's wife",
+        "Dewey Singletary's occupation as a mechanic",
+        "Dewey Singletary's employment with the State Road Department",
+        "Dewey Singletary's cause of death",
+        "Dewey Singletary's burial at Woodlawn Cemetery"
+    ],
+    "documents": [
+        "dewey_singletary_death_certificate_1973.jpeg"
+    ]
 }
 ]

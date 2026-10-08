@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ family_name }} Family | Singletary-Herrin Family Archive</title>
+
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Singletary-Herrin Family Archive</h1>
+
+        <p>
+            Preserving the history, photographs, records, and stories
+            of the Singletary and Herrin families of southern Georgia
+            and northern Florida.
+        </p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="#">Family Tree</a>
+        <a href="#">Photos</a>
+        <a href="#">Stories</a>
+        <a href="#">Documents</a>
+        <a href="#">Reunions</a>
+    </nav>
+
+    <main>
+
+        {% if family_name == "All" %}
+
+            <h2>All Family Members</h2>
+
+            <p>
+                Browse everyone currently documented in the
+                Singletary-Herrin Family Archive.
+            </p>
+
+        {% else %}
+
+            <h2>{{ family_name }} Family</h2>
+
+            <p>
+                Explore the people currently documented in the
+                {{ family_name }} family line.
+            </p>
+
+        {% endif %}
+
+        <ul class="family-list">
+
+            {% for person in family_people %}
+
+                <li>
+                    <a href="people/{{ person.id }}.html">
+                        {{ person.display_name }}
+                    </a>
+
+                    {% if person.years %}
+                        — {{ person.years }}
+                    {% endif %}
+                </li>
+
+            {% endfor %}
+
+        </ul>
+
+    </main>
+
+    <footer>
+        <p>Singletary-Herrin Family Archive</p>
+    </footer>
+
+</body>
+
+</html>
