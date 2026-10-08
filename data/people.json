@@ -713,11 +713,43 @@
     "death_date": "1951-07-19",
     "death_year": 1951,
     "death_place": "Lafayette County, Florida",
-    "father": "daniel-mathis",
-    "mother": "mary-darling",
+    "father": "daniel-m-mathis",
+    "mother": "mary-frances-darling",
     "spouses": [
         "george-william-singletary-1895"
     ],
     "biography": []
+},
+{
+    "id": "daniel-m-mathis",
+    "first_name": "Daniel",
+    "middle_name": "M.",
+    "last_name": "Mathis",
+    "family_lines": [
+        "singletary"
+    ],
+    "profile_photo": "daniel_m_mathis.jpg",
+    "spouses": [
+        "mary-frances-darling"
+    ],
+    "biography": [
+        "Daniel M. Mathis was the husband of Mary Frances Darling and the father of Lela Mae Mathis. In 1910, the family was living in the Norton Creek area of Madison County, Florida."
+    ]
+},
+{
+    "id": "mary-frances-darling",
+    "first_name": "Mary",
+    "middle_name": "Frances",
+    "last_name": "Darling",
+    "family_lines": [
+        "singletary"
+    ],
+    "profile_photo": "mary_frances_darling.jpg",
+    "spouses": [
+        "daniel-m-mathis"
+    ],
+    "biography": [
+        "Mary Frances Darling was the wife of Daniel M. Mathis and the mother of Lela Mae Mathis. The family was living in Madison County, Florida, when the 1910 United States Census was recorded."
+    ]
 }
 ]

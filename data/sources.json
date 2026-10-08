@@ -791,5 +791,36 @@
     "documents": [
         "dewey_singletary_death_certificate_1973.jpeg"
     ]
+},
+{
+    "id": "1910-census-daniel-mathis-family",
+    "type": "Census",
+    "title": "1910 U.S. Census — Daniel Mathis Family",
+    "people": [
+        "daniel-m-mathis",
+        "mary-frances-darling",
+        "lela-mae-mathis-1902"
+    ],
+    "date": "1910",
+    "location": "Norton Creek, Madison County, Florida, United States",
+    "description": "The 1910 United States Census records Daniel Mathis and his wife Mary living in the Norton Creek area of Madison County, Florida, with their children. Their daughter Lela was recorded as seven years old and born in Florida. Her age is consistent with her September 26, 1902, birth date.",
+    "household_members": [
+        "Daniel Mathis — Head, age 27",
+        "Mary Mathis — Wife, age 28",
+        "Claude Mathis — Son, age 10",
+        "Lela Mathis — Daughter, age 7",
+        "Rubin Mathis — Son, age 5",
+        "Frank Mathis — Son, age 3",
+        "Unnamed — Infant son, age 5/12 (5 months"
+    ],
+    "supports": [
+        "Daniel Mathis and Mary Frances Darling as Lela Mathis's parents",
+        "Lela Mathis's residence in Madison County, Florida, in 1910",
+        "Lela Mathis's age of seven in 1910",
+        "The Mathis family household in 1910"
+    ],
+     "documents": [
+        "1910_census_daniel_mathis_family.jpg"
+    ]
 }
 ]
