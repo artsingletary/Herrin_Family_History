@@ -526,7 +526,9 @@
     "type": "Census",
     "title": "1900 United States Census - John Singletary Household",
     "people": [
-        "george-william-singletary-1895"
+        "george-william-singletary-1895",
+        "john-vershal-singletary-1851",
+        "mary-bryant-1875"
     ],
     "date": "1900",
     "location": "Lafayette County, Florida, United States",
@@ -909,6 +911,98 @@
     ],
     "documents": [
         "1870_marriage_malachi_matthews_mary_williams.jpg"
+    ]
+},
+{
+    "id": "1924-death-certificate-malachi-matthews",
+    "type": "Death",
+    "title": "1924 Florida Death Certificate — Malachi Matthews",
+    "people": [
+        "malachi-m-matthews"
+    ],
+    "date": "1924-08-23",
+    "location": "Norton Creek, Madison County, Florida",
+    "description": "Florida death certificate number 11181 records the death of Malachi Matthews on August 23, 1924, in Norton Creek, Madison County, Florida. His age was reported as approximately 83 years, and his birthplace as Thomas County, Georgia. The certificate identifies his father as David Mathis, born in South Carolina, and records chronic malaria as the cause of death. Burial was recorded at Mt. Olive Cemetery on August 24, 1924. The spouse's name is difficult to read and has not been conclusively identified.",
+    "supports": [
+        "Malachi Matthews's death on August 23, 1924",
+        "Death location in Norton Creek, Madison County, Florida",
+        "Approximate birth year of 1840–1841",
+        "Birthplace in Thomas County, Georgia",
+        "Identification of David Mathis as Malachi's father",
+        "Burial at Mt. Olive Cemetery on August 24, 1924"
+    ],
+    "documents": [
+        "1924_death_certificate_malachi_matthews.jpg"
+    ]
+},
+{
+    "id": "1890-marriage-john-singletary-mary-bryant",
+    "type": "Marriage",
+    "title": "1890 Marriage Record — John V. Singletary and Mary Bryant",
+    "people": [
+        "john-vershal-singletary-1851",
+        "mary-bryant-1875"
+    ],
+    "date": "1890-02-04",
+    "location": "Lafayette County, Florida",
+    "description": "Marriage records from Lafayette County, Florida, document the marriage of John V. Singletary and Mary Bryant. The marriage license was issued on February 3, 1890, by County Judge Reuben B. Hill. The couple was married on February 4, 1890, by Rev. A. T. Wood. The license was filed for record on March 3, 1890, in Marriage Record Book B, page 422.",
+    "supports": [
+        "Marriage of John V. Singletary and Mary Bryant on February 4, 1890",
+        "Marriage location in Lafayette County, Florida",
+        "Mary's surname recorded as Bryant",
+        "Marriage performed by Rev. A. T. Wood",
+        "Marriage recorded in Book B, page 422"
+    ],
+    "documents": [
+        "1890_marriage_john_singletary_mary_bryant_certificate.jpg",
+        "1890_marriage_john_singletary_mary_bryant_register.jpg"
+    ]
+},
+{
+    "id": "1928-death-certificate-albert-eugene-singletary",
+    "type": "Death Certificate",
+    "title": "1928 Florida Death Certificate — Albert Eugene Singletary",
+    "people": [
+        "albert-e-singletary-1898",
+        "john-vershal-singletary-1851",
+        "mary-bryant-1875"
+    ],
+    "date": "1928-11-04",
+    "location": "Mayo, Lafayette County, Florida",
+    "description": "Florida State Board of Health death certificate, State File No. 17708, for Albert L. Singletary (identified by family information as Albert Eugene Singletary). The certificate records his age as 29, birth year as 1899, occupation as farmer, and marital status as married. His wife is identified as Daisy Stewart. His parents are listed as John V. Singletary and Mary Bryan. The physician's certification indicates that Albert died on November 4, 1928, from an accidental gunshot wound to the abdomen. His burial location is recorded as Midway Cemetery. The certificate was filed on November 29, 1928.",
+    "supports": [
+        "Death of Albert Singletary in November 1928",
+        "Cause of death: accidental gunshot wound to the abdomen",
+        "Albert's occupation as farmer",
+        "Marriage to Daisy Stewart",
+        "Identification of John V. Singletary and Mary Brian as Albert's parents",
+        "Burial at Midway Cemetery in Lafayette County, Florida"
+    ],
+    "documents": [
+        "1928_death_certificate_albert_eugene_singletary.jpg"
+    ]
+},
+{
+    "id": "1919-marriage-albert-singletary-dicie-stewart",
+    "type": "Marriage",
+    "title": "1919 Marriage Record — Albert Singletary and Dicie Stewart",
+    "people": [
+        "albert-e-singletary-1898",
+        "dicie-stewart"
+    ],
+    "date": "1919-08-31",
+    "location": "Lafayette County, Florida",
+    "description": "Original Lafayette County, Florida, marriage license and marriage record documenting the marriage of Albert Singletary and Dicie Stewart. The license was issued on August 29, 1919, by County Judge Hale W. Adams in Mayo, Florida. The couple was married on August 31, 1919, by H. S. Pool, Notary Public. The marriage was recorded on September 19, 1919, in Marriage Record Book C, page 413.",
+    "supports": [
+        "Marriage of Albert Singletary and Dicie Stewart on August 31, 1919",
+        "Marriage in Lafayette County, Florida",
+        "Bride's name recorded as Dicie Stewart",
+        "Marriage ceremony performed by H. S. Pool, Notary Public",
+        "Marriage recorded in Book C, page 413"
+    ],
+    "documents": [
+        "1919_marriage_albert_singletary_dicie_stewart_certificate.jpg",
+        "1919_marriage_albert_singletary_dicie_stewart_register.jpg"
     ]
 }
 ]

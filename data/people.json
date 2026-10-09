@@ -590,7 +590,7 @@
         "spouses": [],
         "biography": [
             "James Loyd Singletary was the son of Dewey Singletary and Ollie Mae Herrin. He was stillborn in Tallahassee, Florida, in September 1955. Surviving records disagree slightly on the exact date, with evidence indicating September 24 or September 25.",
-            "James Loyd was buried at Woodlawn Cemetery in Perry, Florida."
+            "James Loyd was buried at Airline Baptist Church Cemetery in Mayo, Florida."
         ]
 },
 {
@@ -621,7 +621,16 @@
             "discharge_date": "1986-04-30"
             }
         ],
-        "biography": []
+        "biography": [
+            "Arthur Singletary was born on February 24, 1941, into the Singletary and Herrin families of North Florida. His parents were Dewey Singletary and Ollie Mae Herrin.",
+            "During his early years, Arthur spent time working on the 400-acre farm owned by his maternal grandfather, William Levi Herrin. The farm was located south of Mayo, Florida, near Midway Baptist Church in Lafayette County. These experiences were part of his upbringing in rural North Florida and connected him to the family's agricultural heritage.",
+            "Arthur began his military career in September 1960 when he enlisted in the United States Marine Corps. After completing his initial four-year enlistment, he was honorably discharged on September 7, 1964.",
+            "In February 1965, Arthur reenlisted in the Marine Corps in Macon, Georgia, as a Sergeant (E-5), immediately returning to active duty. He continued advancing through the enlisted ranks and, according to family recollections, eventually attained the rank of Master Sergeant (E-8).",
+            "Arthur subsequently received a direct commission as a Second Lieutenant based on his enlisted experience, without attending Officer Candidate School. As a Marine who transitioned from enlisted service to commissioned officer status, he was known as a Mustang officer.",
+            "By July 1976, Arthur was serving as a Second Lieutenant at Marine Corps Base Camp Lejeune, North Carolina. That month, his family moved into Marine Officer Quarters (MOQ) 3160.",
+            "Throughout his military career, Arthur served in intelligence and counterintelligence assignments. His service included duty associated with the Vietnam War, specialized military education, and numerous decorations and awards, including the Navy Commendation Medal.",
+            "Arthur continued advancing through the commissioned officer ranks and retired from the United States Marine Corps on April 30, 1986, having attained the rank of Major (O-4)."
+        ]
 },
 {
         "id": "emory-dewey-singletary-1945",
@@ -680,8 +689,8 @@
     "death_date": "1964-10-07",
     "death_year": 1964,
     "death_place": "Lake City, Columbia County, Florida",
-    "father": "john-singletary",
-    "mother": "mary-bryant",
+    "father": "john-vershal-singletary-1851",
+    "mother": "mary-bryant-1875",
     "spouses": [
         "lela-mae-mathis-1902"
     ],
@@ -774,7 +783,9 @@
     "biography": [
         "Malachi M. Matthews was born around 1840. His Florida death certificate identifies his birthplace as Thomas County, Georgia, and his father as David Mathis.",
         "Malachi married Mary Williams on October 27, 1870, in Madison County, Florida. Their marriage is documented in the county marriage register.",
-        "Historical records use several variations of the family surname, including Matthews, Mathews, and Mathis. Malachi died on August 23, 1924, in Madison County, Florida."
+        "Historical records use several variations of the family surname, including Matthews, Mathews, and Mathis. Malachi died on August 23, 1924, in Madison County, Florida.",
+        "Military records identify a soldier named Malachi Matthews, also recorded as Malicah or Malachai Matthews, who served as a private in Company D of the 2nd Florida Cavalry (Union) during the American Civil War. A federal pension index records an application filed in Florida on July 19, 1890, under application number 816825, with pension certificate number 665746. The matching name and military unit provide strong evidence connecting these records, although additional documentation is needed to confirm that the soldier was the same Malachi Matthews who lived in Madison County, Florida.",
+        "In the spring of 2026, a descendant visited Mount Olive Cemetery in Madison County, Florida, searching for Malachi's grave. Although his death certificate identifies Mount Olive Cemetery as his burial location, no headstone could be located. During the visit, a local resident recalled that the cemetery once contained wooden grave markers that had disappeared over time. It is possible that Malachi's grave was originally marked with wood, although this has not been confirmed."
     ]
 },
 {
@@ -792,6 +803,98 @@
     "biography": [
         "Mary Williams married Malachi M. Matthews on October 27, 1870, in Madison County, Florida.",
         "The transcription of the Matthews family Bible records her death as July 16, 1903. Her birth year remains uncertain because the Bible transcription and the 1885 Florida Census provide conflicting information."
+    ]
+},
+{
+    "id": "john-vershal-singletary-1851",
+    "first_name": "John",
+    "middle_name": "Vershal",
+    "last_name": "Singletary",
+    "display_name": "John Vershal Singletary",
+    "family_lines": ["singletary"],
+    "birth_year": 1851,
+    "spouses": ["mary-bryant-1875"],
+    "biography": [
+        "John Vershal Singletary was born around 1851. He lived in North Florida and was the father of George William Singletary.",
+        "In 1882, the Florida State Gazetteer listed John Vershal Singletary among the prominent farmers of Lafayette County, Florida, recording that he owned 40 acres of land in the Bula community. The Bula post office was located at Irvin's Ferry on the Old Luraville Road, approximately four miles from Mayo, Florida.",
+        "John was associated with Mary Bryant, whose surname also appears as Bryan in historical records. His death is believed to have occurred around 1911, although the exact date has not yet been confirmed."
+    ]
+},
+{
+    "id": "mary-bryant-1875",
+    "first_name": "Mary",
+    "last_name": "Bryant",
+    "display_name": "Mary Bryant",
+    "family_lines": ["singletary"],
+    "birth_year": 1875,
+    "spouses": ["john-vershal-singletary-1851"],
+    "biography": [
+        "Mary Bryant was born in May 1875. Her surname also appears as Bryan in family research records.",
+        "Mary was the wife of John Vershal Singletary and the mother of George William Singletary. Her family lived in North Florida during the late nineteenth and early twentieth centuries."
+    ]
+},
+{
+    "id": "jessie-singletary-1891",
+    "first_name": "Jessie",
+    "last_name": "Singletary",
+    "display_name": "Jessie Singletary",
+    "family_lines": ["singletary"],
+    "birth_year": 1891,
+    "father": "john-vershal-singletary-1851",
+    "mother": "mary-bryant-1875",
+    "spouses": [],
+    "biography": [
+        "Jessie Singletary was born in March 1891 in Florida, according to the 1900 United States Federal Census. He was the son of John V. Singletary and Mary Bryant Singletary.",
+        "In 1900, Jessie was living with his parents and siblings in Lafayette County, Florida."
+    ]
+},
+{
+    "id": "annie-singletary-1893",
+    "first_name": "Annie",
+    "last_name": "Singletary",
+    "display_name": "Annie Singletary",
+    "family_lines": ["singletary"],
+    "birth_year": 1893,
+    "father": "john-vershal-singletary-1851",
+    "mother": "mary-bryant-1875",
+    "spouses": [],
+    "biography": [
+        "Annie Singletary was born in May 1893 in Florida, according to the 1900 United States Federal Census. She was the daughter of John V. Singletary and Mary Bryant Singletary.",
+        "In 1900, Annie was living with her parents and siblings in Lafayette County, Florida."
+    ]
+},
+{
+    "id": "albert-e-singletary-1898",
+    "first_name": "Albert",
+    "middle_name": "Eugene",
+    "last_name": "Singletary",
+    "display_name": "Albert Eugene Singletary",
+    "family_lines": ["singletary"],
+    "birth_year": 1898,
+    "death_year": 1928,
+    "father": "john-vershal-singletary-1851",
+    "mother": "mary-bryant-1875",
+    "spouses": ["dicie-stewart"],
+    "biography": [
+        "Albert Eugene Singletary was born in October 1898, according to the 1900 United States Federal Census. His 1928 Florida death certificate instead records his birth year as 1899 and identifies his birthplace as Lafayette County, Florida.",
+        "Albert was the son of John V. Singletary and Mary Bryant (Bryan). In 1900, he was living with his parents and siblings Jessie, Annie, and George in Lafayette County, Florida.",
+        "Albert worked as a farmer in Lafayette County. He was married to Dicie Stewart on August 31, 1919, in Lafayette County, according to a Florida marriage record.",
+        "Albert died in November 1928 at approximately 29 years of age from an accidental gunshot wound to the abdomen. His death certificate identifies the cause of death as an accidental gunshot wound and records his burial location as Midway Cemetery in Lafayette County, Florida.",
+        "Albert's full name was Albert Eugene Singletary. The 1900 Federal Census records his middle initial as E., while his death certificate appears to record L. This discrepancy has not yet been resolved.",
+        "Albert's death certificate identifies his father as John V. Singletary, born in South Carolina, and his mother as Mary Brian, born in Florida. The 1900 census records different parental birthplaces, so these details require further investigation."
+    ]
+},
+{
+    "id": "dicie-stewart",
+    "first_name": "Dicie",
+    "last_name": "Stewart",
+    "display_name": "Dicie Stewart",
+    "family_lines": ["singletary"],
+    "spouses": ["albert-e-singletary-1898"],
+    "biography": [
+        "Dicie Stewart married Albert Eugene Singletary on August 31, 1919, in Lafayette County, Florida, according to a Florida marriage record.",
+        "Albert's 1928 Florida death certificate identifies his wife with a name previously read as Daisy Stewart. The marriage record identifies her as Dicie Stewart. Further examination of the original records may help explain the discrepancy.",
+        "Additional information about Dicie's birth, parents, and later life has not yet been established."
     ]
 }
 ]
