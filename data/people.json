@@ -781,7 +781,7 @@
         "mary-williams"
     ],
     "biography": [
-        "Malachi M. Matthews was born around 1840. His Florida death certificate identifies his birthplace as Thomas County, Georgia, and his father as David Mathis.",
+        "Malachi M. Matthews was born around 1840. His Florida death certificate identifies his birthplace as Thomas County, Georgia, and his father as Daniel Mathis.",
         "Malachi married Mary Williams on October 27, 1870, in Madison County, Florida. Their marriage is documented in the county marriage register.",
         "Historical records use several variations of the family surname, including Matthews, Mathews, and Mathis. Malachi died on August 23, 1924, in Madison County, Florida.",
         "Military records identify a soldier named Malachi Matthews, also recorded as Malicah or Malachai Matthews, who served as a private in Company D of the 2nd Florida Cavalry (Union) during the American Civil War. A federal pension index records an application filed in Florida on July 19, 1890, under application number 816825, with pension certificate number 665746. The matching name and military unit provide strong evidence connecting these records, although additional documentation is needed to confirm that the soldier was the same Malachi Matthews who lived in Madison County, Florida.",
@@ -817,7 +817,8 @@
     "biography": [
         "John Vershal Singletary was born around 1851. He lived in North Florida and was the father of George William Singletary.",
         "In 1882, the Florida State Gazetteer listed John Vershal Singletary among the prominent farmers of Lafayette County, Florida, recording that he owned 40 acres of land in the Bula community. The Bula post office was located at Irvin's Ferry on the Old Luraville Road, approximately four miles from Mayo, Florida.",
-        "John was associated with Mary Bryant, whose surname also appears as Bryan in historical records. His death is believed to have occurred around 1911, although the exact date has not yet been confirmed."
+        "John was associated with Mary Bryant, whose surname also appears as Bryan in historical records. His death is believed to have occurred around 1911, although the exact date has not yet been confirmed.",
+        "John Vershal Singletary and Mary Evline Bryant Singletary are buried at Bethel Creek Baptist Church Cemetery, formerly known as Bell's Mill Creek Cemetery, in Day, Lafayette County, Florida. Their shared headstone was installed in 2011 by their great-grandson, Arthur Singletary. The death dates inscribed on the marker reflect family research and have not been independently verified."
     ]
 },
 {
@@ -830,7 +831,8 @@
     "spouses": ["john-vershal-singletary-1851"],
     "biography": [
         "Mary Bryant was born in May 1875. Her surname also appears as Bryan in family research records.",
-        "Mary was the wife of John Vershal Singletary and the mother of George William Singletary. Her family lived in North Florida during the late nineteenth and early twentieth centuries."
+        "Mary was the wife of John Vershal Singletary and the mother of George William Singletary. Her family lived in North Florida during the late nineteenth and early twentieth centuries.",
+        "John Vershal Singletary and Mary Evline Bryant Singletary are buried at Bethel Creek Baptist Church Cemetery, formerly known as Bell's Mill Creek Cemetery, in Day, Lafayette County, Florida. Their shared headstone was installed in 2011 by their great-grandson, Arthur Singletary. The death dates inscribed on the marker reflect family research and have not been independently verified."
     ]
 },
 {
@@ -845,7 +847,8 @@
     "spouses": [],
     "biography": [
         "Jessie Singletary was born in March 1891 in Florida, according to the 1900 United States Federal Census. He was the son of John V. Singletary and Mary Bryant Singletary.",
-        "In 1900, Jessie was living with his parents and siblings in Lafayette County, Florida."
+        "In 1900, Jessie was living with his parents and siblings in Lafayette County, Florida.",
+        "Jessie does not appear in his parents' household in the 1910 Federal Census. Family research suggests that he may have died young, possibly around the time of his parents' deaths, but no death record has yet been located to establish when or where he died."
     ]
 },
 {
@@ -895,6 +898,36 @@
         "Dicie Stewart married Albert Eugene Singletary on August 31, 1919, in Lafayette County, Florida, according to a Florida marriage record.",
         "Albert's 1928 Florida death certificate identifies his wife with a name previously read as Daisy Stewart. The marriage record identifies her as Dicie Stewart. Further examination of the original records may help explain the discrepancy.",
         "Additional information about Dicie's birth, parents, and later life has not yet been established."
+    ]
+},
+{
+    "id": "alice-singletary-1905",
+    "first_name": "Alice",
+    "last_name": "Singletary",
+    "display_name": "Alice Singletary",
+    "family_lines": ["singletary"],
+    "birth_year": 1905,
+    "father": "john-vershal-singletary-1851",
+    "mother": "mary-bryant-1875",
+    "spouses": [],
+    "biography": [
+        "Alice Singletary was born around 1905 in Florida. She was the daughter of John V. Singletary and Mary Bryant Singletary.",
+        "The 1910 United States Federal Census lists Alice, approximately five years old, living with her parents and siblings in Lafayette County, Florida."
+    ]
+},
+{
+    "id": "viola-singletary-1908",
+    "first_name": "Viola",
+    "last_name": "Singletary",
+    "display_name": "Viola Singletary",
+    "family_lines": ["singletary"],
+    "birth_year": 1908,
+    "father": "john-vershal-singletary-1851",
+    "mother": "mary-bryant-1875",
+    "spouses": [],
+    "biography": [
+        "Viola Singletary was born around 1908 in Florida. She was the daughter of John V. Singletary and Mary Bryant Singletary.",
+        "The 1910 United States Federal Census lists Viola, approximately two years old, living with her parents and siblings in Lafayette County, Florida."
     ]
 }
 ]

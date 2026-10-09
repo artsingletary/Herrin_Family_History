@@ -181,5 +181,36 @@
         "ollie-mae-herrin-1917"
     ],
     "location": "Woodlawn Cemetery, Perry, Taylor County, Florida"
-    }
+    },
+    {
+    "id": "john-vershal-singletary-original-grave",
+    "file": "john_vershal_singletary_original_headstone.jpg",
+    "type": "grave",
+    "caption": "Original grave marker of John Vershal Singletary (born August 1851). Photographed in spring 2026. The inscription is heavily weathered and cannot be reliably transcribed.",
+    "people": [
+        "john-vershal-singletary-1851"
+    ],
+    "location": "Bethel Creek Baptist Church Cemetery (formerly Bell's Mill Creek Cemetery), Day, Lafayette County, Florida"
+    },
+    {
+    "id": "mary-evline-bryant-singletary-original-grave",
+    "file": "mary_evline_bryant_singletary_original_headstone.jpg",
+    "type": "grave",
+    "caption": "Original grave marker of Mary Evline Bryant Singletary (born May 1875). Photographed in spring 2026. The inscription is heavily weathered and cannot be reliably transcribed.",
+    "people": [
+        "mary-bryant-1875"
+    ],
+    "location": "Bethel Creek Baptist Church Cemetery (formerly Bell's Mill Creek Cemetery), Day, Lafayette County, Florida"
+},
+{
+    "id": "john-mary-singletary-2011-grave",
+    "file": "john_mary_singletary_2011_headstone.jpg",
+    "type": "grave",
+    "caption": "Shared headstone of John Vershal Singletary (born August 1851) and Mary Evline Bryant Singletary (born May 1875), installed in 2011 by their great-grandson, Arthur Singletary. Photograph taken around 2011. John's death year of 1911 and Mary's death sometime after 1910 reflect family research and have not been independently verified.",
+    "people": [
+        "john-vershal-singletary-1851",
+        "mary-bryant-1875"
+    ],
+    "location": "Bethel Creek Baptist Church Cemetery (formerly Bell's Mill Creek Cemetery), Day, Lafayette County, Florida"
+}
 ]

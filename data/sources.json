@@ -526,9 +526,12 @@
     "type": "Census",
     "title": "1900 United States Census - John Singletary Household",
     "people": [
-        "george-william-singletary-1895",
         "john-vershal-singletary-1851",
-        "mary-bryant-1875"
+        "mary-bryant-1875",
+        "jessie-singletary-1891",
+        "annie-singletary-1893",
+        "george-william-singletary-1895",
+        "albert-e-singletary-1898"
     ],
     "date": "1900",
     "location": "Lafayette County, Florida, United States",
@@ -536,7 +539,10 @@
     "household_members": [
         "John Singletary - Head",
         "Mary Singletary - Wife",
-        "George Singletary - Son"
+        "Jessie Sinngletary - Son",
+        "Annie Sinngletary - Son",
+        "George Singletary - Son",
+        "Albert E. Singletary - Son"
     ],
     "supports": [
         "George William Singletary living in the household of John and Mary Singletary in 1900",
@@ -551,6 +557,11 @@
     "type": "Census",
     "title": "1910 United States Census - John Singletary Household",
     "people": [
+        "john-vershal-singletary-1851",
+        "mary-bryant-1875",
+        "annie-singletary-1893",
+        "george-william-singletary-1895",
+        "albert-e-singletary-1898",
         "george-william-singletary-1895"
     ],
     "date": "1910",
@@ -581,7 +592,9 @@
     "people": [
         "george-william-singletary-1895",
         "lela-mae-mathis-1902",
-        "dewey-singletary-1919"
+        "dewey-singletary-1919",
+        "alice-singletary-1905",
+        "viola-singletary-1908"
     ],
     "date": "1920-01-28",
     "location": "Precinct No. 2, Mayo, Lafayette County, Florida, United States",
@@ -963,9 +976,7 @@
     "type": "Death Certificate",
     "title": "1928 Florida Death Certificate — Albert Eugene Singletary",
     "people": [
-        "albert-e-singletary-1898",
-        "john-vershal-singletary-1851",
-        "mary-bryant-1875"
+        "albert-e-singletary-1898"
     ],
     "date": "1928-11-04",
     "location": "Mayo, Lafayette County, Florida",
@@ -1005,4 +1016,4 @@
         "1919_marriage_albert_singletary_dicie_stewart_register.jpg"
     ]
 }
-]
+  ]
