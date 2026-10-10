@@ -232,5 +232,55 @@
         "mary-frances-darling"
     ],
     "location": ""
+},
+{
+    "id": "sarah-lusindy-dowling-gravestone",
+    "file": "sarah_lusindy_dowling_headstone.jpg",
+    "type": "grave",
+    "caption": "Headstone of Sarah Lusindy Dowling (March 19, 1840 – March 30, 1908), Brady Cemetery, Lee, Madison County, Florida. The inscription provides evidence for the spelling of her middle name.",
+    "people": [
+        "sarah-sallie-wadsworth-1840"
+    ],
+    "location": "Brady Cemetery, Lee, Madison County, Florida"
+},
+{
+    "id": "everett-darling-headstone",
+    "file": "everett_darling_headstone.jpg",
+    "type": "grave",
+    "caption": "Headstone of Everett Darling (1854–1935), Brady Cemetery, Lee, Madison County, Florida.",
+    "people": [
+        "everett-darling"
+    ],
+    "location": "Brady Cemetery, Lee, Madison County, Florida"
+},
+{
+    "id": "everett-darling-seated-portrait",
+    "file": "everett_darling_seated.jpg",
+    "type": "portrait",
+    "caption": "Everett Darling (1854–1935), seated in a dark suit and hat. Photograph provided by his granddaughter, Bettie Darling Prestridge. Date unknown.",
+    "people": [
+        "everett-darling"
+    ],
+    "location": ""
+},
+{
+    "id": "everett-darling-standing-portrait",
+    "file": "everett_darling_standing.jpg",
+    "type": "portrait",
+    "caption": "Everett Darling (1854–1935), standing outdoors. Photograph provided by his granddaughter, Bettie Darling Prestridge. Date unknown.",
+    "people": [
+        "everett-darling"
+    ],
+    "location": ""
+},
+{
+    "id": "sarah-wadsworth-darling-unidentified-man",
+    "file": "sarah_wadsworth_darling_unidentified_man.jpg",
+    "type": "portrait",
+    "caption": "Sarah Wadsworth Darling (1840–1908) with an unidentified man, possibly her husband Everett Darling. The man's identity has not been confirmed. Photograph provided by Bettie Darling Prestridge. Date unknown.",
+    "people": [
+        "sarah-sallie-wadsworth-1840"
+    ],
+    "location": ""
 }
 ]

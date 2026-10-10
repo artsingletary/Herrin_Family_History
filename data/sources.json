@@ -1057,5 +1057,49 @@
     "documents": [
         "1947_death_certificate_mary_frances_darling.jpg"
     ]
+},
+{
+    "id": "1880-census-everett-dowling-sarah-wadsworth",
+    "type": "Census",
+    "title": "1880 U.S. Federal Census — Everett and Sarah Dowling Household",
+    "people": [
+        "everett-darling",
+        "sarah-sallie-wadsworth-1840"
+    ],
+    "date": "1880-06-16",
+    "location": "Ellaville and Norton's Creek Precinct, Madison County, Florida",
+    "description": "The 1880 U.S. Federal Census records Everett Dowling, approximately age 26, his wife Sarah, approximately age 40, and Liddy Blanton, approximately age 4, identified as Everett's stepdaughter. The household appears in Enumeration District 99, Madison County, Florida. The census surname is recorded or transcribed as Dowling, while other family records use Darling. Liddy's biological father has not been established. The census was enumerated June 16, 1880.",
+    "supports": [
+        "Everett and Sarah were living together as husband and wife in 1880",
+        "Everett was approximately 26 years old",
+        "Sarah was approximately 40 years old",
+        "Liddy Blanton was approximately 4 years old",
+        "Liddy was identified as Everett's stepdaughter",
+        "Household residence in Madison County, Florida, in 1880"
+    ],
+    "documents": [
+        "1880_census_everett_dowling_sarah_wadsworth.jpg"
+    ]
+},
+{
+    "id": "aldermans-in-america-blanton-family-page-59",
+    "type": "Published Family History",
+    "title": "Aldermans in America — Blanton Family, Page 59",
+    "people": [
+        "greenberry-blanton",
+        "sarah-sallie-wadsworth-1840"
+    ],
+    "date": "",
+    "location": "",
+    "description": "Page 59 of Aldermans in America identifies Green Berry Blanton as a son of David Blanton and Nancy Goff. It reports his birth as May 25, 1829, death as circa 1863, and wife as Sallie Wadsworth. These are claims from a compiled family history. The reported death date has not been independently verified, and the page does not establish that Greenberry died during the Civil War.",
+    "supports": [
+        "Published family history identifies Green Berry Blanton as a son of David Blanton and Nancy Goff",
+        "Published family history reports Green Berry's birth as May 25, 1829",
+        "Published family history reports Green Berry's death as circa 1863",
+        "Published family history identifies Sallie Wadsworth as Green Berry's wife"
+    ],
+    "documents": [
+        "aldermans_in_america_page_59_blanton_family.jpg"
+    ]
 }
 ]

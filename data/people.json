@@ -957,7 +957,7 @@
 {
     "id": "sarah-sallie-wadsworth-1840",
     "first_name": "Sarah",
-    "middle_name": "",
+    "middle_name": "Lusindy",
     "last_name": "Wadsworth",
     "birth_year": 1840,
     "death_year": 1908,
@@ -966,13 +966,21 @@
     "father": null,
     "mother": null,
     "spouses": [
-        "everett-darling"
+        "everett-darling",
+        "greenberry-blanton"
     ],
     "family_lines": ["singletary"],
-    "biography": [
-        "Sarah Wadsworth, also known as Sallie, was born on March 19, 1840. She was previously married to Greenberry Blanton, who is believed to have died during the Civil War. This account of his death has not yet been independently verified.",
-        "Sarah subsequently married Everett Darling in Madison County, Florida. Their marriage is documented by a surviving marriage license.",
-        "Sarah was the mother of Mary Frances Darling. She died on March 30, 1908, at the age of 68."
+    "profile_photo": "sarah_wadsworth.jpg",
+      "biography": [
+        "Sarah Lusindy Wadsworth, also known as Sallie, was born March 19, 1840, according to her gravestone at Brady Cemetery in Florida. Her birthplace remains uncertain. The 1860 United States Census records her birthplace as Florida, while the 1880 census transcription identifies Georgia.",
+        "Sarah married Greenberry Blanton on December 6, 1857, in Madison County, Florida. Their marriage record identifies her as Sarah M. Wadsworth.",
+        "In the 1860 United States Census, Sarah and Greenberry were living in Lowndes County, Georgia, with two children, Emma E. Blanton and William T. Blanton.",
+        "Greenberry's whereabouts after 1860 remain uncertain. The published family history Aldermans in America reports that he died around 1863, but this date has not been independently verified.",
+        "Sarah subsequently married Everett Darling on March 28, 1879, in Madison County, Florida. Everett's surname also appears as Dowling in historical records.",
+        "In the 1880 United States Census, Sarah was living with Everett in Madison County, Florida. The household also included Liddy A. Blanton, age four, identified as Everett's stepdaughter. Liddy's biological father has not been established.",
+        "Sarah and Everett were the parents of Mary Frances Darling Mathis, born June 4, 1880, according to Mary's Florida death certificate. Mary's 1939 Social Security record gives her birth year as 1881, so the year remains subject to conflicting evidence.",
+        "Sarah's middle name is recorded inconsistently in surviving historical records. Her 1857 marriage record identifies her as Sarah M. Wadsworth. The 1880 census transcription identifies her as Sarah L. Dowling, while her gravestone identifies her as Sarah Lusindy Dowling. The reason for this discrepancy has not been established.",
+        "Sarah died March 30, 1908, according to her gravestone, and is buried at Brady Cemetery in Florida."
     ]
 },
 {
@@ -1006,6 +1014,35 @@
         "William T. Blanton was born around 1859, the son of Greenberry Blanton and Sarah M. Wadsworth.",
         "He appears in the 1860 United States Census in Lowndes County, Georgia, at six months of age.",
         "Family research indicates that William died in 1881. The source confirming his death has not yet been added to the archive."
+    ]
+},
+{
+    "id": "greenberry-blanton",
+    "first_name": "Greenberry",
+    "middle_name": "",
+    "last_name": "Blanton",
+    "display_name": "Greenberry Blanton",
+    "birth_year": 1829,
+    "death_year": null,
+    "birth_date": "1829-05-25",
+    "death_date": null,
+    "birth_place": "",
+    "death_place": "",
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "sarah-sallie-wadsworth-1840"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "Greenberry Blanton, also recorded as Green Berry or Berry Blanton, was born May 25, 1829, according to the published family history Aldermans in America. That publication identifies his parents as David Blanton and Nancy Goff.",
+        "Greenberry married Sarah M. Wadsworth, also known as Sallie Wadsworth, on December 6, 1857, in Madison County, Florida.",
+        "In the 1860 United States Census, Greenberry was living in Lowndes County, Georgia, with his wife Sarah and two children, Emma E. Blanton and William T. Blanton. The census recorded his age as 31 and his birthplace as North Carolina.",
+        "Greenberry's whereabouts after the 1860 census remain uncertain. Aldermans in America reports that he died around 1863, but this date has not been independently verified.",
+        "A Confederate military index identifies a G. B. Blanton serving as a private in Company H, 26th Georgia Infantry. Although the name and geographic connection make this a possible match, no evidence has yet established that the soldier was Greenberry Blanton.",
+        "Sarah subsequently married Everett Darling on March 28, 1879, in Madison County, Florida. The 1880 census records a four-year-old girl named Liddy A. Blanton as Everett's stepdaughter. Liddy's biological father has not been established, and her relationship to Greenberry remains uncertain."
     ]
 }
 ]
