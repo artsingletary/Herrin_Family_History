@@ -255,7 +255,24 @@
         "mother": "nancy-smith-1799",
         "spouses": [
             "charlotte-herrin-1837"
-        ] 
+        ],  
+        "military_service": [
+        {
+            "branch": "Confederate Army",
+            "conflict": "American Civil War",
+            "side": "Confederate",
+            "unit": "Company K, 26th Georgia Infantry",
+            "rank": "Private",
+            "start_date": null,
+            "end_date": null,
+            "notes": "Hezekiah P. Williams is identified as a private in Company K of the 26th Georgia Infantry. His compiled military service record references six medical cards. His enlistment and discharge dates, as well as the circumstances of any medical treatment, have not yet been established. Source: National Archives, M226, Roll 65."
+        }
+        ],
+
+        "biograpy": [
+            "Hezekiah Ponder Williams served as a private in Company K of the 26th Georgia Infantry during the American Civil War. His compiled Confederate military service record references six medical cards, although the circumstances of his military service and medical treatment have not yet been established.",
+            "On July 15, 1867, Hezekiah registered to vote in Clinch County, Georgia, during Reconstruction. His voter registration record includes an oath supporting the Constitution and laws of the United States."
+        ]
     },
     {
         "id": "charlotte-herrin-1837",
@@ -1043,6 +1060,30 @@
         "Greenberry's whereabouts after the 1860 census remain uncertain. Aldermans in America reports that he died around 1863, but this date has not been independently verified.",
         "A Confederate military index identifies a G. B. Blanton serving as a private in Company H, 26th Georgia Infantry. Although the name and geographic connection make this a possible match, no evidence has yet established that the soldier was Greenberry Blanton.",
         "Sarah subsequently married Everett Darling on March 28, 1879, in Madison County, Florida. The 1880 census records a four-year-old girl named Liddy A. Blanton as Everett's stepdaughter. Liddy's biological father has not been established, and her relationship to Greenberry remains uncertain."
+    ]
+},
+{
+    "id": "zilpha-williams-1825",
+    "first_name": "Zilpha",
+    "middle_name": "",
+    "last_name": "Williams",
+    "display_name": "Zilpha Williams",
+    "birth_year": 1825,
+    "death_year": 1905,
+    "birth_date": null,
+    "death_date": null,
+    "father": "john-williams-sr-1799",
+    "mother": "nancy-smith-1799",
+    "spouses": [
+        "joseph-j-cohen"
+    ],
+    "family_lines": [
+        "herrin"
+    ],
+    "biography": [
+        "Zilpha Williams was born around 1825 in Georgia, according to family research. She was a daughter of John Williams and Nancy Smith and a sister of Hezekiah Ponder Williams.",
+        "Zilpha married Joseph J. Cohen. In the 1850 United States Census, she appears as Zelpha Cohen, age 28, in the household of John and Nancy Williams in Ware County, Georgia. A five-year-old child named William Cohen was also recorded in the household.",
+        "Family research indicates that Zilpha died in 1905. Her exact birth and death dates have not yet been verified."
     ]
 }
 ]

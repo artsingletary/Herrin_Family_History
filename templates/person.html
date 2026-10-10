@@ -132,19 +132,21 @@
 
             {% endif %}
 
-
             {% if spouses %}
                 <p>
-                    <strong>Spouse:</strong>
-
-                    {% for spouse in spouses %}
-                        <a href="{{ spouse.id }}.html">
-                            {{ spouse.display_name }}
-                        </a>
-                    {% endfor %}
+                    <strong>Spouse{% if spouses|length > 1 %}s{% endif %}:</strong>
                 </p>
-            {% endif %}
 
+                <ul>
+                    {% for spouse in spouses %}
+                        <li>
+                            <a href="{{ spouse.id }}.html">
+                              {{ spouse.display_name }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
 
             {% if children %}
 

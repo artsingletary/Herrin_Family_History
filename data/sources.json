@@ -1101,5 +1101,91 @@
     "documents": [
         "aldermans_in_america_page_59_blanton_family.jpg"
     ]
+},
+{
+    "id": "1941-birth-certificate-arthur-singletary",
+    "type": "Birth Certificate",
+    "title": "1941 Florida Birth Certificate — Arthur Singletary",
+    "people": [
+        "arthur-singletary-1941"
+    ],
+    "date": "1941-10-24",
+    "location": "Lafayette County, Florida",
+    "description": "Certified copy of Florida birth certificate, State File No. 6252, documenting the birth of Arthur Singletary on October 24, 1941, in Lafayette County, Florida. The certificate identifies his father as Dewey Singletary and his mother as Ollie Mae Herrin. Dewey's occupation is recorded as farming, and Ollie's occupation as housewife.",
+    "supports": [
+        "Birth of Arthur Singletary on October 24, 1941",
+        "Birthplace in Lafayette County, Florida",
+        "Dewey Singletary identified as father",
+        "Ollie Mae Herrin identified as mother",
+        "Dewey Singletary's occupation recorded as farming",
+        "Ollie Mae Herrin's occupation recorded as housewife"
+    ],
+    "documents": [
+        "arthur_singletary_sr_birth_certificate.jpg"
+    ]
+},
+{
+    "id": "hezekiah-williams-confederate-service",
+    "type": "Military Record",
+    "title": "Confederate Military Service Record — Hezekiah P. Williams",
+    "people": [
+        "hezekiah-ponder-williams-1828"
+    ],
+    "date": "",
+    "location": "Georgia",
+    "description": "Compiled Confederate military service record cover identifying Hezekiah P. Williams as a private in Company K, 26th Georgia Infantry. The cover indicates that the service file contains six medical cards. Additional service records are needed to establish the dates and circumstances of his military service.",
+    "supports": [
+        "Hezekiah P. Williams served as a Confederate private",
+        "Military unit identified as Company K, 26th Georgia Infantry",
+        "Compiled service file contains six medical cards"
+    ],
+    "documents": [
+        "hezekiah_ponder_williams_confederate_service.jpg"
+    ]
+},
+{
+    "id": "1867-voter-registration-hezekiah-williams",
+    "type": "Voter Registration",
+    "title": "1867 Georgia Voter Registration — Hezekiah P. Williams",
+    "people": [
+        "hezekiah-ponder-williams-1828"
+    ],
+    "date": "1867-07-15",
+    "location": "Clinch County, Georgia",
+    "description": "Reconstruction-era voter registration oath signed by Hezekiah P. Williams on July 15, 1867, in Clinch County, Georgia. The record identifies his residence in Clinch County and documents his registration under the Reconstruction Acts following the Civil War.",
+    "supports": [
+        "Hezekiah P. Williams resided in Clinch County, Georgia, in July 1867",
+        "Hezekiah P. Williams registered to vote on July 15, 1867",
+        "Participation in Reconstruction-era voter registration"
+    ],
+    "documents": [
+        "hezekiah_ponder_williams_1867_voter_registration.jpg"
+    ]
+},
+{
+    "id": "1850-census-john-williams-ware-georgia",
+    "type": "Census",
+    "title": "1850 U.S. Federal Census — John Williams Household",
+    "people": [
+        "john-williams-sr-1799",
+        "nancy-smith-1799",
+        "zilpha-williams-1825",
+        "hezekiah-ponder-williams-1828"
+    ],
+    "date": "1850-10-03",
+    "location": "Division 89, Ware County, Georgia",
+    "description": "The 1850 United States Federal Census records the household of John Williams, age 50, and Nancy Williams, age 50, in Division 89, Ware County, Georgia, dwelling 343, family 343. Other household members include Isham Williams, 27; John Williams, 23; Hezekiah Williams, 22; Mary Williams, 16; Martha Williams, 15; Sarah Williams, 10; William Williams, 7; Zelpha Cohen, 28; and William Cohen, 5. Hezekiah's occupation is recorded as farmer, and his birthplace as Georgia. The 1850 census does not explicitly identify relationships between household members.",
+    "supports": [
+        "John Williams and Nancy Williams were living in Ware County, Georgia, in 1850",
+        "Hezekiah Williams was living in the same household",
+        "Hezekiah was approximately 22 years old in 1850",
+        "Hezekiah was born approximately 1828 in Georgia",
+        "Hezekiah's occupation was farmer",
+        "Isham, John, Mary, Martha, Sarah, and William Williams were members of the household",
+        "Zelpha Cohen and William Cohen were also members of the household"
+    ],
+    "documents": [
+        "1850_census_john_williams_ware_georgia.jpg"
+    ]
 }
 ]
