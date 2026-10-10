@@ -758,6 +758,10 @@
         "singletary"
     ],
     "profile_photo": "mary_frances_darling.jpg",
+    "birth_date": "1881-06-04",
+    "birth_year":"1881",
+    "father": "everett-darling",
+    "mother": "sarah-sallie-wadsworth-1840", 
     "spouses": [
         "daniel-m-mathis"
     ],
@@ -928,6 +932,80 @@
     "biography": [
         "Viola Singletary was born around 1908 in Florida. She was the daughter of John V. Singletary and Mary Bryant Singletary.",
         "The 1910 United States Federal Census lists Viola, approximately two years old, living with her parents and siblings in Lafayette County, Florida."
+    ]
+},
+{
+    "id": "everett-darling",
+    "first_name": "Everett",
+    "middle_name": "",
+    "last_name": "Darling",
+    "birth_year": 1854,
+    "death_year": 1935,
+    "birth_date": "1854-04-14",
+    "birth_place": "Connecticut, United States",
+    "death_date": "1935-09-11",
+    "death_place": "Mayo, Lafayette County, Florida, United States",
+    "father": null,
+    "mother": null,
+    "spouses": ["sarah-sallie-wadsworth-1840"],
+    "family_lines": ["singletary"],
+    "biography": [
+        "Everett Darling was born on April 14, 1854, in Connecticut. He was the father of Mary Frances Darling and an ancestor of the Singletary family.",
+        "Everett died on September 11, 1935, in Mayo, Lafayette County, Florida, at the age of 81."
+    ]
+},
+{
+    "id": "sarah-sallie-wadsworth-1840",
+    "first_name": "Sarah",
+    "middle_name": "",
+    "last_name": "Wadsworth",
+    "birth_year": 1840,
+    "death_year": 1908,
+    "birth_date": "1840-03-19",
+    "death_date": "1908-03-30",
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "everett-darling"
+    ],
+    "family_lines": ["singletary"],
+    "biography": [
+        "Sarah Wadsworth, also known as Sallie, was born on March 19, 1840. She was previously married to Greenberry Blanton, who is believed to have died during the Civil War. This account of his death has not yet been independently verified.",
+        "Sarah subsequently married Everett Darling in Madison County, Florida. Their marriage is documented by a surviving marriage license.",
+        "Sarah was the mother of Mary Frances Darling. She died on March 30, 1908, at the age of 68."
+    ]
+},
+{
+    "id": "emma-e-blanton-1857",
+    "first_name": "Emma",
+    "middle_name": "E.",
+    "last_name": "Blanton",
+    "birth_year": 1857,
+    "death_year": null,
+    "father": "greenberry-blanton",
+    "mother": "sarah-sallie-wadsworth-1840",
+    "spouses": [],
+    "family_lines": ["singletary"],
+    "biography": [
+        "Emma E. Blanton was born around 1857, the daughter of Greenberry Blanton and Sarah M. Wadsworth.",
+        "She appears in the 1860 United States Census in Lowndes County, Georgia, at approximately three years of age. No later records have yet been identified confirming her adult life or date of death."
+    ]
+},
+{
+    "id": "william-t-blanton-1859",
+    "first_name": "William",
+    "middle_name": "T.",
+    "last_name": "Blanton",
+    "birth_year": 1859,
+    "death_year": 1881,
+    "father": "greenberry-blanton",
+    "mother": "sarah-sallie-wadsworth-1840",
+    "spouses": [],
+    "family_lines": ["singletary"],
+    "biography": [
+        "William T. Blanton was born around 1859, the son of Greenberry Blanton and Sarah M. Wadsworth.",
+        "He appears in the 1860 United States Census in Lowndes County, Georgia, at six months of age.",
+        "Family research indicates that William died in 1881. The source confirming his death has not yet been added to the archive."
     ]
 }
 ]

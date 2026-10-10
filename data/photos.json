@@ -45,7 +45,7 @@
     {
         "id": "william-levi-herrin-and-brother",
         "file": "william_levi_herrin_and_brother.jpg",
-        "caption": "William Levi Herrin and his brother.",
+        "caption": "William Levi Herrin and his brother Jack.",
         "people": [
             "william-levi-herrin-1892"
         ]
@@ -212,5 +212,25 @@
         "mary-bryant-1875"
     ],
     "location": "Bethel Creek Baptist Church Cemetery (formerly Bell's Mill Creek Cemetery), Day, Lafayette County, Florida"
+},
+{
+    "id": "mary-frances-darling-portrait-01",
+    "file": "mary_frances_darling_01.jpg",
+    "type": "portrait",
+    "caption": "Mary Frances Darling Mathis — seated portrait. Date unknown.",
+    "people": [
+        "mary-frances-darling"
+    ],
+    "location": ""
+},
+{
+    "id": "mary-frances-darling-portrait-02",
+    "file": "mary_frances_darling_02.jpg",
+    "type": "portrait",
+    "caption": "Mary Frances Darling Mathis — portrait. Date unknown.",
+    "people": [
+        "mary-frances-darling"
+    ],
+    "location": ""
 }
 ]

@@ -1015,5 +1015,47 @@
         "1919_marriage_albert_singletary_dicie_stewart_certificate.jpg",
         "1919_marriage_albert_singletary_dicie_stewart_register.jpg"
     ]
+},
+{
+    "id": "1879-marriage-everett-darling-sarah-wadsworth",
+    "type": "Marriage Record",
+    "title": "1879 Marriage License — Everett Darling and Sarah Wadsworth",
+    "people": [
+        "everett-darling",
+        "sarah-sallie-wadsworth-1840"
+    ],
+    "date": "1879-03-28",
+    "location": "Lee, Madison County, Florida",
+    "description": "Marriage license and certification for Everett Darling and Sarah Wadsworth in Madison County, Florida. Family research identifies their marriage date as March 28, 1879, in Lee, Florida.",
+    "supports": [
+        "Marriage of Everett Darling and Sarah Wadsworth",
+        "Marriage recorded in Madison County, Florida",
+        "Reported marriage date of March 28, 1879"
+    ],
+    "documents": [
+        "1879_marriage_everett_darling_sarah_wadsworth.jpg"
+    ]
+},
+{
+    "id": "1947-death-certificate-mary-frances-darling-mathis",
+    "type": "Death Certificate",
+    "title": "1947 Florida Death Certificate — Mary Frances Darling Mathis",
+    "people": [
+        "mary-frances-darling" 
+    ],
+    "date": "1947-11-07",
+    "location": "Mayo, Lafayette County, Florida",
+    "description": "Florida death certificate No. 21468 for Mary Frances Mathis, born June 4, 1880, in Madison County, Florida, and deceased November 7, 1947, in Mayo, Lafayette County. The certificate identifies her husband as Daniel Mathis, her father as Everette Darling, and her mother as Sarah Blanton. Sarah Blanton is believed to be Sarah M. Wadsworth, who was previously married to Greenbery Blanton before marrying Everett Darling.",
+    "supports": [
+        "Birth of Mary Frances Darling on June 4, 1880",
+        "Death of Mary Frances Mathis on November 7, 1947",
+        "Everette Darling identified as her father",
+        "Sarah Blanton identified as her mother",
+        "Marriage to Daniel Mathis",
+        "Burial at Airline Cemetery"
+    ],
+    "documents": [
+        "1947_death_certificate_mary_frances_darling.jpg"
+    ]
 }
-  ]
+]
