@@ -1401,13 +1401,17 @@
         "Gladys's parents were W. L. Herrin and Laura Palmer",
         "Gladys was buried at Woodlawn Cemetery in Perry, Florida"
     ],
-    "documents": ["gladys_herrin_death_certificate_1954.jpg"]
+    "documents": [
+        "gladys_herrin_death_certificate_1954.jpg"
+    ]
 },
 {
     "id": "herrin-sisters-marriages-1947",
     "type": "Marriage Record",
     "title": "Brooks County Marriage Register — Gladys and Marylou Herrin, August 1947",
-    "people": ["gladys-lucille-herrin-1924"],
+    "people": ["gladys-lucille-herrin-1924",
+               "mary-lou-herrin-1927"
+    ],
     "date": "1947-08-03",
     "location": "Brooks County, Georgia",
     "description": "Brooks County marriage register showing that sisters Gladys Lucille Herrin and Marylou Herrin married on August 3, 1947. Gladys married Lamar Lee Stephens, while Marylou married Gordon Edward Bell. Both marriages were performed by Frank H. McElroy, minister. The entries appear together on the same register page. The records do not establish whether the marriages were part of a joint ceremony.",
@@ -1418,5 +1422,85 @@
         "The two marriage records appear on the same register page"
     ],
     "documents": ["brooks_county_marriage_register_august_1947.jpg"]
+},
+{
+    "id": "mary-lou-herrin-death-certificate-1972",
+    "type": "Death Certificate",
+    "title": "Florida Death Certificate — Mary Lou Mathis, 1972",
+    "people": ["mary-lou-herrin-1927"],
+    "date": "1972-12-16",
+    "location": "Orlando, Orange County, Florida",
+    "description": "Florida death certificate, state file number 72-082579, documenting the death of Mary Lou Mathis on December 16, 1972, in Orlando, Florida. She was born May 8, 1927, in Georgia. Her parents are identified as William Herrin and Laura Palmer. The certificate names Howard Mathis as her surviving husband and Miss Linda T. Miller as the informant. Burial took place December 19, 1972, at Woodlawn Cemetery in Perry, Florida.",
+    "supports": [
+        "Mary Lou was born May 8, 1927",
+        "Mary Lou was born in Georgia",
+        "Mary Lou died December 16, 1972",
+        "Mary Lou's parents were William Herrin and Laura Palmer",
+        "Mary Lou's surviving husband was Howard Mathis",
+        "Mary Lou was buried at Woodlawn Cemetery in Perry, Florida"
+    ],
+    "documents": [
+        "mary_lou_herrin_mathis_death_certificate_1972.jpg"
+    ]
+},
+{
+    "id": "mary-lou-herrin-obituary-1972",
+    "type": "Obituary",
+    "title": "Obituary — Mary Lou Miller, December 1972",
+    "people": ["mary-lou-herrin-1927"],
+    "date": "1972",
+    "location": "Perry, Taylor County, Florida",
+    "description": "Newspaper obituary for Mary Lou Miller, age 45, reporting her death at her home in Orlando. It identifies her as a native of Pearson, Georgia, and a longtime resident of Taylor County, Florida. Survivors included daughter Laura Linda Miller, son Robert B. Miller, stepson Charles Miller Jr., father William L. Herrin, six sisters, and two brothers. The obituary also records her membership in the Church of Jesus Christ of Latter-day Saints. Newspaper title and exact publication date have not yet been established.",
+    "supports": [
+        "Mary Lou was born in Pearson, Georgia",
+        "Mary Lou lived most of her life in Taylor County, Florida",
+        "Mary Lou had a daughter named Laura Linda Miller",
+        "Mary Lou had a son named Robert B. Miller",
+        "Mary Lou had a stepson named Charles Miller Jr.",
+        "Mary Lou was a member of the Church of Jesus Christ of Latter-day Saints",
+        "William L. Herrin was living at the time of Mary Lou's death"
+    ],
+    "documents": [
+        "mary_lou_herrin_obituary_1972.jpeg"
+    ]
+},
+{
+    "id": "linda-miller-marriage-announcement-1973",
+    "type": "Newspaper",
+    "title": "Marriage Announcement — Linda Louise Miller and Jeffrey Phillip Smith",
+    "people": [
+        "linda-miller-1953",
+        "jeffrey-phillip-smith"
+    ],
+    "date": "1973-07-30",
+    "location": "Miami, Miami-Dade County, Florida",
+    "description": "Marriage announcement published in The Miami Herald on July 30, 1973. The announcement identifies Linda Louise Miller as the daughter of Charles A. Miller of Perry, Florida, and the late Marylou Mathis. It reports her marriage to Jeffrey Phillip Smith at Sierra-Norwood Baptist Church. Linda graduated from the Florida School for the Deaf and Blind in St. Augustine and attended Florida State University. The announcement also identifies Jeffrey as the son of Mr. and Mrs. Phillip A. Smith.",
+    "supports": [
+        "Linda was the daughter of Charles A. Miller and Mary Lou Herrin Mathis",
+        "Linda used the name Linda Louise Miller in 1973",
+        "Linda married Jeffrey Phillip Smith",
+        "Linda graduated from the Florida School for the Deaf and Blind",
+        "Linda attended Florida State University"
+    ],
+    "documents": [
+        "linda_miller_jeffrey_smith_marriage_1973.jpg"
+    ]
+},
+{
+    "id": "linda-miller-jeffrey-smith-marriage-1973",
+    "type": "Marriage Record",
+    "title": "Florida Marriage Record — Linda Miller and Jeffrey Phillip Smith, 1973",
+    "people": [
+        "linda-miller-1953",
+        "jeffrey-phillip-smith"
+    ],
+    "date": "1973-07-29",
+    "location": "Miami-Dade County, Florida",
+    "description": "Florida marriage index entry for Jeffrey Phillip Smith and his spouse, dated July 29, 1973, Miami-Dade County. Certificate number 043837, volume 3399. A separate marriage record identifying the bride as Linda Louise Miller gives August 5, 1973. The discrepancy between the dates has not yet been resolved.",
+    "supports": [
+        "Linda Miller married Jeffrey Phillip Smith in 1973",
+        "A Florida marriage index records July 29, 1973"
+    ],
+    "documents": []
 }
 ]

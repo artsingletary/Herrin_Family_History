@@ -43,6 +43,7 @@
         "id": "william-levi-herrin-1892",
         "first_name": "William",
         "middle_name": "Levi",
+         "nickname": "W.L.",
         "last_name": "Herrin",
         "family_lines": [
             "herrin"
@@ -464,6 +465,10 @@
         "first_name": "Mary",
         "middle_name": "Lou",
         "last_name": "Herrin",
+        "alternate_names": [
+            "Mary Lou Bell",
+            "Mary Lou Mathis"
+        ],
         "family_lines": [
             "herrin"
         ], 
@@ -476,10 +481,20 @@
         "death_place": "Orlando, Orange, Florida, United States",
         "father": "william-levi-herrin-1892",
         "mother": "lauretta-palmer-1898",
-        "spouses": [],
+        "spouses": [
+                    "gordon-edward-bell",
+                    "charles-alton-miller-sr",
+                    "howard-mathis"
+        ],
         "biography": [
-            "Mary Lou Herrin was born on May 8, 1927, in Pearson, Atkinson County, Georgia.",
-            "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on December 16, 1972, in Orlando, Orange County, Florida."
+            "Mary Lou Herrin was born May 8, 1927, in Pearson, Atkinson County, Georgia, the daughter of William Levi Herrin (1892–1975) and Laura Etta Palmer (1898–1959). She grew up as part of the large Herrin family, whose roots extended through southern Georgia and northern Florida.",
+            "On August 3, 1947, at age 20, Mary Lou married Gordon Edward Bell in Brooks County, Georgia. Their marriage was performed by Frank H. McElroy, a minister. An unusual family connection occurred that same day when Mary Lou's sister Gladys Lucille Herrin married Lamar Lee Stephens, also in Brooks County, with the same minister officiating. The sisters' marriage records appear together on the same page of the county marriage register. Although it is not known whether they participated in a joint wedding ceremony, the two sisters shared the same wedding date and minister.",
+            "In 1952, Mary Lou married Charles Alton Miller Sr. (1929–2015) in Taylor County, Florida. The Florida Department of Health marriage record identifies her as Mary Lou Bell, reflecting her surname from her previous marriage. Their marriage was recorded under certificate number 15947, volume 1387.",
+            "Mary Lou and Charles had two children, Robbie and Linda Miller. A family photograph shows Mary Lou seated with her children in front of a Christmas tree, preserving a glimpse of their family life. Linda is believed to be the Linda T. Miller identified as the informant on Mary Lou's death certificate, although that connection has not yet been independently verified.",
+            "Mary Lou and Charles Miller divorced in June 1967 in Taylor County, Florida. Their divorce is documented in Florida records under certificate number 13840. Charles later died January 18, 2015, in Florida, at age 85.",
+            "Following her divorce, Mary Lou married Howard Mathis. Howard was the brother of Freddy Ray Mathis, who married Mary Lou's sister Evelyn Herrin. As a result, two Herrin sisters married two Mathis brothers, creating an additional family connection between the Herrin and Mathis families. The exact date and location of Mary Lou's marriage to Howard have not yet been established.",
+            "Mary Lou spent part of her life in Taylor County, Florida, where several members of the Herrin family had settled. Her death certificate identifies her occupation as homemaker and records Howard Mathis as her surviving husband.",
+            "Mary Lou died December 16, 1972, in Orlando, Orange County, Florida, at the age of 45. Her death certificate identifies Miss Linda T. Miller as the informant. She was buried December 19, 1972, at Woodlawn Cemetery in Perry, Taylor County, Florida, where several members of the Herrin family are also buried."
         ]
 },
 {
@@ -1220,6 +1235,33 @@
     "During the American Civil War, William served as a private in Company K, 26th Georgia Infantry, Confederate Army. His older brother Hezekiah Ponder Williams also served in the same company and regiment.",
     "William died on May 12, 1864, at Spotsylvania Courthouse, Virginia, during the Battle of Spotsylvania Court House. He was approximately 20 or 21 years old.",
     "William was buried at Spotsylvania Confederate Cemetery in Virginia. In October 1929, Mrs. C. P. Andrews submitted an application to the War Department for a government headstone to mark his grave. The application was verified in July 1930."
+    ]
+},
+{
+    "id": "linda-miller-1953",
+    "first_name": "Linda",
+    "middle_name": null,
+    "last_name": "Miller",
+    "display_name": "Linda Miller",
+    "birth_year": 1953,
+    "death_year": 2020,
+    "birth_date": "1953-12-13",
+    "death_date": "2020-01-08",
+    "father": "charles-alton-miller-sr",
+    "mother": "mary-lou-herrin",
+    "spouses": [
+        "jeffrey-phillip-smith"
+    ],
+    "family_lines": [
+        "herrin"
+    ],
+    "biography": [
+        "Linda Miller was born December 13, 1953, in Georgia, the daughter of Charles Alton Miller Sr. and Mary Lou Herrin. Her mother was a daughter of William Levi Herrin and Laura Etta Palmer. Linda had a brother, Robert B. Miller, known as Robbie, and a stepbrother, Charles Miller Jr.",
+        "Linda's name appears differently in surviving family records. Her mother's 1972 obituary identifies her as Laura Linda Miller, while her 1973 marriage announcement and marriage record identify her as Linda Louise Miller. Family recollections suggest her original name may have been Linda Laura Miller. Her gravestone identifies her simply as Linda Miller. Her full birth name has not yet been established.",
+        "Linda graduated from the Florida School for the Deaf and Blind in St. Augustine, Florida, and later attended Florida State University. Both educational institutions were identified in the newspaper announcement of her marriage.",
+        "On July 29, 1973, Linda married Jeffrey Phillip Smith at Sierra-Norwood Baptist Church. Their marriage was announced in The Miami Herald on July 30, 1973. A separate marriage record gives August 5, 1973, and the reason for the difference between the recorded dates has not yet been established.",
+        "Linda and Jeffrey divorced October 30, 1989, in Broward County, Florida. According to family recollections, Jeffrey was Linda's only husband, and she was unmarried at the time of her death. No children have been identified from their marriage.",
+        "Linda died January 8, 2020, in Florida, at the age of 66. She was buried at Woodlawn Cemetery in Perry, Taylor County, Florida, beside her mother, Mary Lou Herrin. Her gravestone bears the inscription 'Much Love.'"
     ]
 }
 ]
