@@ -292,5 +292,111 @@
         "william-williams-1843"
     ],
     "location": "Spotsylvania Confederate Cemetery, Spotsylvania Courthouse, Virginia"
+},
+{
+    "id": "william-levi-herrin-laura-palmer-portrait",
+    "file": "william_levi_herrin_laura_etta_palmer_portrait.jpg",
+    "type": "portrait",
+    "caption": "William Levi Herrin (1892–1975) and his wife, Laura Etta Palmer (1898–1959).",
+    "people": [
+        "william-levi-herrin-1892",
+        "lauretta-palmer-1898"
+    ],
+    "location": ""
+},
+{
+    "id": "laura-etta-palmer-family-photo",
+    "file": "laura_etta_palmer_family_photo.jpg",
+    "type": "portrait",
+    "caption": "Laura Etta Palmer holding an infant, with a young boy identified in the family photograph filename as Big Bill Faulkner, a child of Dorothy Herrin.",
+    "people": [
+        "lauretta-palmer-1898"
+    ],
+    "location": ""
+},
+{
+    "id": "william-levi-herrin-laura-palmer-gravestone",
+    "file": "william_levi_herrin_laura_etta_palmer_gravestone.jpg",
+    "type": "grave",
+    "caption": "Gravestones of William Levi Herrin (May 4, 1892 – March 12, 1975) and Laura E. Palmer (June 25, 1898 – July 3, 1959).",
+    "people": [
+        "william-levi-herrin-1892",
+        "lauretta-palmer-1898"
+    ],
+    "location": "Woodlawn Cemetery, Perry, Taylor County, Florida"
+},
+{
+    "id": "shelby-jean-herrin-gravestone",
+    "file": "shelby_jean_herrin_gravestone.jpg",
+    "type": "grave",
+    "caption": "Gravestone of Shelby Jean Herrin Freeman (1939–1978), Woodlawn Cemetery, Perry, Florida. The graves of her parents, William Levi Herrin and Laura Etta Palmer, are visible in the background.",
+    "people": ["shelby-jean-herrin-1939"],
+    "location": "Woodlawn Cemetery, Perry, Taylor County, Florida"
+},
+{
+    "id": "shelby-jean-herrin-dorothy-group",
+    "file": "shelby_jean_herrin_dorothy_herrin_group.jpg",
+    "type": "portrait",
+    "caption": "Family photograph identified as Dorothy Herrin, a friend, and Shelby Jean Herrin.",
+    "people": ["shelby-jean-herrin-1939"],
+    "location": ""
+},
+{
+    "id": "shelby-jean-herrin-evelyn-family",
+    "file": "shelby_jean_herrin_evelyn_herrin_family.jpg",
+    "type": "portrait",
+    "caption": "Family photograph associated with Shelby Jean Herrin and Evelyn Herrin, showing an adult woman and several children.",
+    "people": ["shelby-jean-herrin-1939"],
+    "location": ""
+},
+{
+    "id": "shelby-jean-herrin-with-friend",
+    "file": "shelby_jean_herrin_with_friend.jpg",
+    "type": "portrait",
+    "caption": "Shelby Jean Herrin and a friend photographed beside an automobile.",
+    "people": ["shelby-jean-herrin-1939"],
+    "location": ""
+},
+{
+    "id": "shelby-jean-herrin-childhood-portrait-1",
+    "file": "shelby_jean_herrin_childhood_portrait_1.jpg",
+    "type": "portrait",
+    "caption": "Childhood portrait of Shelby Jean Herrin wearing a patterned dress.",
+    "people": ["shelby-jean-herrin-1939"],
+    "location": ""
+},
+{
+    "id": "shelby-jean-herrin-childhood-portrait-2",
+    "file": "shelby_jean_herrin_childhood_portrait_2.jpg",
+    "type": "portrait",
+    "caption": "Childhood portrait of Shelby Jean Herrin wearing a light-colored dress.",
+    "people": ["shelby-jean-herrin-1939"],
+    "location": ""
+},
+{
+    "id": "james-talmadge-herrin-gravestone",
+    "file": "james_talmadge_herrin_gravestone.jpg",
+    "type": "grave",
+    "caption": "Military gravestone of James Talmadge Herrin (1919–1986), U.S. Army veteran of World War II, Woodlawn Cemetery, Perry, Florida.",
+    "people": [
+        "james-talmage-herrin-1919"
+    ],
+    "location": "Woodlawn Cemetery, Perry, Taylor County, Florida"
+},
+{
+    "id": "gladys-herrin-lamar-stephens-photo",
+    "file": "gladys_lucille_herrin_lamar_stephens.jpg",
+    "type": "portrait",
+    "caption": "Gladys Lucille Herrin (1924–1954) with Lamar Lee Stephens.",
+    "people": ["gladys-lucille-herrin-1924"],
+    "location": ""
+},
+{
+    "id": "gladys-herrin-with-baby-photo",
+    "file": "gladys_lucille_herrin_with_baby.jpg",
+    "type": "portrait",
+    "caption": "Gladys Lucille Herrin Stephens holding an infant. The child's identity and photograph date have not yet been established.",
+    "people": ["gladys-lucille-herrin-1924"],
+    "location": ""
 }
 ]

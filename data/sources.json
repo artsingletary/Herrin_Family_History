@@ -1268,5 +1268,155 @@
     "documents": [
         "william_m_williams_headstone_application_1929.png"
     ]
+},
+{
+    "id": "shelby-jean-herrin-death-certificate-1978",
+    "type": "Death Certificate",
+    "title": "Georgia Death Certificate — Shelby Jean Freeman, 1978",
+    "people": ["shelby-jean-herrin-1939"],
+    "date": "1978-09-12",
+    "location": "Clayton County, Georgia",
+    "description": "Georgia death certificate, state file number 029224, identifying Shelby Jean Freeman as born February 26, 1939, in Clinch County, Georgia, and deceased September 12, 1978, at Clayton General Hospital in Riverdale, Georgia. Her parents are identified as W. L. Herrin and Laura Palmer, and her husband as Arthur M. Freeman. Burial was recorded at Woodlawn Cemetery in Perry, Florida.",
+    "supports": [
+        "Shelby Jean Herrin was born February 26, 1939",
+        "Shelby was born in Clinch County, Georgia",
+        "Shelby died September 12, 1978",
+        "Shelby's parents were W. L. Herrin and Laura Palmer",
+        "Shelby's husband was Arthur M. Freeman",
+        "Shelby was buried at Woodlawn Cemetery in Perry, Florida"
+    ],
+    "documents": [
+        "shelby_jean_herrin_death_certificate_1978.jpeg"
+    ]
+},
+{
+    "id": "shelby-jean-herrin-obituary-1978",
+    "type": "Obituary",
+    "title": "Obituary — Shelby Jean Freeman, 1978",
+    "people": ["shelby-jean-herrin-1939"],
+    "date": "1978",
+    "location": "Perry, Florida",
+    "description": "Newspaper obituary for Shelby Jean Freeman, age 39, reporting her death at Clayton County General Hospital in Georgia. The obituary identifies her husband, Arthur M. Freeman; daughter, Elizabeth Renea Griffin; five sisters, Ollie Singletary, Evelyn Webb, Ida Mae Seacrest, Dorothy Hines, and Deloris Morgan; and two brothers, James Herrin and Billy Herrin. Graveside services were scheduled at Woodlawn Cemetery in Perry, Florida. The newspaper title and publication date have not yet been established.",
+    "supports": [
+        "Shelby Jean Freeman died at age 39",
+        "Shelby's husband was Arthur M. Freeman",
+        "Shelby had a daughter named Elizabeth Renea Griffin",
+        "The obituary identifies five sisters and two brothers",
+        "Graveside services were held at Woodlawn Cemetery in Perry, Florida"
+    ],
+    "documents": [
+        "shelby_jean_herrin_obituary_1978.jpeg"
+    ]
+},
+{
+    "id": "james-talmadge-herrin-marriage-1945",
+    "type": "Marriage Record",
+    "title": "Marriage License — James Herrin and Myrtis Hurst, 1945",
+    "people": [
+        "james-talmage-herrin-1919"
+    ],
+    "date": "1945-10-13",
+    "location": "Echols County, Georgia",
+    "description": "Marriage license and certificate documenting the marriage of James Herrin and Myrtis Hurst on October 13, 1945, in Echols County, Georgia. The marriage was performed by W. H. Clayton, County Judge, and recorded October 15, 1945.",
+    "supports": [
+        "James Herrin married Myrtis Hurst",
+        "The marriage took place October 13, 1945",
+        "The marriage occurred in Echols County, Georgia"
+    ],
+    "documents": [
+        "james_talmadge_herrin_marriage_license_1945.jpg"
+    ]
+},
+{
+    "id": "james-talmadge-herrin-death-certificate-1986",
+    "type": "Death Certificate",
+    "title": "Florida Death Certificate — James Talmadge Herrin, 1986",
+    "people": [
+        "james-talmage-herrin-1919"
+    ],
+    "date": "1986-02-08",
+    "location": "Lake City, Columbia County, Florida",
+    "description": "Florida death certificate identifying James Talmadge Herrin as born November 12, 1919, in Georgia and deceased February 8, 1986, at the Veterans Administration Medical Center in Lake City, Florida. His parents are identified as William Levi Herrin and Laura Etta Palmer. His usual residence was Perry, Taylor County, Florida, and burial was recorded at Woodlawn Cemetery.",
+    "supports": [
+        "James's full name was James Talmadge Herrin",
+        "James was born November 12, 1919",
+        "James died February 8, 1986",
+        "James's parents were William Levi Herrin and Laura Etta Palmer",
+        "James was buried at Woodlawn Cemetery in Perry, Florida"
+    ],
+    "documents": [
+        "james_talmadge_herrin_death_certificate_1986.jpg"
+    ]
+},
+{
+    "id": "james-talmadge-herrin-obituary-1986",
+    "type": "Obituary",
+    "title": "Obituary — James T. Herrin Sr., 1986",
+    "people": [
+        "james-talmage-herrin-1919"
+    ],
+    "date": "1986-02-10",
+    "location": "Perry, Florida",
+    "description": "Obituary published in the Tallahassee Democrat on February 10, 1986, reporting the death of James T. Herrin Sr., age 66. It identifies him as a native of Homerville, Georgia, a longtime Perry resident, and a U.S. Army veteran of World War II. It lists four daughters, two sons, five sisters, and one brother, and announces graveside services at Woodlawn Cemetery in Perry.",
+    "supports": [
+        "James was a native of Homerville, Georgia",
+        "James lived in Perry, Florida, for most of his life",
+        "James served in the U.S. Army during World War II",
+        "James worked in the dairy business and later for Gulf Stream Crab Company",
+        "James had four daughters and two sons",
+        "James's surviving siblings included Ollie Singletary and Billy Herrin"
+    ],
+    "documents": [
+        "james_talmadge_herrin_obituary_1986.jpg"
+    ]
+},
+{
+    "id": "gladys-herrin-marriage-1947",
+    "type": "Marriage Record",
+    "title": "Marriage License — Gladys Lucille Herrin and Lamar Lee Stephens, 1947",
+    "people": ["gladys-lucille-herrin-1924"],
+    "date": "1947-08-03",
+    "location": "Brooks County, Georgia",
+    "description": "Marriage license and certificate documenting the marriage of Gladys Lucille Herrin and Lamar Lee Stephens on August 3, 1947, in Brooks County, Georgia. The ceremony was performed by Frank H. McElroy, minister.",
+    "supports": [
+        "Gladys Lucille Herrin married Lamar Lee Stephens",
+        "The marriage took place August 3, 1947",
+        "The marriage occurred in Brooks County, Georgia",
+        "Frank H. McElroy performed the marriage"
+    ],
+    "documents": ["gladys_herrin_lamar_stephens_marriage_1947.jpg"]
+},
+{
+    "id": "gladys-herrin-death-certificate-1954",
+    "type": "Death Certificate",
+    "title": "Florida Death Certificate — Gladys L. Stephens, 1954",
+    "people": ["gladys-lucille-herrin-1924"],
+    "date": "1954-09-27",
+    "location": "Foley, Taylor County, Florida",
+    "description": "Florida death certificate identifying Gladys L. Stephens as born May 25, 1924, in Clinch County, Georgia, and deceased September 27, 1954, at her home in Foley, Taylor County, Florida. Her parents are recorded as W. L. Herrin and Laura Palmer. The certificate records burial at Woodlawn Cemetery in Perry, Florida.",
+    "supports": [
+        "Gladys was born May 25, 1924",
+        "Gladys was born in Clinch County, Georgia",
+        "Gladys died September 27, 1954",
+        "Gladys's parents were W. L. Herrin and Laura Palmer",
+        "Gladys was buried at Woodlawn Cemetery in Perry, Florida"
+    ],
+    "documents": ["gladys_herrin_death_certificate_1954.jpg"]
+},
+{
+    "id": "herrin-sisters-marriages-1947",
+    "type": "Marriage Record",
+    "title": "Brooks County Marriage Register — Gladys and Marylou Herrin, August 1947",
+    "people": ["gladys-lucille-herrin-1924"],
+    "date": "1947-08-03",
+    "location": "Brooks County, Georgia",
+    "description": "Brooks County marriage register showing that sisters Gladys Lucille Herrin and Marylou Herrin married on August 3, 1947. Gladys married Lamar Lee Stephens, while Marylou married Gordon Edward Bell. Both marriages were performed by Frank H. McElroy, minister. The entries appear together on the same register page. The records do not establish whether the marriages were part of a joint ceremony.",
+    "supports": [
+        "Gladys Lucille Herrin married Lamar Lee Stephens on August 3, 1947",
+        "Marylou Herrin married Gordon Edward Bell on August 3, 1947",
+        "Both marriages were performed by Frank H. McElroy",
+        "The two marriage records appear on the same register page"
+    ],
+    "documents": ["brooks_county_marriage_register_august_1947.jpg"]
 }
 ]
