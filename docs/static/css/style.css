@@ -185,3 +185,43 @@ footer {
     font-weight: bold;
     text-decoration: none;
 }
+
+
+/* Family History Contributions */
+
+.family-contributions {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px 40px;
+    background-color: #f8f6f1;
+    border: 1px solid #ddd8cc;
+    border-radius: 8px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.family-contributions h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.family-contributions p {
+    line-height: 1.7;
+}
+
+.contact-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #3d4b3b;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.contact-link:hover {
+    background-color: #566b52;
+    color: white;
+}
