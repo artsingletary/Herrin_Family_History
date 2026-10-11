@@ -282,5 +282,15 @@
         "sarah-sallie-wadsworth-1840"
     ],
     "location": ""
+},
+{
+    "id": "william-m-williams-gravestone",
+    "file": "william_m_williams_gravestone.jpg",
+    "type": "grave",
+    "caption": "Gravestone of Private William M. Williams, Company K, 26th Georgia Infantry, Confederate Army.",
+    "people": [
+        "william-williams-1843"
+    ],
+    "location": "Spotsylvania Confederate Cemetery, Spotsylvania Courthouse, Virginia"
 }
 ]

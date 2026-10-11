@@ -1169,8 +1169,15 @@
     "people": [
         "john-williams-sr-1799",
         "nancy-smith-1799",
+        "isham-williams-1823",
         "zilpha-williams-1825",
-        "hezekiah-ponder-williams-1828"
+        "john-williams-1827",
+        "hezekiah-ponder-williams-1828",
+        "mary-williams-1834",
+        "martha-williams-1835",
+        "sarah-williams-1840",
+        "william-williams-1843"
+
     ],
     "date": "1850-10-03",
     "location": "Division 89, Ware County, Georgia",
@@ -1186,6 +1193,80 @@
     ],
     "documents": [
         "1850_census_john_williams_ware_georgia.jpg"
+    ]
+},
+{
+    "id": "pioneer-williams-families-georgia-page-15",
+    "type": "Published Genealogy",
+    "title": "Pioneer Williams Families of Georgia — Page 15",
+    "people": [
+        "john-williams-sr-1799",
+        "nancy-smith-1799",
+        "hezekiah-ponder-williams-1928",
+        "zilpha-williams-1825",
+        "isham-williams-1823",
+        "john-williams-1827",
+        "mary-williams-1834",
+        "martha-williams-1835",
+        "sarah-williams-1840",
+        "william-williams-1843"
+    ],
+    "date": "",
+    "location": "Georgia",
+    "description": "Page 15 of Pioneer Williams Families of Georgia contains a biographical entry for John Williams, born in Georgia in 1799 and deceased in 1881. It identifies his wife as Nancy Smith, daughter of William Smith, and states that they married in Liberty County, Georgia. The publication names ten children and provides birth years, spouses, and selected biographical details. It identifies Hezekiah Williams as having married Charlotte Herrin first and Jane McClelland second. It also states that William M. Williams was killed during the Civil War at Spotsylvania, Virginia, in 1864. This is a compiled genealogy; its claims should be corroborated with original records where possible.",
+    "supports": [
+        "John Williams was born in Georgia in 1799",
+        "John Williams reportedly died in 1881",
+        "John Williams married Nancy Smith in Liberty County, Georgia",
+        "Nancy Smith was a daughter of William Smith",
+        "John and Nancy Williams had ten children according to the publication",
+        "Hezekiah Williams married Charlotte Herrin and later Jane McClelland",
+        "Martha Williams married Hiram Herrin and later Ephraim McLendon",
+        "William M. Williams reportedly died at Spotsylvania, Virginia, in 1864"
+    ],
+    "documents": [
+        "pioneer_williams_families_georgia_page_15.jpg"
+    ]
+},
+{
+    "id": "1867-voter-registration-john-williams",
+    "type": "Voter Registration",
+    "title": "1867 Georgia Reconstruction Voter Registration — John Williams",
+    "people": [
+        "john-williams-sr-1799"
+    ],
+    "date": "1867-08-23",
+    "location": "Ware County, Georgia",
+    "description": "Reconstruction-era voter registration oath dated August 23, 1867, for John Williams of Ware County, Georgia. The document identifies election precinct 231 and the 5th Registration District. John signed by making his mark. The record does not provide his age or identify family members, so the association with John Williams Sr. is provisional.",
+    "supports": [
+        "A John Williams registered to vote in Ware County, Georgia, on August 23, 1867",
+        "The registration identifies election precinct 231",
+        "The registrant signed by making his mark"
+    ],
+    "documents": [
+        "john_williams_1867_voter_registration.jpg"
+    ]
+},
+{
+    "id": "william-m-williams-headstone-application-1929",
+    "type": "Military Record",
+    "title": "1929 War Department Headstone Application — William M. Williams",
+    "people": [
+        "william-williams-1843"
+    ],
+    "date": "1929-10-11",
+    "location": "Spotsylvania, Virginia",
+    "description": "War Department application for a government headstone submitted October 11, 1929, by Mrs. C. P. Andrews of Spotsylvania, Virginia. The application identifies William M. Williams as a private in Company K, 26th Georgia Infantry, Confederate Army, and records his death as May 12, 1864. The burial location is given as Confederate Cemetery in Spotsylvania, Virginia. The application was verified July 1, 1930.",
+    "supports": [
+        "William M. Williams served as a private",
+        "William served in Company K, 26th Georgia Infantry",
+        "William died May 12, 1864",
+        "William was buried in the Confederate Cemetery at Spotsylvania, Virginia",
+        "A government headstone was requested in October 1929",
+        "The headstone application was verified July 1, 1930"
+    ],
+    "documents": [
+        "william_m_williams_headstone_application_1929.png"
     ]
 }
 ]

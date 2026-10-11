@@ -1085,5 +1085,129 @@
         "Zilpha married Joseph J. Cohen. In the 1850 United States Census, she appears as Zelpha Cohen, age 28, in the household of John and Nancy Williams in Ware County, Georgia. A five-year-old child named William Cohen was also recorded in the household.",
         "Family research indicates that Zilpha died in 1905. Her exact birth and death dates have not yet been verified."
     ]
+},
+{
+    "id": "isham-williams-1823",
+    "first_name": "Isham",
+    "middle_name": "",
+    "last_name": "Williams",
+    "display_name": "Isham Williams",
+    "birth_year": 1823,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": "john-williams-sr-1799",
+    "mother": "nancy-smith-1799",
+    "spouses": [],
+    "family_lines": ["herrin"],
+    "biography": [
+        "Isham Williams was born approximately 1823. He appears in the 1850 United States Census in the household of John and Nancy Williams in Ware County, Georgia, at age 27. His relationship to the household head is not explicitly stated in the census."
+    ]
+},
+{
+    "id": "john-williams-1827",
+    "first_name": "John",
+    "middle_name": "",
+    "last_name": "Williams",
+    "display_name": "John Williams",
+    "birth_year": 1827,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": "john-williams-sr-1799",
+    "mother": "nancy-smith-1799",
+    "spouses": [],
+    "family_lines": ["herrin"],
+    "biography": [
+        "John Williams was born approximately 1827. He appears in the 1850 United States Census in the household of John and Nancy Williams in Ware County, Georgia, at age 23. His relationship to the household head is not explicitly stated in the census."
+    ]
+},
+{
+    "id": "mary-williams-1834",
+    "first_name": "Mary",
+    "middle_name": "",
+    "last_name": "Williams",
+    "display_name": "Mary Williams",
+    "birth_year": 1834,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": "john-williams-sr-1799",
+    "mother": "nancy-smith-1799",
+    "spouses": [],
+    "family_lines": ["herrin"],
+    "biography": [
+        "Mary Williams was born approximately 1834. She appears in the 1850 United States Census in the household of John and Nancy Williams in Ware County, Georgia, at age 16. Her relationship to the household head is not explicitly stated in the census."
+    ]
+},
+{
+    "id": "martha-williams-1835",
+    "first_name": "Martha",
+    "middle_name": "",
+    "last_name": "Williams",
+    "display_name": "Martha Williams",
+    "birth_year": 1835,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": "john-williams-sr-1799",
+    "mother": "nancy-smith-1799",
+    "spouses": [],
+    "family_lines": ["herrin"],
+    "biography": [
+        "Martha Williams was born approximately 1835. She appears in the 1850 United States Census in the household of John and Nancy Williams in Ware County, Georgia, at age 15. Her relationship to the household head is not explicitly stated in the census."
+    ]
+},
+{
+    "id": "sarah-williams-1840",
+    "first_name": "Sarah",
+    "middle_name": "",
+    "last_name": "Williams",
+    "display_name": "Sarah Williams",
+    "birth_year": 1840,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": "john-williams-sr-1799",
+    "mother": "nancy-smith-1799",
+    "spouses": [],
+    "family_lines": ["herrin"],
+    "biography": [
+        "Sarah Williams was born approximately 1840. She appears in the 1850 United States Census in the household of John and Nancy Williams in Ware County, Georgia, at age 10. Her relationship to the household head is not explicitly stated in the census."
+    ]
+},
+{
+    "id": "william-williams-1843",
+    "first_name": "William",
+    "middle_name": "M.",
+    "last_name": "Williams",
+    "display_name": "William Williams",
+    "birth_year": 1843,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": "john-williams-sr-1799",
+    "mother": "nancy-smith-1799",
+    "spouses": [],
+    "family_lines": ["herrin"],
+    "military_service": [
+    {
+        "branch": "Confederate Army",
+        "conflict": "American Civil War",
+        "side": "Confederate",
+        "unit": "Company K, 26th Georgia Infantry",
+        "rank": "Private",
+        "start_date": null,
+        "end_date": "1864-05-12",
+        "notes": "William M. Williams served as a private in Company K, 26th Georgia Infantry. He died on May 12, 1864, at Spotsylvania Courthouse, Virginia, during the Battle of Spotsylvania Court House. His older brother, Hezekiah Ponder Williams, also served in Company K of the 26th Georgia Infantry. William is buried in Spotsylvania Confederate Cemetery. A government headstone was requested in October 1929 and the application was verified in July 1930."
+    }
+    ],
+    "biography": [
+    "William M. Williams was born in 1843 in Ware County, Georgia. He was the youngest son of John Williams and Nancy Smith Williams and a younger brother of Hezekiah Ponder Williams.",
+    "William appears in the 1850 United States Census in the household of John and Nancy Williams in Ware County, Georgia, at age seven.",
+    "During the American Civil War, William served as a private in Company K, 26th Georgia Infantry, Confederate Army. His older brother Hezekiah Ponder Williams also served in the same company and regiment.",
+    "William died on May 12, 1864, at Spotsylvania Courthouse, Virginia, during the Battle of Spotsylvania Court House. He was approximately 20 or 21 years old.",
+    "William was buried at Spotsylvania Confederate Cemetery in Virginia. In October 1929, Mrs. C. P. Andrews submitted an application to the War Department for a government headstone to mark his grave. The application was verified in July 1930."
+    ]
 }
 ]
