@@ -2,7 +2,7 @@
     {
         "id": "ollie-mae-herrin-birth-certificate",
         "type": "Birth Certificate",
-        "title": "Birth Certificate of Ollie Mae Herrin",
+        "title": "1917 Birth Certificate of Ollie Mae Herrin",
         "people": [
             "ollie-mae-herrin-1917"
         ],
@@ -21,7 +21,7 @@
     {
         "id": "ollie-mae-herrin-obituary",
         "type": "Obituary",
-        "title": "Obituary of Ollie Mae Herrin",
+        "title": "1992 Obituary of Ollie Mae Herrin",
         "people": [
             "ollie-mae-herrin-1917"
         ],
@@ -39,7 +39,7 @@
     {
         "id": "ollie-mae-herrin-death-certificate",
         "type": "Death Certificate",
-        "title": "Death Certificate of Ollie Mae Herrin",
+        "title": "1992 Death Certificate of Ollie Mae Herrin",
         "people": [
              "ollie-mae-herrin-1917"
         ],
@@ -283,7 +283,7 @@
         {
         "id": "laura-etta-herrin-death-certificate",
         "type": "Death Certificate",
-        "title": "Death Certificate of Laura Etta Herrin",
+        "title": "1959 Death Certificate of Laura Etta Herrin",
         "people": [
             "lauretta-palmer-1898"
         ],
@@ -306,7 +306,7 @@
     {
         "id": "laura-etta-herrin-obituary-1959",
         "type": "Obituary",
-        "title": "Obituary of Laura Etta Palmer Herrin",
+        "title": "1959 Obituary of Laura Etta Palmer Herrin",
         "people": [
             "lauretta-palmer-1898"
         ],
@@ -328,7 +328,7 @@
     {
         "id": "william-levi-herrin-death-certificate",
         "type": "Death Certificate",
-        "title": "Death Certificate of William Levi Herrin",
+        "title": "1975 Death Certificate of William Levi Herrin",
         "people": [
             "william-levi-herrin-1892"
         ],
@@ -351,7 +351,7 @@
     {
         "id": "william-levi-herrin-obituary-1975",
         "type": "Obituary",
-        "title": "Obituary of William Levi Herrin",
+        "title": "1975 Obituary of William Levi Herrin",
         "people": [
             "william-levi-herrin-1892"
         ],
@@ -373,7 +373,7 @@
     {
         "id": "dewey-singletary-ollie-mae-herrin-marriage-1940",
         "type": "Marriage Record",
-        "title": "Marriage of Dewey Singletary and Ollie Mae Herrin",
+        "title": "1940 Marriage of Dewey Singletary and Ollie Mae Herrin",
         "people": [
             "dewey-singletary-1919",
             "ollie-mae-herrin-1917"
@@ -686,7 +686,7 @@
 {
     "id": "lela-mae-mathis-singletary-death-certificate-1951",
     "type": "Death Certificate",
-    "title": "Florida Death Certificate - Lela Mae Singletary",
+    "title": "1951 Florida Death Certificate - Lela Mae Singletary",
     "people": [
         "lela-mae-mathis-1902"
     ],
@@ -741,7 +741,7 @@
 {
     "id": "arthur-singletary-parris-island-promotion-1961",
     "type": "Newspaper Article",
-    "title": "Arthur Singletary Meritoriously Promoted at Parris Island",
+    "title": "1961 Arthur Singletary Meritoriously Promoted at Parris Island",
     "people": [
         "arthur-singletary-1941"
     ],
@@ -786,7 +786,7 @@
 {
     "id": "dewey-singletary-death-certificate-1973",
     "type": "Death Certificate",
-    "title": "Florida Death Certificate — Dewey Singletary (1973)",
+    "title": "1973 Florida Death Certificate — Dewey Singletary",
     "people": [
         "dewey-singletary-1919"
     ],
@@ -814,7 +814,8 @@
     "people": [
         "daniel-m-mathis",
         "mary-frances-darling",
-        "lela-mae-mathis-1902"
+        "lela-mae-mathis-1902",
+        "frank-mathis-1907"
     ],
     "date": "1910",
     "location": "Norton Creek, Madison County, Florida, United States",
@@ -1272,7 +1273,7 @@
 {
     "id": "shelby-jean-herrin-death-certificate-1978",
     "type": "Death Certificate",
-    "title": "Georgia Death Certificate — Shelby Jean Freeman, 1978",
+    "title": "1978 Georgia Death Certificate — Shelby Jean Freeman",
     "people": ["shelby-jean-herrin-1939"],
     "date": "1978-09-12",
     "location": "Clayton County, Georgia",
@@ -1292,7 +1293,7 @@
 {
     "id": "shelby-jean-herrin-obituary-1978",
     "type": "Obituary",
-    "title": "Obituary — Shelby Jean Freeman, 1978",
+    "title": "1978 Obituary — Shelby Jean Freeman",
     "people": ["shelby-jean-herrin-1939"],
     "date": "1978",
     "location": "Perry, Florida",
@@ -1311,7 +1312,7 @@
 {
     "id": "james-talmadge-herrin-marriage-1945",
     "type": "Marriage Record",
-    "title": "Marriage License — James Herrin and Myrtis Hurst, 1945",
+    "title": "1945 Marriage License — James Herrin and Myrtis Hurst",
     "people": [
         "james-talmage-herrin-1919"
     ],
@@ -1330,7 +1331,7 @@
 {
     "id": "james-talmadge-herrin-death-certificate-1986",
     "type": "Death Certificate",
-    "title": "Florida Death Certificate — James Talmadge Herrin, 1986",
+    "title": "1986 Florida Death Certificate — James Talmadge Herrin",
     "people": [
         "james-talmage-herrin-1919"
     ],
@@ -1351,7 +1352,7 @@
 {
     "id": "james-talmadge-herrin-obituary-1986",
     "type": "Obituary",
-    "title": "Obituary — James T. Herrin Sr., 1986",
+    "title": "1986 Obituary — James T. Herrin Sr.",
     "people": [
         "james-talmage-herrin-1919"
     ],
@@ -1373,7 +1374,7 @@
 {
     "id": "gladys-herrin-marriage-1947",
     "type": "Marriage Record",
-    "title": "Marriage License — Gladys Lucille Herrin and Lamar Lee Stephens, 1947",
+    "title": "1947 Marriage License — Gladys Lucille Herrin and Lamar Lee Stephens",
     "people": ["gladys-lucille-herrin-1924"],
     "date": "1947-08-03",
     "location": "Brooks County, Georgia",
@@ -1389,7 +1390,7 @@
 {
     "id": "gladys-herrin-death-certificate-1954",
     "type": "Death Certificate",
-    "title": "Florida Death Certificate — Gladys L. Stephens, 1954",
+    "title": "1954 Florida Death Certificate — Gladys L. Stephens",
     "people": ["gladys-lucille-herrin-1924"],
     "date": "1954-09-27",
     "location": "Foley, Taylor County, Florida",
@@ -1408,7 +1409,7 @@
 {
     "id": "herrin-sisters-marriages-1947",
     "type": "Marriage Record",
-    "title": "Brooks County Marriage Register — Gladys and Marylou Herrin, August 1947",
+    "title": "1947 Brooks County Marriage Register — Gladys and Marylou Herrin",
     "people": ["gladys-lucille-herrin-1924",
                "mary-lou-herrin-1927"
     ],
@@ -1426,7 +1427,7 @@
 {
     "id": "mary-lou-herrin-death-certificate-1972",
     "type": "Death Certificate",
-    "title": "Florida Death Certificate — Mary Lou Mathis, 1972",
+    "title": "1972 Florida Death Certificate — Mary Lou Mathis",
     "people": ["mary-lou-herrin-1927"],
     "date": "1972-12-16",
     "location": "Orlando, Orange County, Florida",
@@ -1446,7 +1447,7 @@
 {
     "id": "mary-lou-herrin-obituary-1972",
     "type": "Obituary",
-    "title": "Obituary — Mary Lou Miller, December 1972",
+    "title": "1972 Obituary — Mary Lou Miller",
     "people": ["mary-lou-herrin-1927"],
     "date": "1972",
     "location": "Perry, Taylor County, Florida",
@@ -1467,7 +1468,7 @@
 {
     "id": "linda-miller-marriage-announcement-1973",
     "type": "Newspaper",
-    "title": "Marriage Announcement — Linda Louise Miller and Jeffrey Phillip Smith",
+    "title": "1973 Marriage Announcement — Linda Louise Miller and Jeffrey Phillip Smith",
     "people": [
         "linda-miller-1953",
         "jeffrey-phillip-smith"
@@ -1489,7 +1490,7 @@
 {
     "id": "linda-miller-jeffrey-smith-marriage-1973",
     "type": "Marriage Record",
-    "title": "Florida Marriage Record — Linda Miller and Jeffrey Phillip Smith, 1973",
+    "title": "1973 Florida Marriage Record — Linda Miller and Jeffrey Phillip Smith",
     "people": [
         "linda-miller-1953",
         "jeffrey-phillip-smith"
@@ -1506,7 +1507,7 @@
 {
     "id": "frank-mathis-death-certificate-1969",
     "type": "Death Certificate",
-    "title": "Florida Death Certificate — Frank Mathis (1969)",
+    "title": "1969 Florida Death Certificate — Frank Mathis",
     "people": [
         "frank-mathis-1907"
     ],
@@ -1526,7 +1527,7 @@
 {
     "id": "frank-mathis-obituary-1969",
     "type": "Obituary",
-    "title": "Obituary — Frank Mathis (1969)",
+    "title": "1969 Obituary — Frank Mathis",
     "people": [
         "frank-mathis-1907"
     ],
@@ -1547,7 +1548,7 @@
 {
     "id": "mary-virginia-allen-death-certificate-1933",
     "type": "Death Certificate",
-    "title": "Florida Death Certificate — Mary Mathis (1933)",
+    "title": "1933 Florida Death Certificate — Mary Mathis",
     "people": [
         "mary-virginia-allen",
         "frank-mathis-1907"
@@ -1585,5 +1586,47 @@
         "The identification of Moses Darling and Caroline Sharp as Everett's parents is disputed"
     ],
     "documents": []
+},
+{
+    "id": "frank-mathis-mary-allen-parental-consent-1927",
+    "type": "Marriage Record",
+    "title": "1927 Parental Consent for Marriage of Frank Mathis and Mary Allen",
+    "people": [
+        "frank-mathis-1907",
+        "mary-virginia-allen"
+    ],
+    "date": "1927-12-24",
+    "location": "Lafayette County, Florida",
+    "description": "Parental consent dated December 24, 1927, authorizing the marriage of Mary Allen, age 15, to Frank Mathis. The document identifies Mary's parents as R. H. Allen and Florence Allen and is witnessed by Lafayette County Judge Moses H. Padgett.",
+    "supports": [
+        "Mary Allen was 15 years old in December 1927",
+        "Mary Allen received parental consent to marry Frank Mathis",
+        "The parental consent was signed December 24, 1927"
+    ],
+    "documents": [
+        "frank_mathis_mary_allen_parental_consent_1927.jpg"
+    ]
+},
+{
+    "id": "frank-mathis-mary-allen-marriage-1927",
+    "type": "Marriage Record",
+    "title": "1927 Marriage License and Certificate — Frank Mathis and Mary Virginia Allen",
+    "people": [
+        "frank-mathis-1907",
+        "mary-virginia-allen"
+    ],
+    "date": "1927-12-24",
+    "location": "Mayo, Lafayette County, Florida",
+    "description": "Two-page Florida marriage record documenting the marriage of Frank Mathis and Mary Allen on December 24, 1927, in Lafayette County, Florida. The first page is the marriage license cover, while the second contains the marriage license and certification of the ceremony performed by County Judge Moses H. Padgett. The record was filed December 27, 1927, in Marriage Record F, page 243.",
+    "supports": [
+        "Frank Mathis married Mary Virginia Allen on December 24, 1927",
+        "The marriage took place in Lafayette County, Florida",
+        "County Judge Moses H. Padgett performed the marriage ceremony",
+        "The marriage was recorded December 27, 1927"
+    ],
+    "documents": [
+        "frank_mathis_mary_allen_marriage_license_cover_1927.jpg",
+        "frank_mathis_mary_allen_marriage_license_1927.jpg"
+    ]
 }
 ]
