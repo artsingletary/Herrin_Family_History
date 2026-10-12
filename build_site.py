@@ -246,20 +246,39 @@ family_template = environment.get_template("family.html")
 OUTPUT_DIR.mkdir(exist_ok=True)
 PEOPLE_DIR.mkdir(exist_ok=True)
 
+# --------------------------------------------------
+# Sort people alphabetically by last name
+# --------------------------------------------------
+
+def sort_people_by_name(people_list):
+    return sorted(
+        people_list,
+        key=lambda person: (
+            (person.get("last_name") or "").strip().casefold(),
+            (person.get("first_name") or "").strip().casefold(),
+            person.get("birth_year") if person.get("birth_year") is not None else 9999
+        )
+    )
+
 
 # --------------------------------------------------
 # Organize people by family line
 # --------------------------------------------------
 
-herrin_people = [
+# Sort all family members alphabetically
+all_people_sorted = sort_people_by_name(people)
+
+# Herrin family
+herrin_people = sort_people_by_name([
     person for person in people
     if "herrin" in person.get("family_lines", [])
-]
+])
 
-singletary_people = [
+# Singletary family
+singletary_people = sort_people_by_name([
     person for person in people
     if "singletary" in person.get("family_lines", [])
-]
+])
 
 
 # --------------------------------------------------
@@ -295,7 +314,7 @@ family_pages = [
     },
     {
         "family_name": "All",
-        "people": people,
+        "people": all_people_sorted,
         "filename": "all-family.html"
     }
 ]

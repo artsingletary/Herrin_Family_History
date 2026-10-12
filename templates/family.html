@@ -53,21 +53,35 @@
 
         {% endif %}
 
+        <div class="family-sort">
+            <label for="sort-order">Sort by:</label>
+
+            <select id="sort-order">
+                <option value="name">Last Name (A–Z)</option>
+                <option value="oldest">Birth Year (Oldest First)</option>
+                <option value="youngest">Birth Year (Youngest First)</option>
+            </select>
+        </div>
+
         <ul class="family-list">
 
-            {% for person in family_people %}
+           {% for person in family_people %}
 
-                <li>
-                    <a href="people/{{ person.id }}.html">
-                        {{ person.display_name }}
-                    </a>
+            <li
+                data-last-name="{{ person.last_name | default('', true) | lower }}"
+                data-first-name="{{ person.first_name | default('', true) | lower }}"
+                data-birth-year="{{ person.birth_year if person.birth_year is not none else '' }}"
+            >
+                 <a href="people/{{ person.id }}.html">
+                    {{ person.display_name }}
+                </a>
 
-                    {% if person.years %}
-                        — {{ person.years }}
-                    {% endif %}
-                </li>
+                {% if person.years %}
+                    — {{ person.years }}
+                {% endif %}
+            </li>
 
-            {% endfor %}
+           {% endfor %}
 
         </ul>
 
@@ -76,6 +90,71 @@
     <footer>
         <p>Singletary-Herrin Family Archive</p>
     </footer>
+
+    <!-- Family Member Sorting -->
+    <script>
+        const sortSelect = document.getElementById("sort-order");
+        const familyList = document.querySelector(".family-list");
+
+        sortSelect.addEventListener("change", function () {
+
+            const people = Array.from(familyList.querySelectorAll("li"));
+            const sortOrder = sortSelect.value;
+
+            people.sort(function (a, b) {
+
+                const lastNameA = a.dataset.lastName;
+                const lastNameB = b.dataset.lastName;
+
+                const firstNameA = a.dataset.firstName;
+                const firstNameB = b.dataset.firstName;
+
+                const birthYearA = a.dataset.birthYear === ""
+                    ? null : Number(a.dataset.birthYear);
+
+                const birthYearB = b.dataset.birthYear === ""
+                    ? null : Number(b.dataset.birthYear);
+
+                // Sort alphabetically by last name
+                if (sortOrder === "name") {
+                    return lastNameA.localeCompare(lastNameB) ||
+                           firstNameA.localeCompare(firstNameB) ||
+                           (birthYearA ?? 9999) - (birthYearB ?? 9999);
+                }
+
+                // Place unknown birth years at the bottom
+                if (birthYearA === null && birthYearB === null) {
+                    return lastNameA.localeCompare(lastNameB) ||
+                           firstNameA.localeCompare(firstNameB);
+                }
+
+                if (birthYearA === null) return 1;
+                if (birthYearB === null) return -1;
+
+                // Sort oldest first
+                if (sortOrder === "oldest") {
+                    return birthYearA - birthYearB ||
+                           lastNameA.localeCompare(lastNameB) ||
+                           firstNameA.localeCompare(firstNameB);
+                }
+
+                // Sort youngest first
+                if (sortOrder === "youngest") {
+                    return birthYearB - birthYearA ||
+                           lastNameA.localeCompare(lastNameB) ||
+                           firstNameA.localeCompare(firstNameB);
+                }
+
+                return 0;
+            });
+
+            // Rearrange the list on the page
+            people.forEach(function (person) {
+                familyList.appendChild(person);
+            });
+
+        });
+    </script>
 
 </body>
 

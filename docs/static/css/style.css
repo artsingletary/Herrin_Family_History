@@ -225,3 +225,25 @@ footer {
     background-color: #566b52;
     color: white;
 }
+
+/* Family list sorting */
+
+.family-sort {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.family-sort label {
+    font-weight: bold;
+}
+
+.family-sort select {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
