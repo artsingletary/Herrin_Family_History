@@ -671,7 +671,7 @@
             "Arthur began his military career in September 1960 when he enlisted in the United States Marine Corps. After completing his initial four-year enlistment, he was honorably discharged on September 7, 1964.",
             "In February 1965, Arthur reenlisted in the Marine Corps in Macon, Georgia, as a Sergeant (E-5), immediately returning to active duty. He continued advancing through the enlisted ranks and, according to family recollections, eventually attained the rank of Master Sergeant (E-8).",
             "Arthur subsequently received a direct commission as a Second Lieutenant based on his enlisted experience, without attending Officer Candidate School. As a Marine who transitioned from enlisted service to commissioned officer status, he was known as a Mustang officer.",
-            "By July 1976, Arthur was serving as a Second Lieutenant at Marine Corps Base Camp Lejeune, North Carolina. That month, his family moved into Marine Officer Quarters (MOQ) 3160.",
+            "By July 1976, Arthur was serving as a Second Lieutenant at Marine Corps Base Camp Lejeune, North Carolina. That month, his family moved into Married Officer Quarters (MOQ) 3160.",
             "Throughout his military career, Arthur served in intelligence and counterintelligence assignments. His service included duty associated with the Vietnam War, specialized military education, and numerous decorations and awards, including the Navy Commendation Medal.",
             "Arthur continued advancing through the commissioned officer ranks and retired from the United States Marine Corps on April 30, 1986, having attained the rank of Major (O-4)."
         ]
@@ -994,8 +994,13 @@
     "spouses": ["sarah-sallie-wadsworth-1840"],
     "family_lines": ["singletary"],
     "biography": [
-        "Everett Darling was born on April 14, 1854, in Connecticut. He was the father of Mary Frances Darling and an ancestor of the Singletary family.",
-        "Everett died on September 11, 1935, in Mayo, Lafayette County, Florida, at the age of 81."
+        "Everett Darling was born April 14, 1854, in Connecticut. According to a family account provided by his granddaughter Bettie Darling Prestridge, Everett experienced a difficult childhood. He was reportedly given away as an infant and raised in poorhouses and foster homes. His biological parents have not yet been conclusively identified.",
+        "Bettie related a story passed down through her father, James Darling, concerning Everett's discovery of his mother's identity. In 1875, Everett reportedly learned that a woman he had known for many years was actually his biological mother. Upset by this discovery, he decided to leave Connecticut and begin a new life in Florida.",
+        "According to the family story, Everett traveled by ship to Jacksonville, Florida, arriving on April 14, 1875, his twenty-first birthday. He subsequently moved inland to Madison County, Florida, where he established his home.",
+        "In 1879, Everett married Sarah Wadsworth Blanton, a widow who had children from her previous marriage. Everett and Sarah had two daughters together, Mary and Martha Darling. Their daughter Mary Frances Darling became an ancestor of the Singletary family.",
+        "Everett and Sarah remained married until Sarah's death in 1908. The following year, in 1909, Everett married Susan Lucinda Nipper. They had four children: William Everett Darling, born in 1911; Nettie Darling, born in 1914; James Darling, born in 1917; and John Jackson Darling, born in 1920.",
+        "Everett spent the remainder of his life in Florida. He died September 11, 1935, in Mayo, Lafayette County, Florida, at the age of 81.",
+        "Bettie Darling Prestridge also cautioned against confusing her grandfather with another Everett Darling who appears in New England census records as the son of Moses Darling and Caroline Sharp. According to Bettie's research, that Everett was born in Massachusetts and remained in New England, while her grandfather was born in Connecticut and eventually settled in Florida. The parentage of Everett Darling of Mayo, Florida, therefore remains an unresolved genealogical question."
     ]
 },
 {
@@ -1262,6 +1267,125 @@
         "On July 29, 1973, Linda married Jeffrey Phillip Smith at Sierra-Norwood Baptist Church. Their marriage was announced in The Miami Herald on July 30, 1973. A separate marriage record gives August 5, 1973, and the reason for the difference between the recorded dates has not yet been established.",
         "Linda and Jeffrey divorced October 30, 1989, in Broward County, Florida. According to family recollections, Jeffrey was Linda's only husband, and she was unmarried at the time of her death. No children have been identified from their marriage.",
         "Linda died January 8, 2020, in Florida, at the age of 66. She was buried at Woodlawn Cemetery in Perry, Taylor County, Florida, beside her mother, Mary Lou Herrin. Her gravestone bears the inscription 'Much Love.'"
+    ]
+},
+{
+    "id": "frank-mathis-1907",
+    "first_name": "Frank",
+    "middle_name": null,
+    "last_name": "Mathis",
+    "display_name": "Frank Mathis",
+    "birth_year": 1907,
+    "death_year": 1969,
+    "birth_date": "1907-04-30",
+    "death_date": "1969-07-22",
+    "father": "daniel-m-mathis",
+    "mother": "mary-frances-darling",
+    "spouses": [
+        "mary-virginia-allen",
+        "minnie-ola-redman"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "Frank Mathis was born April 30, 1907, in Madison County, Florida, the son of Daniel Mathis and Mary Frances Darling. He was a brother of Lela Mae Mathis.",
+        "Frank's first wife was Mary Virginia Allen. They had two children, Joseph Henry Mathis (1930–2012) and Honorine Virginia Mathis (1932–2005), both born in Mayo, Lafayette County, Florida.",
+        "Frank later married Minnie Ola Redman. The couple lived in Sneads, Jackson County, Florida. Frank worked in a furniture mill before retiring and was a member of the Baptist Church of Sneads.",
+        "Frank died July 22, 1969, at Florida State Hospital in Chattahoochee, Gadsden County, Florida, at age 62. His obituary identified Minnie as his surviving wife, along with his two children and a stepson, John Wayne McQuaid.",
+        "He was buried at Mount Pleasant Cemetery in Chattahoochee, Gadsden County, Florida."
+    ]
+},
+{
+    "id": "mary-virginia-allen",
+    "first_name": "Mary",
+    "middle_name": "Virginia",
+    "last_name": "Allen",
+    "display_name": "Mary Virginia Allen",
+    "birth_year": 1911,
+    "death_year": 1933,
+    "birth_date": "1911-05-04",
+    "death_date": "1933-05-07",
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "frank-mathis-1907"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+     "biography": [
+        "Mary Virginia Allen was born May 4, 1911, in Lafayette County, Florida, the daughter of Lewis Allen and Florence Fryer.",
+        "Mary married Frank Mathis (1907–1969). They had two children, Joseph Henry Mathis, born April 19, 1930, and Honorine Virginia Mathis, born October 5, 1932.",
+        "Mary died June 7, 1933, in Mayo, Lafayette County, Florida, at the age of 21. Her death certificate identifies Frank Mathis as her husband.",
+        "At the time of Mary's death, Joseph was three years old and Honorine was approximately eight months old."
+    ]
+},
+{
+    "id": "minnie-ola-redman",
+    "first_name": "Minnie",
+    "middle_name": "Ola",
+    "last_name": "Redman",
+    "display_name": "Minnie Ola Redman",
+    "birth_year": null,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "frank-mathis-1907"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "Minnie Ola Redman was married to Frank Mathis (1907–1969). The couple lived in Sneads, Jackson County, Florida. Minnie was identified as Frank's surviving wife in his 1969 obituary."
+    ]
+},
+{
+    "id": "joseph-henry-mathis-1930",
+    "first_name": "Joseph",
+    "middle_name": "Henry",
+    "last_name": "Mathis",
+    "display_name": "Joseph Henry Mathis",
+    "birth_year": 1930,
+    "death_year": 2012,
+    "birth_date": "1930-04-19",
+    "death_date": "2012-03-12",
+    "father": "frank-mathis-1907",
+    "mother": "mary-virginia-allen",
+    "spouses": [],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "Joseph Henry Mathis was born April 19, 1930, in Mayo, Lafayette County, Florida, the son of Frank Mathis and Mary Virginia Allen. He was a brother of Honorine Virginia Mathis.",
+        "Joseph served in the United States military and held the rank of Specialist. His branch of service and dates of service have not yet been established.",
+        "Joseph was living in Albany, Georgia, when his father's obituary was published in 1969.",
+        "He died March 12, 2012, in Albany, Dougherty County, Georgia, at age 81. He was buried at Andersonville National Cemetery in Andersonville, Macon County, Georgia."
+    ]
+},
+{
+    "id": "honorine-virginia-mathis-1932",
+    "first_name": "Honorine",
+    "middle_name": "Virginia",
+    "last_name": "Mathis",
+    "display_name": "Honorine Virginia Mathis",
+    "birth_year": 1932,
+    "death_year": 2005,
+    "birth_date": "1932-10-05",
+    "death_date": "2005-05-27",
+    "father": "frank-mathis-1907",
+    "mother": "mary-virginia-allen",
+    "spouses": [],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "Honorine Virginia Mathis was born October 5, 1932, in Mayo, Lafayette County, Florida, the daughter of Frank Mathis and Mary Virginia Allen. She was a sister of Joseph Henry Mathis.",
+        "Frank Mathis's 1969 obituary identifies his daughter as Honorine Barber, living in Camilla, Georgia. Later records identify her as Honorine Virginia Mathis Grimsley. The details and dates of her marriages have not yet been established.",
+        "Honorine died May 27, 2005, in Camilla, Mitchell County, Georgia, at age 72. She was buried at Mount Pleasant Cemetery in Chattahoochee, Gadsden County, Florida, where her father was also buried."
     ]
 }
 ]

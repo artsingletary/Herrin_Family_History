@@ -440,5 +440,58 @@
         "linda-miller-1953"
     ],
     "location": "Woodlawn Cemetery, Perry, Taylor County, Florida"
+},
+{
+    "id": "frank-mathis-gravestone",
+    "file": "frank_mathis_gravestone.jpg",
+    "type": "grave",
+    "caption": "Gravestone of Frank Mathis (April 30, 1907 – July 22, 1969) at Mount Pleasant Cemetery in Chattahoochee, Florida. The marker bears the inscription 'Daddy.'",
+    "people": [
+        "frank-mathis-1907"
+    ],
+    "location": "Mount Pleasant Cemetery, Chattahoochee, Gadsden County, Florida"
+},
+{
+    "id": "frank-mathis-by-car",
+    "file": "frank_mathis_by_car.jpg",
+    "type": "portrait",
+    "caption": "Frank Mathis (1907–1969) standing beside an automobile. Date and location unknown. Photograph courtesy of Shirley Lawson-Eaton, Frank's granddaughter.",
+    "people": [
+        "frank-mathis-1907"
+    ],
+    "location": null
+},
+{
+    "id": "frank-mathis-outside-house",
+    "file": "frank_mathis_outside_house.jpg",
+    "type": "portrait",
+    "caption": "Frank Mathis (1907–1969) standing outside a house. Date and location unknown. Photograph courtesy of Shirley Lawson-Eaton, Frank's granddaughter.",
+    "people": [
+        "frank-mathis-1907"
+    ],
+    "location": null
+},
+{
+    "id": "frank-mathis-honorine-joseph",
+    "file": "frank_mathis_honorine_joseph.jpg",
+    "type": "portrait",
+    "caption": "Frank Mathis (left) with his daughter Honorine Virginia Mathis (center) and son Joseph Henry Mathis (right). Date and location unknown. Photograph courtesy of Shirley Lawson-Eaton, Frank's granddaughter.",
+    "people": [
+        "frank-mathis-1907",
+        "honorine-virginia-mathis-1932",
+        "joseph-henry-mathis-1930"
+    ],
+    "location": null
+},
+{
+    "id": "frank-mathis-minnie-alan",
+    "file": "frank_mathis_minnie_alan.jpg",
+    "type": "portrait",
+    "caption": "Frank Mathis (left) and Minnie Ola Redman Mathis (right) with an infant identified as Alan Mathis. Alan's relationship to the family, and the date and location of the photograph, have not yet been confirmed. Photograph courtesy of Shirley Lawson-Eaton, Frank's granddaughter.",
+    "people": [
+        "frank-mathis-1907",
+        "minnie-ola-redman"
+    ],
+    "location": null
 }
 ]

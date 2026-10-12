@@ -1502,5 +1502,88 @@
         "A Florida marriage index records July 29, 1973"
     ],
     "documents": []
+},
+{
+    "id": "frank-mathis-death-certificate-1969",
+    "type": "Death Certificate",
+    "title": "Florida Death Certificate — Frank Mathis (1969)",
+    "people": [
+        "frank-mathis-1907"
+    ],
+    "date": "1969-07-22",
+    "location": "Chattahoochee, Gadsden County, Florida",
+    "description": "Florida death certificate, state file number 69-041363. Records Frank Mathis's birth on April 30, 1907, death on July 22, 1969, parents Daniel Mathis and Mary Dowling, residence in Sneads, Florida, and burial at Mount Pleasant Cemetery.",
+    "supports": [
+        "Frank Mathis was born April 30, 1907",
+        "Frank Mathis died July 22, 1969",
+        "Frank Mathis was the son of Daniel Mathis and Mary Dowling",
+        "Frank Mathis was buried at Mount Pleasant Cemetery"
+    ],
+    "documents": [
+        "frank_mathis_death_certificate_1969.jpg"
+    ]
+},
+{
+    "id": "frank-mathis-obituary-1969",
+    "type": "Obituary",
+    "title": "Obituary — Frank Mathis (1969)",
+    "people": [
+        "frank-mathis-1907"
+    ],
+    "date": "1969",
+    "location": "Sneads, Jackson County, Florida",
+    "description": "Newspaper obituary reporting the death of Frank Mathis, age 62. Identifies him as a native of Madison County, Florida, a retired furniture mill worker, and a member of the Baptist Church of Sneads. Survivors included his wife Minnie O. Mathis, daughter Hornine Barber, son Joseph Mathis, stepson John Wayne McQuaid, and three brothers. Newspaper title and publication date have not yet been established.",
+    "supports": [
+        "Frank Mathis was born in Madison County, Florida",
+        "Frank Mathis worked in a furniture mill",
+        "Frank Mathis lived in Sneads, Florida",
+        "Frank Mathis was married to Minnie O. Mathis",
+        "Frank Mathis had children and a stepson"
+    ],
+    "documents": [
+        "frank_mathis_obituary_1969.jpg"
+    ]
+},
+{
+    "id": "mary-virginia-allen-death-certificate-1933",
+    "type": "Death Certificate",
+    "title": "Florida Death Certificate — Mary Mathis (1933)",
+    "people": [
+        "mary-virginia-allen",
+        "frank-mathis-1907"
+    ],
+    "date": "1933-06-07",
+    "location": "Mayo, Lafayette County, Florida",
+    "description": "Florida death certificate, state file number 20078, recording the death of Mary Mathis on June 7, 1933. Identifies her husband as Frank Mathis, her father as Lewis Allen, and her mother as Florence Fryer. Records her birth on May 4, 1911, in Lafayette County, Florida.",
+    "supports": [
+        "Mary Mathis died June 7, 1933",
+        "Mary was married to Frank Mathis at the time of her death",
+        "Mary was born May 4, 1911, in Lafayette County, Florida",
+        "Mary's parents were Lewis Allen and Florence Fryer"
+    ],
+    "documents": [
+        "mary_virginia_allen_death_certificate_1933.jpg"
+    ]
+},
+{
+    "id": "everett-darling-family-account-bettie-prestridge",
+    "type": "Family History",
+    "title": "Family Account of Everett Darling — Bettie Darling Prestridge",
+    "people": [
+        "everett-darling"
+    ],
+    "date": "",
+    "location": "Connecticut and Florida",
+    "description": "Family history account provided by Bettie Darling Prestridge, granddaughter of Everett Darling through his son James Darling. Bettie recounts Everett's childhood in Connecticut, his reported discovery of his biological mother's identity, his journey to Jacksonville in 1875, and his subsequent marriages to Sarah Wadsworth Blanton and Susan Lucinda Nipper. She also distinguishes Everett Darling of Florida from another Everett Darling identified as the son of Moses Darling and Caroline Sharp. The account preserves family testimony; its details have not all been independently verified.",
+    "supports": [
+        "Everett Darling was reportedly raised in poorhouses and foster homes",
+        "Everett reportedly arrived in Jacksonville on April 14, 1875",
+        "Everett married Sarah Wadsworth Blanton in 1879",
+        "Everett and Sarah had two daughters, Mary and Martha",
+        "Everett married Susan Lucinda Nipper in 1909",
+        "Everett and Susan had four children",
+        "The identification of Moses Darling and Caroline Sharp as Everett's parents is disputed"
+    ],
+    "documents": []
 }
 ]
