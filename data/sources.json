@@ -620,7 +620,7 @@
 {
     "id": "george-singletary-lela-mathis-marriage-1917",
     "type": "Marriage Record",
-    "title": "Marriage License - G. W. Singletary and Lela May Mathis",
+    "title": "1917 Marriage License - G. W. Singletary and Lela May Mathis",
     "people": [
         "george-william-singletary-1895",
         "lela-mae-mathis-1902"
@@ -634,8 +634,8 @@
         "Contemporary record of Lela's name as Lela May Mathis"
     ],
     "documents": [
-        "george_singletary_lela_mathis_marriage_01.jpg",
-        "george_singletary_lela_mathis_marriage_02.jpg"
+        "1917_george_singletary_lela_mathis_marriage_01.jpg",
+        "1917_george_singletary_lela_mathis_marriage_02.jpg"
     ]
 },
 {
@@ -757,13 +757,13 @@
         "Dewey and Ollie Singletary as Arthur Singletary's parents"
     ],
     "documents": [
-        "arthur_singletary_parris_island_promotion_1961.jpg"
+        "1961_arthur_singletary_parris_island_promotion.jpg"
     ]
 },
 {
     "id": "dewey-singletary-ww2-draft-registration-1940",
     "type": "Military Draft Registration",
-    "title": "Dewey Singletary — World War II Draft Registration Card",
+    "title": "1940 Dewey Singletary — World War II Draft Registration Card",
     "people": [
         "dewey-singletary-1919"
     ],
@@ -779,8 +779,8 @@
         "Dewey Singletary's physical description in 1940"
     ],
     "documents": [
-        "dewey_singletary_ww2_draft_front.jpg",
-        "dewey_singletary_ww2_draft_back.jpg"
+        "1940_dewey_singletary_ww2_draft_front.jpg",
+        "1940_dewey_singletary_ww2_draft_back.jpg"
     ]
 },
 {
@@ -804,7 +804,7 @@
         "Dewey Singletary's burial at Woodlawn Cemetery"
     ],
     "documents": [
-        "dewey_singletary_death_certificate_1973.jpeg"
+        "1973_dewey_singletary_death_certificate.jpeg"
     ]
 },
 {
@@ -1122,7 +1122,7 @@
         "Ollie Mae Herrin's occupation recorded as housewife"
     ],
     "documents": [
-        "arthur_singletary_sr_birth_certificate.jpg"
+        "1941_arthur_singletary_sr_birth_certificate.jpg"
     ]
 },
 {
@@ -1160,7 +1160,7 @@
         "Participation in Reconstruction-era voter registration"
     ],
     "documents": [
-        "hezekiah_ponder_williams_1867_voter_registration.jpg"
+        "1867_hezekiah_ponder_williams_voter_registration.jpg"
     ]
 },
 {
@@ -1245,7 +1245,7 @@
         "The registrant signed by making his mark"
     ],
     "documents": [
-        "john_williams_1867_voter_registration.jpg"
+        "1867_john_williams_voter_registration.jpg"
     ]
 },
 {
@@ -1695,6 +1695,27 @@
     ],
     "documents": [
         "1878_marriage_thomas_herrin_elizabeth_branch.jpg"
+    ]
+},
+{
+    "id": "1886-marriage-thomas-herrin-nancy-jewell",
+    "type": "Marriage",
+    "title": "1886 Marriage License and Certificate — Thomas L. Herrin and Nancy Jewell",
+    "people": [
+        "thomas-levi-herrin-1854",
+        "nancy-t-jewell-1854"
+    ],
+    "date": "1886-10-13",
+    "location": "Clinch County, Georgia",
+    "description": "Original marriage license and certificate documenting the marriage of Thomas L. Herrin and Nancy Jewell on October 13, 1886, in Clinch County, Georgia. The marriage license was issued October 12, 1886, by M. S. Corbitt, Ordinary. The ceremony was performed by David A. McDaniel, Minister of the Gospel. Nancy Jewell was Thomas Levi Herrin's second wife.",
+    "supports": [
+        "Thomas L. Herrin married Nancy Jewell on October 13, 1886",
+        "The marriage occurred in Clinch County, Georgia",
+        "The marriage license was issued October 12, 1886",
+        "The ceremony was performed by David A. McDaniel"
+    ],
+    "documents": [
+        "1886_marriage_thomas_herrin_nancy_jewell.jpg"
     ]
 }
 ]
