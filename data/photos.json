@@ -493,5 +493,15 @@
         "minnie-ola-redman"
     ],
     "location": null
+},
+{
+    "id": "john-waters-bryan-gravestone",
+    "file": "john_waters_bryan_gravestone.jpg",
+    "type": "grave",
+    "caption": "Gravestone of John Waters Bryan (February 7, 1829 – December 30, 1878), Fort White City Cemetery, Fort White, Columbia County, Florida. Find a Grave Memorial #57576637.",
+    "people": [
+        "john-waters-bryan-1829"
+    ],
+    "location": "Fort White City Cemetery, Fort White, Columbia County, Florida"
 }
 ]

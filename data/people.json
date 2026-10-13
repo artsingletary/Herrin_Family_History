@@ -16,7 +16,34 @@
         "death_place": "Clinch, Georgia, United States",
         "father": "william-m-herrin-1831",
         "mother": "mary-hargraves-1838",
-        "spouses": ["nancy-t-jewell-1854"]
+        "spouses": [
+            "elizabeth-branch-1858",
+            "nancy-t-jewell-1854"
+        ],
+        "biography":[
+            "Thomas Levi Herrin married Elizabeth Branch on February 11, 1878, in Ware County, Georgia. Their marriage was performed by Thomas Brabham, a preacher of the Gospel. The original marriage certificate records his surname as Herring. Elizabeth was Thomas's first wife. He later married Nancy T. Jewell, with whom he had his son William Levi Herrin (1892–1975)."
+        ]
+    },
+    {
+        "id": "elizabeth-branch-1858",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Branch",
+        "family_lines": [
+            "herrin"
+        ],
+        "birth_year": null,
+        "death_year": null,
+        "birth_date": null,
+        "death_date": null,
+        "father": null,
+        "mother": null,
+        "spouses": [
+            "thomas-levi-herrin-1854"
+        ],
+        "biography":[
+            "An Eliza Branch, age two, appears in the 1860 United States Census in Ware County, Georgia, in the household of Henry and Mary Branch. Mary Branch may have been Mary Ann Adkinson, born about 1837, who appears in the 1850 census of Laurens County, Georgia. The identification of these individuals as Elizabeth Branch's parents and maternal grandparents remains unconfirmed."
+        ]
     },
     {
         "id": "nancy-t-jewell-1854",
@@ -876,6 +903,8 @@
     "display_name": "Mary Bryant",
     "family_lines": ["singletary"],
     "birth_year": 1875,
+    "father": "john-waters-bryan-1829",
+    "mother": "dolly-ann-leslie-1834",
     "spouses": ["john-vershal-singletary-1851"],
     "biography": [
         "Mary Bryant was born in May 1875. Her surname also appears as Bryan in family research records.",
@@ -1386,6 +1415,114 @@
         "Honorine Virginia Mathis was born October 5, 1932, in Mayo, Lafayette County, Florida, the daughter of Frank Mathis and Mary Virginia Allen. She was a sister of Joseph Henry Mathis.",
         "Frank Mathis's 1969 obituary identifies his daughter as Honorine Barber, living in Camilla, Georgia. Later records identify her as Honorine Virginia Mathis Grimsley. The details and dates of her marriages have not yet been established.",
         "Honorine died May 27, 2005, in Camilla, Mitchell County, Georgia, at age 72. She was buried at Mount Pleasant Cemetery in Chattahoochee, Gadsden County, Florida, where her father was also buried."
+    ]
+},
+{
+    "id": "john-waters-bryan-1829",
+    "first_name": "John",
+    "middle_name": "Waters",
+    "last_name": "Bryan",
+    "display_name": "John Waters Bryan",
+    "birth_year": 1829,
+    "death_year": 1878,
+    "birth_date": "1829-02-07",
+    "death_date": "1878-12-30",
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "dolly-ann-leslie-1834"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "John Waters Bryan was born on February 7, 1829, in Georgia. His birth and death dates are recorded on his gravestone at Fort White City Cemetery in Columbia County, Florida.",
+        "The 1850 United States Census records a John W. Bryant, age 21, working as a merchant and living in Pike County, Georgia, in the household of Alexander and Harriet Bryant. These individuals are believed to be John's parents, although the relationship requires further documentation.",
+        "John married Dolly Ann Leslie on January 2, 1853, in Spalding County, Georgia. Their original marriage record identifies the couple as John W. Bryan and Dolly Ann Leslie.",
+        "John and Dolly lived in Spalding County, Georgia, during the 1860 and 1870 censuses. Their household included several children. Their daughter Mary Evline Bryant was born about 1875.",
+        "John died on December 30, 1878, at the age of 49. He is buried in Fort White City Cemetery in Fort White, Columbia County, Florida.",
+        "Historical records use both Bryan and Bryant as spellings of the family surname."
+    ]
+},
+{
+    "id": "dolly-ann-leslie-1834",
+    "first_name": "Dolly",
+    "middle_name": "Ann",
+    "last_name": "Leslie",
+    "display_name": "Dolly Ann Leslie",
+    "birth_year": 1834,
+    "birth_year_approximate": true,
+    "death_year": 1906,
+    "birth_date": null,
+    "death_date": "1906-06-06",
+    "father": "james-m-lesley-1809",
+    "mother": "elizabeth-lesley-1812",
+    "spouses": [
+        "john-waters-bryan-1829"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "Dolly Ann Leslie was born in Georgia, probably during the mid-1830s. Historical census records give varying ages, suggesting birth years between approximately 1834 and 1840.",
+        "Dolly married John W. Bryan on January 2, 1853, in Spalding County, Georgia. Their original marriage record confirms the date and location.",
+        "The 1860 United States Census records Dolly, age 24, living with John and several children in Spalding County, Georgia. The family remained in Spalding County in 1870.",
+        "Following John's death in December 1878, Dolly appears as a widow in the 1880 United States Census in Columbia County, Florida. Her household included her daughter Mary Bryant, age five, along with other children.",
+        "A Savannah, Georgia, death record documents the death of Mrs. D. A. Bryan on June 6, 1906, at Telfair Hospital. The record gives her age as 72 and identifies Laurel Grove as her burial location. A Find a Grave memorial identifies this woman as Dolly Ann Leslie Bryan.",
+        "Dolly is memorialized at Laurel Grove Cemetery North in Savannah, Chatham County, Georgia. Her Find a Grave memorial identifies plot 0-0-1110-X6.",
+        "The 1850 United States Census records a 15-year-old D. A. Lesley living with James M. Lesley and Elizabeth Lesley in Pike County, Georgia. This individual is believed to be Dolly Ann Leslie, who married John W. Bryan in 1853. James and Elizabeth are therefore considered Dolly's probable parents, although the relationship has not been independently confirmed."
+    ]
+},
+{
+    "id": "james-m-lesley-1809",
+    "first_name": "James",
+    "middle_name": "Madison",
+    "last_name": "Lesley",
+    "display_name": "James Madison Lesley",
+    "birth_year": 1809,
+    "birth_year_approximate": true,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "elizabeth-lesley-1812"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "James M. Lesley was born about 1809 in Georgia. He is a probable father of Dolly Ann Leslie Bryan, based on the 1850 United States Census.",
+        "In September 1850, James was living in District 68 of Pike County, Georgia, with Elizabeth Lesley and five younger household members, including D. A. Lesley, age 15.",
+        "James was employed as a brick mason and reported real estate valued at $1,000.",
+        "The household is believed to represent James, his wife Elizabeth, and their children. However, the 1850 census did not record family relationships, so these connections remain provisional."
+    ]
+},
+{
+    "id": "elizabeth-lesley-1812",
+    "first_name": "Elizabeth",
+    "middle_name": "",
+    "last_name": "Colly",
+    "display_name": "Elizabeth Colly",
+    "birth_year": 1812,
+    "birth_year_approximate": true,
+    "death_year": null,
+    "birth_date": null,
+    "death_date": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "james-m-lesley-1809"
+    ],
+    "family_lines": [
+        "singletary"
+    ],
+    "biography": [
+        "Elizabeth Lesley was born about 1812 in Georgia. Her maiden surname has not yet been established.",
+        "The 1850 United States Census records Elizabeth, age 38, living in District 68 of Pike County, Georgia, in the household of James M. Lesley.",
+        "The household included D. A. Lesley, age 15, who is believed to be Dolly Ann Leslie, the future wife of John Waters Bryan.",
+        "Elizabeth and James are considered probable parents of Dolly Ann Leslie, although additional documentation is needed to confirm the relationship."
     ]
 }
 ]

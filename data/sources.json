@@ -1628,5 +1628,73 @@
         "frank_mathis_mary_allen_marriage_license_cover_1927.jpg",
         "frank_mathis_mary_allen_marriage_license_1927.jpg"
     ]
+},
+{
+    "id": "1850-census-james-lesley-family",
+    "type": "Census",
+    "title": "1850 U.S. Census — James M. Lesley Family",
+    "people": [
+        "james-m-lesley-1809",
+        "elizabeth-lesley-1812",
+        "dolly-ann-leslie-1834"
+    ],
+    "date": "1850-09-12",
+    "location": "District 68, Pike County, Georgia",
+    "description": "The 1850 United States Census records James M. Lesley, age 41, a brick mason, living in Pike County, Georgia, with Elizabeth Lesley, age 38, and five younger household members. One of these individuals, D. A. Lesley, age 15, is believed to be Dolly Ann Leslie, who married John W. Bryan in 1853. James reported real estate valued at $1,000. All household members were recorded as born in Georgia.",
+    "supports": [
+        "James M. Lesley lived in Pike County, Georgia, in 1850",
+        "Elizabeth Lesley lived in the same household",
+        "D. A. Lesley, age 15, was a member of the household",
+        "James M. Lesley worked as a brick mason",
+        "James and Elizabeth Lesley are probable parents of Dolly Ann Leslie"
+    ],
+    "documents": [
+        "1850_census_james_lesley_family.jpg"
+    ]
+},
+{
+    "id": "1870-census-william-m-herrin-family",
+    "type": "Census",
+    "title": "1870 U.S. Census — William M. Herrin Family",
+    "people": [
+        "william-m-herrin-1831",
+        "mary-hargraves-1838",
+        "thomas-levi-herrin-1854"
+    ],
+    "date": "1870-06-04",
+    "location": "Subdivision 130, Ware County, Georgia",
+    "description": "The 1870 United States Census records William Herring, age 38, a farmer, living with Mary Herring, age 31, and eight younger household members in Ware County, Georgia. Their son Thomas L. Herring, age 16, is identified as Thomas Levi Herrin (1854–1922). The household begins on page 4, enumerated June 3, 1870, and continues onto page 5, enumerated June 4, 1870. William reported real estate valued at $800 and personal estate valued at $500. The surname is recorded as Herring in the census index.",
+    "supports": [
+        "William M. Herrin resided in Ware County, Georgia, in 1870",
+        "William M. Herrin was approximately 38 years old",
+        "Mary Herrin, age 31, lived in the same household",
+        "Thomas Levi Herrin, age 16, lived in the household",
+        "The household included several additional probable children",
+        "William M. Herrin worked as a farmer"
+    ],
+    "documents": [
+        "1870_census_william_herrin_page_1.jpg",
+        "1870_census_william_herrin_page_2.jpg"
+    ]
+},
+{
+    "id": "1878-marriage-thomas-herrin-elizabeth-branch",
+    "type": "Marriage",
+    "title": "1878 Marriage Certificate — Thomas L. Herring and Elizabeth Branch",
+    "people": [
+        "thomas-levi-herrin-1854",
+        "elizabeth-branch-1858"
+    ],
+    "date": "1878-02-11",
+    "location": "Ware County, Georgia",
+    "description": "Original marriage license and certificate documenting the marriage of Thomas L. Herring and Miss Elizabeth Branch on February 11, 1878, in Ware County, Georgia. The marriage license was issued February 9, 1878. The ceremony was performed by Thomas Brabham, a preacher of the Gospel. Elizabeth Branch was Thomas Levi Herrin's first wife.",
+    "supports": [
+        "Thomas L. Herring married Elizabeth Branch on February 11, 1878",
+        "The marriage occurred in Ware County, Georgia",
+        "The marriage was performed by Thomas Brabham"
+    ],
+    "documents": [
+        "1878_marriage_thomas_herrin_elizabeth_branch.jpg"
+    ]
 }
 ]
