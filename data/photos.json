@@ -556,5 +556,124 @@
     "location": "Mayo, Lafayette County, Florida, United States",
     "description": "School portrait of Evelyn Herrin, approximately 16 years old, from the 1950–1951 school year. The original photograph is labeled 'SCHOOL DAYS 1950-51 MAYO,' identifying the school year and location.",
     "file": "evelyn_herrin_school_1950.jpg"
+},
+{
+    "id": "debra-george-portrait-01",
+    "type": "portrait",
+    "people": ["debra-renee-george-1956"],
+    "title": "Debra Renee George — Teenage Portrait",
+    "caption": "Portrait of Debra Renee George during her teenage years.",
+    "date": null,
+    "location": null,
+    "description": "Color studio portrait of Debra Renee George with long reddish-brown hair.",
+    "file": "debra_george_portrait_01.jpg"
+},
+{
+    "id": "debra-george-portrait-02",
+    "type": "portrait",
+    "people": ["debra-renee-george-1956"],
+    "title": "Debra Renee George — Portrait",
+    "caption": "Black-and-white portrait of Debra Renee George.",
+    "date": null,
+    "location": null,
+    "description": "Portrait of Debra Renee George with short, dark hair.",
+    "file": "debra_george_portrait_02.jpg"
+},
+{
+    "id": "debra-george-profile",
+    "type": "portrait",
+    "people": ["debra-renee-george-1956"],
+    "title": "Debra Renee George",
+    "caption": "Portrait of Debra Renee George (1956–2012).",
+    "date": null,
+    "location": null,
+    "description": "Black-and-white portrait of Debra Renee George with long, dark hair.",
+    "file": "debra_george_profile.jpg"
+},
+{
+    "id": "debra-george-childhood-car",
+    "type": "family",
+    "people": ["debra-renee-george-1956"],
+    "title": "Debra George as a Young Child",
+    "caption": "Young Debra George sitting on the side of a car.",
+    "date": null,
+    "location": null,
+    "description": "Childhood photograph of Debra Renee George sitting on a car bearing the Customline emblem.",
+    "file": "debra_george_childhood_car.jpg"
+},
+{
+    "id": "debra-george-childhood-chair",
+    "type": "family",
+    "people": ["debra-renee-george-1956"],
+    "title": "Debra George — Childhood Photograph",
+    "caption": "Young Debra George sitting in an armchair.",
+    "date": null,
+    "location": null,
+    "description": "Black-and-white childhood photograph of Debra Renee George sitting in an upholstered chair.",
+    "file": "debra_george_childhood_chair.jpg"
+},
+{
+    "id": "debra-george-school-01",
+    "type": "portrait",
+    "people": ["debra-renee-george-1956"],
+    "title": "Debra George — Childhood School Portrait",
+    "caption": "Childhood school portrait of Debra Renee George.",
+    "date": null,
+    "location": null,
+    "description": "Black-and-white school-age portrait of Debra Renee George wearing a collared dress.",
+    "file": "debra_george_school_01.jpg"
+},
+{
+    "id": "debra-george-school-02",
+    "type": "portrait",
+    "people": ["debra-renee-george-1956"],
+    "title": "Debra George — School Portrait",
+    "caption": "School-age portrait of Debra Renee George.",
+    "date": null,
+    "location": null,
+    "description": "Black-and-white portrait of Debra Renee George with short, dark hair and bangs.",
+    "file": "debra_george_school_02.jpg"
+},
+{
+    "id": "freddy-ray-mathis-family",
+    "type": "family",
+    "people": [
+        "freddy-ray-mathis-1938",
+        "connie-ray-mathis-1961",
+        "richard-mathis"
+    ],
+    "title": "Freddy Ray Mathis with His Sons",
+    "caption": "Freddy Ray Mathis with his sons Connie Ray (left) and Ricky (right).",
+    "date": null,
+    "location": null,
+    "description": "Black-and-white family photograph showing Freddy Ray Mathis seated on a sofa with his two young sons, Connie Ray Mathis and Richard (Ricky) Mathis.",
+    "file": "freddy_ray_mathis_family.jpg"
+},
+{
+    "id": "freddy-ray-mathis-outdoors",
+    "type": "family",
+    "people": [
+        "freddy-ray-mathis-1938"
+    ],
+    "title": "Freddy Ray Mathis with Two Young Boys",
+    "caption": "Freddy Ray Mathis outdoors with two young boys, believed to be Connie Ray and Ricky.",
+    "date": null,
+    "location": null,
+    "description": "Black-and-white photograph showing Freddy Ray Mathis kneeling with two young boys outside a wooden house. A toy tractor and rocking horse are visible on the porch. The boys' identities have not yet been independently confirmed.",
+    "file": "freddy_ray_mathis_outdoors.jpg"
+},
+{
+    "id": "freddy-ray-mathis-gravestone",
+    "type": "grave",
+    "people": [
+        "freddy-ray-mathis-1938"
+    ],
+    "title": "Gravestone of Freddy Ray Mathis",
+    "caption": "Gravestone of Freddy Ray Mathis (January 16, 1938 – December 19, 1967).",
+    "date": "2013-05-30",
+    "location": "Woodlawn Cemetery, Perry, Taylor County, Florida",
+    "description": "Photograph of Freddy Ray Mathis's gravestone showing his birth and death dates. The photograph bears the date May 30, 2013.",
+    "file": "freddy_ray_mathis_gravestone.jpg"
 }
+
 ]

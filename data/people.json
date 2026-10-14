@@ -1691,10 +1691,13 @@
     "death_year": 1967,
     "spouses": ["evelyn-herrin-1934"],
     "biography": [
-        "Freddy Ray Mathis was born around 1938 and died on December 19, 1967, at the age of 29.",
-        "He was married to Evelyn Herrin, daughter of William Levi Herrin and Laura Etta Palmer.",
-        "His obituary, published in The Florida Times-Union on December 21, 1967, identifies two sons, Connie and Ricky, and a stepdaughter, Mrs. Debra George.",
-        "Funeral services were held on December 21, 1967, with burial at Woodlawn Cemetery."
+        "Freddy Ray Mathis was born on January 16, 1938.",
+        "In January 1956, at approximately 18 years of age, Freddy was serving as a private in the United States Marine Corps. Marine Corps muster rolls identify him as a recruit assigned to the 2nd Recruit Training Battalion at Marine Corps Recruit Depot Parris Island, South Carolina.",
+        "A 1956 Perry, Florida, city directory lists Freddy, under the name Freddie R. Mathis, as a member of the United States Marine Corps residing at 801 East Quail Street.",
+        "Freddy lived on the same street as Dewey and Ollie Singletary, who resided at 601 East Quail Street. Ollie was the older sister of Freddy's wife, Evelyn Herrin.",
+        "According to a family recollection, Freddy played basketball with a Arthur Singletary Sr., the son of Dewey and Ollie Singletary. Whether they played together on a school basketball team or recreationally in their neighborhood has not yet been established.",
+        "Freddy married Evelyn Herrin (1934–2011), daughter of William Levi Herrin and Laura Etta Palmer. They had two sons, Connie Ray Mathis and Richard Mathis, known as Ricky.",
+        "Freddy died on December 19, 1967, at the age of 29. His obituary appeared in The Florida Times-Union on December 21, 1967. He was buried at Woodlawn Cemetery in Perry, Taylor County, Florida."
     ]
 },
 {
@@ -1749,6 +1752,7 @@
     "first_name": "Debra",
     "middle_name": "Renee",
     "last_name": "George",
+    "profile_photo": "debra_george_profile.jpg",
     "family_lines": ["herrin"],
     "birth_date": "1956-03-11",
     "birth_year": 1956,

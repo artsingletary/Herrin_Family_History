@@ -1815,5 +1815,43 @@
     "documents": [
         "1967_freddy_mathis_obituary.png"
     ]
+},
+{
+    "id": "1956-usmc-muster-roll-freddy-ray-mathis",
+    "type": "Military Record",
+    "title": "U.S. Marine Corps Muster Roll — Freddy R. Mathis, January 1956",
+    "people": [
+        "freddy-ray-mathis-1938"
+    ],
+    "date": "1956-01",
+    "location": "Marine Corps Recruit Depot Parris Island, South Carolina, United States",
+    "description": "United States Marine Corps muster roll for January 1956 identifying Freddy R. Mathis as a private assigned to recruits of the 2nd Recruit Training Battalion at Parris Island, South Carolina.",
+    "supports": [
+        "United States Marine Corps service",
+        "Rank of Private in January 1956",
+        "Assignment to the 2nd Recruit Training Battalion",
+        "Presence at Marine Corps Recruit Depot Parris Island in January 1956"
+    ],
+    "documents": [
+        "1956_freddy_mathis_usmc_muster_roll.jpg"
+    ]
+},
+{
+    "id": "1956-perry-city-directory-freddy-mathis",
+    "type": "City Directory",
+    "title": "1956 Perry, Florida, City Directory — Freddie R. Mathis",
+    "people": [
+        "freddy-ray-mathis-1938"
+    ],
+    "date": "1956",
+    "location": "Perry, Taylor County, Florida, United States",
+    "description": "The 1956 Perry, Florida, city directory lists Freddie R. Mathis as residing at 801 East Quail Street in Perry, Taylor County, Florida. His employment or affiliation is recorded as USMC, identifying him with the United States Marine Corps. The entry appears on page 53 of the directory.",
+    "supports": [
+        "Residence of Freddie R. Mathis at 801 East Quail Street in Perry, Florida, in 1956",
+        "United States Marine Corps affiliation of Freddie R. Mathis"
+    ],
+    "documents": [
+        "1956_freddy_mathis_perry_city_directory.jpg"
+    ]
 }
 ]
