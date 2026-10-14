@@ -1,70 +1,15 @@
 [
     {
-        "id": "ollie-mae-herrin-birth-certificate",
-        "type": "Birth Certificate",
-        "title": "1917 Birth Certificate of Ollie Mae Herrin",
-        "people": [
-            "ollie-mae-herrin-1917"
-        ],
-        "date": "1917-09-06",
-        "description": "Birth certificate documenting the birth of Ollie Mae Herrin in Homerville, Clinch County, Georgia. The certificate identifies her parents as William Levi Herrin and Laura Etta Palmer.",
-        "supports": [
-            "Ollie Mae Herrin's birth date",
-            "Ollie Mae Herrin's birth place",
-            "William Levi Herrin as Ollie Mae Herrin's father",
-            "Laura Etta Palmer as Ollie Mae Herrin's mother"
-        ],
-        "documents": [
-            "ollie_mae_herrin_birth_certificate.jpg"
-        ]
-    },
-    {
-        "id": "ollie-mae-herrin-obituary",
-        "type": "Obituary",
-        "title": "1992 Obituary of Ollie Mae Herrin",
-        "people": [
-            "ollie-mae-herrin-1917"
-        ],
-        "date": "1992",
-        "description": "Obituary for Ollie Mae Herrin, including family and biographical information.",
-        "supports": [
-            "Ollie Mae Herrin's death",
-            "Family relationships",
-            "Biographical information"
-        ],
-        "documents": [
-             "ollie_mae_herrin_obituary.jpg"
-        ]
-    },
-    {
-        "id": "ollie-mae-herrin-death-certificate",
-        "type": "Death Certificate",
-        "title": "1992 Death Certificate of Ollie Mae Herrin",
-        "people": [
-             "ollie-mae-herrin-1917"
-        ],
-        "date": "1992-06-07",
-        "location": "Perry, Taylor, Florida, United States",
-        "description": "Death certificate documenting the death of Ollie Mae Herrin in Perry, Taylor County, Florida.",
-        "supports": [
-            "Ollie Mae Herrin's death date",
-            "Ollie Mae Herrin's death place"
-        ],
-        "documents": [
-            "ollie_mae_herrin_death_certificate.jpg"
-        ]
-    },
-    {
         "id": "levi-herrin-family-1850-census",
         "type": "Census",
-        "title": "1850 United States Census — Levi Herrin Household",
+        "title": "1850 United States Census — Levi Herrin Family",
         "people": [
             "levi-herrin-1804",
             "charity-sears-1812",
             "william-m-herrin-1831",
             "charlotte-herrin-1837"
         ],
-        "date": "1850",
+        "date": "1850-10-05",
         "location": "Division 89, Ware, Georgia, United States",
         "household": "Levi Herring Household",
         "household_members": [
@@ -81,7 +26,7 @@
             "Oliff Herring, age 3",
             "Mildred Herring, age 0"
         ],
-        "description": "1850 United States Census for Division 89, Ware County, Georgia, recording the household of Levi Herring.",
+        "description": "The 1850 United States Census records Levi Herring and Charity Herring in Ware County, Georgia, with ten younger household members, including William Herring and Charlotte Herring. The census provides evidence of the family's residence in southeastern Georgia and supports Levi's approximate birth year of 1804. The relationships of household members are inferred from family research because the 1850 census did not explicitly record relationships to the household head.",
         "supports": [
             "Levi Herrin and Charity Sears as members of the same household",
             "William Herrin as a child in the Levi and Charity Herring household",
@@ -94,8 +39,61 @@
             "1850_census_levi_herrin_page_2.jpg"
         ]
     },
-
-
+    {
+        "id": "1850-census-james-lesley-family",
+        "type": "Census",
+        "title": "1850 U.S. Census — James M. Lesley Family",
+        "people": [
+            "james-m-lesley-1809",
+            "elizabeth-lesley-1812",
+            "dolly-ann-leslie-1834"
+        ],
+        "date": "1850-09-12",
+        "location": "District 68, Pike County, Georgia",
+        "description": "The 1850 United States Census records James M. Lesley, age 41, a brick mason, living in Pike County, Georgia, with Elizabeth Lesley, age 38, and five younger household members. One of these individuals, D. A. Lesley, age 15, is believed to be Dolly Ann Leslie, who married John W. Bryan in 1853. James reported real estate valued at $1,000. All household members were recorded as born in Georgia.",
+        "supports": [
+            "James M. Lesley lived in Pike County, Georgia, in 1850",
+            "Elizabeth Lesley lived in the same household",
+            "D. A. Lesley, age 15, was a member of the household",
+            "James M. Lesley worked as a brick mason",
+            "James and Elizabeth Lesley are probable parents of Dolly Ann Leslie"
+        ],
+        "documents": [
+            "1850_census_james_lesley_family.jpg"
+        ]
+    },
+    {
+        "id": "1850-census-john-williams-ware-georgia",
+        "type": "Census",
+        "title": "1850 U.S. Federal Census — John Williams Household",
+        "people": [
+            "john-williams-sr-1799",
+            "nancy-smith-1799",
+            "isham-williams-1823",
+            "zilpha-williams-1825",
+            "john-williams-1827",
+            "hezekiah-ponder-williams-1828",
+            "mary-williams-1834",
+            "martha-williams-1835",
+            "sarah-williams-1840",
+            "william-williams-1843"
+        ],
+        "date": "1850-10-03",
+        "location": "Division 89, Ware County, Georgia",
+        "description": "The 1850 United States Federal Census records the household of John Williams, age 50, and Nancy Williams, age 50, in Division 89, Ware County, Georgia, dwelling 343, family 343. Other household members include Isham Williams, 27; John Williams, 23; Hezekiah Williams, 22; Mary Williams, 16; Martha Williams, 15; Sarah Williams, 10; William Williams, 7; Zelpha Cohen, 28; and William Cohen, 5. Hezekiah's occupation is recorded as farmer, and his birthplace as Georgia. The 1850 census does not explicitly identify relationships between household members.",
+        "supports": [
+            "John Williams and Nancy Williams were living in Ware County, Georgia, in 1850",
+            "Hezekiah Williams was living in the same household",
+            "Hezekiah was approximately 22 years old in 1850",
+            "Hezekiah was born approximately 1828 in Georgia",
+            "Hezekiah's occupation was farmer",
+            "Isham, John, Mary, Martha, Sarah, and William Williams were members of the household",
+            "Zelpha Cohen and William Cohen were also members of the household"
+        ],
+        "documents": [
+            "1850_census_john_williams_ware_georgia.jpg"
+        ]
+    },
     {
         "id": "levi-herrin-family-1860-census",
         "type": "Census",
@@ -128,7 +126,469 @@
             "1860_census_levi_herrin_page_1.jpg"
         ]
     },
-        {
+    {
+        "id": "1867-voter-registration-hezekiah-williams",
+        "type": "Voter Registration",
+        "title": "1867 Georgia Voter Registration — Hezekiah P. Williams",
+        "people": [
+            "hezekiah-ponder-williams-1828"
+        ],
+        "date": "1867-07-15",
+        "location": "Clinch County, Georgia",
+        "description": "Reconstruction-era voter registration oath signed by Hezekiah P. Williams on July 15, 1867, in Clinch County, Georgia. The record identifies his residence in Clinch County and documents his registration under the Reconstruction Acts following the Civil War.",
+        "supports": [
+            "Hezekiah P. Williams resided in Clinch County, Georgia, in July 1867",
+            "Hezekiah P. Williams registered to vote on July 15, 1867",
+            "Participation in Reconstruction-era voter registration"
+        ],
+        "documents": [
+            "1867_hezekiah_ponder_williams_voter_registration.jpg"
+        ]
+    },
+    {
+        "id": "1867-voter-registration-john-williams",
+        "type": "Voter Registration",
+        "title": "1867 Georgia Reconstruction Voter Registration — John Williams",
+        "people": [
+            "john-williams-sr-1799"
+        ],
+        "date": "1867-08-23",
+        "location": "Ware County, Georgia",
+        "description": "Reconstruction-era voter registration oath dated August 23, 1867, for John Williams of Ware County, Georgia. The document identifies election precinct 231 and the 5th Registration District. John signed by making his mark. The record does not provide his age or identify family members, so the association with John Williams Sr. is provisional.",
+        "supports": [
+            "A John Williams registered to vote in Ware County, Georgia, on August 23, 1867",
+            "The registration identifies election precinct 231",
+            "The registrant signed by making his mark"
+        ],
+        "documents": [
+            "1867_john_williams_voter_registration.jpg"
+        ]
+    },
+    {
+        "id": "1870-census-william-m-herrin-family",
+        "type": "Census",
+        "title": "1870 U.S. Census — William M. Herrin Family",
+        "people": [
+            "william-m-herrin-1831",
+            "mary-hargraves-1838",
+            "thomas-levi-herrin-1854"
+        ],
+        "date": "1870-06-04",
+        "location": "Subdivision 130, Ware County, Georgia",
+        "description": "The 1870 United States Census records William Herring, age 38, a farmer, living with Mary Herring, age 31, and eight younger household members in Ware County, Georgia. Their son Thomas L. Herring, age 16, is identified as Thomas Levi Herrin (1854–1922). The household begins on page 4, enumerated June 3, 1870, and continues onto page 5, enumerated June 4, 1870. William reported real estate valued at $800 and personal estate valued at $500. The surname is recorded as Herring in the census index.",
+        "supports": [
+            "William M. Herrin resided in Ware County, Georgia, in 1870",
+            "William M. Herrin was approximately 38 years old",
+            "Mary Herrin, age 31, lived in the same household",
+            "Thomas Levi Herrin, age 16, lived in the household",
+            "The household included several additional probable children",
+            "William M. Herrin worked as a farmer"
+        ],
+        "documents": [
+            "1870_census_william_herrin_page_1.jpg",
+            "1870_census_william_herrin_page_2.jpg"
+        ]
+    },
+    {
+        "id": "1870-marriage-malachi-matthews-mary-williams",
+        "type": "Marriage",
+        "title": "1870 Marriage Record — Malachi Matthews and Mary Williams",
+        "people": [
+            "malachi-m-matthews",
+            "mary-williams"
+        ],
+        "date": "1870-10-27",
+        "location": "Madison County, Florida",
+        "description": "Madison County marriage register, page 139, upper-right entry, documenting the marriage of Malachi Matthews and Mary Williams on October 27, 1870. The marriage date agrees with the Matthews family Bible transcription. The original record identifies the bride as Mary Williams but does not provide her middle name.",
+        "supports": [
+            "Marriage of Malachi Matthews and Mary Williams on October 27, 1870",
+            "Marriage location in Madison County, Florida",
+            "Identification of Mary Williams as Malachi Matthews's wife"
+        ],
+        "documents": [
+            "1870_marriage_malachi_matthews_mary_williams.jpg"
+        ]
+    },
+    {
+        "id": "1878-marriage-thomas-herrin-elizabeth-branch",
+        "type": "Marriage",
+        "title": "1878 Marriage Certificate — Thomas L. Herring and Elizabeth Branch",
+        "people": [
+            "thomas-levi-herrin-1854",
+            "elizabeth-branch-1858"
+        ],
+        "date": "1878-02-11",
+        "location": "Ware County, Georgia",
+        "description": "Original marriage license and certificate documenting the marriage of Thomas L. Herring and Miss Elizabeth Branch on February 11, 1878, in Ware County, Georgia. The marriage license was issued February 9, 1878. The ceremony was performed by Thomas Brabham, a preacher of the Gospel. Elizabeth Branch was Thomas Levi Herrin's first wife.",
+        "supports": [
+            "Thomas L. Herring married Elizabeth Branch on February 11, 1878",
+            "The marriage occurred in Ware County, Georgia",
+            "The marriage was performed by Thomas Brabham"
+        ],
+        "documents": [
+            "1878_marriage_thomas_herrin_elizabeth_branch.jpg"
+        ]
+    },
+    {
+        "id": "1879-marriage-everett-darling-sarah-wadsworth",
+        "type": "Marriage Record",
+        "title": "1879 Marriage License — Everett Darling and Sarah Wadsworth",
+        "people": [
+            "everett-darling",
+            "sarah-sallie-wadsworth-1840"
+        ],
+        "date": "1879-03-28",
+        "location": "Lee, Madison County, Florida",
+        "description": "Marriage license and certification for Everett Darling and Sarah Wadsworth in Madison County, Florida. Family research identifies their marriage date as March 28, 1879, in Lee, Florida.",
+        "supports": [
+            "Marriage of Everett Darling and Sarah Wadsworth",
+            "Marriage recorded in Madison County, Florida",
+            "Reported marriage date of March 28, 1879"
+        ],
+        "documents": [
+            "1879_marriage_everett_darling_sarah_wadsworth.jpg"
+        ]
+    },
+    {
+        "id": "1880-census-everett-dowling-sarah-wadsworth",
+        "type": "Census",
+        "title": "1880 U.S. Federal Census — Everett and Sarah Dowling Household",
+        "people": [
+            "everett-darling",
+            "sarah-sallie-wadsworth-1840"
+        ],
+        "date": "1880-06-16",
+        "location": "Ellaville and Norton's Creek Precinct, Madison County, Florida",
+        "description": "The 1880 U.S. Federal Census records Everett Dowling, approximately age 26, his wife Sarah, approximately age 40, and Liddy Blanton, approximately age 4, identified as Everett's stepdaughter. The household appears in Enumeration District 99, Madison County, Florida. The census surname is recorded or transcribed as Dowling, while other family records use Darling. Liddy's biological father has not been established. The census was enumerated June 16, 1880.",
+        "supports": [
+            "Everett and Sarah were living together as husband and wife in 1880",
+            "Everett was approximately 26 years old",
+            "Sarah was approximately 40 years old",
+            "Liddy Blanton was approximately 4 years old",
+            "Liddy was identified as Everett's stepdaughter",
+            "Household residence in Madison County, Florida, in 1880"
+        ],
+        "documents": [
+            "1880_census_everett_dowling_sarah_wadsworth.jpg"
+        ]
+    },
+    {
+        "id": "1886-marriage-thomas-herrin-nancy-jewell",
+        "type": "Marriage",
+        "title": "1886 Marriage License and Certificate — Thomas L. Herrin and Nancy Jewell",
+        "people": [
+            "thomas-levi-herrin-1854",
+            "nancy-t-jewell-1854"
+        ],
+        "date": "1886-10-13",
+        "location": "Clinch County, Georgia",
+        "description": "Original marriage license and certificate documenting the marriage of Thomas L. Herrin and Nancy Jewell on October 13, 1886, in Clinch County, Georgia. The marriage license was issued October 12, 1886, by M. S. Corbitt, Ordinary. The ceremony was performed by David A. McDaniel, Minister of the Gospel. Nancy Jewell was Thomas Levi Herrin's second wife.",
+        "supports": [
+            "Thomas L. Herrin married Nancy Jewell on October 13, 1886",
+            "The marriage occurred in Clinch County, Georgia",
+            "The marriage license was issued October 12, 1886",
+            "The ceremony was performed by David A. McDaniel"
+        ],
+        "documents": [
+            "1886_marriage_thomas_herrin_nancy_jewell.jpg"
+        ]
+    },
+    {
+        "id": "1890-marriage-john-singletary-mary-bryant",
+        "type": "Marriage",
+        "title": "1890 Marriage Record — John V. Singletary and Mary Bryant",
+        "people": [
+            "john-vershal-singletary-1851",
+            "mary-bryant-1875"
+        ],
+        "date": "1890-02-04",
+        "location": "Lafayette County, Florida",
+        "description": "Marriage records from Lafayette County, Florida, document the marriage of John V. Singletary and Mary Bryant. The marriage license was issued on February 3, 1890, by County Judge Reuben B. Hill. The couple was married on February 4, 1890, by Rev. A. T. Wood. The license was filed for record on March 3, 1890, in Marriage Record Book B, page 422.",
+        "supports": [
+            "Marriage of John V. Singletary and Mary Bryant on February 4, 1890",
+            "Marriage location in Lafayette County, Florida",
+            "Mary's surname recorded as Bryant",
+            "Marriage performed by Rev. A. T. Wood",
+            "Marriage recorded in Book B, page 422"
+        ],
+        "documents": [
+            "1890_marriage_john_singletary_mary_bryant_certificate.jpg",
+            "1890_marriage_john_singletary_mary_bryant_register.jpg"
+        ]
+    },
+    {
+        "id": "1899-marriage-daniel-mathis-mary-darling",
+        "type": "Marriage",
+        "title": "1899 Marriage Record — Daniel Mathis and Mary F. Darling",
+        "people": [
+            "daniel-m-mathis",
+            "mary-frances-darling"
+        ],
+        "date": "1899-01-01",
+        "location": "Madison County, Florida",
+        "description": "Marriage record for Daniel Mathis and Miss Mary F. Darling. The marriage license was issued on December 31, 1898, by the Madison County Court, and the marriage was performed on January 1, 1899, by O. F. Peck, Notary Public.",
+        "supports": [
+            "Marriage of Daniel Mathis and Mary F. Darling on January 1, 1899",
+            "Marriage location in Madison County, Florida",
+            "Identification of Mary F. Darling as Daniel Mathis's wife"
+        ],
+        "documents": [
+            "1899_marriage_daniel_mathis_mary_darling.jpg"
+        ]
+    },
+    {
+        "id": "john-singletary-family-1900-census",
+        "type": "Census",
+        "title": "1900 United States Census - John Singletary Household",
+        "people": [
+            "john-vershal-singletary-1851",
+            "mary-bryant-1875",
+            "jessie-singletary-1891",
+            "annie-singletary-1893",
+            "george-william-singletary-1895",
+            "albert-e-singletary-1898"
+        ],
+        "date": "1900",
+        "location": "Lafayette County, Florida, United States",
+        "description": "The 1900 United States Census records George Singletary as a young child living in the household of John Singletary and his wife, Mary, in Lafayette County, Florida.",
+        "household_members": [
+            "John Singletary - Head",
+            "Mary Singletary - Wife",
+            "Jessie Sinngletary - Son",
+            "Annie Sinngletary - Son",
+            "George Singletary - Son",
+            "Albert E. Singletary - Son"
+        ],
+        "supports": [
+            "George William Singletary living in the household of John and Mary Singletary in 1900",
+            "George William Singletary's residence in Lafayette County, Florida, in 1900"
+        ],
+        "documents": [
+            "1900_census_john_singletary_family.jpg"
+        ]
+    },
+    {
+        "id": "1900-census-daniel-mathis-family",
+        "type": "Census",
+        "title": "1900 U.S. Census — Daniel Mathis Family",
+        "people": [
+            "daniel-m-mathis",
+            "mary-frances-darling"
+        ],
+        "date": "1900-06-22",
+        "location": "Precinct 3, Madison County, Florida",
+        "description": "The 1900 United States Census records Daniel Mathis as head of household, living with his wife Mary and their infant son Claude in Madison County, Florida. Daniel's birth was recorded as December 1874, although his 1918 World War I draft registration gives December 13, 1873. Mary's birth was recorded as June 1879.",
+        "household_members": [
+            "Daniel Mathis — Head, born December 1874, age 25",
+            "Mary Mathis — Wife, born June 1879, age 20",
+            "Claude Mathis — Son, born January 1900, age 4/12 (4 months)"
+        ],
+        "supports": [
+            "Daniel Mathis's residence in Madison County, Florida, in 1900",
+            "Marriage of Daniel and Mary Mathis by 1900",
+            "Mary Mathis's reported birth month and year of June 1879",
+            "Claude Mathis as the son of Daniel and Mary",
+            "Daniel Mathis's reported birth month and year of December 1874"
+        ],
+        "documents": [
+            "1900_census_daniel_mathis_family.jpg"
+        ]
+    },
+    {
+        "id": "1910-census-daniel-mathis-family",
+        "type": "Census",
+        "title": "1910 U.S. Census — Daniel Mathis Family",
+        "people": [
+            "daniel-m-mathis",
+            "mary-frances-darling",
+            "lela-mae-mathis-1902",
+            "frank-mathis-1907"
+        ],
+        "date": "1910",
+        "location": "Norton Creek, Madison County, Florida, United States",
+        "description": "The 1910 United States Census records Daniel Mathis and his wife Mary living in the Norton Creek area of Madison County, Florida, with their children. Their daughter Lela was recorded as seven years old and born in Florida. Her age is consistent with her September 26, 1902, birth date.",
+        "household_members": [
+            "Daniel Mathis — Head, age 37 (handwriting unclear; possibly 27",
+            "Mary Mathis — Wife, age 28",
+            "Claude Mathis — Son, age 10",
+            "Lela Mathis — Daughter, age 7",
+            "Rubin Mathis — Son, age 5",
+            "Frank Mathis — Son, age 3",
+            "Unnamed — Infant son, age 5/12 (5 months"
+        ],
+        "supports": [
+            "Daniel Mathis and Mary Frances Darling as Lela Mathis's parents",
+            "Lela Mathis's residence in Madison County, Florida, in 1910",
+            "Lela Mathis's age of seven in 1910",
+            "The Mathis family household in 1910"
+        ],
+        "documents": [
+            "1910_census_daniel_mathis_family.jpg"
+        ]
+    },
+    {
+        "id": "john-singletary-family-1910-census",
+        "type": "Census",
+        "title": "1910 United States Census - John Singletary Household",
+        "people": [
+            "john-vershal-singletary-1851",
+            "mary-bryant-1875",
+            "annie-singletary-1893",
+            "george-william-singletary-1895",
+            "albert-e-singletary-1898",
+            "george-william-singletary-1895"
+        ],
+        "date": "1910",
+        "location": "Lafayette County, Florida, United States",
+        "description": "The 1910 United States Census records John and Mary Singletary living in Lafayette County, Florida, with their children Annie, George, Albert, Allis, and Viola. John Vershal Singletary's brother, Jacob Singletary, is recorded separately on the same census page.",
+        "household_members": [
+            "John Singletary - Head",
+            "Mary Singletary - Wife",
+            "Annie Singletary - Daughter",
+            "George Singletary - Son",
+            "Albert Singletary - Son",
+            "Allis Singletary - Daughter",
+            "Viola Singletary - Daughter"
+        ],
+        "supports": [
+            "George William Singletary living with his parents and siblings in 1910",
+            "George William Singletary's residence in Lafayette County, Florida, in 1910",
+            "George William Singletary as a member of the John and Mary Singletary household"
+        ],
+        "documents": [
+            "1910_census_john_singletary_family.jpg"
+        ]
+    },
+    {
+        "id": "george-singletary-lela-mathis-marriage-1917",
+        "type": "Marriage Record",
+        "title": "1917 Marriage License - G. W. Singletary and Lela May Mathis",
+        "people": [
+            "george-william-singletary-1895",
+            "lela-mae-mathis-1902"
+        ],
+        "date": "1917-03-06",
+        "location": "Lafayette County, Florida, United States",
+        "description": "Marriage license and return documenting the marriage of G. W. Singletary and Lela May Mathis. The license was issued in Lafayette County on March 5, 1917. The couple was married on March 6, 1917, and the record was filed on March 15, 1917. The record identifies the bride as \"Lela May Mathis.\"",
+        "supports": [
+            "Marriage of George William Singletary and Lela Mae Mathis on March 6, 1917",
+            "Marriage in Lafayette County, Florida",
+            "Contemporary record of Lela's name as Lela May Mathis"
+        ],
+        "documents": [
+            "1917_george_singletary_lela_mathis_marriage_01.jpg",
+            "1917_george_singletary_lela_mathis_marriage_02.jpg"
+        ]
+    },
+    {
+        "id": "george-william-singletary-wwi-draft-1917",
+        "type": "Military Record",
+        "title": "World War I Draft Registration Card - George W. Singletary",
+        "people": [
+            "george-william-singletary-1895"
+        ],
+        "date": "1917-06-05",
+        "location": "Precinct No. 2, Lafayette County, Florida, United States",
+        "description": "World War I draft registration card for George W. Singletary, completed on June 5, 1917. George reported that he was born on November 15, 1895, in Old Town, Florida, and was living in Mayo, Florida. He reported his occupation as farming and identified J. A. Croft as his employer. George stated that he was married and was supporting his wife and one sister. He also cited his wife and one sister when claiming exemption from the draft. The registration card contains George W. Singletary's signature.",
+        "supports": [
+            "George William Singletary's birth date of November 15, 1895",
+            "George William Singletary's birthplace as Old Town, Florida",
+            "George William Singletary's residence in Mayo, Florida, in 1917",
+            "George William Singletary working in farming for J. A. Croft",
+            "George William Singletary being married by June 1917",
+            "George William Singletary supporting his wife and one sister in June 1917"
+        ],
+        "documents": [
+            "1917_george_william_singletary_wwi_draft_01.jpg",
+            "1917_george_william_singletary_wwi_draft_02.jpg"
+        ]
+    },
+    {
+        "id": "ollie-mae-herrin-birth-certificate",
+        "type": "Birth Certificate",
+        "title": "1917 Birth Certificate of Ollie Mae Herrin",
+        "people": [
+            "ollie-mae-herrin-1917"
+        ],
+        "date": "1917-09-06",
+        "description": "Birth certificate documenting the birth of Ollie Mae Herrin in Homerville, Clinch County, Georgia. The certificate identifies her parents as William Levi Herrin and Laura Etta Palmer.",
+        "supports": [
+            "Ollie Mae Herrin's birth date",
+            "Ollie Mae Herrin's birth place",
+            "William Levi Herrin as Ollie Mae Herrin's father",
+            "Laura Etta Palmer as Ollie Mae Herrin's mother"
+        ],
+        "documents": [
+            "1917_ollie_mae_herrin_birth_certificate.jpg"
+        ]
+    },
+    {
+        "id": "george-william-singletary-veterans-bureau-index",
+        "type": "Military Record",
+        "title": "U.S. Veterans Bureau Master Index - George W. Singletary",
+        "people": [
+            "george-william-singletary-1895"
+        ],
+        "date": "1917-09-19",
+        "location": "Alton, Florida, United States",
+        "description": "U.S. Veterans Bureau Master Index card for George W. Singletary. The record identifies him as a Private in Company B, 124th Infantry. It records his birth date as November 15, 1895, his enlistment date as September 19, 1917, and his discharge date as January 18, 1918. His residence is recorded as Alton, Florida.",
+        "supports": [
+            "George William Singletary's birth date of November 15, 1895",
+            "George William Singletary's military service as a Private",
+            "George William Singletary's service in Company B, 124th Infantry",
+            "George William Singletary's enlistment on September 19, 1917",
+            "George William Singletary's discharge on January 18, 1918",
+            "George William Singletary's residence in Alton, Florida"
+        ],
+        "documents": [
+            "george_william_singletary_veterans_bureau_index.jpg"
+        ]
+    },
+    {
+        "id": "1918-wwi-draft-daniel-mathis",
+        "type": "Military",
+        "title": "1918 World War I Draft Registration — Daniel M. Mathis",
+        "people": [
+            "daniel-m-mathis"
+        ],
+        "date": "1918-09-12",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "Daniel M. Mathis registered for the World War I draft on September 12, 1918, in Lafayette County, Florida. He reported his birth date as December 13, 1873, his occupation as farmer, and his nearest relative as Mary Mathis. His physical description recorded medium height, medium build, blue eyes, and dark hair. Draft registration does not establish military service.",
+        "supports": [
+            "Daniel M. Mathis's reported birth date of December 13, 1873",
+            "Daniel's residence in Mayo, Lafayette County, Florida, in 1918",
+            "Daniel's occupation as a farmer",
+            "Identification of Mary Mathis as Daniel's nearest relative"
+        ],
+        "documents": [
+            "1918_wwi_draft_daniel_mathis_front.jpg",
+            "1918_wwi_draft_daniel_mathis_back.jpg"
+        ]
+    },
+    {
+        "id": "1919-marriage-albert-singletary-dicie-stewart",
+        "type": "Marriage",
+        "title": "1919 Marriage Record — Albert Singletary and Dicie Stewart",
+        "people": [
+            "albert-e-singletary-1898",
+            "dicie-stewart"
+        ],
+        "date": "1919-08-31",
+        "location": "Lafayette County, Florida",
+        "description": "Original Lafayette County, Florida, marriage license and marriage record documenting the marriage of Albert Singletary and Dicie Stewart. The license was issued on August 29, 1919, by County Judge Hale W. Adams in Mayo, Florida. The couple was married on August 31, 1919, by H. S. Pool, Notary Public. The marriage was recorded on September 19, 1919, in Marriage Record Book C, page 413.",
+        "supports": [
+            "Marriage of Albert Singletary and Dicie Stewart on August 31, 1919",
+            "Marriage in Lafayette County, Florida",
+            "Bride's name recorded as Dicie Stewart",
+            "Marriage ceremony performed by H. S. Pool, Notary Public",
+            "Marriage recorded in Book C, page 413"
+        ],
+        "documents": [
+            "1919_marriage_albert_singletary_dicie_stewart_certificate.jpg",
+            "1919_marriage_albert_singletary_dicie_stewart_register.jpg"
+        ]
+    },
+    {
         "id": "william-levi-herrin-family-1920-census",
         "type": "Census",
         "title": "1920 United States Census — William Levi Herrin Household",
@@ -157,6 +617,146 @@
         ],
         "documents": [
             "1920_census_william_levi_herrin.jpg"
+        ]
+    },
+    {
+        "id": "george-singletary-family-1920-census",
+        "type": "Census",
+        "title": "1920 United States Census - George W. Singletary Household",
+        "people": [
+            "george-william-singletary-1895",
+            "lela-mae-mathis-1902",
+            "dewey-singletary-1919",
+            "alice-singletary-1905",
+            "viola-singletary-1908"
+        ],
+        "date": "1920-01-28",
+        "location": "Precinct No. 2, Mayo, Lafayette County, Florida, United States",
+        "description": "The 1920 United States Census records George W. Singletary and his wife, Lela M. Singletary, living in Precinct No. 2, Mayo, Lafayette County, Florida. Their five-month-old son, Dewey, appears as \"Duie\" in the census. George's younger sisters Alice Geneva and Viola Singletary were also living in the household. The census page was enumerated on January 28 and 29, 1920.",
+        "household_members": [
+            "Gorg W. Singletary - Head",
+            "Lela M. Singletary - Wife",
+            "Duie Singletary - Son - age 5/12",
+            "Allice Singletary - Sister",
+            "Viola Singletary - Sister"
+        ],
+        "supports": [
+            "George William Singletary living in Lafayette County, Florida, in 1920",
+            "Lela Mae Mathis living as George William Singletary's wife",
+            "Dewey Singletary living as their five-month-old son",
+            "Alice Geneva Singletary living in George William Singletary's household as his sister",
+            "Viola Singletary living in George William Singletary's household as his sister"
+        ],
+        "documents": [
+            "1920_census_george_singletary_family.jpg"
+        ]
+    },
+    {
+        "id": "1924-death-certificate-malachi-matthews",
+        "type": "Death",
+        "title": "1924 Florida Death Certificate — Malachi Matthews",
+        "people": [
+            "malachi-m-matthews"
+        ],
+        "date": "1924-08-23",
+        "location": "Norton Creek, Madison County, Florida",
+        "description": "Florida death certificate number 11181 records the death of Malachi Matthews on August 23, 1924, in Norton Creek, Madison County, Florida. His age was reported as approximately 83 years, and his birthplace as Thomas County, Georgia. The certificate identifies his father as David Mathis, born in South Carolina, and records chronic malaria as the cause of death. Burial was recorded at Mt. Olive Cemetery on August 24, 1924. The spouse's name is difficult to read and has not been conclusively identified.",
+        "supports": [
+            "Malachi Matthews's death on August 23, 1924",
+            "Death location in Norton Creek, Madison County, Florida",
+            "Approximate birth year of 1840–1841",
+            "Birthplace in Thomas County, Georgia",
+            "Identification of David Mathis as Malachi's father",
+            "Burial at Mt. Olive Cemetery on August 24, 1924"
+        ],
+        "documents": [
+            "1924_death_certificate_malachi_matthews.jpg"
+        ]
+    },
+    {
+        "id": "frank-mathis-mary-allen-marriage-1927",
+        "type": "Marriage Record",
+        "title": "1927 Marriage License and Certificate — Frank Mathis and Mary Virginia Allen",
+        "people": [
+            "frank-mathis-1907",
+            "mary-virginia-allen"
+        ],
+        "date": "1927-12-24",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "Two-page Florida marriage record documenting the marriage of Frank Mathis and Mary Allen on December 24, 1927, in Lafayette County, Florida. The first page is the marriage license cover, while the second contains the marriage license and certification of the ceremony performed by County Judge Moses H. Padgett. The record was filed December 27, 1927, in Marriage Record F, page 243.",
+        "supports": [
+            "Frank Mathis married Mary Virginia Allen on December 24, 1927",
+            "The marriage took place in Lafayette County, Florida",
+            "County Judge Moses H. Padgett performed the marriage ceremony",
+            "The marriage was recorded December 27, 1927"
+        ],
+        "documents": [
+            "1927_frank_mathis_mary_allen_marriage_license_cover.jpg",
+            "1927_frank_mathis_mary_allen_marriage_license.jpg"
+        ]
+    },
+    {
+        "id": "frank-mathis-mary-allen-parental-consent-1927",
+        "type": "Marriage Record",
+        "title": "1927 Parental Consent for Marriage of Frank Mathis and Mary Allen",
+        "people": [
+            "frank-mathis-1907",
+            "mary-virginia-allen"
+        ],
+        "date": "1927-12-24",
+        "location": "Lafayette County, Florida",
+        "description": "Parental consent dated December 24, 1927, authorizing the marriage of Mary Allen, age 15, to Frank Mathis. The document identifies Mary's parents as R. H. Allen and Florence Allen and is witnessed by Lafayette County Judge Moses H. Padgett.",
+        "supports": [
+            "Mary Allen was 15 years old in December 1927",
+            "Mary Allen received parental consent to marry Frank Mathis",
+            "The parental consent was signed December 24, 1927"
+        ],
+        "documents": [
+            "1927_frank_mathis_mary_allen_parental_consent.jpg"
+        ]
+    },
+    {
+        "id": "1928-death-certificate-albert-eugene-singletary",
+        "type": "Death Certificate",
+        "title": "1928 Florida Death Certificate — Albert Eugene Singletary",
+        "people": [
+            "albert-e-singletary-1898"
+        ],
+        "date": "1928-11-04",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "Florida State Board of Health death certificate, State File No. 17708, for Albert L. Singletary (identified by family information as Albert Eugene Singletary). The certificate records his age as 29, birth year as 1899, occupation as farmer, and marital status as married. His wife is identified as Daisy Stewart. His parents are listed as John V. Singletary and Mary Bryan. The physician's certification indicates that Albert died on November 4, 1928, from an accidental gunshot wound to the abdomen. His burial location is recorded as Midway Cemetery. The certificate was filed on November 29, 1928.",
+        "supports": [
+            "Death of Albert Singletary in November 1928",
+            "Cause of death: accidental gunshot wound to the abdomen",
+            "Albert's occupation as farmer",
+            "Marriage to Daisy Stewart",
+            "Identification of John V. Singletary and Mary Brian as Albert's parents",
+            "Burial at Midway Cemetery in Lafayette County, Florida"
+        ],
+        "documents": [
+            "1928_death_certificate_albert_eugene_singletary.jpg"
+        ]
+    },
+    {
+        "id": "william-m-williams-headstone-application-1929",
+        "type": "Military Record",
+        "title": "1929 War Department Headstone Application — William M. Williams",
+        "people": [
+            "william-williams-1843"
+        ],
+        "date": "1929-10-11",
+        "location": "Spotsylvania, Virginia",
+        "description": "War Department application for a government headstone submitted October 11, 1929, by Mrs. C. P. Andrews of Spotsylvania, Virginia. The application identifies William M. Williams as a private in Company K, 26th Georgia Infantry, Confederate Army, and records his death as May 12, 1864. The burial location is given as Confederate Cemetery in Spotsylvania, Virginia. The application was verified July 1, 1930.",
+        "supports": [
+            "William M. Williams served as a private",
+            "William served in Company K, 26th Georgia Infantry",
+            "William died May 12, 1864",
+            "William was buried in the Confederate Cemetery at Spotsylvania, Virginia",
+            "A government headstone was requested in October 1929",
+            "The headstone application was verified July 1, 1930"
+        ],
+        "documents": [
+            "1929_william_m_williams_headstone_application.png"
         ]
     },
     {
@@ -195,6 +795,59 @@
         ],
         "documents": [
             "1930_census_william_levi_herrin.jpg"
+        ]
+    },
+    {
+        "id": "george-singletary-family-1930-census",
+        "type": "Census",
+        "title": "1930 United States Census - George W. Singletary Household",
+        "people": [
+            "george-william-singletary-1895",
+            "lela-mae-mathis-1902",
+            "dewey-singletary-1919"
+        ],
+        "date": "1930-04-04",
+        "location": "Election Precinct No. 3, Lafayette County, Florida, United States",
+        "description": "The 1930 United States Census records George W. Singletary and his wife, Lela M. Singletary, living in Election Precinct No. 3, Lafayette County, Florida, with their children Dewey, Lewie, Loyd M., Irena, and George W. Lela's brother Glover Mathis appears in a nearby Mathis household on the same census page.",
+        "household_members": [
+            "George W. Singletary - Head - age 34",
+            "Lela M. Singletary - Wife - age 27",
+            "Dewey Singletary - Son - age 10",
+            "Lewie Singletary - Daughter - age 8",
+            "Loyd M. Singletary - Son - age 6",
+            "Irena Singletary - Daughter - age 4",
+            "George W. Singletary - Son - age 2"
+        ],
+        "supports": [
+            "George William Singletary living in Lafayette County, Florida, in 1930",
+            "Lela Mae Mathis living as George William Singletary's wife in 1930",
+            "Lela Mae Mathis recorded as age 27 in 1930",
+            "Dewey Singletary living as a son in the household",
+            "George and Lela Singletary living with five children in 1930",
+            "Lela Mae Mathis's brother Glover Mathis living nearby"
+        ],
+        "documents": [
+            "1930_census_george_singletary_family.jpg"
+        ]
+    },
+    {
+        "id": "mary-virginia-allen-death-certificate-1933",
+        "type": "Death Certificate",
+        "title": "1933 Florida Death Certificate — Mary Mathis",
+        "people": [
+            "mary-virginia-allen"
+        ],
+        "date": "1933-06-07",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "Florida death certificate, state file number 20078, recording the death of Mary Mathis on June 7, 1933. Identifies her husband as Frank Mathis, her father as Lewis Allen, and her mother as Florence Fryer. Records her birth on May 4, 1911, in Lafayette County, Florida.",
+        "supports": [
+            "Mary Mathis died June 7, 1933",
+            "Mary was married to Frank Mathis at the time of her death",
+            "Mary was born May 4, 1911, in Lafayette County, Florida",
+            "Mary's parents were Lewis Allen and Florence Fryer"
+        ],
+        "documents": [
+            "1933_mary_virginia_allen_death_certificate.jpg"
         ]
     },
     {
@@ -245,6 +898,263 @@
         ]
     },
     {
+        "id": "james-talmage-herrin-draft-registration",
+        "type": "Draft Registration Card",
+        "title": "Selective Service Registration Card of James Talmage Herrin",
+        "people": [
+            "james-talmage-herrin-1919"
+        ],
+        "date": "1940",
+        "location": "Mayo, Lafayette County, Florida, United States",
+        "description": "Selective Service registration card for James Talmadge Herrin. The card records his residence as Mayo, Lafayette County, Florida, his birth on November 12, 1919, in Pearson, Georgia, and his citizenship as United States. James identified his father, W. L. Herrin of Mayo, as the person who would always know his address.",
+        "supports": [
+            "James Talmage Herrin's birth date of November 12, 1919",
+            "James Talmage Herrin's birthplace as Pearson, Georgia",
+            "James Talmage Herrin's residence in Mayo, Lafayette County, Florida",
+            "William Levi Herrin as James Talmage Herrin's father"
+        ],
+        "documents": [
+            "james_talmage_herrin_draft_registration_card.jpg"
+        ]
+    },
+    {
+        "id": "dewey-singletary-ollie-mae-herrin-marriage-1940",
+        "type": "Marriage Record",
+        "title": "1940 Marriage of Dewey Singletary and Ollie Mae Herrin",
+        "people": [
+            "dewey-singletary-1919",
+            "ollie-mae-herrin-1917"
+        ],
+        "date": "1940-06-21",
+        "location": "Mayo, Lafayette County, Florida, United States",
+        "description": "Marriage application, license, and certificate documenting the marriage of Dewey Singletary and Ollie Mae Herrin in Mayo, Lafayette County, Florida, on June 21, 1940. The records spell Ollie's maiden name as Herring. The application records both as age 21 and previously unmarried. Dewey was living in Mayo, was born in Lafayette County, and was working as a laborer. Ollie was living in Mayo and reported her birthplace as Homerville, Georgia.",
+        "supports": [
+            "Marriage of Dewey Singletary and Ollie Mae Herrin",
+            "Marriage date of June 21, 1940",
+            "Marriage place of Mayo, Lafayette County, Florida",
+            "Dewey Singletary's residence and occupation",
+            "Ollie Mae Herrin's residence",
+            "Ollie Mae Herrin's reported birthplace of Homerville, Georgia"
+        ],
+        "documents": [
+            "1940_marriage_application_dewey_singletary_ollie_mae_herrin.jpg",
+            "1940_marriage_license_dewey_singletary_ollie_mae_herrin.jpg"
+        ]
+    },
+    {
+        "id": "dewey-singletary-ww2-draft-registration-1940",
+        "type": "Military Draft Registration",
+        "title": "1940 Dewey Singletary — World War II Draft Registration Card",
+        "people": [
+            "dewey-singletary-1919"
+        ],
+        "date": "1940-10-16",
+        "location": "Mayo, Lafayette County, Florida, United States",
+        "description": "Dewey Singletary registered for the World War II draft on October 16, 1940, at age 21. He reported that he was born on August 23, 1919, in Lafayette County, Florida, and resided in Mayo. His wife, Mrs. Ollie Mae Singletary, was listed as the person who would always know his address. Dewey reported employment with a W.P.A. project in Tallahassee, Leon County, Florida. The registrar described him as approximately 5 feet 8 inches tall, weighing 145 pounds, with blue eyes, blond hair, and a light complexion.",
+        "supports": [
+            "Dewey Singletary's birth date of August 23, 1919",
+            "Dewey Singletary's birthplace in Lafayette County, Florida",
+            "Dewey Singletary's residence in Mayo, Florida, in October 1940",
+            "Dewey Singletary's marriage to Ollie Mae Singletary by October 1940",
+            "Dewey Singletary's employment with a W.P.A. project in Tallahassee",
+            "Dewey Singletary's physical description in 1940"
+        ],
+        "documents": [
+            "1940_dewey_singletary_ww2_draft_front.jpg",
+            "1940_dewey_singletary_ww2_draft_back.jpg"
+        ]
+    },
+    {
+        "id": "1941-birth-certificate-arthur-singletary",
+        "type": "Birth Certificate",
+        "title": "1941 Florida Birth Certificate — Arthur Singletary",
+        "people": [
+            "arthur-singletary-1941"
+        ],
+        "date": "1941-10-24",
+        "location": "Lafayette County, Florida",
+        "description": "Certified copy of Florida birth certificate, State File No. 6252, documenting the birth of Arthur Singletary on October 24, 1941, in Lafayette County, Florida. The certificate identifies his father as Dewey Singletary and his mother as Ollie Mae Herrin. Dewey's occupation is recorded as farming, and Ollie's occupation as housewife.",
+        "supports": [
+            "Birth of Arthur Singletary on October 24, 1941",
+            "Birthplace in Lafayette County, Florida",
+            "Dewey Singletary identified as father",
+            "Ollie Mae Herrin identified as mother",
+            "Dewey Singletary's occupation recorded as farming",
+            "Ollie Mae Herrin's occupation recorded as housewife"
+        ],
+        "documents": [
+            "1941_arthur_singletary_sr_birth_certificate.jpg"
+        ]
+    },
+    {
+        "id": "dewey-ollie-singletary-family-1945-florida-census",
+        "type": "State Census",
+        "title": "1945 Florida State Census — Dewey and Ollie Singletary Family",
+        "people": [
+            "dewey-singletary-1919",
+            "ollie-mae-herrin-1917",
+            "arthur-singletary-1941"
+        ],
+        "date": "1945",
+        "location": "Airline, Lafayette County, Florida, United States",
+        "household_members": [
+            "Dewey Singletary — age 25, born Florida, laborer",
+            "Ollie Singletary — age 26, born Georgia, housewife",
+            "Arthur Singletary — age 4, born Florida"
+        ],
+        "description": "The 1945 Florida State Census records Dewey and Ollie Singletary living in Precinct No. 3, Airline, Lafayette County, Florida, with their four-year-old son Arthur. Dewey was working as a laborer and Ollie was recorded as a housewife. Other members of Dewey Singletary's family, including his parents and siblings, were also living in the Airline community and appear on the same census page.",
+        "supports": [
+            "Residence of Dewey and Ollie Singletary in Airline, Lafayette County, Florida in 1945",
+            "Arthur Singletary as a member of the household",
+            "Dewey Singletary's occupation as a laborer",
+            "Ollie Singletary's birthplace as Georgia",
+            "Arthur Singletary's birthplace as Florida"
+        ],
+        "documents": [
+            "1945_florida_census_dewey_ollie_singletary.jpg"
+        ]
+    },
+    {
+        "id": "james-talmadge-herrin-marriage-1945",
+        "type": "Marriage Record",
+        "title": "1945 Marriage License — James Herrin and Myrtis Hurst",
+        "people": [
+            "james-talmage-herrin-1919"
+        ],
+        "date": "1945-10-13",
+        "location": "Echols County, Georgia",
+        "description": "Marriage license and certificate documenting the marriage of James Herrin and Myrtis Hurst on October 13, 1945, in Echols County, Georgia. The marriage was performed by W. H. Clayton, County Judge, and recorded October 15, 1945.",
+        "supports": [
+            "James Herrin married Myrtis Hurst",
+            "The marriage took place October 13, 1945",
+            "The marriage occurred in Echols County, Georgia"
+        ],
+        "documents": [
+            "1945_james_talmadge_herrin_marriage_license.jpg"
+        ]
+    },
+    {
+        "id": "herrin-sisters-marriages-1947",
+        "type": "Marriage Record",
+        "title": "1947 Brooks County Marriage Register — Gladys and Marylou Herrin",
+        "people": [
+            "gladys-lucille-herrin-1924",
+            "mary-lou-herrin-1927"
+        ],
+        "date": "1947-08-03",
+        "location": "Brooks County, Georgia",
+        "description": "Brooks County marriage register showing that sisters Gladys Lucille Herrin and Marylou Herrin married on August 3, 1947. Gladys married Lamar Lee Stephens, while Marylou married Gordon Edward Bell. Both marriages were performed by Frank H. McElroy, minister. The entries appear together on the same register page. The records do not establish whether the marriages were part of a joint ceremony.",
+        "supports": [
+            "Gladys Lucille Herrin married Lamar Lee Stephens on August 3, 1947",
+            "Marylou Herrin married Gordon Edward Bell on August 3, 1947",
+            "Both marriages were performed by Frank H. McElroy",
+            "The two marriage records appear on the same register page"
+        ],
+        "documents": [
+            "1947_brooks_county_marriage_register.jpg"
+        ]
+    },
+    {
+        "id": "gladys-herrin-marriage-1947",
+        "type": "Marriage Record",
+        "title": "1947 Marriage License — Gladys Lucille Herrin and Lamar Lee Stephens",
+        "people": [
+            "gladys-lucille-herrin-1924"
+        ],
+        "date": "1947-08-03",
+        "location": "Brooks County, Georgia",
+        "description": "Marriage license and certificate documenting the marriage of Gladys Lucille Herrin and Lamar Lee Stephens on August 3, 1947, in Brooks County, Georgia. The ceremony was performed by Frank H. McElroy, minister.",
+        "supports": [
+            "Gladys Lucille Herrin married Lamar Lee Stephens",
+            "The marriage took place August 3, 1947",
+            "The marriage occurred in Brooks County, Georgia",
+            "Frank H. McElroy performed the marriage"
+        ],
+        "documents": [
+            "1947_gladys_herrin_lamar_stephens_marriage.jpg"
+        ]
+    },
+    {
+        "id": "1947-death-certificate-mary-frances-darling-mathis",
+        "type": "Death Certificate",
+        "title": "1947 Florida Death Certificate — Mary Frances Darling Mathis",
+        "people": [
+            "mary-frances-darling"
+        ],
+        "date": "1947-11-07",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "Florida death certificate No. 21468 for Mary Frances Mathis, born June 4, 1880, in Madison County, Florida, and deceased November 7, 1947, in Mayo, Lafayette County. The certificate identifies her husband as Daniel Mathis, her father as Everette Darling, and her mother as Sarah Blanton. Sarah Blanton is believed to be Sarah M. Wadsworth, who was previously married to Greenbery Blanton before marrying Everett Darling.",
+        "supports": [
+            "Birth of Mary Frances Darling on June 4, 1880",
+            "Death of Mary Frances Mathis on November 7, 1947",
+            "Everette Darling identified as her father",
+            "Sarah Blanton identified as her mother",
+            "Marriage to Daniel Mathis",
+            "Burial at Airline Cemetery"
+        ],
+        "documents": [
+            "1947_death_certificate_mary_frances_darling.jpg"
+        ]
+    },
+    {
+        "id": "james-herrin-family-1950-census",
+        "type": "Census",
+        "title": "1950 United States Census - James Talmadge Herrin Household",
+        "people": [
+            "james-talmage-herrin-1919",
+            "myrtice-irene-hurst"
+        ],
+        "date": "1950",
+        "location": "Lake Butler, Union County, Florida, United States",
+        "description": "The 1950 United States Census records James Talmadge Herrin and his wife, Myrtice Irene Herrin, living in Lake Butler, Union County, Florida, with their children James Talmadge Jr., William Melvin, and Diane. James was 30 and born in Georgia; Myrtice was 28 and born in Florida.",
+        "household_members": [
+            "James Talmadge Herrin - Head - age 30 - born Georgia",
+            "Myrtice Irene Herrin - Wife - age 28 - born Florida",
+            "James Talmadge Herrin Jr. - Son - age 2 - born Florida",
+            "William Melvin Herrin - Son - age recorded as 1 - born Florida",
+            "Diane Herrin - Daughter - age 1 - born Florida"
+        ],
+        "supports": [
+            "Residence of James Talmadge Herrin and family in Lake Butler, Union County, Florida, in 1950",
+            "Marriage of James Talmadge Herrin and Myrtice Irene Herrin",
+            "Presence of children James Talmadge Jr., William Melvin, and Diane in the household"
+        ],
+        "documents": [
+            "1950_census_james_herrin_family.jpg"
+        ]
+    },
+    {
+        "id": "dewey-ollie-singletary-family-1950-census",
+        "type": "United States Census",
+        "title": "1950 United States Census — Dewey and Ollie Singletary Family",
+        "people": [
+            "dewey-singletary-1919",
+            "ollie-mae-herrin-1917",
+            "arthur-singletary-1941",
+            "emory-dewey-singletary-1945"
+        ],
+        "date": "1950",
+        "location": "Lafayette County, Florida, United States",
+        "household_members": [
+            "Dewey Singletary — head, age 30, born Florida",
+            "Ollie M. Singletary — wife, age 32, born Georgia",
+            "Arthur Singletary — son, age 9, born Florida",
+            "Emory D. Singletary — son, age 4, born Florida"
+        ],
+        "description": "The 1950 United States Census records Dewey and Ollie Singletary living in Lafayette County, Florida, with their sons Arthur and Emory. Dewey was working as an automobile mechanic.",
+        "supports": [
+            "Residence of Dewey and Ollie Singletary in Lafayette County, Florida, in 1950",
+            "Arthur Singletary as their son",
+            "Emory Dewey Singletary as their son",
+            "Ollie Mae Singletary's birthplace as Georgia",
+            "Arthur and Emory Singletary's birthplaces as Florida",
+            "Dewey Singletary's occupation as an automobile mechanic"
+        ],
+        "documents": [
+            "1950_census_dewey_ollie_singletary.jpg"
+        ]
+    },
+    {
         "id": "william-levi-herrin-family-1950-census",
         "type": "Census",
         "title": "1950 United States Census — William Levi Herrin Household",
@@ -280,7 +1190,71 @@
             "1950_census_william_levi_herrin.jpg"
         ]
     },
-        {
+    {
+        "id": "lela-mae-mathis-singletary-death-certificate-1951",
+        "type": "Death Certificate",
+        "title": "1951 Florida Death Certificate - Lela Mae Singletary",
+        "people": [
+            "lela-mae-mathis-1902"
+        ],
+        "date": "1951-07-19",
+        "location": "Lafayette County, Florida, United States",
+        "description": "Florida death certificate for Lela Mae Singletary, who died on July 19, 1951, in rural Mayo, Lafayette County, Florida. The certificate records her birthplace as Madison County, Florida, and identifies her parents as Daniel Mathis and Mary Darling. It records her birth date as September 26, 1905, and her age as 46. These two entries are internally inconsistent, and other family records support a birth date of September 26, 1902. The cause of death was recorded as acute gastritis. Lela was buried at Airline Cemetery in Lafayette County on July 20, 1951.",
+        "supports": [
+            "Lela Mae Mathis Singletary's death on July 19, 1951",
+            "Lela Mae Mathis Singletary's birthplace as Madison County, Florida",
+            "Daniel Mathis as Lela Mae Mathis Singletary's father",
+            "Mary Darling as Lela Mae Mathis Singletary's mother",
+            "Lela Mae Mathis Singletary's burial at Airline Cemetery",
+            "Conflicting evidence concerning Lela Mae Mathis Singletary's birth year"
+        ],
+        "documents": [
+            "1951_lela_mae_mathis_singletary_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "gladys-herrin-death-certificate-1954",
+        "type": "Death Certificate",
+        "title": "1954 Florida Death Certificate — Gladys L. Stephens",
+        "people": [
+            "gladys-lucille-herrin-1924"
+        ],
+        "date": "1954-09-27",
+        "location": "Foley, Taylor County, Florida",
+        "description": "Florida death certificate identifying Gladys L. Stephens as born May 25, 1924, in Clinch County, Georgia, and deceased September 27, 1954, at her home in Foley, Taylor County, Florida. Her parents are recorded as W. L. Herrin and Laura Palmer. The certificate records burial at Woodlawn Cemetery in Perry, Florida.",
+        "supports": [
+            "Gladys was born May 25, 1924",
+            "Gladys was born in Clinch County, Georgia",
+            "Gladys died September 27, 1954",
+            "Gladys's parents were W. L. Herrin and Laura Palmer",
+            "Gladys was buried at Woodlawn Cemetery in Perry, Florida"
+        ],
+        "documents": [
+            "1954_gladys_herrin_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "james-loyd-singletary-stillbirth-certificate",
+        "type": "Certificate of Stillbirth",
+        "title": "Certificate of Stillbirth of James Loyd Singletary",
+        "people": [
+            "james-loyd-singletary-1955"
+        ],
+        "date": "1955",
+        "location": "Tallahassee, Leon County, Florida, United States",
+        "description": "Florida Certificate of Stillbirth for James Loyd Singletary, son of Dewey Singletary and Ollie Mae Herrin. The certificate records the stillbirth at Tallahassee Memorial Hospital in Leon County, Florida, in September 1955. The exact date on the surviving certificate is difficult to read and appears to be September 24, while James Loyd's grave marker at Woodlawn Cemetery gives September 25, 1955.",
+        "supports": [
+            "James Loyd Singletary as the son of Dewey Singletary and Ollie Mae Herrin",
+            "James Loyd Singletary's stillbirth in September 1955",
+            "Tallahassee Memorial Hospital as the place of stillbirth",
+            "Dewey Singletary as James Loyd Singletary's father",
+            "Ollie Mae Herrin as James Loyd Singletary's mother"
+        ],
+        "documents": [
+            "1955_james_loyd_singletary_death_certificate.jpg"
+        ]
+    },
+    {
         "id": "laura-etta-herrin-death-certificate",
         "type": "Death Certificate",
         "title": "1959 Death Certificate of Laura Etta Herrin",
@@ -300,7 +1274,7 @@
             "Laura Etta Herrin's burial at Woodlawn Cemetery in Perry"
         ],
         "documents": [
-            "laura_etta_herrin_death_certificate.jpg"
+            "1959_laura_etta_herrin_death_certificate.jpg"
         ]
     },
     {
@@ -322,7 +1296,178 @@
             "Elias Palmer and Frank Palmer as Laura Etta Herrin's brothers"
         ],
         "documents": [
-            "laura_etta_herrin_obituary_1959.jpg"
+            "1959_laura_etta_herrin_obituary.jpg"
+        ]
+    },
+    {
+        "id": "arthur-singletary-parris-island-promotion-1961",
+        "type": "Newspaper Article",
+        "title": "1961 Arthur Singletary Meritoriously Promoted at Parris Island",
+        "people": [
+            "arthur-singletary-1941"
+        ],
+        "date": "1961-01-30",
+        "location": "Parris Island, South Carolina, United States",
+        "description": "An article published in the Tallahassee Democrat on January 30, 1961, reports that Arthur Singletary was meritoriously promoted to Private First Class on December 13, 1960, following completion of recruit training at Marine Corps Recruit Depot Parris Island, South Carolina. The promotion recognized his outstanding performance during training. The article states that Arthur enlisted in September 1960 and previously attended North Florida Junior College in Madison, Florida. It also identifies his parents as Mr. and Mrs. Dewey Singletary of Perry, Florida.",
+        "supports": [
+            "Arthur Singletary's service in the United States Marine Corps",
+            "Arthur Singletary's completion of recruit training at Parris Island",
+            "Arthur Singletary's meritorious promotion to Private First Class on December 13, 1960",
+            "Arthur Singletary's enlistment in September 1960",
+            "Arthur Singletary's attendance at North Florida Junior College",
+            "Dewey and Ollie Singletary as Arthur Singletary's parents"
+        ],
+        "documents": [
+            "1961_arthur_singletary_parris_island_promotion.jpg"
+        ]
+    },
+    {
+        "id": "frank-mathis-obituary-1969",
+        "type": "Obituary",
+        "title": "1969 Obituary — Frank Mathis",
+        "people": [
+            "frank-mathis-1907"
+        ],
+        "date": "1969",
+        "location": "Sneads, Jackson County, Florida",
+        "description": "Newspaper obituary reporting the death of Frank Mathis, age 62. Identifies him as a native of Madison County, Florida, a retired furniture mill worker, and a member of the Baptist Church of Sneads. Survivors included his wife Minnie O. Mathis, daughter Hornine Barber, son Joseph Mathis, stepson John Wayne McQuaid, and three brothers. Newspaper title and publication date have not yet been established.",
+        "supports": [
+            "Frank Mathis was born in Madison County, Florida",
+            "Frank Mathis worked in a furniture mill",
+            "Frank Mathis lived in Sneads, Florida",
+            "Frank Mathis was married to Minnie O. Mathis",
+            "Frank Mathis had children and a stepson"
+        ],
+        "documents": [
+            "1969_frank_mathis_obituary.jpg"
+        ]
+    },
+    {
+        "id": "frank-mathis-death-certificate-1969",
+        "type": "Death Certificate",
+        "title": "1969 Florida Death Certificate — Frank Mathis",
+        "people": [
+            "frank-mathis-1907"
+        ],
+        "date": "1969-07-22",
+        "location": "Chattahoochee, Gadsden County, Florida",
+        "description": "Florida death certificate, state file number 69-041363. Records Frank Mathis's birth on April 30, 1907, death on July 22, 1969, parents Daniel Mathis and Mary Dowling, residence in Sneads, Florida, and burial at Mount Pleasant Cemetery.",
+        "supports": [
+            "Frank Mathis was born April 30, 1907",
+            "Frank Mathis died July 22, 1969",
+            "Frank Mathis was the son of Daniel Mathis and Mary Dowling",
+            "Frank Mathis was buried at Mount Pleasant Cemetery"
+        ],
+        "documents": [
+            "1969_frank_mathis_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "mary-lou-herrin-obituary-1972",
+        "type": "Obituary",
+        "title": "1972 Obituary — Mary Lou Miller",
+        "people": [
+            "mary-lou-herrin-1927"
+        ],
+        "date": "1972",
+        "location": "Perry, Taylor County, Florida",
+        "description": "Newspaper obituary for Mary Lou Miller, age 45, reporting her death at her home in Orlando. It identifies her as a native of Pearson, Georgia, and a longtime resident of Taylor County, Florida. Survivors included daughter Laura Linda Miller, son Robert B. Miller, stepson Charles Miller Jr., father William L. Herrin, six sisters, and two brothers. The obituary also records her membership in the Church of Jesus Christ of Latter-day Saints. Newspaper title and exact publication date have not yet been established.",
+        "supports": [
+            "Mary Lou was born in Pearson, Georgia",
+            "Mary Lou lived most of her life in Taylor County, Florida",
+            "Mary Lou had a daughter named Laura Linda Miller",
+            "Mary Lou had a son named Robert B. Miller",
+            "Mary Lou had a stepson named Charles Miller Jr.",
+            "Mary Lou was a member of the Church of Jesus Christ of Latter-day Saints",
+            "William L. Herrin was living at the time of Mary Lou's death"
+        ],
+        "documents": [
+            "1972_mary_lou_herrin_obituary.jpeg"
+        ]
+    },
+    {
+        "id": "mary-lou-herrin-death-certificate-1972",
+        "type": "Death Certificate",
+        "title": "1972 Florida Death Certificate — Mary Lou Mathis",
+        "people": [
+            "mary-lou-herrin-1927"
+        ],
+        "date": "1972-12-16",
+        "location": "Orlando, Orange County, Florida",
+        "description": "Florida death certificate, state file number 72-082579, documenting the death of Mary Lou Mathis on December 16, 1972, in Orlando, Florida. She was born May 8, 1927, in Georgia. Her parents are identified as William Herrin and Laura Palmer. The certificate names Howard Mathis as her surviving husband and Miss Linda T. Miller as the informant. Burial took place December 19, 1972, at Woodlawn Cemetery in Perry, Florida.",
+        "supports": [
+            "Mary Lou was born May 8, 1927",
+            "Mary Lou was born in Georgia",
+            "Mary Lou died December 16, 1972",
+            "Mary Lou's parents were William Herrin and Laura Palmer",
+            "Mary Lou's surviving husband was Howard Mathis",
+            "Mary Lou was buried at Woodlawn Cemetery in Perry, Florida"
+        ],
+        "documents": [
+            "1972_mary_lou_herrin_mathis_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "linda-miller-jeffrey-smith-marriage-1973",
+        "type": "Marriage Record",
+        "title": "1973 Florida Marriage Record — Linda Miller and Jeffrey Phillip Smith",
+        "people": [
+            "linda-miller-1953",
+            "jeffrey-phillip-smith"
+        ],
+        "date": "1973-07-29",
+        "location": "Miami-Dade County, Florida",
+        "description": "Florida marriage index entry for Jeffrey Phillip Smith and his spouse, dated July 29, 1973, Miami-Dade County. Certificate number 043837, volume 3399. A separate marriage record identifying the bride as Linda Louise Miller gives August 5, 1973. The discrepancy between the dates has not yet been resolved.",
+        "supports": [
+            "Linda Miller married Jeffrey Phillip Smith in 1973",
+            "A Florida marriage index records July 29, 1973"
+        ],
+        "documents": []
+    },
+    {
+        "id": "linda-miller-marriage-announcement-1973",
+        "type": "Newspaper",
+        "title": "1973 Marriage Announcement — Linda Louise Miller and Jeffrey Phillip Smith",
+        "people": [
+            "linda-miller-1953",
+            "jeffrey-phillip-smith"
+        ],
+        "date": "1973-07-30",
+        "location": "Miami, Miami-Dade County, Florida",
+        "description": "Marriage announcement published in The Miami Herald on July 30, 1973. The announcement identifies Linda Louise Miller as the daughter of Charles A. Miller of Perry, Florida, and the late Marylou Mathis. It reports her marriage to Jeffrey Phillip Smith at Sierra-Norwood Baptist Church. Linda graduated from the Florida School for the Deaf and Blind in St. Augustine and attended Florida State University. The announcement also identifies Jeffrey as the son of Mr. and Mrs. Phillip A. Smith.",
+        "supports": [
+            "Linda was the daughter of Charles A. Miller and Mary Lou Herrin Mathis",
+            "Linda used the name Linda Louise Miller in 1973",
+            "Linda married Jeffrey Phillip Smith",
+            "Linda graduated from the Florida School for the Deaf and Blind",
+            "Linda attended Florida State University"
+        ],
+        "documents": [
+            "1973_linda_miller_jeffrey_smith_marriage.jpg"
+        ]
+    },
+    {
+        "id": "dewey-singletary-death-certificate-1973",
+        "type": "Death Certificate",
+        "title": "1973 Florida Death Certificate — Dewey Singletary",
+        "people": [
+            "dewey-singletary-1919"
+        ],
+        "date": "1973-11-19",
+        "location": "Perry, Taylor County, Florida, United States",
+        "description": "Florida death certificate documenting the death of Dewey Singletary on November 19, 1973, at Doctors Memorial Hospital in Perry, Florida. He was born August 23, 1919, and was 54 years old. His parents were identified as George William Singletary and Lela Mae Mathis, and his surviving wife was Ollie Mae Herrin Singletary. Dewey worked as a mechanic for the State Road Department. His death was attributed to an acute myocardial infarction caused by arteriosclerotic cardiovascular disease. He was buried at Woodlawn Cemetery in Perry on November 21, 1973. His wife, Ollie Mae Singletary, was the informant.",
+        "supports": [
+            "Dewey Singletary's date of birth",
+            "Dewey Singletary's date and place of death",
+            "George William Singletary and Lela Mae Mathis as Dewey's parents",
+            "Ollie Mae Herrin Singletary as Dewey's wife",
+            "Dewey Singletary's occupation as a mechanic",
+            "Dewey Singletary's employment with the State Road Department",
+            "Dewey Singletary's cause of death",
+            "Dewey Singletary's burial at Woodlawn Cemetery"
+        ],
+        "documents": [
+            "1973_dewey_singletary_death_certificate.jpeg"
         ]
     },
     {
@@ -345,7 +1490,7 @@
             "A conflicting record of William Levi Herrin's mother's name"
         ],
         "documents": [
-            "william_levi_herrin_death_certificate.jpg"
+            "1975_william_levi_herrin_death_certificate.jpg"
         ]
     },
     {
@@ -367,1355 +1512,243 @@
             "William Levi Herrin having 28 grandchildren and 28 great-grandchildren at the time of his death"
         ],
         "documents": [
-            "william_levi_herrin_obituary_1975.jpg"
+            "1975_william_levi_herrin_obituary.jpg"
         ]
     },
     {
-        "id": "dewey-singletary-ollie-mae-herrin-marriage-1940",
-        "type": "Marriage Record",
-        "title": "1940 Marriage of Dewey Singletary and Ollie Mae Herrin",
+        "id": "shelby-jean-herrin-obituary-1978",
+        "type": "Obituary",
+        "title": "1978 Obituary — Shelby Jean Freeman",
         "people": [
-            "dewey-singletary-1919",
+            "shelby-jean-herrin-1939"
+        ],
+        "date": "1978",
+        "location": "Perry, Florida",
+        "description": "Newspaper obituary for Shelby Jean Freeman, age 39, reporting her death at Clayton County General Hospital in Georgia. The obituary identifies her husband, Arthur M. Freeman; daughter, Elizabeth Renea Griffin; five sisters, Ollie Singletary, Evelyn Webb, Ida Mae Seacrest, Dorothy Hines, and Deloris Morgan; and two brothers, James Herrin and Billy Herrin. Graveside services were scheduled at Woodlawn Cemetery in Perry, Florida. The newspaper title and publication date have not yet been established.",
+        "supports": [
+            "Shelby Jean Freeman died at age 39",
+            "Shelby's husband was Arthur M. Freeman",
+            "Shelby had a daughter named Elizabeth Renea Griffin",
+            "The obituary identifies five sisters and two brothers",
+            "Graveside services were held at Woodlawn Cemetery in Perry, Florida"
+        ],
+        "documents": [
+            "1978_shelby_jean_herrin_obituary.jpeg"
+        ]
+    },
+    {
+        "id": "shelby-jean-herrin-death-certificate-1978",
+        "type": "Death Certificate",
+        "title": "1978 Georgia Death Certificate — Shelby Jean Freeman",
+        "people": [
+            "shelby-jean-herrin-1939"
+        ],
+        "date": "1978-09-12",
+        "location": "Clayton County, Georgia",
+        "description": "Georgia death certificate, state file number 029224, identifying Shelby Jean Freeman as born February 26, 1939, in Clinch County, Georgia, and deceased September 12, 1978, at Clayton General Hospital in Riverdale, Georgia. Her parents are identified as W. L. Herrin and Laura Palmer, and her husband as Arthur M. Freeman. Burial was recorded at Woodlawn Cemetery in Perry, Florida.",
+        "supports": [
+            "Shelby Jean Herrin was born February 26, 1939",
+            "Shelby was born in Clinch County, Georgia",
+            "Shelby died September 12, 1978",
+            "Shelby's parents were W. L. Herrin and Laura Palmer",
+            "Shelby's husband was Arthur M. Freeman",
+            "Shelby was buried at Woodlawn Cemetery in Perry, Florida"
+        ],
+        "documents": [
+            "1978_shelby_jean_herrin_death_certificate.jpeg"
+        ]
+    },
+    {
+        "id": "james-talmadge-herrin-death-certificate-1986",
+        "type": "Death Certificate",
+        "title": "1986 Florida Death Certificate — James Talmadge Herrin",
+        "people": [
+            "james-talmage-herrin-1919"
+        ],
+        "date": "1986-02-08",
+        "location": "Lake City, Columbia County, Florida",
+        "description": "Florida death certificate identifying James Talmadge Herrin as born November 12, 1919, in Georgia and deceased February 8, 1986, at the Veterans Administration Medical Center in Lake City, Florida. His parents are identified as William Levi Herrin and Laura Etta Palmer. His usual residence was Perry, Taylor County, Florida, and burial was recorded at Woodlawn Cemetery.",
+        "supports": [
+            "James's full name was James Talmadge Herrin",
+            "James was born November 12, 1919",
+            "James died February 8, 1986",
+            "James's parents were William Levi Herrin and Laura Etta Palmer",
+            "James was buried at Woodlawn Cemetery in Perry, Florida"
+        ],
+        "documents": [
+            "1986_james_talmadge_herrin_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "james-talmadge-herrin-obituary-1986",
+        "type": "Obituary",
+        "title": "1986 Obituary — James T. Herrin Sr.",
+        "people": [
+            "james-talmage-herrin-1919"
+        ],
+        "date": "1986-02-10",
+        "location": "Perry, Florida",
+        "description": "Obituary published in the Tallahassee Democrat on February 10, 1986, reporting the death of James T. Herrin Sr., age 66. It identifies him as a native of Homerville, Georgia, a longtime Perry resident, and a U.S. Army veteran of World War II. It lists four daughters, two sons, five sisters, and one brother, and announces graveside services at Woodlawn Cemetery in Perry.",
+        "supports": [
+            "James was a native of Homerville, Georgia",
+            "James lived in Perry, Florida, for most of his life",
+            "James served in the U.S. Army during World War II",
+            "James worked in the dairy business and later for Gulf Stream Crab Company",
+            "James had four daughters and two sons",
+            "James's surviving siblings included Ollie Singletary and Billy Herrin"
+        ],
+        "documents": [
+            "1986_james_talmadge_herrin_obituary.jpg"
+        ]
+    },
+    {
+        "id": "ollie-mae-herrin-obituary",
+        "type": "Obituary",
+        "title": "1992 Obituary of Ollie Mae Herrin",
+        "people": [
             "ollie-mae-herrin-1917"
         ],
-        "date": "1940-06-21",
-        "location": "Mayo, Lafayette County, Florida, United States",
-        "description": "Marriage application, license, and certificate documenting the marriage of Dewey Singletary and Ollie Mae Herrin in Mayo, Lafayette County, Florida, on June 21, 1940. The records spell Ollie's maiden name as Herring. The application records both as age 21 and previously unmarried. Dewey was living in Mayo, was born in Lafayette County, and was working as a laborer. Ollie was living in Mayo and reported her birthplace as Homerville, Georgia.",
+        "date": "1992",
+        "description": "Obituary for Ollie Mae Herrin, including family and biographical information.",
         "supports": [
-            "Marriage of Dewey Singletary and Ollie Mae Herrin",
-            "Marriage date of June 21, 1940",
-            "Marriage place of Mayo, Lafayette County, Florida",
-            "Dewey Singletary's residence and occupation",
-            "Ollie Mae Herrin's residence",
-            "Ollie Mae Herrin's reported birthplace of Homerville, Georgia"
+            "Ollie Mae Herrin's death",
+            "Family relationships",
+            "Biographical information"
         ],
         "documents": [
-            "Marriage Application - Dewey Singletary - Ollie Mae Herrin.jpg",
-            "Marriage License - Dewey Singletary - Ollie Mae Herrin.jpg"
+            "1992_ollie_mae_herrin_obituary.jpg"
         ]
     },
     {
-        "id": "dewey-ollie-singletary-family-1945-florida-census",
-        "type": "State Census",
-        "title": "1945 Florida State Census — Dewey and Ollie Singletary Family",
+        "id": "ollie-mae-herrin-death-certificate",
+        "type": "Death Certificate",
+        "title": "1992 Death Certificate of Ollie Mae Herrin",
         "people": [
-            "dewey-singletary-1919",
-            "ollie-mae-herrin-1917",
-            "arthur-singletary-1941"
+            "ollie-mae-herrin-1917"
         ],
-        "date": "1945",
-        "location": "Airline, Lafayette County, Florida, United States",
-        "household_members": [
-            "Dewey Singletary — age 25, born Florida, laborer",
-            "Ollie Singletary — age 26, born Georgia, housewife",
-            "Arthur Singletary — age 4, born Florida"
-        ],
-        "description": "The 1945 Florida State Census records Dewey and Ollie Singletary living in Precinct No. 3, Airline, Lafayette County, Florida, with their four-year-old son Arthur. Dewey was working as a laborer and Ollie was recorded as a housewife. Other members of Dewey Singletary's family, including his parents and siblings, were also living in the Airline community and appear on the same census page.",
+        "date": "1992-06-07",
+        "location": "Perry, Taylor, Florida, United States",
+        "description": "Death certificate documenting the death of Ollie Mae Herrin in Perry, Taylor County, Florida.",
         "supports": [
-            "Residence of Dewey and Ollie Singletary in Airline, Lafayette County, Florida in 1945",
-            "Arthur Singletary as a member of the household",
-            "Dewey Singletary's occupation as a laborer",
-            "Ollie Singletary's birthplace as Georgia",
-            "Arthur Singletary's birthplace as Florida"
+            "Ollie Mae Herrin's death date",
+            "Ollie Mae Herrin's death place"
         ],
         "documents": [
-            "1945_florida_census_dewey_ollie_singletary.jpg"
+            "1992_ollie_mae_herrin_death_certificate.jpg"
         ]
     },
     {
-        "id": "dewey-ollie-singletary-family-1950-census",
-        "type": "United States Census",
-        "title": "1950 United States Census — Dewey and Ollie Singletary Family",
+        "id": "aldermans-in-america-blanton-family-page-59",
+        "type": "Published Family History",
+        "title": "Aldermans in America — Blanton Family, Page 59",
         "people": [
-            "dewey-singletary-1919",
-            "ollie-mae-herrin-1917",
-            "arthur-singletary-1941",
-            "emory-dewey-singletary-1945"
+            "greenberry-blanton",
+            "sarah-sallie-wadsworth-1840"
         ],
-        "date": "1950",
-        "location": "Lafayette County, Florida, United States",
-        "household_members": [
-            "Dewey Singletary — head, age 30, born Florida",
-            "Ollie M. Singletary — wife, age 32, born Georgia",
-            "Arthur Singletary — son, age 9, born Florida",
-            "Emory D. Singletary — son, age 4, born Florida"
-        ],
-        "description": "The 1950 United States Census records Dewey and Ollie Singletary living in Lafayette County, Florida, with their sons Arthur and Emory. Dewey was working as an automobile mechanic.",
+        "date": "",
+        "location": "",
+        "description": "Page 59 of Aldermans in America identifies Green Berry Blanton as a son of David Blanton and Nancy Goff. It reports his birth as May 25, 1829, death as circa 1863, and wife as Sallie Wadsworth. These are claims from a compiled family history. The reported death date has not been independently verified, and the page does not establish that Greenberry died during the Civil War.",
         "supports": [
-            "Residence of Dewey and Ollie Singletary in Lafayette County, Florida, in 1950",
-            "Arthur Singletary as their son",
-            "Emory Dewey Singletary as their son",
-            "Ollie Mae Singletary's birthplace as Georgia",
-            "Arthur and Emory Singletary's birthplaces as Florida",
-            "Dewey Singletary's occupation as an automobile mechanic"
+            "Published family history identifies Green Berry Blanton as a son of David Blanton and Nancy Goff",
+            "Published family history reports Green Berry's birth as May 25, 1829",
+            "Published family history reports Green Berry's death as circa 1863",
+            "Published family history identifies Sallie Wadsworth as Green Berry's wife"
         ],
         "documents": [
-            "1950_census_dewey_ollie_singletary.jpg"
+            "aldermans_in_america_page_59_blanton_family.jpg"
         ]
     },
     {
-        "id": "james-loyd-singletary-stillbirth-certificate",
-        "type": "Certificate of Stillbirth",
-        "title": "Certificate of Stillbirth of James Loyd Singletary",
+        "id": "hezekiah-williams-confederate-service",
+        "type": "Military Record",
+        "title": "Confederate Military Service Record — Hezekiah P. Williams",
         "people": [
-            "james-loyd-singletary-1955"
+            "hezekiah-ponder-williams-1828"
         ],
-        "date": "1955",
-        "location": "Tallahassee, Leon County, Florida, United States",
-        "description": "Florida Certificate of Stillbirth for James Loyd Singletary, son of Dewey Singletary and Ollie Mae Herrin. The certificate records the stillbirth at Tallahassee Memorial Hospital in Leon County, Florida, in September 1955. The exact date on the surviving certificate is difficult to read and appears to be September 24, while James Loyd's grave marker at Woodlawn Cemetery gives September 25, 1955.",
+        "date": "",
+        "location": "Georgia",
+        "description": "Compiled Confederate military service record cover identifying Hezekiah P. Williams as a private in Company K, 26th Georgia Infantry. The cover indicates that the service file contains six medical cards. Additional service records are needed to establish the dates and circumstances of his military service.",
         "supports": [
-            "James Loyd Singletary as the son of Dewey Singletary and Ollie Mae Herrin",
-            "James Loyd Singletary's stillbirth in September 1955",
-            "Tallahassee Memorial Hospital as the place of stillbirth",
-            "Dewey Singletary as James Loyd Singletary's father",
-            "Ollie Mae Herrin as James Loyd Singletary's mother"
+            "Hezekiah P. Williams served as a Confederate private",
+            "Military unit identified as Company K, 26th Georgia Infantry",
+            "Compiled service file contains six medical cards"
         ],
         "documents": [
-            "james_loyd_singletary_death_certificate.jpg"
+            "hezekiah_ponder_williams_confederate_service.jpg"
         ]
     },
     {
-    "id": "james-talmage-herrin-draft-registration",
-    "type": "Draft Registration Card",
-    "title": "Selective Service Registration Card of James Talmage Herrin",
+        "id": "everett-darling-family-account-bettie-prestridge",
+        "type": "Family History",
+        "title": "Family Account of Everett Darling — Bettie Darling Prestridge",
+        "people": [
+            "everett-darling"
+        ],
+        "date": "",
+        "location": "Connecticut and Florida",
+        "description": "Family history account provided by Bettie Darling Prestridge, granddaughter of Everett Darling through his son James Darling. Bettie recounts Everett's childhood in Connecticut, his reported discovery of his biological mother's identity, his journey to Jacksonville in 1875, and his subsequent marriages to Sarah Wadsworth Blanton and Susan Lucinda Nipper. She also distinguishes Everett Darling of Florida from another Everett Darling identified as the son of Moses Darling and Caroline Sharp. The account preserves family testimony; its details have not all been independently verified.",
+        "supports": [
+            "Everett Darling was reportedly raised in poorhouses and foster homes",
+            "Everett reportedly arrived in Jacksonville on April 14, 1875",
+            "Everett married Sarah Wadsworth Blanton in 1879",
+            "Everett and Sarah had two daughters, Mary and Martha",
+            "Everett married Susan Lucinda Nipper in 1909",
+            "Everett and Susan had four children",
+            "The identification of Moses Darling and Caroline Sharp as Everett's parents is disputed"
+        ],
+        "documents": []
+    },
+    {
+        "id": "pioneer-williams-families-georgia-page-15",
+        "type": "Published Genealogy",
+        "title": "Pioneer Williams Families of Georgia — Page 15",
+        "people": [
+            "john-williams-sr-1799",
+            "nancy-smith-1799",
+            "hezekiah-ponder-williams-1928",
+            "zilpha-williams-1825",
+            "isham-williams-1823",
+            "john-williams-1827",
+            "mary-williams-1834",
+            "martha-williams-1835",
+            "sarah-williams-1840",
+            "william-williams-1843"
+        ],
+        "date": "",
+        "location": "Georgia",
+        "description": "Page 15 of Pioneer Williams Families of Georgia contains a biographical entry for John Williams, born in Georgia in 1799 and deceased in 1881. It identifies his wife as Nancy Smith, daughter of William Smith, and states that they married in Liberty County, Georgia. The publication names ten children and provides birth years, spouses, and selected biographical details. It identifies Hezekiah Williams as having married Charlotte Herrin first and Jane McClelland second. It also states that William M. Williams was killed during the Civil War at Spotsylvania, Virginia, in 1864. This is a compiled genealogy; its claims should be corroborated with original records where possible.",
+        "supports": [
+            "John Williams was born in Georgia in 1799",
+            "John Williams reportedly died in 1881",
+            "John Williams married Nancy Smith in Liberty County, Georgia",
+            "Nancy Smith was a daughter of William Smith",
+            "John and Nancy Williams had ten children according to the publication",
+            "Hezekiah Williams married Charlotte Herrin and later Jane McClelland",
+            "Martha Williams married Hiram Herrin and later Ephraim McLendon",
+            "William M. Williams reportedly died at Spotsylvania, Virginia, in 1864"
+        ],
+        "documents": [
+            "pioneer_williams_families_georgia_page_15.jpg"
+        ]
+    },
+    {
+    "id": "1821-land-lottery-herron-herron-orphans",
+    "type": "Land",
+    "title": "1821 Georgia Land Lottery — Herron Herron's Orphans",
     "people": [
-        "james-talmage-herrin-1919"
+        "heron-herrin-1770"
     ],
-    "date": "1940",
-    "location": "Mayo, Lafayette County, Florida, United States",
-    "description": "Selective Service registration card for James Talmadge Herrin. The card records his residence as Mayo, Lafayette County, Florida, his birth on November 12, 1919, in Pearson, Georgia, and his citizenship as United States. James identified his father, W. L. Herrin of Mayo, as the person who would always know his address.",
+    "date": "1821-11-28",
+    "location": "Slaughters District, Wayne County, Georgia",
+    "description": "The Georgia Land Lottery Register records 'Herron Herron's orps' among the fortunate drawers on November 28, 1821. The entry identifies Lot 175 in the 10th Land District of Houston County, Georgia. This contemporary record establishes that children identified as orphans of Herron Herron received a land lottery allotment. It corresponds with family research concerning Heron Herrin (1770–1817), although the children are not individually named.",
     "supports": [
-        "James Talmage Herrin's birth date of November 12, 1919",
-        "James Talmage Herrin's birthplace as Pearson, Georgia",
-        "James Talmage Herrin's residence in Mayo, Lafayette County, Florida",
-        "William Levi Herrin as James Talmage Herrin's father"
+        "Existence of children identified as orphans of Herron Herron by 1821",
+        "Association of Herron Herron's orphans with Slaughters District, Wayne County, Georgia",
+        "Award of Lot 175, 10th District, Houston County, Georgia",
+        "Research lead for identifying Heron Herrin's children through subsequent land transactions"
     ],
     "documents": [
-        "james_talmage_herrin_draft_registration_card.jpg"
-    ]
-},
-{
-    "id": "james-herrin-family-1950-census",
-    "type": "Census",
-    "title": "1950 United States Census - James Talmadge Herrin Household",
-    "people": [
-        "james-talmage-herrin-1919",
-        "myrtice-irene-hurst"
-    ],
-    "date": "1950",
-    "location": "Lake Butler, Union County, Florida, United States",
-    "description": "The 1950 United States Census records James Talmadge Herrin and his wife, Myrtice Irene Herrin, living in Lake Butler, Union County, Florida, with their children James Talmadge Jr., William Melvin, and Diane. James was 30 and born in Georgia; Myrtice was 28 and born in Florida.",
-    "household_members": [
-        "James Talmadge Herrin - Head - age 30 - born Georgia",
-        "Myrtice Irene Herrin - Wife - age 28 - born Florida",
-        "James Talmadge Herrin Jr. - Son - age 2 - born Florida",
-        "William Melvin Herrin - Son - age recorded as 1 - born Florida",
-        "Diane Herrin - Daughter - age 1 - born Florida"
-    ],
-    "supports": [
-        "Residence of James Talmadge Herrin and family in Lake Butler, Union County, Florida, in 1950",
-        "Marriage of James Talmadge Herrin and Myrtice Irene Herrin",
-        "Presence of children James Talmadge Jr., William Melvin, and Diane in the household"
-    ],
-    "documents": [
-        "1950_census_james_herrin_family.jpg"
-    ]
-},
-{
-    "id": "john-singletary-family-1900-census",
-    "type": "Census",
-    "title": "1900 United States Census - John Singletary Household",
-    "people": [
-        "john-vershal-singletary-1851",
-        "mary-bryant-1875",
-        "jessie-singletary-1891",
-        "annie-singletary-1893",
-        "george-william-singletary-1895",
-        "albert-e-singletary-1898"
-    ],
-    "date": "1900",
-    "location": "Lafayette County, Florida, United States",
-    "description": "The 1900 United States Census records George Singletary as a young child living in the household of John Singletary and his wife, Mary, in Lafayette County, Florida.",
-    "household_members": [
-        "John Singletary - Head",
-        "Mary Singletary - Wife",
-        "Jessie Sinngletary - Son",
-        "Annie Sinngletary - Son",
-        "George Singletary - Son",
-        "Albert E. Singletary - Son"
-    ],
-    "supports": [
-        "George William Singletary living in the household of John and Mary Singletary in 1900",
-        "George William Singletary's residence in Lafayette County, Florida, in 1900"
-    ],
-    "documents": [
-        "1900_census_john_singletary_family.jpg"
-    ]
-},
-{
-    "id": "john-singletary-family-1910-census",
-    "type": "Census",
-    "title": "1910 United States Census - John Singletary Household",
-    "people": [
-        "john-vershal-singletary-1851",
-        "mary-bryant-1875",
-        "annie-singletary-1893",
-        "george-william-singletary-1895",
-        "albert-e-singletary-1898",
-        "george-william-singletary-1895"
-    ],
-    "date": "1910",
-    "location": "Lafayette County, Florida, United States",
-    "description": "The 1910 United States Census records John and Mary Singletary living in Lafayette County, Florida, with their children Annie, George, Albert, Allis, and Viola. John Vershal Singletary's brother, Jacob Singletary, is recorded separately on the same census page.",
-    "household_members": [
-        "John Singletary - Head",
-        "Mary Singletary - Wife",
-        "Annie Singletary - Daughter",
-        "George Singletary - Son",
-        "Albert Singletary - Son",
-        "Allis Singletary - Daughter",
-        "Viola Singletary - Daughter"
-    ],
-    "supports": [
-        "George William Singletary living with his parents and siblings in 1910",
-        "George William Singletary's residence in Lafayette County, Florida, in 1910",
-        "George William Singletary as a member of the John and Mary Singletary household"
-    ],
-    "documents": [
-        "1910_census_john_singletary_family.jpg"
-    ]
-}, 
-{
-    "id": "george-singletary-family-1920-census",
-    "type": "Census",
-    "title": "1920 United States Census - George W. Singletary Household",
-    "people": [
-        "george-william-singletary-1895",
-        "lela-mae-mathis-1902",
-        "dewey-singletary-1919",
-        "alice-singletary-1905",
-        "viola-singletary-1908"
-    ],
-    "date": "1920-01-28",
-    "location": "Precinct No. 2, Mayo, Lafayette County, Florida, United States",
-    "description": "The 1920 United States Census records George W. Singletary and his wife, Lela M. Singletary, living in Precinct No. 2, Mayo, Lafayette County, Florida. Their five-month-old son, Dewey, appears as \"Duie\" in the census. George's younger sisters Alice Geneva and Viola Singletary were also living in the household. The census page was enumerated on January 28 and 29, 1920.",
-    "household_members": [
-        "Gorg W. Singletary - Head",
-        "Lela M. Singletary - Wife",
-        "Duie Singletary - Son - age 5/12",
-        "Allice Singletary - Sister",
-        "Viola Singletary - Sister"
-    ],
-    "supports": [
-        "George William Singletary living in Lafayette County, Florida, in 1920",
-        "Lela Mae Mathis living as George William Singletary's wife",
-        "Dewey Singletary living as their five-month-old son",
-        "Alice Geneva Singletary living in George William Singletary's household as his sister",
-        "Viola Singletary living in George William Singletary's household as his sister"
-    ],
-    "documents": [
-        "1920_census_george_singletary_family.jpg"
-    ]
-},
-{
-    "id": "george-singletary-lela-mathis-marriage-1917",
-    "type": "Marriage Record",
-    "title": "1917 Marriage License - G. W. Singletary and Lela May Mathis",
-    "people": [
-        "george-william-singletary-1895",
-        "lela-mae-mathis-1902"
-    ],
-    "date": "1917-03-06",
-    "location": "Lafayette County, Florida, United States",
-    "description": "Marriage license and return documenting the marriage of G. W. Singletary and Lela May Mathis. The license was issued in Lafayette County on March 5, 1917. The couple was married on March 6, 1917, and the record was filed on March 15, 1917. The record identifies the bride as \"Lela May Mathis.\"",
-    "supports": [
-        "Marriage of George William Singletary and Lela Mae Mathis on March 6, 1917",
-        "Marriage in Lafayette County, Florida",
-        "Contemporary record of Lela's name as Lela May Mathis"
-    ],
-    "documents": [
-        "1917_george_singletary_lela_mathis_marriage_01.jpg",
-        "1917_george_singletary_lela_mathis_marriage_02.jpg"
-    ]
-},
-{
-    "id": "george-william-singletary-wwi-draft-1917",
-    "type": "Military Record",
-    "title": "World War I Draft Registration Card - George W. Singletary",
-    "people": [
-        "george-william-singletary-1895"
-    ],
-    "date": "1917-06-05",
-    "location": "Precinct No. 2, Lafayette County, Florida, United States",
-    "description": "World War I draft registration card for George W. Singletary, completed on June 5, 1917. George reported that he was born on November 15, 1895, in Old Town, Florida, and was living in Mayo, Florida. He reported his occupation as farming and identified J. A. Croft as his employer. George stated that he was married and was supporting his wife and one sister. He also cited his wife and one sister when claiming exemption from the draft. The registration card contains George W. Singletary's signature.",
-    "supports": [
-        "George William Singletary's birth date of November 15, 1895",
-        "George William Singletary's birthplace as Old Town, Florida",
-        "George William Singletary's residence in Mayo, Florida, in 1917",
-        "George William Singletary working in farming for J. A. Croft",
-        "George William Singletary being married by June 1917",
-        "George William Singletary supporting his wife and one sister in June 1917"
-    ],
-    "documents": [
-        "george_william_singletary_wwi_draft_01.jpg",
-        "george_william_singletary_wwi_draft_02.jpg"
-    ]
-},
-{
-    "id": "george-william-singletary-veterans-bureau-index",
-    "type": "Military Record",
-    "title": "U.S. Veterans Bureau Master Index - George W. Singletary",
-    "people": [
-        "george-william-singletary-1895"
-    ],
-    "date": "1917-09-19",
-    "location": "Alton, Florida, United States",
-    "description": "U.S. Veterans Bureau Master Index card for George W. Singletary. The record identifies him as a Private in Company B, 124th Infantry. It records his birth date as November 15, 1895, his enlistment date as September 19, 1917, and his discharge date as January 18, 1918. His residence is recorded as Alton, Florida.",
-    "supports": [
-        "George William Singletary's birth date of November 15, 1895",
-        "George William Singletary's military service as a Private",
-        "George William Singletary's service in Company B, 124th Infantry",
-        "George William Singletary's enlistment on September 19, 1917",
-        "George William Singletary's discharge on January 18, 1918",
-        "George William Singletary's residence in Alton, Florida"
-    ],
-    "documents": [
-        "george_william_singletary_veterans_bureau_index.jpg"
-    ]
-},
-{
-    "id": "lela-mae-mathis-singletary-death-certificate-1951",
-    "type": "Death Certificate",
-    "title": "1951 Florida Death Certificate - Lela Mae Singletary",
-    "people": [
-        "lela-mae-mathis-1902"
-    ],
-    "date": "1951-07-19",
-    "location": "Lafayette County, Florida, United States",
-    "description": "Florida death certificate for Lela Mae Singletary, who died on July 19, 1951, in rural Mayo, Lafayette County, Florida. The certificate records her birthplace as Madison County, Florida, and identifies her parents as Daniel Mathis and Mary Darling. It records her birth date as September 26, 1905, and her age as 46. These two entries are internally inconsistent, and other family records support a birth date of September 26, 1902. The cause of death was recorded as acute gastritis. Lela was buried at Airline Cemetery in Lafayette County on July 20, 1951.",
-    "supports": [
-        "Lela Mae Mathis Singletary's death on July 19, 1951",
-        "Lela Mae Mathis Singletary's birthplace as Madison County, Florida",
-        "Daniel Mathis as Lela Mae Mathis Singletary's father",
-        "Mary Darling as Lela Mae Mathis Singletary's mother",
-        "Lela Mae Mathis Singletary's burial at Airline Cemetery",
-        "Conflicting evidence concerning Lela Mae Mathis Singletary's birth year"
-    ],
-    "documents": [
-        "lela_mae_mathis_singletary_death_certificate.jpg"
-    ]
-},
-{
-    "id": "george-singletary-family-1930-census",
-    "type": "Census",
-    "title": "1930 United States Census - George W. Singletary Household",
-    "people": [
-        "george-william-singletary-1895",
-        "lela-mae-mathis-1902",
-        "dewey-singletary-1919"
-    ],
-    "date": "1930-04-04",
-    "location": "Election Precinct No. 3, Lafayette County, Florida, United States",
-    "description": "The 1930 United States Census records George W. Singletary and his wife, Lela M. Singletary, living in Election Precinct No. 3, Lafayette County, Florida, with their children Dewey, Lewie, Loyd M., Irena, and George W. Lela's brother Glover Mathis appears in a nearby Mathis household on the same census page.",
-    "household_members": [
-        "George W. Singletary - Head - age 34",
-        "Lela M. Singletary - Wife - age 27",
-        "Dewey Singletary - Son - age 10",
-        "Lewie Singletary - Daughter - age 8",
-        "Loyd M. Singletary - Son - age 6",
-        "Irena Singletary - Daughter - age 4",
-        "George W. Singletary - Son - age 2"
-    ],
-    "supports": [
-        "George William Singletary living in Lafayette County, Florida, in 1930",
-        "Lela Mae Mathis living as George William Singletary's wife in 1930",
-        "Lela Mae Mathis recorded as age 27 in 1930",
-        "Dewey Singletary living as a son in the household",
-        "George and Lela Singletary living with five children in 1930",
-        "Lela Mae Mathis's brother Glover Mathis living nearby"
-    ],
-    "documents": [
-        "1930_census_george_singletary_family.jpg"
-    ]
-},
-{
-    "id": "arthur-singletary-parris-island-promotion-1961",
-    "type": "Newspaper Article",
-    "title": "1961 Arthur Singletary Meritoriously Promoted at Parris Island",
-    "people": [
-        "arthur-singletary-1941"
-    ],
-    "date": "1961-01-30",
-    "location": "Parris Island, South Carolina, United States",
-    "description": "An article published in the Tallahassee Democrat on January 30, 1961, reports that Arthur Singletary was meritoriously promoted to Private First Class on December 13, 1960, following completion of recruit training at Marine Corps Recruit Depot Parris Island, South Carolina. The promotion recognized his outstanding performance during training. The article states that Arthur enlisted in September 1960 and previously attended North Florida Junior College in Madison, Florida. It also identifies his parents as Mr. and Mrs. Dewey Singletary of Perry, Florida.",
-    "supports": [
-        "Arthur Singletary's service in the United States Marine Corps",
-        "Arthur Singletary's completion of recruit training at Parris Island",
-        "Arthur Singletary's meritorious promotion to Private First Class on December 13, 1960",
-        "Arthur Singletary's enlistment in September 1960",
-        "Arthur Singletary's attendance at North Florida Junior College",
-        "Dewey and Ollie Singletary as Arthur Singletary's parents"
-    ],
-    "documents": [
-        "1961_arthur_singletary_parris_island_promotion.jpg"
-    ]
-},
-{
-    "id": "dewey-singletary-ww2-draft-registration-1940",
-    "type": "Military Draft Registration",
-    "title": "1940 Dewey Singletary — World War II Draft Registration Card",
-    "people": [
-        "dewey-singletary-1919"
-    ],
-    "date": "1940-10-16",
-    "location": "Mayo, Lafayette County, Florida, United States",
-    "description": "Dewey Singletary registered for the World War II draft on October 16, 1940, at age 21. He reported that he was born on August 23, 1919, in Lafayette County, Florida, and resided in Mayo. His wife, Mrs. Ollie Mae Singletary, was listed as the person who would always know his address. Dewey reported employment with a W.P.A. project in Tallahassee, Leon County, Florida. The registrar described him as approximately 5 feet 8 inches tall, weighing 145 pounds, with blue eyes, blond hair, and a light complexion.",
-    "supports": [
-        "Dewey Singletary's birth date of August 23, 1919",
-        "Dewey Singletary's birthplace in Lafayette County, Florida",
-        "Dewey Singletary's residence in Mayo, Florida, in October 1940",
-        "Dewey Singletary's marriage to Ollie Mae Singletary by October 1940",
-        "Dewey Singletary's employment with a W.P.A. project in Tallahassee",
-        "Dewey Singletary's physical description in 1940"
-    ],
-    "documents": [
-        "1940_dewey_singletary_ww2_draft_front.jpg",
-        "1940_dewey_singletary_ww2_draft_back.jpg"
-    ]
-},
-{
-    "id": "dewey-singletary-death-certificate-1973",
-    "type": "Death Certificate",
-    "title": "1973 Florida Death Certificate — Dewey Singletary",
-    "people": [
-        "dewey-singletary-1919"
-    ],
-    "date": "1973-11-19",
-    "location": "Perry, Taylor County, Florida, United States",
-    "description": "Florida death certificate documenting the death of Dewey Singletary on November 19, 1973, at Doctors Memorial Hospital in Perry, Florida. He was born August 23, 1919, and was 54 years old. His parents were identified as George William Singletary and Lela Mae Mathis, and his surviving wife was Ollie Mae Herrin Singletary. Dewey worked as a mechanic for the State Road Department. His death was attributed to an acute myocardial infarction caused by arteriosclerotic cardiovascular disease. He was buried at Woodlawn Cemetery in Perry on November 21, 1973. His wife, Ollie Mae Singletary, was the informant.",
-    "supports": [
-        "Dewey Singletary's date of birth",
-        "Dewey Singletary's date and place of death",
-        "George William Singletary and Lela Mae Mathis as Dewey's parents",
-        "Ollie Mae Herrin Singletary as Dewey's wife",
-        "Dewey Singletary's occupation as a mechanic",
-        "Dewey Singletary's employment with the State Road Department",
-        "Dewey Singletary's cause of death",
-        "Dewey Singletary's burial at Woodlawn Cemetery"
-    ],
-    "documents": [
-        "1973_dewey_singletary_death_certificate.jpeg"
-    ]
-},
-{
-    "id": "1910-census-daniel-mathis-family",
-    "type": "Census",
-    "title": "1910 U.S. Census — Daniel Mathis Family",
-    "people": [
-        "daniel-m-mathis",
-        "mary-frances-darling",
-        "lela-mae-mathis-1902",
-        "frank-mathis-1907"
-    ],
-    "date": "1910",
-    "location": "Norton Creek, Madison County, Florida, United States",
-    "description": "The 1910 United States Census records Daniel Mathis and his wife Mary living in the Norton Creek area of Madison County, Florida, with their children. Their daughter Lela was recorded as seven years old and born in Florida. Her age is consistent with her September 26, 1902, birth date.",
-    "household_members": [
-        "Daniel Mathis — Head, age 37 (handwriting unclear; possibly 27",
-        "Mary Mathis — Wife, age 28",
-        "Claude Mathis — Son, age 10",
-        "Lela Mathis — Daughter, age 7",
-        "Rubin Mathis — Son, age 5",
-        "Frank Mathis — Son, age 3",
-        "Unnamed — Infant son, age 5/12 (5 months"
-    ],
-    "supports": [
-        "Daniel Mathis and Mary Frances Darling as Lela Mathis's parents",
-        "Lela Mathis's residence in Madison County, Florida, in 1910",
-        "Lela Mathis's age of seven in 1910",
-        "The Mathis family household in 1910"
-    ],
-     "documents": [
-        "1910_census_daniel_mathis_family.jpg"
-    ]
-},
-{
-    "id": "1899-marriage-daniel-mathis-mary-darling",
-    "type": "Marriage",
-    "title": "1899 Marriage Record — Daniel Mathis and Mary F. Darling",
-    "people": [
-        "daniel-m-mathis",
-        "mary-frances-darling"
-    ],
-    "date": "1899-01-01",
-    "location": "Madison County, Florida",
-    "description": "Marriage record for Daniel Mathis and Miss Mary F. Darling. The marriage license was issued on December 31, 1898, by the Madison County Court, and the marriage was performed on January 1, 1899, by O. F. Peck, Notary Public.",
-    "supports": [
-        "Marriage of Daniel Mathis and Mary F. Darling on January 1, 1899",
-        "Marriage location in Madison County, Florida",
-        "Identification of Mary F. Darling as Daniel Mathis's wife"
-    ],
-    "documents": [
-        "1899_marriage_daniel_mathis_mary_darling.jpg"
-    ]
-},
-{
-    "id": "1918-wwi-draft-daniel-mathis",
-    "type": "Military",
-    "title": "1918 World War I Draft Registration — Daniel M. Mathis",
-    "people": [
-        "daniel-m-mathis"
-    ],
-    "date": "1918-09-12",
-    "location": "Mayo, Lafayette County, Florida",
-    "description": "Daniel M. Mathis registered for the World War I draft on September 12, 1918, in Lafayette County, Florida. He reported his birth date as December 13, 1873, his occupation as farmer, and his nearest relative as Mary Mathis. His physical description recorded medium height, medium build, blue eyes, and dark hair. Draft registration does not establish military service.",
-    "supports": [
-        "Daniel M. Mathis's reported birth date of December 13, 1873",
-        "Daniel's residence in Mayo, Lafayette County, Florida, in 1918",
-        "Daniel's occupation as a farmer",
-        "Identification of Mary Mathis as Daniel's nearest relative"
-    ],
-    "documents": [
-        "1918_wwi_draft_daniel_mathis_front.jpg",
-        "1918_wwi_draft_daniel_mathis_back.jpg"
-    ]
-},
-{
-    "id": "1900-census-daniel-mathis-family",
-    "type": "Census",
-    "title": "1900 U.S. Census — Daniel Mathis Family",
-    "people": [
-        "daniel-m-mathis",
-        "mary-frances-darling"
-    ],
-    "date": "1900-06-22",
-    "location": "Precinct 3, Madison County, Florida",
-    "description": "The 1900 United States Census records Daniel Mathis as head of household, living with his wife Mary and their infant son Claude in Madison County, Florida. Daniel's birth was recorded as December 1874, although his 1918 World War I draft registration gives December 13, 1873. Mary's birth was recorded as June 1879.",
-    "household_members": [
-        "Daniel Mathis — Head, born December 1874, age 25",
-        "Mary Mathis — Wife, born June 1879, age 20",
-        "Claude Mathis — Son, born January 1900, age 4/12 (4 months)"
-    ],
-    "supports": [
-        "Daniel Mathis's residence in Madison County, Florida, in 1900",
-        "Marriage of Daniel and Mary Mathis by 1900",
-        "Mary Mathis's reported birth month and year of June 1879",
-        "Claude Mathis as the son of Daniel and Mary",
-        "Daniel Mathis's reported birth month and year of December 1874"
-    ],
-    "documents": [
-        "1900_census_daniel_mathis_family.jpg"
-    ]
-},
-{
-    "id": "1870-marriage-malachi-matthews-mary-williams",
-    "type": "Marriage",
-    "title": "1870 Marriage Record — Malachi Matthews and Mary Williams",
-    "people": [
-        "malachi-m-matthews",
-        "mary-williams"
-    ],
-    "date": "1870-10-27",
-    "location": "Madison County, Florida",
-    "description": "Madison County marriage register, page 139, upper-right entry, documenting the marriage of Malachi Matthews and Mary Williams on October 27, 1870. The marriage date agrees with the Matthews family Bible transcription. The original record identifies the bride as Mary Williams but does not provide her middle name.",
-    "supports": [
-        "Marriage of Malachi Matthews and Mary Williams on October 27, 1870",
-        "Marriage location in Madison County, Florida",
-        "Identification of Mary Williams as Malachi Matthews's wife"
-    ],
-    "documents": [
-        "1870_marriage_malachi_matthews_mary_williams.jpg"
-    ]
-},
-{
-    "id": "1924-death-certificate-malachi-matthews",
-    "type": "Death",
-    "title": "1924 Florida Death Certificate — Malachi Matthews",
-    "people": [
-        "malachi-m-matthews"
-    ],
-    "date": "1924-08-23",
-    "location": "Norton Creek, Madison County, Florida",
-    "description": "Florida death certificate number 11181 records the death of Malachi Matthews on August 23, 1924, in Norton Creek, Madison County, Florida. His age was reported as approximately 83 years, and his birthplace as Thomas County, Georgia. The certificate identifies his father as David Mathis, born in South Carolina, and records chronic malaria as the cause of death. Burial was recorded at Mt. Olive Cemetery on August 24, 1924. The spouse's name is difficult to read and has not been conclusively identified.",
-    "supports": [
-        "Malachi Matthews's death on August 23, 1924",
-        "Death location in Norton Creek, Madison County, Florida",
-        "Approximate birth year of 1840–1841",
-        "Birthplace in Thomas County, Georgia",
-        "Identification of David Mathis as Malachi's father",
-        "Burial at Mt. Olive Cemetery on August 24, 1924"
-    ],
-    "documents": [
-        "1924_death_certificate_malachi_matthews.jpg"
-    ]
-},
-{
-    "id": "1890-marriage-john-singletary-mary-bryant",
-    "type": "Marriage",
-    "title": "1890 Marriage Record — John V. Singletary and Mary Bryant",
-    "people": [
-        "john-vershal-singletary-1851",
-        "mary-bryant-1875"
-    ],
-    "date": "1890-02-04",
-    "location": "Lafayette County, Florida",
-    "description": "Marriage records from Lafayette County, Florida, document the marriage of John V. Singletary and Mary Bryant. The marriage license was issued on February 3, 1890, by County Judge Reuben B. Hill. The couple was married on February 4, 1890, by Rev. A. T. Wood. The license was filed for record on March 3, 1890, in Marriage Record Book B, page 422.",
-    "supports": [
-        "Marriage of John V. Singletary and Mary Bryant on February 4, 1890",
-        "Marriage location in Lafayette County, Florida",
-        "Mary's surname recorded as Bryant",
-        "Marriage performed by Rev. A. T. Wood",
-        "Marriage recorded in Book B, page 422"
-    ],
-    "documents": [
-        "1890_marriage_john_singletary_mary_bryant_certificate.jpg",
-        "1890_marriage_john_singletary_mary_bryant_register.jpg"
-    ]
-},
-{
-    "id": "1928-death-certificate-albert-eugene-singletary",
-    "type": "Death Certificate",
-    "title": "1928 Florida Death Certificate — Albert Eugene Singletary",
-    "people": [
-        "albert-e-singletary-1898"
-    ],
-    "date": "1928-11-04",
-    "location": "Mayo, Lafayette County, Florida",
-    "description": "Florida State Board of Health death certificate, State File No. 17708, for Albert L. Singletary (identified by family information as Albert Eugene Singletary). The certificate records his age as 29, birth year as 1899, occupation as farmer, and marital status as married. His wife is identified as Daisy Stewart. His parents are listed as John V. Singletary and Mary Bryan. The physician's certification indicates that Albert died on November 4, 1928, from an accidental gunshot wound to the abdomen. His burial location is recorded as Midway Cemetery. The certificate was filed on November 29, 1928.",
-    "supports": [
-        "Death of Albert Singletary in November 1928",
-        "Cause of death: accidental gunshot wound to the abdomen",
-        "Albert's occupation as farmer",
-        "Marriage to Daisy Stewart",
-        "Identification of John V. Singletary and Mary Brian as Albert's parents",
-        "Burial at Midway Cemetery in Lafayette County, Florida"
-    ],
-    "documents": [
-        "1928_death_certificate_albert_eugene_singletary.jpg"
-    ]
-},
-{
-    "id": "1919-marriage-albert-singletary-dicie-stewart",
-    "type": "Marriage",
-    "title": "1919 Marriage Record — Albert Singletary and Dicie Stewart",
-    "people": [
-        "albert-e-singletary-1898",
-        "dicie-stewart"
-    ],
-    "date": "1919-08-31",
-    "location": "Lafayette County, Florida",
-    "description": "Original Lafayette County, Florida, marriage license and marriage record documenting the marriage of Albert Singletary and Dicie Stewart. The license was issued on August 29, 1919, by County Judge Hale W. Adams in Mayo, Florida. The couple was married on August 31, 1919, by H. S. Pool, Notary Public. The marriage was recorded on September 19, 1919, in Marriage Record Book C, page 413.",
-    "supports": [
-        "Marriage of Albert Singletary and Dicie Stewart on August 31, 1919",
-        "Marriage in Lafayette County, Florida",
-        "Bride's name recorded as Dicie Stewart",
-        "Marriage ceremony performed by H. S. Pool, Notary Public",
-        "Marriage recorded in Book C, page 413"
-    ],
-    "documents": [
-        "1919_marriage_albert_singletary_dicie_stewart_certificate.jpg",
-        "1919_marriage_albert_singletary_dicie_stewart_register.jpg"
-    ]
-},
-{
-    "id": "1879-marriage-everett-darling-sarah-wadsworth",
-    "type": "Marriage Record",
-    "title": "1879 Marriage License — Everett Darling and Sarah Wadsworth",
-    "people": [
-        "everett-darling",
-        "sarah-sallie-wadsworth-1840"
-    ],
-    "date": "1879-03-28",
-    "location": "Lee, Madison County, Florida",
-    "description": "Marriage license and certification for Everett Darling and Sarah Wadsworth in Madison County, Florida. Family research identifies their marriage date as March 28, 1879, in Lee, Florida.",
-    "supports": [
-        "Marriage of Everett Darling and Sarah Wadsworth",
-        "Marriage recorded in Madison County, Florida",
-        "Reported marriage date of March 28, 1879"
-    ],
-    "documents": [
-        "1879_marriage_everett_darling_sarah_wadsworth.jpg"
-    ]
-},
-{
-    "id": "1947-death-certificate-mary-frances-darling-mathis",
-    "type": "Death Certificate",
-    "title": "1947 Florida Death Certificate — Mary Frances Darling Mathis",
-    "people": [
-        "mary-frances-darling" 
-    ],
-    "date": "1947-11-07",
-    "location": "Mayo, Lafayette County, Florida",
-    "description": "Florida death certificate No. 21468 for Mary Frances Mathis, born June 4, 1880, in Madison County, Florida, and deceased November 7, 1947, in Mayo, Lafayette County. The certificate identifies her husband as Daniel Mathis, her father as Everette Darling, and her mother as Sarah Blanton. Sarah Blanton is believed to be Sarah M. Wadsworth, who was previously married to Greenbery Blanton before marrying Everett Darling.",
-    "supports": [
-        "Birth of Mary Frances Darling on June 4, 1880",
-        "Death of Mary Frances Mathis on November 7, 1947",
-        "Everette Darling identified as her father",
-        "Sarah Blanton identified as her mother",
-        "Marriage to Daniel Mathis",
-        "Burial at Airline Cemetery"
-    ],
-    "documents": [
-        "1947_death_certificate_mary_frances_darling.jpg"
-    ]
-},
-{
-    "id": "1880-census-everett-dowling-sarah-wadsworth",
-    "type": "Census",
-    "title": "1880 U.S. Federal Census — Everett and Sarah Dowling Household",
-    "people": [
-        "everett-darling",
-        "sarah-sallie-wadsworth-1840"
-    ],
-    "date": "1880-06-16",
-    "location": "Ellaville and Norton's Creek Precinct, Madison County, Florida",
-    "description": "The 1880 U.S. Federal Census records Everett Dowling, approximately age 26, his wife Sarah, approximately age 40, and Liddy Blanton, approximately age 4, identified as Everett's stepdaughter. The household appears in Enumeration District 99, Madison County, Florida. The census surname is recorded or transcribed as Dowling, while other family records use Darling. Liddy's biological father has not been established. The census was enumerated June 16, 1880.",
-    "supports": [
-        "Everett and Sarah were living together as husband and wife in 1880",
-        "Everett was approximately 26 years old",
-        "Sarah was approximately 40 years old",
-        "Liddy Blanton was approximately 4 years old",
-        "Liddy was identified as Everett's stepdaughter",
-        "Household residence in Madison County, Florida, in 1880"
-    ],
-    "documents": [
-        "1880_census_everett_dowling_sarah_wadsworth.jpg"
-    ]
-},
-{
-    "id": "aldermans-in-america-blanton-family-page-59",
-    "type": "Published Family History",
-    "title": "Aldermans in America — Blanton Family, Page 59",
-    "people": [
-        "greenberry-blanton",
-        "sarah-sallie-wadsworth-1840"
-    ],
-    "date": "",
-    "location": "",
-    "description": "Page 59 of Aldermans in America identifies Green Berry Blanton as a son of David Blanton and Nancy Goff. It reports his birth as May 25, 1829, death as circa 1863, and wife as Sallie Wadsworth. These are claims from a compiled family history. The reported death date has not been independently verified, and the page does not establish that Greenberry died during the Civil War.",
-    "supports": [
-        "Published family history identifies Green Berry Blanton as a son of David Blanton and Nancy Goff",
-        "Published family history reports Green Berry's birth as May 25, 1829",
-        "Published family history reports Green Berry's death as circa 1863",
-        "Published family history identifies Sallie Wadsworth as Green Berry's wife"
-    ],
-    "documents": [
-        "aldermans_in_america_page_59_blanton_family.jpg"
-    ]
-},
-{
-    "id": "1941-birth-certificate-arthur-singletary",
-    "type": "Birth Certificate",
-    "title": "1941 Florida Birth Certificate — Arthur Singletary",
-    "people": [
-        "arthur-singletary-1941"
-    ],
-    "date": "1941-10-24",
-    "location": "Lafayette County, Florida",
-    "description": "Certified copy of Florida birth certificate, State File No. 6252, documenting the birth of Arthur Singletary on October 24, 1941, in Lafayette County, Florida. The certificate identifies his father as Dewey Singletary and his mother as Ollie Mae Herrin. Dewey's occupation is recorded as farming, and Ollie's occupation as housewife.",
-    "supports": [
-        "Birth of Arthur Singletary on October 24, 1941",
-        "Birthplace in Lafayette County, Florida",
-        "Dewey Singletary identified as father",
-        "Ollie Mae Herrin identified as mother",
-        "Dewey Singletary's occupation recorded as farming",
-        "Ollie Mae Herrin's occupation recorded as housewife"
-    ],
-    "documents": [
-        "1941_arthur_singletary_sr_birth_certificate.jpg"
-    ]
-},
-{
-    "id": "hezekiah-williams-confederate-service",
-    "type": "Military Record",
-    "title": "Confederate Military Service Record — Hezekiah P. Williams",
-    "people": [
-        "hezekiah-ponder-williams-1828"
-    ],
-    "date": "",
-    "location": "Georgia",
-    "description": "Compiled Confederate military service record cover identifying Hezekiah P. Williams as a private in Company K, 26th Georgia Infantry. The cover indicates that the service file contains six medical cards. Additional service records are needed to establish the dates and circumstances of his military service.",
-    "supports": [
-        "Hezekiah P. Williams served as a Confederate private",
-        "Military unit identified as Company K, 26th Georgia Infantry",
-        "Compiled service file contains six medical cards"
-    ],
-    "documents": [
-        "hezekiah_ponder_williams_confederate_service.jpg"
-    ]
-},
-{
-    "id": "1867-voter-registration-hezekiah-williams",
-    "type": "Voter Registration",
-    "title": "1867 Georgia Voter Registration — Hezekiah P. Williams",
-    "people": [
-        "hezekiah-ponder-williams-1828"
-    ],
-    "date": "1867-07-15",
-    "location": "Clinch County, Georgia",
-    "description": "Reconstruction-era voter registration oath signed by Hezekiah P. Williams on July 15, 1867, in Clinch County, Georgia. The record identifies his residence in Clinch County and documents his registration under the Reconstruction Acts following the Civil War.",
-    "supports": [
-        "Hezekiah P. Williams resided in Clinch County, Georgia, in July 1867",
-        "Hezekiah P. Williams registered to vote on July 15, 1867",
-        "Participation in Reconstruction-era voter registration"
-    ],
-    "documents": [
-        "1867_hezekiah_ponder_williams_voter_registration.jpg"
-    ]
-},
-{
-    "id": "1850-census-john-williams-ware-georgia",
-    "type": "Census",
-    "title": "1850 U.S. Federal Census — John Williams Household",
-    "people": [
-        "john-williams-sr-1799",
-        "nancy-smith-1799",
-        "isham-williams-1823",
-        "zilpha-williams-1825",
-        "john-williams-1827",
-        "hezekiah-ponder-williams-1828",
-        "mary-williams-1834",
-        "martha-williams-1835",
-        "sarah-williams-1840",
-        "william-williams-1843"
-
-    ],
-    "date": "1850-10-03",
-    "location": "Division 89, Ware County, Georgia",
-    "description": "The 1850 United States Federal Census records the household of John Williams, age 50, and Nancy Williams, age 50, in Division 89, Ware County, Georgia, dwelling 343, family 343. Other household members include Isham Williams, 27; John Williams, 23; Hezekiah Williams, 22; Mary Williams, 16; Martha Williams, 15; Sarah Williams, 10; William Williams, 7; Zelpha Cohen, 28; and William Cohen, 5. Hezekiah's occupation is recorded as farmer, and his birthplace as Georgia. The 1850 census does not explicitly identify relationships between household members.",
-    "supports": [
-        "John Williams and Nancy Williams were living in Ware County, Georgia, in 1850",
-        "Hezekiah Williams was living in the same household",
-        "Hezekiah was approximately 22 years old in 1850",
-        "Hezekiah was born approximately 1828 in Georgia",
-        "Hezekiah's occupation was farmer",
-        "Isham, John, Mary, Martha, Sarah, and William Williams were members of the household",
-        "Zelpha Cohen and William Cohen were also members of the household"
-    ],
-    "documents": [
-        "1850_census_john_williams_ware_georgia.jpg"
-    ]
-},
-{
-    "id": "pioneer-williams-families-georgia-page-15",
-    "type": "Published Genealogy",
-    "title": "Pioneer Williams Families of Georgia — Page 15",
-    "people": [
-        "john-williams-sr-1799",
-        "nancy-smith-1799",
-        "hezekiah-ponder-williams-1928",
-        "zilpha-williams-1825",
-        "isham-williams-1823",
-        "john-williams-1827",
-        "mary-williams-1834",
-        "martha-williams-1835",
-        "sarah-williams-1840",
-        "william-williams-1843"
-    ],
-    "date": "",
-    "location": "Georgia",
-    "description": "Page 15 of Pioneer Williams Families of Georgia contains a biographical entry for John Williams, born in Georgia in 1799 and deceased in 1881. It identifies his wife as Nancy Smith, daughter of William Smith, and states that they married in Liberty County, Georgia. The publication names ten children and provides birth years, spouses, and selected biographical details. It identifies Hezekiah Williams as having married Charlotte Herrin first and Jane McClelland second. It also states that William M. Williams was killed during the Civil War at Spotsylvania, Virginia, in 1864. This is a compiled genealogy; its claims should be corroborated with original records where possible.",
-    "supports": [
-        "John Williams was born in Georgia in 1799",
-        "John Williams reportedly died in 1881",
-        "John Williams married Nancy Smith in Liberty County, Georgia",
-        "Nancy Smith was a daughter of William Smith",
-        "John and Nancy Williams had ten children according to the publication",
-        "Hezekiah Williams married Charlotte Herrin and later Jane McClelland",
-        "Martha Williams married Hiram Herrin and later Ephraim McLendon",
-        "William M. Williams reportedly died at Spotsylvania, Virginia, in 1864"
-    ],
-    "documents": [
-        "pioneer_williams_families_georgia_page_15.jpg"
-    ]
-},
-{
-    "id": "1867-voter-registration-john-williams",
-    "type": "Voter Registration",
-    "title": "1867 Georgia Reconstruction Voter Registration — John Williams",
-    "people": [
-        "john-williams-sr-1799"
-    ],
-    "date": "1867-08-23",
-    "location": "Ware County, Georgia",
-    "description": "Reconstruction-era voter registration oath dated August 23, 1867, for John Williams of Ware County, Georgia. The document identifies election precinct 231 and the 5th Registration District. John signed by making his mark. The record does not provide his age or identify family members, so the association with John Williams Sr. is provisional.",
-    "supports": [
-        "A John Williams registered to vote in Ware County, Georgia, on August 23, 1867",
-        "The registration identifies election precinct 231",
-        "The registrant signed by making his mark"
-    ],
-    "documents": [
-        "1867_john_williams_voter_registration.jpg"
-    ]
-},
-{
-    "id": "william-m-williams-headstone-application-1929",
-    "type": "Military Record",
-    "title": "1929 War Department Headstone Application — William M. Williams",
-    "people": [
-        "william-williams-1843"
-    ],
-    "date": "1929-10-11",
-    "location": "Spotsylvania, Virginia",
-    "description": "War Department application for a government headstone submitted October 11, 1929, by Mrs. C. P. Andrews of Spotsylvania, Virginia. The application identifies William M. Williams as a private in Company K, 26th Georgia Infantry, Confederate Army, and records his death as May 12, 1864. The burial location is given as Confederate Cemetery in Spotsylvania, Virginia. The application was verified July 1, 1930.",
-    "supports": [
-        "William M. Williams served as a private",
-        "William served in Company K, 26th Georgia Infantry",
-        "William died May 12, 1864",
-        "William was buried in the Confederate Cemetery at Spotsylvania, Virginia",
-        "A government headstone was requested in October 1929",
-        "The headstone application was verified July 1, 1930"
-    ],
-    "documents": [
-        "william_m_williams_headstone_application_1929.png"
-    ]
-},
-{
-    "id": "shelby-jean-herrin-death-certificate-1978",
-    "type": "Death Certificate",
-    "title": "1978 Georgia Death Certificate — Shelby Jean Freeman",
-    "people": ["shelby-jean-herrin-1939"],
-    "date": "1978-09-12",
-    "location": "Clayton County, Georgia",
-    "description": "Georgia death certificate, state file number 029224, identifying Shelby Jean Freeman as born February 26, 1939, in Clinch County, Georgia, and deceased September 12, 1978, at Clayton General Hospital in Riverdale, Georgia. Her parents are identified as W. L. Herrin and Laura Palmer, and her husband as Arthur M. Freeman. Burial was recorded at Woodlawn Cemetery in Perry, Florida.",
-    "supports": [
-        "Shelby Jean Herrin was born February 26, 1939",
-        "Shelby was born in Clinch County, Georgia",
-        "Shelby died September 12, 1978",
-        "Shelby's parents were W. L. Herrin and Laura Palmer",
-        "Shelby's husband was Arthur M. Freeman",
-        "Shelby was buried at Woodlawn Cemetery in Perry, Florida"
-    ],
-    "documents": [
-        "shelby_jean_herrin_death_certificate_1978.jpeg"
-    ]
-},
-{
-    "id": "shelby-jean-herrin-obituary-1978",
-    "type": "Obituary",
-    "title": "1978 Obituary — Shelby Jean Freeman",
-    "people": ["shelby-jean-herrin-1939"],
-    "date": "1978",
-    "location": "Perry, Florida",
-    "description": "Newspaper obituary for Shelby Jean Freeman, age 39, reporting her death at Clayton County General Hospital in Georgia. The obituary identifies her husband, Arthur M. Freeman; daughter, Elizabeth Renea Griffin; five sisters, Ollie Singletary, Evelyn Webb, Ida Mae Seacrest, Dorothy Hines, and Deloris Morgan; and two brothers, James Herrin and Billy Herrin. Graveside services were scheduled at Woodlawn Cemetery in Perry, Florida. The newspaper title and publication date have not yet been established.",
-    "supports": [
-        "Shelby Jean Freeman died at age 39",
-        "Shelby's husband was Arthur M. Freeman",
-        "Shelby had a daughter named Elizabeth Renea Griffin",
-        "The obituary identifies five sisters and two brothers",
-        "Graveside services were held at Woodlawn Cemetery in Perry, Florida"
-    ],
-    "documents": [
-        "shelby_jean_herrin_obituary_1978.jpeg"
-    ]
-},
-{
-    "id": "james-talmadge-herrin-marriage-1945",
-    "type": "Marriage Record",
-    "title": "1945 Marriage License — James Herrin and Myrtis Hurst",
-    "people": [
-        "james-talmage-herrin-1919"
-    ],
-    "date": "1945-10-13",
-    "location": "Echols County, Georgia",
-    "description": "Marriage license and certificate documenting the marriage of James Herrin and Myrtis Hurst on October 13, 1945, in Echols County, Georgia. The marriage was performed by W. H. Clayton, County Judge, and recorded October 15, 1945.",
-    "supports": [
-        "James Herrin married Myrtis Hurst",
-        "The marriage took place October 13, 1945",
-        "The marriage occurred in Echols County, Georgia"
-    ],
-    "documents": [
-        "james_talmadge_herrin_marriage_license_1945.jpg"
-    ]
-},
-{
-    "id": "james-talmadge-herrin-death-certificate-1986",
-    "type": "Death Certificate",
-    "title": "1986 Florida Death Certificate — James Talmadge Herrin",
-    "people": [
-        "james-talmage-herrin-1919"
-    ],
-    "date": "1986-02-08",
-    "location": "Lake City, Columbia County, Florida",
-    "description": "Florida death certificate identifying James Talmadge Herrin as born November 12, 1919, in Georgia and deceased February 8, 1986, at the Veterans Administration Medical Center in Lake City, Florida. His parents are identified as William Levi Herrin and Laura Etta Palmer. His usual residence was Perry, Taylor County, Florida, and burial was recorded at Woodlawn Cemetery.",
-    "supports": [
-        "James's full name was James Talmadge Herrin",
-        "James was born November 12, 1919",
-        "James died February 8, 1986",
-        "James's parents were William Levi Herrin and Laura Etta Palmer",
-        "James was buried at Woodlawn Cemetery in Perry, Florida"
-    ],
-    "documents": [
-        "james_talmadge_herrin_death_certificate_1986.jpg"
-    ]
-},
-{
-    "id": "james-talmadge-herrin-obituary-1986",
-    "type": "Obituary",
-    "title": "1986 Obituary — James T. Herrin Sr.",
-    "people": [
-        "james-talmage-herrin-1919"
-    ],
-    "date": "1986-02-10",
-    "location": "Perry, Florida",
-    "description": "Obituary published in the Tallahassee Democrat on February 10, 1986, reporting the death of James T. Herrin Sr., age 66. It identifies him as a native of Homerville, Georgia, a longtime Perry resident, and a U.S. Army veteran of World War II. It lists four daughters, two sons, five sisters, and one brother, and announces graveside services at Woodlawn Cemetery in Perry.",
-    "supports": [
-        "James was a native of Homerville, Georgia",
-        "James lived in Perry, Florida, for most of his life",
-        "James served in the U.S. Army during World War II",
-        "James worked in the dairy business and later for Gulf Stream Crab Company",
-        "James had four daughters and two sons",
-        "James's surviving siblings included Ollie Singletary and Billy Herrin"
-    ],
-    "documents": [
-        "james_talmadge_herrin_obituary_1986.jpg"
-    ]
-},
-{
-    "id": "gladys-herrin-marriage-1947",
-    "type": "Marriage Record",
-    "title": "1947 Marriage License — Gladys Lucille Herrin and Lamar Lee Stephens",
-    "people": ["gladys-lucille-herrin-1924"],
-    "date": "1947-08-03",
-    "location": "Brooks County, Georgia",
-    "description": "Marriage license and certificate documenting the marriage of Gladys Lucille Herrin and Lamar Lee Stephens on August 3, 1947, in Brooks County, Georgia. The ceremony was performed by Frank H. McElroy, minister.",
-    "supports": [
-        "Gladys Lucille Herrin married Lamar Lee Stephens",
-        "The marriage took place August 3, 1947",
-        "The marriage occurred in Brooks County, Georgia",
-        "Frank H. McElroy performed the marriage"
-    ],
-    "documents": ["gladys_herrin_lamar_stephens_marriage_1947.jpg"]
-},
-{
-    "id": "gladys-herrin-death-certificate-1954",
-    "type": "Death Certificate",
-    "title": "1954 Florida Death Certificate — Gladys L. Stephens",
-    "people": ["gladys-lucille-herrin-1924"],
-    "date": "1954-09-27",
-    "location": "Foley, Taylor County, Florida",
-    "description": "Florida death certificate identifying Gladys L. Stephens as born May 25, 1924, in Clinch County, Georgia, and deceased September 27, 1954, at her home in Foley, Taylor County, Florida. Her parents are recorded as W. L. Herrin and Laura Palmer. The certificate records burial at Woodlawn Cemetery in Perry, Florida.",
-    "supports": [
-        "Gladys was born May 25, 1924",
-        "Gladys was born in Clinch County, Georgia",
-        "Gladys died September 27, 1954",
-        "Gladys's parents were W. L. Herrin and Laura Palmer",
-        "Gladys was buried at Woodlawn Cemetery in Perry, Florida"
-    ],
-    "documents": [
-        "gladys_herrin_death_certificate_1954.jpg"
-    ]
-},
-{
-    "id": "herrin-sisters-marriages-1947",
-    "type": "Marriage Record",
-    "title": "1947 Brooks County Marriage Register — Gladys and Marylou Herrin",
-    "people": ["gladys-lucille-herrin-1924",
-               "mary-lou-herrin-1927"
-    ],
-    "date": "1947-08-03",
-    "location": "Brooks County, Georgia",
-    "description": "Brooks County marriage register showing that sisters Gladys Lucille Herrin and Marylou Herrin married on August 3, 1947. Gladys married Lamar Lee Stephens, while Marylou married Gordon Edward Bell. Both marriages were performed by Frank H. McElroy, minister. The entries appear together on the same register page. The records do not establish whether the marriages were part of a joint ceremony.",
-    "supports": [
-        "Gladys Lucille Herrin married Lamar Lee Stephens on August 3, 1947",
-        "Marylou Herrin married Gordon Edward Bell on August 3, 1947",
-        "Both marriages were performed by Frank H. McElroy",
-        "The two marriage records appear on the same register page"
-    ],
-    "documents": ["brooks_county_marriage_register_august_1947.jpg"]
-},
-{
-    "id": "mary-lou-herrin-death-certificate-1972",
-    "type": "Death Certificate",
-    "title": "1972 Florida Death Certificate — Mary Lou Mathis",
-    "people": ["mary-lou-herrin-1927"],
-    "date": "1972-12-16",
-    "location": "Orlando, Orange County, Florida",
-    "description": "Florida death certificate, state file number 72-082579, documenting the death of Mary Lou Mathis on December 16, 1972, in Orlando, Florida. She was born May 8, 1927, in Georgia. Her parents are identified as William Herrin and Laura Palmer. The certificate names Howard Mathis as her surviving husband and Miss Linda T. Miller as the informant. Burial took place December 19, 1972, at Woodlawn Cemetery in Perry, Florida.",
-    "supports": [
-        "Mary Lou was born May 8, 1927",
-        "Mary Lou was born in Georgia",
-        "Mary Lou died December 16, 1972",
-        "Mary Lou's parents were William Herrin and Laura Palmer",
-        "Mary Lou's surviving husband was Howard Mathis",
-        "Mary Lou was buried at Woodlawn Cemetery in Perry, Florida"
-    ],
-    "documents": [
-        "mary_lou_herrin_mathis_death_certificate_1972.jpg"
-    ]
-},
-{
-    "id": "mary-lou-herrin-obituary-1972",
-    "type": "Obituary",
-    "title": "1972 Obituary — Mary Lou Miller",
-    "people": ["mary-lou-herrin-1927"],
-    "date": "1972",
-    "location": "Perry, Taylor County, Florida",
-    "description": "Newspaper obituary for Mary Lou Miller, age 45, reporting her death at her home in Orlando. It identifies her as a native of Pearson, Georgia, and a longtime resident of Taylor County, Florida. Survivors included daughter Laura Linda Miller, son Robert B. Miller, stepson Charles Miller Jr., father William L. Herrin, six sisters, and two brothers. The obituary also records her membership in the Church of Jesus Christ of Latter-day Saints. Newspaper title and exact publication date have not yet been established.",
-    "supports": [
-        "Mary Lou was born in Pearson, Georgia",
-        "Mary Lou lived most of her life in Taylor County, Florida",
-        "Mary Lou had a daughter named Laura Linda Miller",
-        "Mary Lou had a son named Robert B. Miller",
-        "Mary Lou had a stepson named Charles Miller Jr.",
-        "Mary Lou was a member of the Church of Jesus Christ of Latter-day Saints",
-        "William L. Herrin was living at the time of Mary Lou's death"
-    ],
-    "documents": [
-        "mary_lou_herrin_obituary_1972.jpeg"
-    ]
-},
-{
-    "id": "linda-miller-marriage-announcement-1973",
-    "type": "Newspaper",
-    "title": "1973 Marriage Announcement — Linda Louise Miller and Jeffrey Phillip Smith",
-    "people": [
-        "linda-miller-1953",
-        "jeffrey-phillip-smith"
-    ],
-    "date": "1973-07-30",
-    "location": "Miami, Miami-Dade County, Florida",
-    "description": "Marriage announcement published in The Miami Herald on July 30, 1973. The announcement identifies Linda Louise Miller as the daughter of Charles A. Miller of Perry, Florida, and the late Marylou Mathis. It reports her marriage to Jeffrey Phillip Smith at Sierra-Norwood Baptist Church. Linda graduated from the Florida School for the Deaf and Blind in St. Augustine and attended Florida State University. The announcement also identifies Jeffrey as the son of Mr. and Mrs. Phillip A. Smith.",
-    "supports": [
-        "Linda was the daughter of Charles A. Miller and Mary Lou Herrin Mathis",
-        "Linda used the name Linda Louise Miller in 1973",
-        "Linda married Jeffrey Phillip Smith",
-        "Linda graduated from the Florida School for the Deaf and Blind",
-        "Linda attended Florida State University"
-    ],
-    "documents": [
-        "linda_miller_jeffrey_smith_marriage_1973.jpg"
-    ]
-},
-{
-    "id": "linda-miller-jeffrey-smith-marriage-1973",
-    "type": "Marriage Record",
-    "title": "1973 Florida Marriage Record — Linda Miller and Jeffrey Phillip Smith",
-    "people": [
-        "linda-miller-1953",
-        "jeffrey-phillip-smith"
-    ],
-    "date": "1973-07-29",
-    "location": "Miami-Dade County, Florida",
-    "description": "Florida marriage index entry for Jeffrey Phillip Smith and his spouse, dated July 29, 1973, Miami-Dade County. Certificate number 043837, volume 3399. A separate marriage record identifying the bride as Linda Louise Miller gives August 5, 1973. The discrepancy between the dates has not yet been resolved.",
-    "supports": [
-        "Linda Miller married Jeffrey Phillip Smith in 1973",
-        "A Florida marriage index records July 29, 1973"
-    ],
-    "documents": []
-},
-{
-    "id": "frank-mathis-death-certificate-1969",
-    "type": "Death Certificate",
-    "title": "1969 Florida Death Certificate — Frank Mathis",
-    "people": [
-        "frank-mathis-1907"
-    ],
-    "date": "1969-07-22",
-    "location": "Chattahoochee, Gadsden County, Florida",
-    "description": "Florida death certificate, state file number 69-041363. Records Frank Mathis's birth on April 30, 1907, death on July 22, 1969, parents Daniel Mathis and Mary Dowling, residence in Sneads, Florida, and burial at Mount Pleasant Cemetery.",
-    "supports": [
-        "Frank Mathis was born April 30, 1907",
-        "Frank Mathis died July 22, 1969",
-        "Frank Mathis was the son of Daniel Mathis and Mary Dowling",
-        "Frank Mathis was buried at Mount Pleasant Cemetery"
-    ],
-    "documents": [
-        "frank_mathis_death_certificate_1969.jpg"
-    ]
-},
-{
-    "id": "frank-mathis-obituary-1969",
-    "type": "Obituary",
-    "title": "1969 Obituary — Frank Mathis",
-    "people": [
-        "frank-mathis-1907"
-    ],
-    "date": "1969",
-    "location": "Sneads, Jackson County, Florida",
-    "description": "Newspaper obituary reporting the death of Frank Mathis, age 62. Identifies him as a native of Madison County, Florida, a retired furniture mill worker, and a member of the Baptist Church of Sneads. Survivors included his wife Minnie O. Mathis, daughter Hornine Barber, son Joseph Mathis, stepson John Wayne McQuaid, and three brothers. Newspaper title and publication date have not yet been established.",
-    "supports": [
-        "Frank Mathis was born in Madison County, Florida",
-        "Frank Mathis worked in a furniture mill",
-        "Frank Mathis lived in Sneads, Florida",
-        "Frank Mathis was married to Minnie O. Mathis",
-        "Frank Mathis had children and a stepson"
-    ],
-    "documents": [
-        "frank_mathis_obituary_1969.jpg"
-    ]
-},
-{
-    "id": "mary-virginia-allen-death-certificate-1933",
-    "type": "Death Certificate",
-    "title": "1933 Florida Death Certificate — Mary Mathis",
-    "people": [
-        "mary-virginia-allen",
-        "frank-mathis-1907"
-    ],
-    "date": "1933-06-07",
-    "location": "Mayo, Lafayette County, Florida",
-    "description": "Florida death certificate, state file number 20078, recording the death of Mary Mathis on June 7, 1933. Identifies her husband as Frank Mathis, her father as Lewis Allen, and her mother as Florence Fryer. Records her birth on May 4, 1911, in Lafayette County, Florida.",
-    "supports": [
-        "Mary Mathis died June 7, 1933",
-        "Mary was married to Frank Mathis at the time of her death",
-        "Mary was born May 4, 1911, in Lafayette County, Florida",
-        "Mary's parents were Lewis Allen and Florence Fryer"
-    ],
-    "documents": [
-        "mary_virginia_allen_death_certificate_1933.jpg"
-    ]
-},
-{
-    "id": "everett-darling-family-account-bettie-prestridge",
-    "type": "Family History",
-    "title": "Family Account of Everett Darling — Bettie Darling Prestridge",
-    "people": [
-        "everett-darling"
-    ],
-    "date": "",
-    "location": "Connecticut and Florida",
-    "description": "Family history account provided by Bettie Darling Prestridge, granddaughter of Everett Darling through his son James Darling. Bettie recounts Everett's childhood in Connecticut, his reported discovery of his biological mother's identity, his journey to Jacksonville in 1875, and his subsequent marriages to Sarah Wadsworth Blanton and Susan Lucinda Nipper. She also distinguishes Everett Darling of Florida from another Everett Darling identified as the son of Moses Darling and Caroline Sharp. The account preserves family testimony; its details have not all been independently verified.",
-    "supports": [
-        "Everett Darling was reportedly raised in poorhouses and foster homes",
-        "Everett reportedly arrived in Jacksonville on April 14, 1875",
-        "Everett married Sarah Wadsworth Blanton in 1879",
-        "Everett and Sarah had two daughters, Mary and Martha",
-        "Everett married Susan Lucinda Nipper in 1909",
-        "Everett and Susan had four children",
-        "The identification of Moses Darling and Caroline Sharp as Everett's parents is disputed"
-    ],
-    "documents": []
-},
-{
-    "id": "frank-mathis-mary-allen-parental-consent-1927",
-    "type": "Marriage Record",
-    "title": "1927 Parental Consent for Marriage of Frank Mathis and Mary Allen",
-    "people": [
-        "frank-mathis-1907",
-        "mary-virginia-allen"
-    ],
-    "date": "1927-12-24",
-    "location": "Lafayette County, Florida",
-    "description": "Parental consent dated December 24, 1927, authorizing the marriage of Mary Allen, age 15, to Frank Mathis. The document identifies Mary's parents as R. H. Allen and Florence Allen and is witnessed by Lafayette County Judge Moses H. Padgett.",
-    "supports": [
-        "Mary Allen was 15 years old in December 1927",
-        "Mary Allen received parental consent to marry Frank Mathis",
-        "The parental consent was signed December 24, 1927"
-    ],
-    "documents": [
-        "frank_mathis_mary_allen_parental_consent_1927.jpg"
-    ]
-},
-{
-    "id": "frank-mathis-mary-allen-marriage-1927",
-    "type": "Marriage Record",
-    "title": "1927 Marriage License and Certificate — Frank Mathis and Mary Virginia Allen",
-    "people": [
-        "frank-mathis-1907",
-        "mary-virginia-allen"
-    ],
-    "date": "1927-12-24",
-    "location": "Mayo, Lafayette County, Florida",
-    "description": "Two-page Florida marriage record documenting the marriage of Frank Mathis and Mary Allen on December 24, 1927, in Lafayette County, Florida. The first page is the marriage license cover, while the second contains the marriage license and certification of the ceremony performed by County Judge Moses H. Padgett. The record was filed December 27, 1927, in Marriage Record F, page 243.",
-    "supports": [
-        "Frank Mathis married Mary Virginia Allen on December 24, 1927",
-        "The marriage took place in Lafayette County, Florida",
-        "County Judge Moses H. Padgett performed the marriage ceremony",
-        "The marriage was recorded December 27, 1927"
-    ],
-    "documents": [
-        "frank_mathis_mary_allen_marriage_license_cover_1927.jpg",
-        "frank_mathis_mary_allen_marriage_license_1927.jpg"
-    ]
-},
-{
-    "id": "1850-census-james-lesley-family",
-    "type": "Census",
-    "title": "1850 U.S. Census — James M. Lesley Family",
-    "people": [
-        "james-m-lesley-1809",
-        "elizabeth-lesley-1812",
-        "dolly-ann-leslie-1834"
-    ],
-    "date": "1850-09-12",
-    "location": "District 68, Pike County, Georgia",
-    "description": "The 1850 United States Census records James M. Lesley, age 41, a brick mason, living in Pike County, Georgia, with Elizabeth Lesley, age 38, and five younger household members. One of these individuals, D. A. Lesley, age 15, is believed to be Dolly Ann Leslie, who married John W. Bryan in 1853. James reported real estate valued at $1,000. All household members were recorded as born in Georgia.",
-    "supports": [
-        "James M. Lesley lived in Pike County, Georgia, in 1850",
-        "Elizabeth Lesley lived in the same household",
-        "D. A. Lesley, age 15, was a member of the household",
-        "James M. Lesley worked as a brick mason",
-        "James and Elizabeth Lesley are probable parents of Dolly Ann Leslie"
-    ],
-    "documents": [
-        "1850_census_james_lesley_family.jpg"
-    ]
-},
-{
-    "id": "1870-census-william-m-herrin-family",
-    "type": "Census",
-    "title": "1870 U.S. Census — William M. Herrin Family",
-    "people": [
-        "william-m-herrin-1831",
-        "mary-hargraves-1838",
-        "thomas-levi-herrin-1854"
-    ],
-    "date": "1870-06-04",
-    "location": "Subdivision 130, Ware County, Georgia",
-    "description": "The 1870 United States Census records William Herring, age 38, a farmer, living with Mary Herring, age 31, and eight younger household members in Ware County, Georgia. Their son Thomas L. Herring, age 16, is identified as Thomas Levi Herrin (1854–1922). The household begins on page 4, enumerated June 3, 1870, and continues onto page 5, enumerated June 4, 1870. William reported real estate valued at $800 and personal estate valued at $500. The surname is recorded as Herring in the census index.",
-    "supports": [
-        "William M. Herrin resided in Ware County, Georgia, in 1870",
-        "William M. Herrin was approximately 38 years old",
-        "Mary Herrin, age 31, lived in the same household",
-        "Thomas Levi Herrin, age 16, lived in the household",
-        "The household included several additional probable children",
-        "William M. Herrin worked as a farmer"
-    ],
-    "documents": [
-        "1870_census_william_herrin_page_1.jpg",
-        "1870_census_william_herrin_page_2.jpg"
-    ]
-},
-{
-    "id": "1878-marriage-thomas-herrin-elizabeth-branch",
-    "type": "Marriage",
-    "title": "1878 Marriage Certificate — Thomas L. Herring and Elizabeth Branch",
-    "people": [
-        "thomas-levi-herrin-1854",
-        "elizabeth-branch-1858"
-    ],
-    "date": "1878-02-11",
-    "location": "Ware County, Georgia",
-    "description": "Original marriage license and certificate documenting the marriage of Thomas L. Herring and Miss Elizabeth Branch on February 11, 1878, in Ware County, Georgia. The marriage license was issued February 9, 1878. The ceremony was performed by Thomas Brabham, a preacher of the Gospel. Elizabeth Branch was Thomas Levi Herrin's first wife.",
-    "supports": [
-        "Thomas L. Herring married Elizabeth Branch on February 11, 1878",
-        "The marriage occurred in Ware County, Georgia",
-        "The marriage was performed by Thomas Brabham"
-    ],
-    "documents": [
-        "1878_marriage_thomas_herrin_elizabeth_branch.jpg"
-    ]
-},
-{
-    "id": "1886-marriage-thomas-herrin-nancy-jewell",
-    "type": "Marriage",
-    "title": "1886 Marriage License and Certificate — Thomas L. Herrin and Nancy Jewell",
-    "people": [
-        "thomas-levi-herrin-1854",
-        "nancy-t-jewell-1854"
-    ],
-    "date": "1886-10-13",
-    "location": "Clinch County, Georgia",
-    "description": "Original marriage license and certificate documenting the marriage of Thomas L. Herrin and Nancy Jewell on October 13, 1886, in Clinch County, Georgia. The marriage license was issued October 12, 1886, by M. S. Corbitt, Ordinary. The ceremony was performed by David A. McDaniel, Minister of the Gospel. Nancy Jewell was Thomas Levi Herrin's second wife.",
-    "supports": [
-        "Thomas L. Herrin married Nancy Jewell on October 13, 1886",
-        "The marriage occurred in Clinch County, Georgia",
-        "The marriage license was issued October 12, 1886",
-        "The ceremony was performed by David A. McDaniel"
-    ],
-    "documents": [
-        "1886_marriage_thomas_herrin_nancy_jewell.jpg"
+        "1821_land_lottery_herron_herron_orphans.png"
     ]
 }
 ]

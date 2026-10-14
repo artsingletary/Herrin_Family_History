@@ -503,5 +503,18 @@
         "john-waters-bryan-1829"
     ],
     "location": "Fort White City Cemetery, Fort White, Columbia County, Florida"
+},
+{
+    "id": "evelyn-herrin-david-webb-gravestone",
+    "type": "grave",
+    "people": [
+        "evelyn-herrin-1934"
+    ],
+    "title": "Gravestone of Evelyn Herrin and David Buddy Webb",
+    "caption": "Gravestone of Evelyn Herrin (1934–2011) and David 'Buddy' Webb (1941–2007)",
+    "date": "2018-12-13",
+    "location": "Waters Memorial Gardens, Steinhatchee, Taylor County, Florida",
+    "description": "Shared gravestone of Evelyn Herrin (September 14, 1934 – February 19, 2011) and David 'Buddy' Webb (June 22, 1941 – February 6, 2007). The central inscription identifies four children: Stevie, Ricky, Connie Ray, and Debra.",
+    "file": "evelyn_herrin_gravestone.jpeg"
 }
 ]

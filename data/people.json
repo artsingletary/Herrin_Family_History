@@ -321,20 +321,20 @@
     {
         "id": "levi-herrin-1804",
         "first_name": "Levi",
-        "middle_name": "Henry",
+        "middle_name": "",
         "last_name": "Herrin",
         "family_lines": [
             "herrin"
         ], 
-        "profile_photo": "levi_henry_herrin.jpg",
+        "profile_photo": "levi_herrin.jpg",
         "birth_year": 1804,
         "birth_date": "1804-07-08",
         "birth_place": "Clinch, Georgia, United States",
         "death_year": 1890,
         "death_date": "1890-09-29",
         "death_place": "Millwood, Clinch, Georgia, United States",
-        "father": null,
-        "mother": null,
+        "father": "herron-herrin-1770",
+        "mother": "ann-d-unknown",
         "spouses": ["charity-sears-1812"],
         "military_service": [
             {
@@ -591,7 +591,9 @@
         "spouses": [],
         "biography": [
             "Evelyn Herrin was born on September 14, 1934, in Pearson, Atkinson County, Georgia.",
-            "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on February 19, 2011, in Florida."
+            "She was a daughter of William Levi Herrin and Laura Etta Palmer. She died on February 19, 2011, in Florida.",
+            "During her lifetime, Evelyn married Freddy Ray Mathis (1938–1967), John S. George, and David Brewer Webb (1942–2007). Florida divorce records document her divorce from John S. George in Pinellas County in October 1968 and from David Webb in Taylor County on June 6, 1975.",
+            "Evelyn died on February 19, 2011, in Perry, Taylor County, Florida, at the age of 76. She is buried at Waters Memorial Gardens in Steinhatchee, Florida, where a shared memorial commemorates her and David 'Buddy' Webb (1941–2007). The marker also names Stevie, Ricky, Connie Ray, and Debra as their children."
         ]
 },
 {
@@ -1522,6 +1524,155 @@
         "The 1850 United States Census records Elizabeth, age 38, living in District 68 of Pike County, Georgia, in the household of James M. Lesley.",
         "The household included D. A. Lesley, age 15, who is believed to be Dolly Ann Leslie, the future wife of John Waters Bryan.",
         "Elizabeth and James are considered probable parents of Dolly Ann Leslie, although additional documentation is needed to confirm the relationship."
+    ]
+},
+{
+    "id": "heron-herrin-1770",
+    "first_name": "Heron",
+    "middle_name": "",
+    "last_name": "Herrin",
+    "family_lines": ["herrin"],
+    "birth_year": 1770,
+    "birth_year_approximate": true,
+    "birth_place": "North Carolina, United States",
+    "death_year": 1817,
+    "death_place": "Camden County, Georgia, United States",
+    "spouses": ["ann-d-unknown-1774"],
+    "biography": [
+        "Heron Herrin was born around 1770 in North Carolina. Family research identifies him by the nickname Mack, although contemporary documentation confirming this name has not yet been located.",
+        "In September 1799, a land warrant was issued for 400 acres in Glynn County, Georgia, to a man recorded as Heron Herron. A corresponding land grant was issued in 1800. These records are consistent with the account preserved in family research.",
+        "According to research compiled by Arthur Singletary Sr., Heron moved to Camden County, Georgia, around 1811 and worked as a farm overseer for Burwell Atkinson. The research states that Atkinson killed Heron during an argument in 1817 and was subsequently tried for murder. The original court proceedings have not yet been examined.",
+        "Heron and his wife Ann reportedly had seven children: Olive, John, Nancy, James, Levi, William, and Daniel Herrin.",
+        "Family research suggests that Heron may have been the son of Enoch Herin, but this relationship remains unverified."
+    ]
+},
+{
+    "id": "ann-d-unknown-1774",
+    "first_name": "Ann",
+    "middle_name": "D.",
+    "last_name": "Unknown",
+    "family_lines": ["herrin"],
+    "birth_year": 1774,
+    "birth_year_approximate": true,
+    "death_year": 1830,
+    "death_year_approximate": true,
+    "death_place": "Wayne County, Georgia, United States",
+    "spouses": [
+        "heron-herrin-1770",
+        "levi-j-knight"
+    ],
+    "biography": [
+        "Ann D., whose maiden name has not been established, was the wife of Heron Herrin. Family research identifies her as the mother of seven children born between approximately 1793 and 1810.",
+        "Following Heron's death in 1817, Ann reportedly married Levi J. Knight. According to family research, she later lived in Wayne County, Georgia, where she died around 1830."
+    ]
+},
+{
+    "id": "olive-herrin-1793",
+    "first_name": "Olive",
+    "middle_name": "",
+    "last_name": "Herrin",
+    "family_lines": ["herrin"],
+    "birth_year": 1793,
+    "birth_year_approximate": true,
+    "birth_place": "North Carolina, United States",
+    "death_year": 1830,
+    "death_year_approximate": true,
+    "death_place": "Wayne County, Georgia, United States",
+    "father": "heron-herrin-1770",
+    "mother": "ann-d-unknown-1774",
+    "biography": [
+        "Olive Herrin was reportedly born in North Carolina around 1793. According to family research, she was a daughter of Heron Herrin and Ann D.",
+        "Olive reportedly married Moses Turner in 1810. Family research indicates that the couple moved to Hamilton County, Florida, following their marriage.",
+        "Olive is reported to have died in Wayne County, Georgia, around 1830. These details remain to be verified against historical records."
+    ]
+},
+{
+    "id": "john-herrin-1795",
+    "first_name": "John",
+    "middle_name": "",
+    "last_name": "Herrin",
+    "family_lines": ["herrin"],
+    "birth_year": 1795,
+    "birth_year_approximate": true,
+    "birth_place": "North Carolina, United States",
+    "death_year": 1820,
+    "death_year_approximate": true,
+    "father": "heron-herrin-1770",
+    "mother": "ann-d-unknown-1774",
+    "biography": [
+        "John Herrin was reportedly born in North Carolina around 1795, the son of Heron Herrin and Ann D.",
+        "According to family research, John married Ann Clements, daughter of William Clements.",
+        "John reportedly died around 1820. His death location and the circumstances of his death have not yet been established."
+    ]
+},
+{
+    "id": "nancy-herrin-1798",
+    "first_name": "Nancy",
+    "middle_name": "",
+    "last_name": "Herrin",
+    "family_lines": ["herrin"],
+    "birth_year": 1798,
+    "birth_year_approximate": true,
+    "birth_place": "North Carolina, United States",
+    "father": "heron-herrin-1770",
+    "mother": "ann-d-unknown-1774",
+    "biography": [
+        "Nancy Herrin was reportedly born in North Carolina around 1798, the daughter of Heron Herrin and Ann D.",
+        "According to family research, Nancy married Solomon Robeson on September 6, 1818.",
+        "Nancy is believed to have died before 1830. Her exact death date and burial location remain unknown."
+    ]
+},
+{
+    "id": "james-herrin-1800",
+    "first_name": "James",
+    "middle_name": "",
+    "last_name": "Herrin",
+    "family_lines": ["herrin"],
+    "birth_year": 1800,
+    "birth_year_approximate": true,
+    "birth_place": "North Carolina, United States",
+    "father": "heron-herrin-1770",
+    "mother": "ann-d-unknown-1774",
+    "biography": [
+        "James Herrin was reportedly born in North Carolina around 1800, the son of Heron Herrin and Ann D.",
+        "According to family research, James married Mary Rooks, daughter of John Rooks, on June 10, 1827.",
+        "Family research indicates that James lived beyond 1880. His exact death date and burial location have not yet been established."
+    ]
+},
+{
+    "id": "william-herrin-1806",
+    "first_name": "William",
+    "middle_name": "",
+    "last_name": "Herrin",
+    "family_lines": ["herrin"],
+    "birth_year": 1806,
+    "birth_year_approximate": true,
+    "birth_place": "North Carolina, United States",
+    "death_year": 1888,
+    "death_year_approximate": true,
+    "death_place": "Columbia County, Florida, United States",
+    "father": "heron-herrin-1770",
+    "mother": "ann-d-unknown-1774",
+    "biography": [
+        "William Herrin was reportedly born in North Carolina around 1806, the son of Heron Herrin and Ann D.",
+        "According to family research, William married Barshaba Lindsay around 1826. The couple subsequently moved to Columbia County, Florida.",
+        "William reportedly died in Columbia County, Florida, around 1888. Additional historical records are needed to verify these details."
+    ]
+},
+{
+    "id": "daniel-herrin-1810",
+    "first_name": "Daniel",
+    "middle_name": "",
+    "last_name": "Herrin",
+    "family_lines": ["herrin"],
+    "birth_year": 1810,
+    "birth_year_approximate": true,
+    "father": "heron-herrin-1770",
+    "mother": "ann-d-unknown-1774",
+    "biography": [
+        "Daniel Herrin was reportedly born around 1810, the son of Heron Herrin and Ann D.",
+        "According to family research, Daniel married Mehala Kelly and later Jemina Ammons.",
+        "Daniel's death date and burial location have not yet been established."
     ]
 }
 ]
