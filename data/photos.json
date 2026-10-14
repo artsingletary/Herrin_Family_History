@@ -508,7 +508,8 @@
     "id": "evelyn-herrin-david-webb-gravestone",
     "type": "grave",
     "people": [
-        "evelyn-herrin-1934"
+        "evelyn-herrin-1934",
+        "david-brewer-webb-1941"
     ],
     "title": "Gravestone of Evelyn Herrin and David Buddy Webb",
     "caption": "Gravestone of Evelyn Herrin (1934–2011) and David 'Buddy' Webb (1941–2007)",
@@ -516,5 +517,44 @@
     "location": "Waters Memorial Gardens, Steinhatchee, Taylor County, Florida",
     "description": "Shared gravestone of Evelyn Herrin (September 14, 1934 – February 19, 2011) and David 'Buddy' Webb (June 22, 1941 – February 6, 2007). The central inscription identifies four children: Stevie, Ricky, Connie Ray, and Debra.",
     "file": "evelyn_herrin_gravestone.jpeg"
+},
+{
+    "id": "evelyn-herrin-family-group",
+    "type": "family",
+    "people": [
+        "evelyn-herrin-1934"
+    ],
+    "title": "Evelyn Herrin with Family",
+    "caption": "Evelyn Herrin with family members outdoors.",
+    "date": "",
+    "location": "",
+    "description": "An undated outdoor family photograph associated with Evelyn Herrin. Additional family members have not yet been identified.",
+    "file": "evelyn_herrin_family_group.jpg"
+},
+{
+    "id": "evelyn-herrin-bill-faulkner",
+    "type": "family",
+    "people": [
+        "evelyn-herrin-1934"
+    ],
+    "title": "Evelyn Herrin with Bill Faulkner",
+    "caption": "Evelyn Herrin with Bill Faulkner, son of Dorothy Herrin.",
+    "date": "",
+    "location": "",
+    "description": "Portrait of Evelyn Herrin with Bill Faulkner, identified in the original photograph filename as the son of Dorothy Herrin. The photograph's date and location are unknown.",
+    "file": "evelyn_herrin_bill_faulkner.jpg"
+},
+{
+    "id": "evelyn-herrin-school-1950",
+    "type": "portrait",
+    "people": [
+        "evelyn-herrin-1934"
+    ],
+    "title": "Evelyn Herrin — School Days 1950–1951",
+    "caption": "Evelyn Herrin during the 1950–1951 school year in Mayo, Florida.",
+    "date": "1950",
+    "location": "Mayo, Lafayette County, Florida, United States",
+    "description": "School portrait of Evelyn Herrin, approximately 16 years old, from the 1950–1951 school year. The original photograph is labeled 'SCHOOL DAYS 1950-51 MAYO,' identifying the school year and location.",
+    "file": "evelyn_herrin_school_1950.jpg"
 }
 ]

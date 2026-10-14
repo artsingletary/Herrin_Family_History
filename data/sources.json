@@ -1750,5 +1750,70 @@
     "documents": [
         "1821_land_lottery_herron_herron_orphans.png"
     ]
+},
+{
+    "id": "1945-florida-census-william-levi-herrin-family",
+    "type": "Census",
+    "title": "1945 Florida State Census — William Levi Herrin Family",
+    "people": [
+        "william-levi-herrin-1892",
+        "lauretta-palmer-1898",
+        "james-talmage-herrin-1919",
+        "gladys-lucille-herrin-1924",
+        "mary-lou-herrin-1927",
+        "dorothy-herrin-1929",
+        "william-levi-herrin-1932",
+        "evelyn-herrin-1934",
+        "deloris-herrin-1942"
+    ],
+    "date": "1945",
+    "location": "Precinct 3, Mayo, Lafayette County, Florida, United States",
+    "household": "William Levi Herrin Household",
+    "household_members": [
+        "W. L. Herrin, age 52, laborer",
+        "Laura Herrin, age 46, housewife",
+        "James Herrin, age 24, Army",
+        "Gladys Herrin, age 20, laborer",
+        "Mary Lou Herrin, age 17, student",
+        "Dorothy Herrin, age 14, student",
+        "Billy Herrin, age 12, student",
+        "Evelyn Herrin, age 10, student",
+        "Deloris Herrin, age 6 (name appears as 'Dean' or similar in the original census)"
+    ],
+    "description": "The 1945 Florida State Population Census records the household of William Levi Herrin (listed as W. L. Herrin) and his wife Laura Etta Herrin, living on Route 2 near Mayo in Precinct 3, Lafayette County, Florida. Their household includes seven children: James, Gladys, Mary Lou, Dorothy, Billy, Evelyn, and Deloris. Evelyn was recorded as age 10 and attending school. The youngest child is identified through family research as Deloris Herrin, although her name appears to have been recorded differently, possibly as 'Dean,' in the original census. Immediately preceding the Herrin household is the household of Louie Singletary, brother of Dewey Singletary. Louie's household includes his wife Lessie and their young son Randall. The consecutive entries document the presence of both branches of the family in the Mayo area in 1945.",
+    "supports": [
+        "Residence of William Levi Herrin and Laura Etta Palmer in Lafayette County, Florida, in 1945",
+        "Identification of James, Gladys, Mary Lou, Dorothy, Billy, Evelyn, and Deloris as members of the William Levi Herrin household",
+        "Approximate birth years of the Herrin children",
+        "Evelyn Herrin's residence in her parents' household at age 10",
+        "School attendance of several Herrin children in 1945",
+        "James Herrin's reported Army service in 1945",
+        "Residence of Louie Singletary and his family in Lafayette County, Florida, in 1945",
+        "Consecutive enumeration of the Singletary and Herrin households"
+    ],
+    "documents": [
+        "1945_florida_census_william_levi_herrin_family.jpg"
+    ]
+},
+{
+    "id": "1967-freddy-mathis-obituary",
+    "type": "Obituary",
+    "title": "Obituary of Freddy Mathis — The Florida Times-Union",
+    "people": [
+        "freddy-ray-mathis-1938"
+    ],
+    "date": "1967-12-21",
+    "location": "Perry, Taylor County, Florida",
+    "description": "The obituary of Freddy Mathis, age 29, identifies his widow as Evelyn and names two sons, Connie and Ricky. It also identifies a stepdaughter, Mrs. Debra George. Freddy died on December 19, 1967. The obituary lists his parents as Mr. and Mrs. E. R. Mathis and names five brothers and three sisters. Funeral services were scheduled for December 21, 1967, with burial at Woodlawn Cemetery.",
+    "supports": [
+        "Death of Freddy Mathis on December 19, 1967",
+        "Marriage of Freddy Mathis and Evelyn Herrin",
+        "Identification of Connie and Ricky as Freddy Mathis's sons",
+        "Identification of Debra George as Freddy Mathis's stepdaughter",
+        "Identification of Freddy Mathis's parents and siblings"
+    ],
+    "documents": [
+        "1967_freddy_mathis_obituary.png"
+    ]
 }
 ]
