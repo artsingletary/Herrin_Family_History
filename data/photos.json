@@ -674,6 +674,19 @@
     "location": "Woodlawn Cemetery, Perry, Taylor County, Florida",
     "description": "Photograph of Freddy Ray Mathis's gravestone showing his birth and death dates. The photograph bears the date May 30, 2013.",
     "file": "freddy_ray_mathis_gravestone.jpg"
+},
+{
+    "id": "loyd-mccoy-singletary-gravestone",
+    "type": "grave",
+    "people": [
+        "loyd-mccoy-singletary-1924"
+    ],
+    "title": "Gravestone of Loyd McCoy Singletary",
+    "caption": "Military gravestone of Loyd McCoy Singletary (1924–1958), Seaman First Class, United States Naval Reserve, World War II. Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida.",
+    "date": null,
+    "location": "Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida",
+    "description": "The gravestone commemorates Loyd McCoy Singletary's service in the United States Naval Reserve during World War II. The inscription reads: LOYD MCCOY SINGLETARY / FLORIDA / S1 USNR / WORLD WAR II / MAY 19 1924 / JAN 17 1958.",
+    "file": "loyd_mccoy_singletary_gravestone.jpg"
 }
 
 ]

@@ -804,7 +804,8 @@
         "people": [
             "george-william-singletary-1895",
             "lela-mae-mathis-1902",
-            "dewey-singletary-1919"
+            "dewey-singletary-1919",
+            "loyd-mccoy-singletary-1924"
         ],
         "date": "1930-04-04",
         "location": "Election Precinct No. 3, Lafayette County, Florida, United States",
@@ -1852,6 +1853,103 @@
     ],
     "documents": [
         "1956_freddy_mathis_perry_city_directory.jpg"
+    ]
+},
+{
+    "id": "1958-florida-death-certificate-loyd-mccoy-singletary",
+    "type": "death_certificate",
+    "title": "1958 Florida Death Certificate — Loyd McCoy Singletary (1958)",
+    "people": [
+        "loyd-mccoy-singletary-1924"
+    ],
+    "date": "1958-01-17",
+    "location": "Jacksonville, Duval County, Florida",
+    "description": "Florida Certificate of Death No. 58-001515 records the death of Loyd McCoy Singletary on January 17, 1958, at Duval Medical Center in Jacksonville, Florida, at age 33. It identifies his birth date as May 19, 1924, his birthplace as Mayo, Florida, his father as George William Singletary, and his mother as Leila Mathis. Loyd was married and employed as a milkman for Sealtest. The certificate records World War II military service and identifies the cause of death as carcinoma of the lung with metastases. It lists burial at Airline Cemetery, with the cemetery location recorded as Perry, Florida; other evidence places Airline Baptist Church Cemetery near Mayo, Lafayette County, Florida.",
+    "supports": [
+        "Full name",
+        "Birth date",
+        "Birthplace",
+        "Death date",
+        "Place of death",
+        "Parents",
+        "Marital status",
+        "Occupation",
+        "Military service",
+        "Cause of death",
+        "Burial"
+    ],
+    "documents": [
+        "1958_loyd_mccoy_singletary_death_certificate.jpg"
+    ]
+},
+{
+    "id": "1958-obituary-loyd-mccoy-singletary",
+    "type": "obituary",
+    "title": "1958 Obituary of Loyd McCoy Singletary",
+    "people": [
+        "loyd-mccoy-singletary-1924"
+    ],
+    "date": "1958-01-19",
+    "location": "Jacksonville, Duval County, Florida",
+    "newspaper": "The Florida Times-Union",
+    "publication_place": "Jacksonville, Florida",
+    "page": "5",
+    "description": "Obituary published in The Florida Times-Union on January 19, 1958, announcing funeral services for Loyd McCoy Singletary, who died January 17, 1958, at age 33. The obituary identifies his widow, Nina Mae Phillips Singletary, and their four children: Fay, Derenda, Paul, and Joe. It also identifies his father, George Singletary of Mayo, Florida, and four brothers: Louie and Vershal of Jacksonville, Dewey of Perry, and Bill of Live Oak. Three sisters are listed as Mrs. Roy Bustin of Pahokee, Mrs. Ervin Crowley of South Carolina, and Mrs. Williard Duckworth of Clearwater. Funeral services were scheduled for January 19, 1958, at Airline Baptist Church near Mayo, Florida, with burial in the adjoining cemetery.",
+    "supports": [
+        "Death date",
+        "Spouse",
+        "Children",
+        "Father",
+        "Siblings",
+        "Family residences",
+        "Funeral arrangements",
+        "Burial location"
+    ],
+    "documents": [
+        "1958_loyd_mccoy_singletary_obituary.jpg"
+    ]
+},
+{
+    "id": "1958-jacksonville-city-directory-nina-mae-singletary",
+    "type": "city_directory",
+    "title": "1958 Jacksonville City Directory — Nina Mae Singletary",
+    "people": [
+        "loyd-mccoy-singletary-1924"
+    ],
+    "date": "1958",
+    "location": "Jacksonville, Duval County, Florida",
+    "description": "The 1958 Jacksonville, Florida, city directory, page 833, lists Nina M. Singletary as a representative for Avon Home Products, residing at 3503 Penton Street. The address matches the residence recorded for her husband, Loyd McCoy Singletary, on his January 17, 1958, death certificate. The directory provides additional evidence of the family's residence in Jacksonville and documents Nina's employment with Avon Home Products in 1958.",
+    "supports": [
+        "Spouse's residence",
+        "Family residence",
+        "Spouse's occupation"
+    ],
+    "documents": [
+        "1958_loyd_and_nina_mae_singletary_jacksonville_city_directory.jpg"
+    ]
+},
+{
+    "id": "1942-draft-registration-loyd-mccoy-singletary",
+    "type": "draft_registration",
+    "title": "1942 World War II Draft Registration Card — Loyd McCoy Singletary",
+    "people": [
+        "loyd-mccoy-singletary-1924"
+    ],
+    "date": "1943-06-30",
+    "location": "Mayo, Lafayette County, Florida",
+    "description": "World War II Selective Service registration card for Loyd McCoy Singletary, born May 19, 1924, in Mayo, Florida. The card identifies his residence as Mayo, Lafayette County, Florida, and lists Mrs. George Singletary as the person who would always know his address. Loyd identified Mr. George Singletary as his employer. The reverse describes him as approximately 5 feet 9 inches tall, weighing 115 pounds, with blue eyes, brown hair, and a dark complexion. The registrar's handwritten date reads June 30, 1942, although the recorded age of 18 is consistent with a registration in 1942. A later annotation records his discharge from the Navy on November 26, 1945.",
+    "supports": [
+        "Full name",
+        "Birth date",
+        "Birthplace",
+        "Residence",
+        "Employment",
+        "Physical description",
+        "Military discharge date"
+    ],
+    "documents": [
+        "1942_loyd_mccoy_singletary_draft_registration_front.jpg",
+        "1942_loyd_mccoy_singletary_draft_registration_back.jpg"
     ]
 }
 ]

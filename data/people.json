@@ -1772,5 +1772,83 @@
         "Debra was also known as Debra Renee Cotrel. The circumstances and date of her adoption of the Cotrel surname have not yet been established.",
         "Debra died on June 27, 2012, in Dowling Park, Suwannee County, Florida, at the age of 56. She was buried at Woodlawn Cemetery in Perry, Taylor County, Florida."
     ]
+},
+{
+    "id": "richard-mathis",
+    "first_name": "Richard",
+    "middle_name": null,
+    "last_name": "Mathis",
+    "display_name": "Richard \"Ricky\" Mathis",
+    "family_lines": ["herrin"],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "freddy-ray-mathis-1938",
+    "mother": "evelyn-herrin-1934",
+    "spouses": [],
+    "biography": [
+        "Richard Mathis, known as Ricky, is the son of Freddy Ray Mathis (1938–1967) and Evelyn Herrin (1934–2011).",
+        "Ricky grew up in the Perry, Florida, area and attended Taylor County High School. He appears in school yearbook records from 1977 and 1979.",
+        "Ricky is the brother of Connie Ray Mathis."
+    ]
+}, 
+{
+    "id": "david-steve-webb",
+    "first_name": "David",
+    "middle_name": "Steve",
+    "last_name": "Webb",
+    "display_name": "David Steve \"Stevie\" Webb",
+    "family_lines": ["herrin"],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "david-brewer-webb-1941",
+    "mother": "evelyn-herrin-1934",
+    "spouses": [],
+    "biography": [
+        "David Steve Webb, known as Stevie, is the son of David Brewer Webb (1941–2007) and Evelyn Herrin (1934–2011).",
+        "Stevie grew up in the Taylor County, Florida, area and appears in a 1988 Taylor County High School yearbook index.",
+        "He is a maternal half-brother of Connie Ray Mathis and Richard (Ricky) Mathis."
+    ]
+},
+{
+    "id": "loyd-mccoy-singletary-1924",
+    "first_name": "Loyd",
+    "middle_name": "McCoy",
+    "last_name": "Singletary",
+    "display_name": "Loyd McCoy Singletary",
+    "family_lines": ["singletary"],
+    "profile_photo": null,
+    "birth_date": "1924-05-19",
+    "birth_year": 1924,
+    "birth_place": "Mayo, Lafayette County, Florida, United States",
+    "death_date": "1958-01-17",
+    "death_year": 1958,
+    "death_place": "Jacksonville, Duval County, Florida, United States",
+    "father": "george-william-singletary-1895",
+    "mother": "lela-mae-mathis-1902",
+    "spouses": [
+        "nina-mae-phillips"
+    ],
+    "biography": [
+        "Loyd McCoy Singletary was born on May 19, 1924, in Mayo, Lafayette County, Florida. He was the son of George William Singletary and Lela Mae Mathis. Loyd grew up in the Mayo area as part of a large Singletary family that included his brothers Louie, Vershal, Dewey, and Bill, along with three sisters.",
+        "On June 30, 1942, shortly after his eighteenth birthday, Loyd registered for the military draft in Lafayette County, Florida. At the time, he was living in Mayo and listed his father, George Singletary, as his employer. His registration card described him as approximately five feet nine inches tall, weighing 115 pounds, with blue eyes and brown hair.",
+        "Loyd entered the United States Navy in May 1943 during World War II. A Navy muster roll records his enlistment on May 18, 1943, at Jacksonville, Florida, although a separate military index reports May 25, 1943.",
+        "On November 15, 1943, Loyd was received aboard USS Darby (DE-218), a destroyer escort, after assignment at the Naval Training Station in Norfolk, Virginia. At that time, his rating was Seaman Second Class. Another military record identifies him with USS Darby on October 1, 1945, documenting his association with the vessel at two points during the war.",
+        "Loyd served in the United States Naval Reserve and attained the rating of Seaman First Class, as recorded on his military gravestone. He was discharged from the Navy on November 26, 1945.",
+        "On February 10, 1946, Loyd married Nina Mae Phillips in Echols County, Georgia. Their marriage took place less than three months after his discharge from the Navy. The couple had four children: Fay, Derenda, Paul, and Joe.",
+        "Following World War II, Loyd settled with his family in Jacksonville, Florida. By 1958, he was employed as a milkman for Sealtest, a dairy company. His death certificate records his residence in Jacksonville at the time of his death.",
+        "Loyd died on January 17, 1958, at Duval Medical Center in Jacksonville, Florida. His death certificate identifies the cause as carcinoma of the lung with metastases. He was only 33 years old.",
+        "His funeral was held on January 19, 1958, at Airline Baptist Church near Mayo, Florida, with arrangements handled by Joe P. Burns Funeral Home. He was buried in the adjoining Airline Baptist Church Cemetery in Lafayette County, Florida.",
+        "Loyd's military gravestone commemorates his service during World War II with the inscription S1 USNR, identifying him as a Seaman First Class in the United States Naval Reserve. His obituary appeared in The Florida Times-Union on January 19, 1958."
+    ]
 }
 ]
