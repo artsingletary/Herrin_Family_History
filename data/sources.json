@@ -1,42 +1,22 @@
 [
     {
-        "id": "levi-herrin-family-1850-census",
-        "type": "Census",
-        "title": "1850 United States Census — Levi Herrin Family",
+        "id": "1821-land-lottery-herron-herron-orphans",
+        "type": "Land",
+        "title": "1821 Georgia Land Lottery — Herron Herron's Orphans",
         "people": [
-            "levi-herrin-1804",
-            "charity-sears-1812",
-            "william-m-herrin-1831",
-            "charlotte-herrin-1837"
+            "heron-herrin-1770"
         ],
-        "date": "1850-10-05",
-        "location": "Division 89, Ware, Georgia, United States",
-        "household": "Levi Herring Household",
-        "household_members": [
-            "Levi Herring, age 46",
-            "Charity Herring, age 37",
-            "William Herring, age 19",
-            "Hiram Herring, age 16",
-            "Martha Herring, age 15",
-            "Charlotte Herring, age 13",
-            "Richmond Herring, age 11",
-            "Matthew Herring, age 8",
-            "David Herring, age 6",
-            "Jackson Herring, age 4",
-            "Oliff Herring, age 3",
-            "Mildred Herring, age 0"
-        ],
-        "description": "The 1850 United States Census records Levi Herring and Charity Herring in Ware County, Georgia, with ten younger household members, including William Herring and Charlotte Herring. The census provides evidence of the family's residence in southeastern Georgia and supports Levi's approximate birth year of 1804. The relationships of household members are inferred from family research because the 1850 census did not explicitly record relationships to the household head.",
+        "date": "1821-11-28",
+        "location": "Slaughters District, Wayne County, Georgia",
+        "description": "The Georgia Land Lottery Register records 'Herron Herron's orps' among the fortunate drawers on November 28, 1821. The entry identifies Lot 175 in the 10th Land District of Houston County, Georgia. This contemporary record establishes that children identified as orphans of Herron Herron received a land lottery allotment. It corresponds with family research concerning Heron Herrin (1770–1817), although the children are not individually named.",
         "supports": [
-            "Levi Herrin and Charity Sears as members of the same household",
-            "William Herrin as a child in the Levi and Charity Herring household",
-            "Charlotte Herrin as a child in the Levi and Charity Herring household",
-            "Georgia as the birthplace of William Herrin",
-            "Georgia as the birthplace of Charlotte Herrin"
+            "Existence of children identified as orphans of Herron Herron by 1821",
+            "Association of Herron Herron's orphans with Slaughters District, Wayne County, Georgia",
+            "Award of Lot 175, 10th District, Houston County, Georgia",
+            "Research lead for identifying Heron Herrin's children through subsequent land transactions"
         ],
         "documents": [
-            "1850_census_levi_herrin_page_1.jpg",
-            "1850_census_levi_herrin_page_2.jpg"
+            "1821_land_lottery_herron_herron_orphans.png"
         ]
     },
     {
@@ -92,6 +72,46 @@
         ],
         "documents": [
             "1850_census_john_williams_ware_georgia.jpg"
+        ]
+    },
+    {
+        "id": "levi-herrin-family-1850-census",
+        "type": "Census",
+        "title": "1850 United States Census — Levi Herrin Family",
+        "people": [
+            "levi-herrin-1804",
+            "charity-sears-1812",
+            "william-m-herrin-1831",
+            "charlotte-herrin-1837"
+        ],
+        "date": "1850-10-05",
+        "location": "Division 89, Ware, Georgia, United States",
+        "household": "Levi Herring Household",
+        "household_members": [
+            "Levi Herring, age 46",
+            "Charity Herring, age 37",
+            "William Herring, age 19",
+            "Hiram Herring, age 16",
+            "Martha Herring, age 15",
+            "Charlotte Herring, age 13",
+            "Richmond Herring, age 11",
+            "Matthew Herring, age 8",
+            "David Herring, age 6",
+            "Jackson Herring, age 4",
+            "Oliff Herring, age 3",
+            "Mildred Herring, age 0"
+        ],
+        "description": "The 1850 United States Census records Levi Herring and Charity Herring in Ware County, Georgia, with ten younger household members, including William Herring and Charlotte Herring. The census provides evidence of the family's residence in southeastern Georgia and supports Levi's approximate birth year of 1804. The relationships of household members are inferred from family research because the 1850 census did not explicitly record relationships to the household head.",
+        "supports": [
+            "Levi Herrin and Charity Sears as members of the same household",
+            "William Herrin as a child in the Levi and Charity Herring household",
+            "Charlotte Herrin as a child in the Levi and Charity Herring household",
+            "Georgia as the birthplace of William Herrin",
+            "Georgia as the birthplace of Charlotte Herrin"
+        ],
+        "documents": [
+            "1850_census_levi_herrin_page_1.jpg",
+            "1850_census_levi_herrin_page_2.jpg"
         ]
     },
     {
@@ -250,6 +270,32 @@
         ]
     },
     {
+        "id": "1880-census-dolly-bryant",
+        "type": "census",
+        "title": "1880 United States Federal Census — Dolly Bryant Household",
+        "people": [
+            "dolly-ann-leslie-1834",
+            "myram-bryant-1860",
+            "alec-bryant-1869",
+            "hattie-bryant-1873",
+            "mary-bryant-1875"
+        ],
+        "date": "1880",
+        "location": "Columbia County, Florida",
+        "description": "1880 United States Federal Census, Columbia County, Florida, Enumeration District 67, page 21 (stamped page 395), lines 41–45. The household is headed by Dolly Bryant, age 40, and includes her children Myram, age 20, Alec, age 11, Hattie, age 7, and Mary, age 5. Family research identifies Dolly as Dolly Ann Leslie, widow of John Waters Bryant, who died in 1878. The census documents the Bryant family's residence in Columbia County, Florida, and places Mary Eveline Bryant's approximate birth year around 1874–1875.",
+        "supports": [
+            "Residence in 1880",
+            "Approximate birth year",
+            "Birthplace",
+            "Mother",
+            "Siblings",
+            "Household composition"
+        ],
+        "documents": [
+            "1880_dolly_bryant_federal_census.jpg"
+        ]
+    },
+    {
         "id": "1880-census-everett-dowling-sarah-wadsworth",
         "type": "Census",
         "title": "1880 U.S. Federal Census — Everett and Sarah Dowling Household",
@@ -270,6 +316,25 @@
         ],
         "documents": [
             "1880_census_everett_dowling_sarah_wadsworth.jpg"
+        ]
+    },
+    {
+        "id": "1880-census-eliza-singletary",
+        "type": "census",
+        "title": "1880 United States Federal Census - Eliza Singletary Household",
+        "people": [
+            "john-vershal-singletary-1851"
+        ],
+        "date": "1880-06-25",
+        "location": "Lafayette County, Florida",
+        "description": "1880 United States Federal Census, Lafayette County, Florida, page 30, stamped page 185, lines 35-39. The household is headed by Eliza Singletary, age 54, and includes Sarah Singletary, age 24; Mary E. Singletary, age 22; John V. Singletary, age 21; and Jacob Singletary, age 20. The record documents John Vershal Singletary's residence in Lafayette County with members of his family.",
+        "supports": [
+            "John Vershal Singletary was living in Lafayette County, Florida, in June 1880.",
+            "John V. Singletary was enumerated in the household headed by Eliza Singletary.",
+            "The household included Sarah, Mary E., John V., and Jacob Singletary."
+        ],
+        "documents": [
+            "1880_eliza_singletary_federal_census.jpg"
         ]
     },
     {
@@ -312,8 +377,8 @@
             "Marriage recorded in Book B, page 422"
         ],
         "documents": [
-            "1890_marriage_john_singletary_mary_bryant_certificate.jpg",
-            "1890_marriage_john_singletary_mary_bryant_register.jpg"
+            "1890_marriage_john_singletary_mary_bryant_01.jpg",
+            "1890_marriage_john_singletary_mary_bryant_02.jpg"
         ]
     },
     {
@@ -584,8 +649,8 @@
             "Marriage recorded in Book C, page 413"
         ],
         "documents": [
-            "1919_marriage_albert_singletary_dicie_stewart_certificate.jpg",
-            "1919_marriage_albert_singletary_dicie_stewart_register.jpg"
+            "1919_marriage_albert_singletary_dicie_stewart_01.jpg",
+            "1919_marriage_albert_singletary_dicie_stewart_02.jpg"
         ]
     },
     {
@@ -632,7 +697,7 @@
         ],
         "date": "1920-01-28",
         "location": "Precinct No. 2, Mayo, Lafayette County, Florida, United States",
-        "description": "The 1920 United States Census records George W. Singletary and his wife, Lela M. Singletary, living in Precinct No. 2, Mayo, Lafayette County, Florida. Their five-month-old son, Dewey, appears as \"Duie\" in the census. George's younger sisters Alice Geneva and Viola Singletary were also living in the household. The census page was enumerated on January 28 and 29, 1920.",
+        "description": "1920 United States Federal Census, Lafayette County, Florida, Enumeration District 86, sheet 15A, lines 20-24, enumerated January 28-29, 1920. George Singletary, age 24, is listed as head of household with his wife Lela M., age 17; their infant son Duie (Dewey); and George's younger sisters Alice, age 17, and Viola, age 14. The record establishes that Alice and Viola were living with their older brother by January 1920.",
         "household_members": [
             "Gorg W. Singletary - Head",
             "Lela M. Singletary - Wife",
@@ -641,11 +706,10 @@
             "Viola Singletary - Sister"
         ],
         "supports": [
-            "George William Singletary living in Lafayette County, Florida, in 1920",
-            "Lela Mae Mathis living as George William Singletary's wife",
-            "Dewey Singletary living as their five-month-old son",
-            "Alice Geneva Singletary living in George William Singletary's household as his sister",
-            "Viola Singletary living in George William Singletary's household as his sister"
+            "George William Singletary was living in Lafayette County, Florida, in January 1920.",
+            "George's household included his wife Lela M. and their infant son Dewey.",
+            "George's younger sisters Alice and Viola were living in his household in 1920.",
+            "Alice Singletary was approximately 17 years old and Viola Singletary was approximately 14 years old in January 1920."
         ],
         "documents": [
             "1920_census_george_singletary_family.jpg"
@@ -988,6 +1052,52 @@
         ]
     },
     {
+        "id": "1942-draft-registration-loyd-mccoy-singletary",
+        "type": "draft_registration",
+        "title": "1942 World War II Draft Registration Card — Loyd McCoy Singletary",
+        "people": [
+            "loyd-mccoy-singletary-1924"
+        ],
+        "date": "1943-06-30",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "World War II Selective Service registration card for Loyd McCoy Singletary, born May 19, 1924, in Mayo, Florida. The card identifies his residence as Mayo, Lafayette County, Florida, and lists Mrs. George Singletary as the person who would always know his address. Loyd identified Mr. George Singletary as his employer. The reverse describes him as approximately 5 feet 9 inches tall, weighing 115 pounds, with blue eyes, brown hair, and a dark complexion. The registrar's handwritten date reads June 30, 1942, although the recorded age of 18 is consistent with a registration in 1942. A later annotation records his discharge from the Navy on November 26, 1945.",
+        "supports": [
+            "Full name",
+            "Birth date",
+            "Birthplace",
+            "Residence",
+            "Employment",
+            "Physical description",
+            "Military discharge date"
+        ],
+        "documents": [
+            "1942_loyd_mccoy_singletary_draft_registration_front.jpg",
+            "1942_loyd_mccoy_singletary_draft_registration_back.jpg"
+        ]
+    },
+    {
+        "id": "1943-navy-muster-roll-loyd-mccoy-singletary",
+        "type": "military",
+        "title": "1943 U.S. Navy Muster Roll — USS Darby (DE-218)",
+        "people": [
+            "loyd-mccoy-singletary-1924"
+        ],
+        "date": "1943-11-15",
+        "location": "Norfolk, Virginia",
+        "description": "United States Navy muster roll, Report of Changes, page 11, for USS Darby (DE-218), dated November 1943. The record identifies Loyd McCoy Singletary as a Seaman Second Class (S2c), service number 830 32 27, who enlisted in the U.S. Navy on May 18, 1943, at Jacksonville, Florida. The muster roll documents his receipt aboard USS Darby on November 15, 1943, following transfer from the United States Naval Training Station at Norfolk, Virginia. This record establishes Loyd's assignment aboard USS Darby during World War II.",
+        "supports": [
+            "Military service",
+            "Navy enlistment date",
+            "Navy enlistment location",
+            "Military rank",
+            "Ship assignment",
+            "Date assigned aboard USS Darby"
+        ],
+        "documents": [
+            "1943_loyd_mccoy_singletary_navy_muster_roll.jpg"
+        ]
+    },
+    {
         "id": "dewey-ollie-singletary-family-1945-florida-census",
         "type": "State Census",
         "title": "1945 Florida State Census — Dewey and Ollie Singletary Family",
@@ -1013,6 +1123,50 @@
         ],
         "documents": [
             "1945_florida_census_dewey_ollie_singletary.jpg"
+        ]
+    },
+    {
+        "id": "1945-florida-census-william-levi-herrin-family",
+        "type": "Census",
+        "title": "1945 Florida State Census — William Levi Herrin Family",
+        "people": [
+            "william-levi-herrin-1892",
+            "lauretta-palmer-1898",
+            "james-talmage-herrin-1919",
+            "gladys-lucille-herrin-1924",
+            "mary-lou-herrin-1927",
+            "dorothy-herrin-1929",
+            "william-levi-herrin-1932",
+            "evelyn-herrin-1934",
+            "deloris-herrin-1942"
+        ],
+        "date": "1945",
+        "location": "Precinct 3, Mayo, Lafayette County, Florida, United States",
+        "household": "William Levi Herrin Household",
+        "household_members": [
+            "W. L. Herrin, age 52, laborer",
+            "Laura Herrin, age 46, housewife",
+            "James Herrin, age 24, Army",
+            "Gladys Herrin, age 20, laborer",
+            "Mary Lou Herrin, age 17, student",
+            "Dorothy Herrin, age 14, student",
+            "Billy Herrin, age 12, student",
+            "Evelyn Herrin, age 10, student",
+            "Deloris Herrin, age 6 (name appears as 'Dean' or similar in the original census)"
+        ],
+        "description": "The 1945 Florida State Population Census records the household of William Levi Herrin (listed as W. L. Herrin) and his wife Laura Etta Herrin, living on Route 2 near Mayo in Precinct 3, Lafayette County, Florida. Their household includes seven children: James, Gladys, Mary Lou, Dorothy, Billy, Evelyn, and Deloris. Evelyn was recorded as age 10 and attending school. The youngest child is identified through family research as Deloris Herrin, although her name appears to have been recorded differently, possibly as 'Dean,' in the original census. Immediately preceding the Herrin household is the household of Louie Singletary, brother of Dewey Singletary. Louie's household includes his wife Lessie and their young son Randall. The consecutive entries document the presence of both branches of the family in the Mayo area in 1945.",
+        "supports": [
+            "Residence of William Levi Herrin and Laura Etta Palmer in Lafayette County, Florida, in 1945",
+            "Identification of James, Gladys, Mary Lou, Dorothy, Billy, Evelyn, and Deloris as members of the William Levi Herrin household",
+            "Approximate birth years of the Herrin children",
+            "Evelyn Herrin's residence in her parents' household at age 10",
+            "School attendance of several Herrin children in 1945",
+            "James Herrin's reported Army service in 1945",
+            "Residence of Louie Singletary and his family in Lafayette County, Florida, in 1945",
+            "Consecutive enumeration of the Singletary and Herrin households"
+        ],
+        "documents": [
+            "1945_florida_census_william_levi_herrin_family.jpg"
         ]
     },
     {
@@ -1256,6 +1410,117 @@
         ]
     },
     {
+        "id": "1956-usmc-muster-roll-freddy-ray-mathis",
+        "type": "Military Record",
+        "title": "U.S. Marine Corps Muster Roll — Freddy R. Mathis, January 1956",
+        "people": [
+            "freddy-ray-mathis-1938"
+        ],
+        "date": "1956-01",
+        "location": "Marine Corps Recruit Depot Parris Island, South Carolina, United States",
+        "description": "United States Marine Corps muster roll for January 1956 identifying Freddy R. Mathis as a private assigned to recruits of the 2nd Recruit Training Battalion at Parris Island, South Carolina.",
+        "supports": [
+            "United States Marine Corps service",
+            "Rank of Private in January 1956",
+            "Assignment to the 2nd Recruit Training Battalion",
+            "Presence at Marine Corps Recruit Depot Parris Island in January 1956"
+        ],
+        "documents": [
+            "1956_freddy_mathis_usmc_muster_roll.jpg"
+        ]
+    },
+    {
+        "id": "1956-perry-city-directory-freddy-mathis",
+        "type": "City Directory",
+        "title": "1956 Perry, Florida, City Directory — Freddie R. Mathis",
+        "people": [
+            "freddy-ray-mathis-1938"
+        ],
+        "date": "1956",
+        "location": "Perry, Taylor County, Florida, United States",
+        "description": "The 1956 Perry, Florida, city directory lists Freddie R. Mathis as residing at 801 East Quail Street in Perry, Taylor County, Florida. His employment or affiliation is recorded as USMC, identifying him with the United States Marine Corps. The entry appears on page 53 of the directory.",
+        "supports": [
+            "Residence of Freddie R. Mathis at 801 East Quail Street in Perry, Florida, in 1956",
+            "United States Marine Corps affiliation of Freddie R. Mathis"
+        ],
+        "documents": [
+            "1956_freddy_mathis_perry_city_directory.jpg"
+        ]
+    },
+    {
+        "id": "1958-jacksonville-city-directory-nina-mae-singletary",
+        "type": "city_directory",
+        "title": "1958 Jacksonville City Directory — Nina Mae Singletary",
+        "people": [
+            "loyd-mccoy-singletary-1924"
+        ],
+        "date": "1958",
+        "location": "Jacksonville, Duval County, Florida",
+        "description": "The 1958 Jacksonville, Florida, city directory, page 833, lists Nina M. Singletary as a representative for Avon Home Products, residing at 3503 Penton Street. The address matches the residence recorded for her husband, Loyd McCoy Singletary, on his January 17, 1958, death certificate. The directory provides additional evidence of the family's residence in Jacksonville and documents Nina's employment with Avon Home Products in 1958.",
+        "supports": [
+            "Spouse's residence",
+            "Family residence",
+            "Spouse's occupation"
+        ],
+        "documents": [
+            "1958_loyd_and_nina_mae_singletary_jacksonville_city_directory.jpg"
+        ]
+    },
+    {
+        "id": "1958-florida-death-certificate-loyd-mccoy-singletary",
+        "type": "death_certificate",
+        "title": "1958 Florida Death Certificate — Loyd McCoy Singletary (1958)",
+        "people": [
+            "loyd-mccoy-singletary-1924"
+        ],
+        "date": "1958-01-17",
+        "location": "Jacksonville, Duval County, Florida",
+        "description": "Florida Certificate of Death No. 58-001515 records the death of Loyd McCoy Singletary on January 17, 1958, at Duval Medical Center in Jacksonville, Florida, at age 33. It identifies his birth date as May 19, 1924, his birthplace as Mayo, Florida, his father as George William Singletary, and his mother as Leila Mathis. Loyd was married and employed as a milkman for Sealtest. The certificate records World War II military service and identifies the cause of death as carcinoma of the lung with metastases. It lists burial at Airline Cemetery, with the cemetery location recorded as Perry, Florida; other evidence places Airline Baptist Church Cemetery near Mayo, Lafayette County, Florida.",
+        "supports": [
+            "Full name",
+            "Birth date",
+            "Birthplace",
+            "Death date",
+            "Place of death",
+            "Parents",
+            "Marital status",
+            "Occupation",
+            "Military service",
+            "Cause of death",
+            "Burial"
+        ],
+        "documents": [
+            "1958_loyd_mccoy_singletary_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "1958-obituary-loyd-mccoy-singletary",
+        "type": "obituary",
+        "title": "1958 Obituary of Loyd McCoy Singletary",
+        "people": [
+            "loyd-mccoy-singletary-1924"
+        ],
+        "date": "1958-01-19",
+        "location": "Jacksonville, Duval County, Florida",
+        "newspaper": "The Florida Times-Union",
+        "publication_place": "Jacksonville, Florida",
+        "page": "5",
+        "description": "Obituary published in The Florida Times-Union on January 19, 1958, announcing funeral services for Loyd McCoy Singletary, who died January 17, 1958, at age 33. The obituary identifies his widow, Nina Mae Phillips Singletary, and their four children: Fay, Derenda, Paul, and Joe. It also identifies his father, George Singletary of Mayo, Florida, and four brothers: Louie and Vershal of Jacksonville, Dewey of Perry, and Bill of Live Oak. Three sisters are listed as Mrs. Roy Bustin of Pahokee, Mrs. Ervin Crowley of South Carolina, and Mrs. Williard Duckworth of Clearwater. Funeral services were scheduled for January 19, 1958, at Airline Baptist Church near Mayo, Florida, with burial in the adjoining cemetery.",
+        "supports": [
+            "Death date",
+            "Spouse",
+            "Children",
+            "Father",
+            "Siblings",
+            "Family residences",
+            "Funeral arrangements",
+            "Burial location"
+        ],
+        "documents": [
+            "1958_loyd_mccoy_singletary_obituary.jpg"
+        ]
+    },
+    {
         "id": "laura-etta-herrin-death-certificate",
         "type": "Death Certificate",
         "title": "1959 Death Certificate of Laura Etta Herrin",
@@ -1320,6 +1585,27 @@
         ],
         "documents": [
             "1961_arthur_singletary_parris_island_promotion.jpg"
+        ]
+    },
+    {
+        "id": "1967-freddy-mathis-obituary",
+        "type": "Obituary",
+        "title": "Obituary of Freddy Mathis — The Florida Times-Union",
+        "people": [
+            "freddy-ray-mathis-1938"
+        ],
+        "date": "1967-12-21",
+        "location": "Perry, Taylor County, Florida",
+        "description": "The obituary of Freddy Mathis, age 29, identifies his widow as Evelyn and names two sons, Connie and Ricky. It also identifies a stepdaughter, Mrs. Debra George. Freddy died on December 19, 1967. The obituary lists his parents as Mr. and Mrs. E. R. Mathis and names five brothers and three sisters. Funeral services were scheduled for December 21, 1967, with burial at Woodlawn Cemetery.",
+        "supports": [
+            "Death of Freddy Mathis on December 19, 1967",
+            "Marriage of Freddy Mathis and Evelyn Herrin",
+            "Identification of Connie and Ricky as Freddy Mathis's sons",
+            "Identification of Debra George as Freddy Mathis's stepdaughter",
+            "Identification of Freddy Mathis's parents and siblings"
+        ],
+        "documents": [
+            "1967_freddy_mathis_obituary.png"
         ]
     },
     {
@@ -1731,274 +2017,5 @@
         "documents": [
             "pioneer_williams_families_georgia_page_15.jpg"
         ]
-    },
-    {
-    "id": "1821-land-lottery-herron-herron-orphans",
-    "type": "Land",
-    "title": "1821 Georgia Land Lottery — Herron Herron's Orphans",
-    "people": [
-        "heron-herrin-1770"
-    ],
-    "date": "1821-11-28",
-    "location": "Slaughters District, Wayne County, Georgia",
-    "description": "The Georgia Land Lottery Register records 'Herron Herron's orps' among the fortunate drawers on November 28, 1821. The entry identifies Lot 175 in the 10th Land District of Houston County, Georgia. This contemporary record establishes that children identified as orphans of Herron Herron received a land lottery allotment. It corresponds with family research concerning Heron Herrin (1770–1817), although the children are not individually named.",
-    "supports": [
-        "Existence of children identified as orphans of Herron Herron by 1821",
-        "Association of Herron Herron's orphans with Slaughters District, Wayne County, Georgia",
-        "Award of Lot 175, 10th District, Houston County, Georgia",
-        "Research lead for identifying Heron Herrin's children through subsequent land transactions"
-    ],
-    "documents": [
-        "1821_land_lottery_herron_herron_orphans.png"
-    ]
-},
-{
-    "id": "1945-florida-census-william-levi-herrin-family",
-    "type": "Census",
-    "title": "1945 Florida State Census — William Levi Herrin Family",
-    "people": [
-        "william-levi-herrin-1892",
-        "lauretta-palmer-1898",
-        "james-talmage-herrin-1919",
-        "gladys-lucille-herrin-1924",
-        "mary-lou-herrin-1927",
-        "dorothy-herrin-1929",
-        "william-levi-herrin-1932",
-        "evelyn-herrin-1934",
-        "deloris-herrin-1942"
-    ],
-    "date": "1945",
-    "location": "Precinct 3, Mayo, Lafayette County, Florida, United States",
-    "household": "William Levi Herrin Household",
-    "household_members": [
-        "W. L. Herrin, age 52, laborer",
-        "Laura Herrin, age 46, housewife",
-        "James Herrin, age 24, Army",
-        "Gladys Herrin, age 20, laborer",
-        "Mary Lou Herrin, age 17, student",
-        "Dorothy Herrin, age 14, student",
-        "Billy Herrin, age 12, student",
-        "Evelyn Herrin, age 10, student",
-        "Deloris Herrin, age 6 (name appears as 'Dean' or similar in the original census)"
-    ],
-    "description": "The 1945 Florida State Population Census records the household of William Levi Herrin (listed as W. L. Herrin) and his wife Laura Etta Herrin, living on Route 2 near Mayo in Precinct 3, Lafayette County, Florida. Their household includes seven children: James, Gladys, Mary Lou, Dorothy, Billy, Evelyn, and Deloris. Evelyn was recorded as age 10 and attending school. The youngest child is identified through family research as Deloris Herrin, although her name appears to have been recorded differently, possibly as 'Dean,' in the original census. Immediately preceding the Herrin household is the household of Louie Singletary, brother of Dewey Singletary. Louie's household includes his wife Lessie and their young son Randall. The consecutive entries document the presence of both branches of the family in the Mayo area in 1945.",
-    "supports": [
-        "Residence of William Levi Herrin and Laura Etta Palmer in Lafayette County, Florida, in 1945",
-        "Identification of James, Gladys, Mary Lou, Dorothy, Billy, Evelyn, and Deloris as members of the William Levi Herrin household",
-        "Approximate birth years of the Herrin children",
-        "Evelyn Herrin's residence in her parents' household at age 10",
-        "School attendance of several Herrin children in 1945",
-        "James Herrin's reported Army service in 1945",
-        "Residence of Louie Singletary and his family in Lafayette County, Florida, in 1945",
-        "Consecutive enumeration of the Singletary and Herrin households"
-    ],
-    "documents": [
-        "1945_florida_census_william_levi_herrin_family.jpg"
-    ]
-},
-{
-    "id": "1967-freddy-mathis-obituary",
-    "type": "Obituary",
-    "title": "Obituary of Freddy Mathis — The Florida Times-Union",
-    "people": [
-        "freddy-ray-mathis-1938"
-    ],
-    "date": "1967-12-21",
-    "location": "Perry, Taylor County, Florida",
-    "description": "The obituary of Freddy Mathis, age 29, identifies his widow as Evelyn and names two sons, Connie and Ricky. It also identifies a stepdaughter, Mrs. Debra George. Freddy died on December 19, 1967. The obituary lists his parents as Mr. and Mrs. E. R. Mathis and names five brothers and three sisters. Funeral services were scheduled for December 21, 1967, with burial at Woodlawn Cemetery.",
-    "supports": [
-        "Death of Freddy Mathis on December 19, 1967",
-        "Marriage of Freddy Mathis and Evelyn Herrin",
-        "Identification of Connie and Ricky as Freddy Mathis's sons",
-        "Identification of Debra George as Freddy Mathis's stepdaughter",
-        "Identification of Freddy Mathis's parents and siblings"
-    ],
-    "documents": [
-        "1967_freddy_mathis_obituary.png"
-    ]
-},
-{
-    "id": "1956-usmc-muster-roll-freddy-ray-mathis",
-    "type": "Military Record",
-    "title": "U.S. Marine Corps Muster Roll — Freddy R. Mathis, January 1956",
-    "people": [
-        "freddy-ray-mathis-1938"
-    ],
-    "date": "1956-01",
-    "location": "Marine Corps Recruit Depot Parris Island, South Carolina, United States",
-    "description": "United States Marine Corps muster roll for January 1956 identifying Freddy R. Mathis as a private assigned to recruits of the 2nd Recruit Training Battalion at Parris Island, South Carolina.",
-    "supports": [
-        "United States Marine Corps service",
-        "Rank of Private in January 1956",
-        "Assignment to the 2nd Recruit Training Battalion",
-        "Presence at Marine Corps Recruit Depot Parris Island in January 1956"
-    ],
-    "documents": [
-        "1956_freddy_mathis_usmc_muster_roll.jpg"
-    ]
-},
-{
-    "id": "1956-perry-city-directory-freddy-mathis",
-    "type": "City Directory",
-    "title": "1956 Perry, Florida, City Directory — Freddie R. Mathis",
-    "people": [
-        "freddy-ray-mathis-1938"
-    ],
-    "date": "1956",
-    "location": "Perry, Taylor County, Florida, United States",
-    "description": "The 1956 Perry, Florida, city directory lists Freddie R. Mathis as residing at 801 East Quail Street in Perry, Taylor County, Florida. His employment or affiliation is recorded as USMC, identifying him with the United States Marine Corps. The entry appears on page 53 of the directory.",
-    "supports": [
-        "Residence of Freddie R. Mathis at 801 East Quail Street in Perry, Florida, in 1956",
-        "United States Marine Corps affiliation of Freddie R. Mathis"
-    ],
-    "documents": [
-        "1956_freddy_mathis_perry_city_directory.jpg"
-    ]
-},
-{
-    "id": "1958-florida-death-certificate-loyd-mccoy-singletary",
-    "type": "death_certificate",
-    "title": "1958 Florida Death Certificate — Loyd McCoy Singletary (1958)",
-    "people": [
-        "loyd-mccoy-singletary-1924"
-    ],
-    "date": "1958-01-17",
-    "location": "Jacksonville, Duval County, Florida",
-    "description": "Florida Certificate of Death No. 58-001515 records the death of Loyd McCoy Singletary on January 17, 1958, at Duval Medical Center in Jacksonville, Florida, at age 33. It identifies his birth date as May 19, 1924, his birthplace as Mayo, Florida, his father as George William Singletary, and his mother as Leila Mathis. Loyd was married and employed as a milkman for Sealtest. The certificate records World War II military service and identifies the cause of death as carcinoma of the lung with metastases. It lists burial at Airline Cemetery, with the cemetery location recorded as Perry, Florida; other evidence places Airline Baptist Church Cemetery near Mayo, Lafayette County, Florida.",
-    "supports": [
-        "Full name",
-        "Birth date",
-        "Birthplace",
-        "Death date",
-        "Place of death",
-        "Parents",
-        "Marital status",
-        "Occupation",
-        "Military service",
-        "Cause of death",
-        "Burial"
-    ],
-    "documents": [
-        "1958_loyd_mccoy_singletary_death_certificate.jpg"
-    ]
-},
-{
-    "id": "1958-obituary-loyd-mccoy-singletary",
-    "type": "obituary",
-    "title": "1958 Obituary of Loyd McCoy Singletary",
-    "people": [
-        "loyd-mccoy-singletary-1924"
-    ],
-    "date": "1958-01-19",
-    "location": "Jacksonville, Duval County, Florida",
-    "newspaper": "The Florida Times-Union",
-    "publication_place": "Jacksonville, Florida",
-    "page": "5",
-    "description": "Obituary published in The Florida Times-Union on January 19, 1958, announcing funeral services for Loyd McCoy Singletary, who died January 17, 1958, at age 33. The obituary identifies his widow, Nina Mae Phillips Singletary, and their four children: Fay, Derenda, Paul, and Joe. It also identifies his father, George Singletary of Mayo, Florida, and four brothers: Louie and Vershal of Jacksonville, Dewey of Perry, and Bill of Live Oak. Three sisters are listed as Mrs. Roy Bustin of Pahokee, Mrs. Ervin Crowley of South Carolina, and Mrs. Williard Duckworth of Clearwater. Funeral services were scheduled for January 19, 1958, at Airline Baptist Church near Mayo, Florida, with burial in the adjoining cemetery.",
-    "supports": [
-        "Death date",
-        "Spouse",
-        "Children",
-        "Father",
-        "Siblings",
-        "Family residences",
-        "Funeral arrangements",
-        "Burial location"
-    ],
-    "documents": [
-        "1958_loyd_mccoy_singletary_obituary.jpg"
-    ]
-},
-{
-    "id": "1958-jacksonville-city-directory-nina-mae-singletary",
-    "type": "city_directory",
-    "title": "1958 Jacksonville City Directory — Nina Mae Singletary",
-    "people": [
-        "loyd-mccoy-singletary-1924"
-    ],
-    "date": "1958",
-    "location": "Jacksonville, Duval County, Florida",
-    "description": "The 1958 Jacksonville, Florida, city directory, page 833, lists Nina M. Singletary as a representative for Avon Home Products, residing at 3503 Penton Street. The address matches the residence recorded for her husband, Loyd McCoy Singletary, on his January 17, 1958, death certificate. The directory provides additional evidence of the family's residence in Jacksonville and documents Nina's employment with Avon Home Products in 1958.",
-    "supports": [
-        "Spouse's residence",
-        "Family residence",
-        "Spouse's occupation"
-    ],
-    "documents": [
-        "1958_loyd_and_nina_mae_singletary_jacksonville_city_directory.jpg"
-    ]
-},
-{
-    "id": "1942-draft-registration-loyd-mccoy-singletary",
-    "type": "draft_registration",
-    "title": "1942 World War II Draft Registration Card — Loyd McCoy Singletary",
-    "people": [
-        "loyd-mccoy-singletary-1924"
-    ],
-    "date": "1943-06-30",
-    "location": "Mayo, Lafayette County, Florida",
-    "description": "World War II Selective Service registration card for Loyd McCoy Singletary, born May 19, 1924, in Mayo, Florida. The card identifies his residence as Mayo, Lafayette County, Florida, and lists Mrs. George Singletary as the person who would always know his address. Loyd identified Mr. George Singletary as his employer. The reverse describes him as approximately 5 feet 9 inches tall, weighing 115 pounds, with blue eyes, brown hair, and a dark complexion. The registrar's handwritten date reads June 30, 1942, although the recorded age of 18 is consistent with a registration in 1942. A later annotation records his discharge from the Navy on November 26, 1945.",
-    "supports": [
-        "Full name",
-        "Birth date",
-        "Birthplace",
-        "Residence",
-        "Employment",
-        "Physical description",
-        "Military discharge date"
-    ],
-    "documents": [
-        "1942_loyd_mccoy_singletary_draft_registration_front.jpg",
-        "1942_loyd_mccoy_singletary_draft_registration_back.jpg"
-    ]
-}, 
-{
-    "id": "1943-navy-muster-roll-loyd-mccoy-singletary",
-    "type": "military",
-    "title": "1943 U.S. Navy Muster Roll — USS Darby (DE-218)",
-    "people": [
-        "loyd-mccoy-singletary-1924"
-    ],
-    "date": "1943-11-15",
-    "location": "Norfolk, Virginia",
-    "description": "United States Navy muster roll, Report of Changes, page 11, for USS Darby (DE-218), dated November 1943. The record identifies Loyd McCoy Singletary as a Seaman Second Class (S2c), service number 830 32 27, who enlisted in the U.S. Navy on May 18, 1943, at Jacksonville, Florida. The muster roll documents his receipt aboard USS Darby on November 15, 1943, following transfer from the United States Naval Training Station at Norfolk, Virginia. This record establishes Loyd's assignment aboard USS Darby during World War II.",
-    "supports": [
-        "Military service",
-        "Navy enlistment date",
-        "Navy enlistment location",
-        "Military rank",
-        "Ship assignment",
-        "Date assigned aboard USS Darby"
-    ],
-    "documents": [
-        "1943_loyd_mccoy_singletary_navy_muster_roll.jpg"
-    ]
-},
-{
-    "id": "1880-census-dolly-bryant",
-    "type": "census",
-    "title": "1880 United States Federal Census — Dolly Bryant Household",
-    "people": [
-        "dolly-ann-leslie-1834",
-        "myram-bryant-1860",
-        "alec-bryant-1869",
-        "hattie-bryant-1873",
-        "mary-bryant-1875"
-    ],
-    "date": "1880",
-    "location": "Columbia County, Florida",
-    "description": "1880 United States Federal Census, Columbia County, Florida, Enumeration District 67, page 21 (stamped page 395), lines 41–45. The household is headed by Dolly Bryant, age 40, and includes her children Myram, age 20, Alec, age 11, Hattie, age 7, and Mary, age 5. Family research identifies Dolly as Dolly Ann Leslie, widow of John Waters Bryant, who died in 1878. The census documents the Bryant family's residence in Columbia County, Florida, and places Mary Eveline Bryant's approximate birth year around 1874–1875.",
-    "supports": [
-        "Residence in 1880",
-        "Approximate birth year",
-        "Birthplace",
-        "Mother",
-        "Siblings",
-        "Household composition"
-    ],
-    "documents": [
-        "1880_dolly_bryant_federal_census.jpg"
-    ]
-}
-
+    }
 ]
