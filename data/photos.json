@@ -687,6 +687,18 @@
     "location": "Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida",
     "description": "The gravestone commemorates Loyd McCoy Singletary's service in the United States Naval Reserve during World War II. The inscription reads: LOYD MCCOY SINGLETARY / FLORIDA / S1 USNR / WORLD WAR II / MAY 19 1924 / JAN 17 1958.",
     "file": "loyd_mccoy_singletary_gravestone.jpg"
+},
+{
+    "id": "james-loyd-singletary-gravestone",
+    "type": "grave",
+    "people": [
+        "james-loyd-singletary-1955"
+    ],
+    "title": "Gravestone of James Loyd Singletary",
+    "caption": "Gravestone of James Loyd Singletary, born and died September 25, 1955. Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida.",
+    "date": "1955-09-25",
+    "location": "Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida",
+    "description": "James Loyd Singletary was born on September 25, 1955, in Lafayette County, Florida, and died the same day. His gravestone bears the inscription JAMES L. SINGLETARY / BORN & DIED / SEPT. 25, 1955. He is buried at Airline Baptist Church Cemetery near Mayo, Florida.",
+    "file": "james_loyd_singletary_gravestone.jpg"
 }
-
 ]

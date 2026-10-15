@@ -906,6 +906,7 @@
 {
     "id": "mary-bryant-1875",
     "first_name": "Mary",
+    "middle_name": "Evline",
     "last_name": "Bryant",
     "display_name": "Mary Bryant",
     "family_lines": ["singletary"],
@@ -914,10 +915,17 @@
     "mother": "dolly-ann-leslie-1834",
     "spouses": ["john-vershal-singletary-1851"],
     "biography": [
-        "Mary Bryant was born in May 1875. Her surname also appears as Bryan in family research records.",
-        "Mary was the wife of John Vershal Singletary and the mother of George William Singletary. Her family lived in North Florida during the late nineteenth and early twentieth centuries.",
-        "John Vershal Singletary and Mary Evline Bryant Singletary are buried at Bethel Creek Baptist Church Cemetery, formerly known as Bell's Mill Creek Cemetery, in Day, Lafayette County, Florida. Their shared headstone was installed in 2011 by their great-grandson, Arthur Singletary. The death dates inscribed on the marker reflect family research and have not been independently verified."
-    ]
+        "Mary Evline Bryant was born in May 1875 in Florida, the daughter of John Waters Bryan (1829–1878) and Dolly Ann Leslie (born 1834). Her surname appears as both Bryan and Bryant in historical and family research records. Her middle name is inscribed as Evline on her gravestone, although the spelling has not been independently confirmed by a contemporary record.",
+        "Mary was the youngest of six known children. Her siblings were John Bryant (1854–1928), Amanda M. Bryan (born 1856), Myram D. Bryan (1859–1916), Alexander Eugene Bryan (1869–1901), and Hattie Bryan (1871–1885). Her father died in 1878, when Mary was approximately three years old.",
+        "In the 1880 United States Federal Census, five-year-old Mary was living in Columbia County, Florida, with her widowed mother, Dolly Bryant, and siblings Myram, Alexander, and Hattie. The census provides an early record of Mary's childhood and the family's circumstances following her father's death.",
+        "On February 4, 1890, Mary Bryant married John V. Singletary in Lafayette County, Florida. Their marriage license was issued on February 3, 1890, and the ceremony was performed by Rev. A. T. Wood. The marriage was recorded on March 3, 1890, in Lafayette County Marriage Record Book B, page 422. Mary was fourteen years old at the time of her marriage.",
+        "Mary and John established their family in Lafayette County, Florida, where John worked as a farmer. Their six known children were Jessie Von Singletary (born 1891), Annie Evaline Singletary (1893–1951), George William Singletary Sr. (1895–1964), Albert Eugene Singletary (1899–1928), Alice Geneva Singletary (1904–1928), and Viola Singletary (1906–1987). Family research suggests that Jessie died young, possibly during the 1910s, although his death date remains unverified.",
+        "The 1900 United States Federal Census recorded John and Mary living in Lafayette County with their four oldest children: Jessie, Annie, George, and Albert. Mary was recorded as twenty-five years old, born in May 1875. The couple reported ten years of marriage, and Mary reported having given birth to four children, all four of whom were living.",
+        "By the 1910 United States Federal Census, John and Mary's household included Annie, George, Albert, Alice, and Viola. Jessie, then approximately eighteen or nineteen years old, was no longer living in the household. Mary reported having given birth to six children, all six of whom were living. John continued to work as a farmer in Lafayette County.",
+        "Mary and John were both living when the 1910 census was recorded. Their exact death dates have not been independently verified. Neither has yet been positively identified in the 1920 census records examined during this research.",
+        "Mary Evline Bryant Singletary and John Vershal Singletary are buried at Bethel Creek Baptist Church Cemetery, formerly known as Bell's Mill Creek Cemetery, in Day, Lafayette County, Florida. Their original grave markers remain at the cemetery.",
+        "In 2011, their great-grandson Arthur Singletary installed an additional shared headstone commemorating John and Mary. The death dates inscribed on the newer marker reflect family research and have not been independently verified. Their original grave markers, along with the original marker of their son Jessie Von Singletary, provide additional evidence of the family's burial history."
+]
 },
 {
     "id": "jessie-singletary-1891",
@@ -930,14 +938,13 @@
     "mother": "mary-bryant-1875",
     "spouses": [],
     "biography": [
-        "Jessie Singletary was born in March 1891 in Florida, according to the 1900 United States Federal Census. He was the son of John V. Singletary and Mary Bryant Singletary.",
-        "In 1900, Jessie was living with his parents and siblings in Lafayette County, Florida.",
-        "Jessie does not appear in his parents' household in the 1910 Federal Census. Family research suggests that he may have died young, possibly around the time of his parents' deaths, but no death record has yet been located to establish when or where he died."
+        "Jessie Von Singletary was born in 1891, the eldest known child of John Vershal Singletary and Mary Evline Bryant. He appeared with his parents in the 1900 United States Federal Census in Lafayette County, Florida. Jessie was no longer living in his parents' household in 1910 and has not been positively identified in subsequent records. He is buried at Bethel Creek Baptist Church Cemetery in Day, Lafayette County, Florida, where his apparently original gravestone is similar in appearance to the original markers of his parents. Family research suggests that Jessie died young, possibly between 1910 and 1920, although his exact death date has not been established.  "
     ]
 },
 {
     "id": "annie-singletary-1893",
     "first_name": "Annie",
+    "middle_name": "Evaline",
     "last_name": "Singletary",
     "display_name": "Annie Singletary",
     "family_lines": ["singletary"],
@@ -1849,6 +1856,69 @@
         "Loyd died on January 17, 1958, at Duval Medical Center in Jacksonville, Florida. His death certificate identifies the cause as carcinoma of the lung with metastases. He was only 33 years old.",
         "His funeral was held on January 19, 1958, at Airline Baptist Church near Mayo, Florida, with arrangements handled by Joe P. Burns Funeral Home. He was buried in the adjoining Airline Baptist Church Cemetery in Lafayette County, Florida.",
         "Loyd's military gravestone commemorates his service during World War II with the inscription S1 USNR, identifying him as a Seaman First Class in the United States Naval Reserve. His obituary appeared in The Florida Times-Union on January 19, 1958."
+    ]
+},
+{
+    "id": "myram-bryant-1860",
+    "first_name": "Myram",
+    "middle_name": "",
+    "last_name": "Bryant",
+    "display_name": "Myram Bryant",
+    "family_lines": ["singletary"],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1860,
+    "birth_place": null,
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "john-waters-bryan-1829",
+    "mother": "dolly-ann-leslie-1834",
+    "spouses": [],
+    "biography": [
+        "Myram Bryant was born around 1860. In the 1880 United States Federal Census, Myram, age 20, was living with his mother, Dolly Bryant, and siblings Alec, Hattie, and Mary in Columbia County, Florida."
+    ]
+},
+{
+    "id": "alec-bryant-1869",
+    "first_name": "Alec",
+    "middle_name": "",
+    "last_name": "Bryant",
+    "display_name": "Alec Bryant",
+    "family_lines": ["singletary"],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1869,
+    "birth_place": null,
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "john-waters-bryan-1829",
+    "mother": "dolly-ann-leslie-1834",
+    "spouses": [],
+    "biography": [
+        "Alec Bryant was born around 1869. In the 1880 United States Federal Census, Alec, age 11, was living with his mother, Dolly Bryant, and siblings Myram, Hattie, and Mary in Columbia County, Florida."
+    ]
+},
+{
+    "id": "hattie-bryant-1873",
+    "first_name": "Hattie",
+    "middle_name": "",
+    "last_name": "Bryant",
+    "display_name": "Hattie Bryant",
+    "family_lines": ["singletary"],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1873,
+    "birth_place": null,
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "john-waters-bryan-1829",
+    "mother": "dolly-ann-leslie-1834",
+    "spouses": [],
+    "biography": [
+        "Hattie Bryant was born around 1873. In the 1880 United States Federal Census, Hattie, age 7, was living with her mother, Dolly Bryant, and siblings Myram, Alec, and Mary in Columbia County, Florida."
     ]
 }
 ]

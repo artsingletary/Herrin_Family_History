@@ -146,7 +146,7 @@
         ]
     },
     {
-        "id": "1867-voter-registration-john-williams",
+        "id": "1867-voter-registra/]]ion-john-williams",
         "type": "Voter Registration",
         "title": "1867 Georgia Reconstruction Voter Registration — John Williams",
         "people": [
@@ -1243,7 +1243,7 @@
         ],
         "date": "1955",
         "location": "Tallahassee, Leon County, Florida, United States",
-        "description": "Florida Certificate of Stillbirth for James Loyd Singletary, son of Dewey Singletary and Ollie Mae Herrin. The certificate records the stillbirth at Tallahassee Memorial Hospital in Leon County, Florida, in September 1955. The exact date on the surviving certificate is difficult to read and appears to be September 24, while James Loyd's grave marker at Woodlawn Cemetery gives September 25, 1955.",
+        "description": "Florida Certificate of Stillbirth for James Loyd Singletary, son of Dewey Singletary and Ollie Mae Herrin. The certificate records the stillbirth at Tallahassee Memorial Hospital in Leon County, Florida, in September 1955. The exact date on the surviving certificate is difficult to read and appears to be September 24, while James Loyd's grave marker at Airline Baptist Church Cemetery in Mayo, Florida gives September 25, 1955.",
         "supports": [
             "James Loyd Singletary as the son of Dewey Singletary and Ollie Mae Herrin",
             "James Loyd Singletary's stillbirth in September 1955",
@@ -1951,5 +1951,54 @@
         "1942_loyd_mccoy_singletary_draft_registration_front.jpg",
         "1942_loyd_mccoy_singletary_draft_registration_back.jpg"
     ]
+}, 
+{
+    "id": "1943-navy-muster-roll-loyd-mccoy-singletary",
+    "type": "military",
+    "title": "1943 U.S. Navy Muster Roll — USS Darby (DE-218)",
+    "people": [
+        "loyd-mccoy-singletary-1924"
+    ],
+    "date": "1943-11-15",
+    "location": "Norfolk, Virginia",
+    "description": "United States Navy muster roll, Report of Changes, page 11, for USS Darby (DE-218), dated November 1943. The record identifies Loyd McCoy Singletary as a Seaman Second Class (S2c), service number 830 32 27, who enlisted in the U.S. Navy on May 18, 1943, at Jacksonville, Florida. The muster roll documents his receipt aboard USS Darby on November 15, 1943, following transfer from the United States Naval Training Station at Norfolk, Virginia. This record establishes Loyd's assignment aboard USS Darby during World War II.",
+    "supports": [
+        "Military service",
+        "Navy enlistment date",
+        "Navy enlistment location",
+        "Military rank",
+        "Ship assignment",
+        "Date assigned aboard USS Darby"
+    ],
+    "documents": [
+        "1943_loyd_mccoy_singletary_navy_muster_roll.jpg"
+    ]
+},
+{
+    "id": "1880-census-dolly-bryant",
+    "type": "census",
+    "title": "1880 United States Federal Census — Dolly Bryant Household",
+    "people": [
+        "dolly-ann-leslie-1834",
+        "myram-bryant-1860",
+        "alec-bryant-1869",
+        "hattie-bryant-1873",
+        "mary-bryant-1875"
+    ],
+    "date": "1880",
+    "location": "Columbia County, Florida",
+    "description": "1880 United States Federal Census, Columbia County, Florida, Enumeration District 67, page 21 (stamped page 395), lines 41–45. The household is headed by Dolly Bryant, age 40, and includes her children Myram, age 20, Alec, age 11, Hattie, age 7, and Mary, age 5. Family research identifies Dolly as Dolly Ann Leslie, widow of John Waters Bryant, who died in 1878. The census documents the Bryant family's residence in Columbia County, Florida, and places Mary Eveline Bryant's approximate birth year around 1874–1875.",
+    "supports": [
+        "Residence in 1880",
+        "Approximate birth year",
+        "Birthplace",
+        "Mother",
+        "Siblings",
+        "Household composition"
+    ],
+    "documents": [
+        "1880_dolly_bryant_federal_census.jpg"
+    ]
 }
+
 ]
