@@ -700,5 +700,18 @@
     "location": "Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida",
     "description": "James Loyd Singletary was born on September 25, 1955, in Lafayette County, Florida, and died the same day. His gravestone bears the inscription JAMES L. SINGLETARY / BORN & DIED / SEPT. 25, 1955. He is buried at Airline Baptist Church Cemetery near Mayo, Florida.",
     "file": "james_loyd_singletary_gravestone.jpg"
+},
+{
+  "id": "eliza-singletary-gravestone",
+  "type": "grave",
+  "people": [
+    "eliza-singletary"
+  ],
+  "title": "Gravestone of Eliza L. Singletary",
+  "caption": "Gravestone of Eliza L. Singletary at Bell's Mill Creek Cemetery (now Bethel Creek Baptist Church Cemetery), Day, Lafayette County, Florida.",
+  "date": null,
+  "location": "Bethel Creek Baptist Church Cemetery, Day, Lafayette County, Florida",
+  "description": "Photograph of the gravestone of Eliza L. Singletary at Bethel Creek Baptist Church Cemetery, formerly Bell's Mill Creek Cemetery, in Day, Lafayette County, Florida. The inscription reads: 'ELIZA L. SINGLETARY / MOTHER OF / J. A. SINGLETARY / AT REST.' Family research identifies J. A. as Jacob A. Singletary, who is buried nearby with his wife, Ida Alla Miller. A Florida marriage record documents the marriage of Jacob A. Singletary and Ida Alla Miller on April 16, 1890, in Lafayette County. The gravestone contains no birth or death dates.",
+  "file": "eliza_l_singletary_gravestone.jpg"
 }
 ]
