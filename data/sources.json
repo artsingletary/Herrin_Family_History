@@ -2127,5 +2127,43 @@
   "documents": [
     "1935_rachel_griffin_singletary_death_certificate.jpg"
   ]
+},
+{
+  "id": "civil-war-service-sp-singletary",
+  "type": "military",
+  "title": "Civil War Confederate Military Service — S. P. Singletary, 59th Georgia Infantry",
+  "people": [
+    "silas-p-singletary-1835"
+  ],
+  "date": "",
+  "location": "Georgia",
+  "description": "National Archives, Index to Compiled Service Records of Confederate Soldiers Who Served in Organizations From the State of Georgia, publication M226. The index identifies S. P. Singletary as a private in Company A, 59th Regiment, Georgia Infantry. A Confederate widow's pension application filed by Rachel Singletary in Thomas County, Georgia, in 1916 provides additional evidence connecting the soldier to Silas P. Singletary, husband of Rachel Griffin. The original compiled military service records have not yet been examined.",
+  "supports": [
+    "Confederate military service of S. P. Singletary",
+    "Military rank of private",
+    "Service in Company A, 59th Georgia Infantry",
+    "Probable identification of the soldier as Silas P. Singletary"
+  ],
+  "documents": ["1916_rachel_griffin_singletary_confederate_pension.pdf"]
+},
+{
+  "id": "1916-confederate-pension-rachel-singletary",
+  "type": "pension",
+  "title": "1916 Confederate Widow's Pension Application — Rachel Griffin Singletary",
+  "people": [
+    "rachel-griffin-1850",
+    "silas-p-singletary-1835"
+  ],
+  "date": "1916-08-10",
+  "location": "Thomas County, Georgia",
+  "description": "Georgia Archives, Virtual Vault, Confederate Pension Applications, widow's pension application of Rachel Singletary, 1916. The original application identifies Rachel as the widow of S. P. Singletary and contains sworn statements concerning their marriage and his death. The application provides evidence connecting S. P. Singletary to Rachel Griffin, who married Simon P. Singletary in Decatur County, Georgia, on October 14, 1869. The file also contains a handwritten statement concerning differing recollections of the marriage. The original county marriage register independently documents the marriage date. Original pension documents: https://vault.georgiaarchives.org/digital/collection/TestApps/id/340053/rec/20. FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:W1QX-NKMM.",
+  "supports": [
+    "Rachel Singletary's application for a Confederate widow's pension in 1916",
+    "Identification of Rachel as the widow of S. P. Singletary",
+    "Connection between S. P. Singletary and Rachel Griffin",
+    "Additional evidence supporting the identification of S. P. Singletary as Silas P. Singletary",
+    "Historical testimony concerning the marriage and death of S. P. Singletary"
+  ],
+  "documents": []
 }
 ]
