@@ -2093,11 +2093,21 @@
   "father": "jacob-singletary-1801",
   "mother": "eliza-singletary",
   "spouses": ["rachel-griffin-1850"],
+  "military_service": [
+  {
+    "branch": "Confederate States Army",
+    "conflict": "American Civil War",
+    "rank": "Private",
+    "unit": "Company A, 59th Georgia Infantry Regiment",
+    "enlistment_date": null,
+    "discharge_date": null
+  }
+],
   "biography": [
     "Silas P. Singletary was born in South Carolina, probably in March 1835. Both the 1900 United States Federal Census and a burial record report his birth as March 1835. However, federal census records from 1850, 1860, and 1870 consistently suggest a birth around 1839. His exact birth date has not been conclusively established.",
     "In 1850, Silas was living in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. The federal census recorded him as eleven years old.",
     "By 1860, Silas had moved with the Singletary household to Decatur County, Georgia. The census recorded him as twenty-one years old and born in South Carolina. The household included Jacob, Eliza, and several younger family members.",
-    "During the American Civil War, Silas P. Singletary served in the Confederate Army. Military service records identify an S. P. Singletary as a private in Company A of the 59th Georgia Infantry. A later Confederate widow's pension application filed by Rachel Singletary provides additional evidence connecting this soldier to her husband.",
+    "During the American Civil War, Silas P. Singletary served in the Confederate Army. The National Archives' Index to Compiled Service Records of Confederate Soldiers from Georgia (publication M226) identifies an S. P. Singletary as a private in Company A of the 59th Georgia Infantry. His exact dates of military service have not been established. A Confederate widow's pension application filed by Rachel Griffin Singletary in Thomas County, Georgia, in 1916 provides additional evidence connecting this soldier to her husband, Silas P. Singletary. The original compiled military service records have not yet been examined.",
     "On October 14, 1869, Silas married Rachel Griffin in Decatur County, Georgia. The original county marriage register records the groom's name as Simon P. Singletary, indicating that he may also have been known by that name. The marriage was performed by J. W. Oliver, a minister of the gospel. Rachel's later Confederate widow's pension application also identifies her husband as S. P. Singletary and reports their marriage in October 1869.",
     "In 1870, Silas remained in Decatur County, Georgia, where he was enumerated in the household of Jacob Singletary. He was recorded as thirty-one years old. Rachel Griffin, whom he had married the previous year, was also recorded in the household.",
     "By June 1900, Silas was living in Thomas County, Georgia, with his wife Rachel and four children: Emma P., Mary, Robert, and Dollie. The census recorded his birth as March 1835, consistent with the information reported in his burial record.",
@@ -2132,5 +2142,31 @@
     "Rachel died on June 28, 1935, in Ochlocknee, Thomas County, Georgia. Her Georgia death certificate records her age as ninety-five, suggesting a birth around 1840. However, the 1850 federal census recorded her as five months old, suggesting a birth around March 1850. The earlier census provides stronger evidence for her approximate birth year, although the discrepancy remains unresolved.",
     "Rachel's death certificate identifies her father as John Griffin and records a mother's maiden name that has not yet been conclusively deciphered. The certificate lists chronic nephritis and senility among the causes of death. Rachel was buried on June 29, 1935, at Springhill Cemetery near Ochlocknee, Georgia."
   ]
+},
+{
+  "id": "sarah-r-singletary-1840",
+  "first_name": "Sarah",
+  "middle_name": "R.",
+  "last_name": "Singletary",
+  "display_name": "Sarah R. Singletary Johnson",
+  "family_lines": ["singletary"],
+  "profile_photo": null,
+  "birth_date": null,
+  "birth_year": 1840,
+  "birth_place": "South Carolina",
+  "death_date": "1907-10-31",
+  "death_year": 1907,
+  "death_place": "Day, Lafayette County, Florida",
+  "father": "jacob-singletary-1801",
+  "mother": "eliza-singletary",
+  "spouses": [],
+  "biography": [
+    "Sarah R. Singletary was born in South Carolina around 1840. She was enumerated in the 1850 United States Federal Census in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. The census recorded her as ten years old.",
+    "By 1860, Sarah had moved with the Singletary household to Decatur County, Georgia. The federal census recorded her as nineteen years old.",
+    "In 1870, Sarah was enumerated in District 720 of Decatur County, Georgia, in the household of Jacob Singletary. The census recorded her name as Sarah A. Singletarry, age twenty-five, born in South Carolina. Earlier census records identified her as Sarah R. Singletary. The variation in her middle initial remains unresolved, although her 1890 marriage record later identified her as S. R. A. Singletary.",
+    "On January 30, 1890, Sarah married William Johnson in Lafayette County, Florida. Their marriage license was issued on January 28, and the ceremony was performed by Elder J. A. Singletary, believed to be Sarah's brother, Reverend Jacob A. Singletary. The marriage was officially recorded on February 3, 1890. The original marriage record identifies the bride as Miss S. R. A. Singletary, providing additional evidence of her middle initials. Although she is identified as Sarah Ann Singletary in FamilySearch, her full middle names have not yet been independently established.",
+    "In 1900, Sarah was living in Lafayette County, Florida, with her husband, William Johnson. The federal census recorded her birth as March 1840 and her age as sixty. Her mother, Eliza Singletary, and sister, Mary Singletary, were also members of the household. Sarah was recorded as having given birth to no children, with none living. Interestingly, both Sarah and William were recorded as having been married for thirty years, suggesting a marriage around 1870. However, their original marriage record documents a ceremony on January 30, 1890. The reason for this discrepancy remains unresolved.",
+    "Sarah died on October 31, 1907, in Day, Lafayette County, Florida. Her death certificate records her birth year as 1840, identifies her husband as William Johnson, and gives her father's surname as Singletary. The certificate lists paralysis of the heart as the cause of death. Her husband, William Johnson, served as the informant, establishing that he was still living at the time of her death. The certificate records her burial location as Day, Florida, but does not identify a cemetery. Bethel Creek Baptist Church Cemetery, where her mother Eliza Singletary is buried, is a possible burial location, although this has not been confirmed."
+]
 }
 ]

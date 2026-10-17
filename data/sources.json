@@ -2025,7 +2025,8 @@
         "people": [
             "jacob-singletary-1801",
             "eliza-singletary",
-            "silas-p-singletary-1835"
+            "silas-p-singletary-1835",
+            "sarah-r-singletary-1840"
         ],
         "date": "1850",
         "location": "Sumter District, South Carolina",
@@ -2048,6 +2049,7 @@
     "jacob-singletary-1801",
     "eliza-singletary",
     "silas-p-singletary-1835",
+    "sarah-r-singletary-1840",
     "john-vershal-singletary-1851"
   ],
   "date": "1860",
@@ -2071,6 +2073,7 @@
     "jacob-singletary-1801",
     "eliza-singletary",
     "silas-p-singletary-1835",
+    "sarah-r-singletary-1840",
     "john-vershal-singletary-1851"
   ],
   "date": "1870",
@@ -2129,24 +2132,6 @@
   ]
 },
 {
-  "id": "civil-war-service-sp-singletary",
-  "type": "military",
-  "title": "Civil War Confederate Military Service — S. P. Singletary, 59th Georgia Infantry",
-  "people": [
-    "silas-p-singletary-1835"
-  ],
-  "date": "",
-  "location": "Georgia",
-  "description": "National Archives, Index to Compiled Service Records of Confederate Soldiers Who Served in Organizations From the State of Georgia, publication M226. The index identifies S. P. Singletary as a private in Company A, 59th Regiment, Georgia Infantry. A Confederate widow's pension application filed by Rachel Singletary in Thomas County, Georgia, in 1916 provides additional evidence connecting the soldier to Silas P. Singletary, husband of Rachel Griffin. The original compiled military service records have not yet been examined.",
-  "supports": [
-    "Confederate military service of S. P. Singletary",
-    "Military rank of private",
-    "Service in Company A, 59th Georgia Infantry",
-    "Probable identification of the soldier as Silas P. Singletary"
-  ],
-  "documents": ["1916_rachel_griffin_singletary_confederate_pension.pdf"]
-},
-{
   "id": "1916-confederate-pension-rachel-singletary",
   "type": "pension",
   "title": "1916 Confederate Widow's Pension Application — Rachel Griffin Singletary",
@@ -2164,6 +2149,71 @@
     "Additional evidence supporting the identification of S. P. Singletary as Silas P. Singletary",
     "Historical testimony concerning the marriage and death of S. P. Singletary"
   ],
-  "documents": []
+  "documents": ["1916_rachel_griffin_singletary_confederate_pension.pdf"]
+},
+{
+  "id": "1890-marriage-william-johnson-sarah-singletary",
+  "type": "marriage",
+  "title": "1890 Marriage Record of William Johnson and S. R. A. Singletary (1890)",
+  "people": [
+    "sarah-r-singletary-1840"
+  ],
+  "date": "1890-01-30",
+  "location": "Lafayette County, Florida",
+  "description": "Original marriage record from Lafayette County, Florida, page 412. A marriage license was issued on January 28, 1890, authorizing the marriage of William Johnson and Miss S. R. A. Singletary. The marriage ceremony was performed on January 30, 1890, by Elder J. A. Singletary, believed to be the bride's brother, Reverend Jacob A. Singletary. The marriage was recorded on February 3, 1890, by County Judge Redden B. Hill.",
+  "supports": [
+    "Marriage of William Johnson and S. R. A. Singletary on January 30, 1890.",
+    "Marriage license issued January 28, 1890.",
+    "Marriage ceremony performed by Elder J. A. Singletary.",
+    "Marriage recorded February 3, 1890.",
+    "Bride identified by the initials S. R. A."
+  ],
+  "documents": [
+    "1890_william_johnson_sarah_singletary_marriage.jpg"
+  ]
+},
+{
+  "id": "1900-census-william-johnson-sarah-singletary",
+  "type": "census",
+  "title": "1900 U.S. Federal Census – William and Sarah Johnson Household",
+  "people": [
+    "sarah-r-singletary-1840",
+    "eliza-singletary"
+  ],
+  "date": "1900-06",
+  "location": "Lafayette County, Florida",
+  "description": "1900 United States Federal Census, Lafayette County, Florida, lines 21–24. The household includes William Johnson, head; Sarah Johnson, wife; Mary Singletary, sister-in-law; and Eliza Singletary, mother-in-law. Sarah was recorded as born in March 1840, age sixty, and having given birth to no children, with none living. Both William and Sarah were recorded as having been married for thirty years, although their original marriage record documents a ceremony on January 30, 1890.",
+  "supports": [
+    "Sarah Johnson was born in March 1840 in South Carolina.",
+    "Sarah Johnson was married to William Johnson.",
+    "Eliza Singletary was Sarah Johnson's mother.",
+    "Mary Singletary was Sarah Johnson's sister.",
+    "Sarah reported zero children born and zero children living.",
+    "William and Sarah were both recorded as having been married for thirty years."
+  ],
+  "documents": [
+    "1900_census_william_johnson_sarah_singletary.jpg"
+  ]
+},
+{
+  "id": "1907-death-sarah-johnson",
+  "type": "death",
+  "title": "1907 Florida Death Certificate – Sarah Johnson",
+  "people": [
+    "sarah-r-singletary-1840"
+  ],
+  "date": "1907-10-31",
+  "location": "Day, Lafayette County, Florida",
+  "description": "Florida death certificate for Sarah Johnson, who died October 31, 1907, in Day, Lafayette County, Florida. The certificate records her birth year as 1840 and her birthplace as South Carolina. Her husband is identified as William Johnson, who also served as the informant. Her father's surname is recorded as Singletary, although his given name is not provided. The recorded cause of death was paralysis of the heart.",
+  "supports": [
+    "Sarah Johnson died October 31, 1907, in Day, Lafayette County, Florida.",
+    "Sarah was born in South Carolina in 1840.",
+    "Sarah's husband was William Johnson.",
+    "Sarah's father's surname was Singletary.",
+    "The recorded cause of death was paralysis of the heart."
+  ],
+  "documents": [
+    "1907_sarah_singletary_johnson_death_certificate.jpg"
+  ]
 }
 ]
