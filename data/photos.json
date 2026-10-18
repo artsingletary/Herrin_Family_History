@@ -186,7 +186,7 @@
     "id": "john-vershal-singletary-original-grave",
     "file": "john_vershal_singletary_original_headstone.jpg",
     "type": "grave",
-    "caption": "Original grave marker of John Vershal Singletary (born August 1851). Photographed in spring 2026. The inscription is heavily weathered and cannot be reliably transcribed.",
+    "caption": "Original gravestone of John Vershal Singletary. The weathered inscription appears to record his birth year as 1859. A cemetery survey conducted in May 1968 transcribed the dates as 1859–1911. Photographed in spring 2026.",
     "people": [
         "john-vershal-singletary-1851"
     ],
@@ -196,7 +196,7 @@
     "id": "mary-evline-bryant-singletary-original-grave",
     "file": "mary_evline_bryant_singletary_original_headstone.jpg",
     "type": "grave",
-    "caption": "Original grave marker of Mary Evline Bryant Singletary (born May 1875). Photographed in spring 2026. The inscription is heavily weathered and cannot be reliably transcribed.",
+    "caption": "Original gravestone of Mary Eveline Bryant Singletary, wife of John Vershal Singletary. The inscription is heavily weathered and difficult to read. A cemetery survey conducted in May 1968 by Moseley and Verrill recorded her name as Mary Eveline Singletary but did not identify birth or death dates. Photographed in spring 2026.",
     "people": [
         "mary-bryant-1875"
     ],
@@ -727,5 +727,31 @@
     "location": "Bell's Mill Creek Cemetery (Bethel Creek Baptist Church Cemetery), Day, Lafayette County, Florida",
     "description": "The shared gravestone of Reverend Jacob A. Singletary and his wife, Ally Ida Singletary, records Jacob's birth as March 15, 1852, and his death as May 14, 1931. Ally Ida's inscription records her birth as May 28, 1873, and her death as October 16, 1945. The gravestone is located at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida. The date the photograph was taken has not been established.",
     "file": "jacob_a_singletary_gravestone.jpg"
+},
+{
+  "id": "george-william-singletary-with-woman",
+  "type": "family",
+  "people": [
+    "george-william-singletary-1895"
+  ],
+  "title": "George William Singletary with Woman, Possibly Nettie",
+  "caption": "George William Singletary (1895–1964) seated beside an unidentified woman, possibly his second wife, Nettie. George is holding a pipe. The woman's identity has not been confirmed.",
+  "date": "",
+  "location": "",
+  "description": "Historical family photograph showing George William Singletary seated in a wooden armchair beside a woman who may be his second wife, Nettie. George is wearing a light-colored shirt and dark trousers and is holding a smoking pipe. The woman is seated to his left, wearing a patterned dress with buttons down the front. Behind them is a round table covered with a fringed tablecloth. A wall calendar, window shutters, and a patterned floor covering are also visible. The date and location of the photograph are unknown. The identification of the woman as Nettie is based on family research and remains unconfirmed.",
+  "file": "george_william_singletary_with_woman.jpg"
+},
+{
+  "id": "george-william-singletary-seated",
+  "type": "family",
+  "people": [
+    "george-william-singletary-1895"
+  ],
+  "title": "George William Singletary Seated in a Wooden Armchair",
+  "caption": "George William Singletary (1895–1964) seated in a wooden armchair, possibly at his home. The date and location of the photograph are unknown.",
+  "date": "",
+  "location": "",
+  "description": "Historical family photograph of George William Singletary seated alone in a wooden armchair. He is wearing a light-colored shirt and dark trousers, with his hands resting on his knees. A round table covered with a fringed tablecloth stands beside him, and a wall calendar, window shutters, and patterned floor covering are visible in the background. The furnishings closely match those in another photograph showing George seated beside an unidentified woman, suggesting that both photographs were taken in the same room and possibly on the same occasion. The date and location remain unknown.",
+  "file": "george_william_singletary_seated.jpg"
 }
 ]
