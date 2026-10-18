@@ -20,6 +20,30 @@
         ]
     },
     {
+        "id": "1850-census-jacob-singletary",
+        "type": "census",
+        "title": "1850 United States Federal Census — Jacob Singletary Household",
+        "people": [
+            "jacob-singletary-1801",
+            "eliza-singletary",
+            "silas-p-singletary-1835",
+            "sarah-r-singletary-1840",
+            "mary-e-singletary-1842"
+        ],
+        "date": "1850",
+        "location": "Sumter District, South Carolina",
+        "description": "1850 United States Federal Census, Sumter District, South Carolina, household 1617. Jacob Singletary, age 50, farmer, and Eliza B. Singletary, age 35, were enumerated with Silas P., Sarah R., Mary E., George M., Jane H., and Samuel J. Singletary. FamilySearch transcribes the surname as Singletarry. NARA publication M432, film 859.",
+        "supports": [
+            "Jacob Singletary's residence in South Carolina in 1850",
+            "Jacob Singletary's approximate birth year and occupation",
+            "Eliza B. Singletary's residence and reported age in 1850",
+            "Members of the Singletary household in 1850"
+        ],
+        "documents": [
+            "1850_census_jacob_singletary.jpg"
+        ]
+    },
+    {
         "id": "1850-census-james-lesley-family",
         "type": "Census",
         "title": "1850 U.S. Census — James M. Lesley Family",
@@ -147,6 +171,32 @@
         ]
     },
     {
+        "id": "1860-census-jacob-singletary",
+        "type": "census",
+        "title": "1860 United States Federal Census — Jacob Singletary Household",
+        "people": [
+            "jacob-singletary-1801",
+            "eliza-singletary",
+            "silas-p-singletary-1835",
+            "sarah-r-singletary-1840",
+            "mary-e-singletary-1842",
+            "john-vershal-singletary-1851",
+            "jacob-a-singletary-1852"
+        ],
+        "date": "1860",
+        "location": "19th District, Decatur County, Georgia",
+        "description": "1860 United States Federal Census, 19th District, Decatur County, Georgia, page 34. Jacob Singletary, age 56, and Eliza Singletary, age 34, were enumerated with Silas, Sarah, Mary, George, Harrietta, Samuel, John, and Jacob Singletary. John, age 8, and the younger Jacob, age 7, were recorded as born in Georgia. FamilySearch transcribes the surname as Singletarry. NARA publication M653.",
+        "supports": [
+            "Jacob and Eliza Singletary's residence in Decatur County, Georgia, in 1860",
+            "John Singletary's presence in Jacob's household",
+            "The family's probable migration from South Carolina to Georgia",
+            "Birthplaces and reported ages of household members"
+        ],
+        "documents": [
+            "1860_census_jacob_singletary.jpg"
+        ]
+    },
+    {
         "id": "1867-voter-registration-hezekiah-williams",
         "type": "Voter Registration",
         "title": "1867 Georgia Voter Registration — Hezekiah P. Williams",
@@ -182,6 +232,53 @@
         ],
         "documents": [
             "1867_john_williams_voter_registration.jpg"
+        ]
+    },
+    {
+        "id": "1869-marriage-simon-p-singletary-rachel-griffin",
+        "type": "marriage",
+        "title": "1869 Marriage of Simon P. Singletary and Rachel Griffin",
+        "people": [
+            "silas-p-singletary-1835",
+            "rachel-griffin-1850"
+        ],
+        "date": "1869-10-14",
+        "location": "Decatur County, Georgia",
+        "description": "Original Decatur County, Georgia, marriage register, page 49, documenting the marriage of Simon P. Singletary and Rachel Griffin on October 14, 1869. The marriage license was issued October 1, 1869, and the ceremony was performed by J. W. Oliver, Minister of the Gospel. Other records identify the groom as Silas P. Singletary.",
+        "supports": [
+            "Marriage of Simon P. Singletary and Rachel Griffin",
+            "Marriage date of October 14, 1869",
+            "Marriage location in Decatur County, Georgia",
+            "Use of the name Simon P. Singletary"
+        ],
+        "documents": [
+            "1869_simon_p_singletary_rachel_griffin_marriage.jpg"
+        ]
+    },
+    {
+        "id": "1870-census-jacob-singletary",
+        "type": "census",
+        "title": "1870 United States Federal Census — Jacob Singletary Household",
+        "people": [
+            "jacob-singletary-1801",
+            "eliza-singletary",
+            "silas-p-singletary-1835",
+            "sarah-r-singletary-1840",
+            "mary-e-singletary-1842",
+            "john-vershal-singletary-1851",
+            "jacob-a-singletary-1852"
+        ],
+        "date": "1870",
+        "location": "District 720, Decatur County, Georgia",
+        "description": "1870 United States Federal Census, Jones District, Decatur County, Georgia, household 108, page 16, beginning at line 28. Jacob Singletary, age 69, was enumerated with Elizabeth Singletary, age 45, Silas, Rachel, Sarah A., Mary E., John, and Jacob Singletary. Jacob and Elizabeth were recorded as born in South Carolina. FamilySearch transcribes the surname as Singletarry. NARA publication M593.",
+        "supports": [
+            "Jacob Singletary's residence in Decatur County, Georgia, in 1870",
+            "Jacob Singletary's reported age and South Carolina birthplace",
+            "Elizabeth Singletary's reported age and birthplace",
+            "John Singletary's presence in Jacob's household in 1870"
+        ],
+        "documents": [
+            "1870_census_jacob_singletary.jpg"
         ]
     },
     {
@@ -323,15 +420,22 @@
         "type": "census",
         "title": "1880 United States Federal Census - Eliza Singletary Household",
         "people": [
-            "john-vershal-singletary-1851"
+            "eliza-singletary",
+            "sarah-r-singletary-1840",
+            "mary-e-singletary-1842",
+            "john-vershal-singletary-1851",
+            "jacob-a-singletary-1852"
         ],
         "date": "1880-06-25",
         "location": "Lafayette County, Florida",
         "description": "1880 United States Federal Census, Lafayette County, Florida, page 30, stamped page 185, lines 35-39. The household is headed by Eliza Singletary, age 54, and includes Sarah Singletary, age 24; Mary E. Singletary, age 22; John V. Singletary, age 21; and Jacob Singletary, age 20. The record documents John Vershal Singletary's residence in Lafayette County with members of his family.",
         "supports": [
-            "John Vershal Singletary was living in Lafayette County, Florida, in June 1880.",
-            "John V. Singletary was enumerated in the household headed by Eliza Singletary.",
-            "The household included Sarah, Mary E., John V., and Jacob Singletary."
+            "Eliza Singletary was living in Lafayette County, Florida, in June 1880.",
+            "Eliza Singletary was recorded as the head of household.",
+            "Sarah Singletary, age 24, was living in Eliza's household.",
+            "Mary E. Singletary, age 22, was living in Eliza's household.",
+            "John V. Singletary, age 21, was living in Eliza's household.",
+            "Jacob Singletary, age 20, was living in Eliza's household."
         ],
         "documents": [
             "1880_eliza_singletary_federal_census.jpg"
@@ -356,6 +460,27 @@
         ],
         "documents": [
             "1886_marriage_thomas_herrin_nancy_jewell.jpg"
+        ]
+    },
+    {
+        "id": "1890-marriage-william-johnson-sarah-singletary",
+        "type": "marriage",
+        "title": "1890 Marriage Record of William Johnson and S. R. A. Singletary (1890)",
+        "people": [
+            "sarah-r-singletary-1840"
+        ],
+        "date": "1890-01-30",
+        "location": "Lafayette County, Florida",
+        "description": "Original marriage record from Lafayette County, Florida, page 412. A marriage license was issued on January 28, 1890, authorizing the marriage of William Johnson and Miss S. R. A. Singletary. The marriage ceremony was performed on January 30, 1890, by Elder J. A. Singletary, believed to be the bride's brother, Reverend Jacob A. Singletary. The marriage was recorded on February 3, 1890, by County Judge Redden B. Hill.",
+        "supports": [
+            "Marriage of William Johnson and S. R. A. Singletary on January 30, 1890.",
+            "Marriage license issued January 28, 1890.",
+            "Marriage ceremony performed by Elder J. A. Singletary.",
+            "Marriage recorded February 3, 1890.",
+            "Bride identified by the initials S. R. A."
+        ],
+        "documents": [
+            "1890_william_johnson_sarah_singletary_marriage.jpg"
         ]
     },
     {
@@ -433,6 +558,29 @@
         ]
     },
     {
+        "id": "1900-census-william-johnson-sarah-singletary",
+        "type": "census",
+        "title": "1900 U.S. Federal Census – William and Sarah Johnson Household",
+        "people": [
+            "sarah-r-singletary-1840",
+            "eliza-singletary"
+        ],
+        "date": "1900-06",
+        "location": "Lafayette County, Florida",
+        "description": "1900 United States Federal Census, Lafayette County, Florida, lines 21–24. The household includes William Johnson, head; Sarah Johnson, wife; Mary Singletary, sister-in-law; and Eliza Singletary, mother-in-law. Sarah was recorded as born in March 1840, age sixty, and having given birth to no children, with none living. Both William and Sarah were recorded as having been married for thirty years, although their original marriage record documents a ceremony on January 30, 1890.",
+        "supports": [
+            "Sarah Johnson was born in March 1840 in South Carolina.",
+            "Sarah Johnson was married to William Johnson.",
+            "Eliza Singletary was Sarah Johnson's mother.",
+            "Mary Singletary was Sarah Johnson's sister.",
+            "Sarah reported zero children born and zero children living.",
+            "William and Sarah were both recorded as having been married for thirty years."
+        ],
+        "documents": [
+            "1900_census_william_johnson_sarah_singletary.jpg"
+        ]
+    },
+    {
         "id": "1900-census-daniel-mathis-family",
         "type": "Census",
         "title": "1900 U.S. Census — Daniel Mathis Family",
@@ -457,6 +605,27 @@
         ],
         "documents": [
             "1900_census_daniel_mathis_family.jpg"
+        ]
+    },
+    {
+        "id": "1907-death-sarah-johnson",
+        "type": "death",
+        "title": "1907 Florida Death Certificate – Sarah Johnson",
+        "people": [
+            "sarah-r-singletary-1840"
+        ],
+        "date": "1907-10-31",
+        "location": "Day, Lafayette County, Florida",
+        "description": "Florida death certificate for Sarah Johnson, who died October 31, 1907, in Day, Lafayette County, Florida. The certificate records her birth year as 1840 and her birthplace as South Carolina. Her husband is identified as William Johnson, who also served as the informant. Her father's surname is recorded as Singletary, although his given name is not provided. The recorded cause of death was paralysis of the heart.",
+        "supports": [
+            "Sarah Johnson died October 31, 1907, in Day, Lafayette County, Florida.",
+            "Sarah was born in South Carolina in 1840.",
+            "Sarah's husband was William Johnson.",
+            "Sarah's father's surname was Singletary.",
+            "The recorded cause of death was paralysis of the heart."
+        ],
+        "documents": [
+            "1907_sarah_singletary_johnson_death_certificate.jpg"
         ]
     },
     {
@@ -522,6 +691,28 @@
         ],
         "documents": [
             "1910_census_john_singletary_family.jpg"
+        ]
+    },
+    {
+        "id": "1916-confederate-pension-rachel-singletary",
+        "type": "pension",
+        "title": "1916 Confederate Widow's Pension Application — Rachel Griffin Singletary",
+        "people": [
+            "rachel-griffin-1850",
+            "silas-p-singletary-1835"
+        ],
+        "date": "1916-08-10",
+        "location": "Thomas County, Georgia",
+        "description": "Georgia Archives, Virtual Vault, Confederate Pension Applications, widow's pension application of Rachel Singletary, 1916. The original application identifies Rachel as the widow of S. P. Singletary and contains sworn statements concerning their marriage and his death. The application provides evidence connecting S. P. Singletary to Rachel Griffin, who married Simon P. Singletary in Decatur County, Georgia, on October 14, 1869. The file also contains a handwritten statement concerning differing recollections of the marriage. The original county marriage register independently documents the marriage date. Original pension documents: https://vault.georgiaarchives.org/digital/collection/TestApps/id/340053/rec/20. FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:W1QX-NKMM.",
+        "supports": [
+            "Rachel Singletary's application for a Confederate widow's pension in 1916",
+            "Identification of Rachel as the widow of S. P. Singletary",
+            "Connection between S. P. Singletary and Rachel Griffin",
+            "Additional evidence supporting the identification of S. P. Singletary as Silas P. Singletary",
+            "Historical testimony concerning the marriage and death of S. P. Singletary"
+        ],
+        "documents": [
+            "1916_rachel_griffin_singletary_confederate_pension.pdf"
         ]
     },
     {
@@ -913,6 +1104,27 @@
         ],
         "documents": [
             "1933_mary_virginia_allen_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "1935-death-certificate-rachel-griffin-singletary",
+        "type": "death",
+        "title": "1935 Georgia Death Certificate — Rachel Griffin Singletary",
+        "people": [
+            "rachel-griffin-1850"
+        ],
+        "date": "1935-06-28",
+        "location": "Ochlocknee, Thomas County, Georgia",
+        "description": "Georgia Department of Public Health Certificate of Death No. 34037 for Rachel Singletary, who died June 28, 1935, in Ochlocknee, Thomas County, Georgia. The certificate records her marital status as widowed, age as 95, birthplace as Grady County, Georgia, father as John Griffin, and mother under a handwritten maiden name requiring verification. Burial was recorded at Springhill Cemetery on June 29, 1935. The certificate's reported age conflicts with earlier census records.",
+        "supports": [
+            "Death of Rachel Singletary on June 28, 1935",
+            "Residence and death in Ochlocknee, Thomas County, Georgia",
+            "Reported birthplace and age",
+            "Father identified as John Griffin",
+            "Burial at Springhill Cemetery on June 29, 1935"
+        ],
+        "documents": [
+            "1935_rachel_griffin_singletary_death_certificate.jpg"
         ]
     },
     {
@@ -2019,201 +2231,49 @@
         ]
     },
     {
-        "id": "1850-census-jacob-singletary",
-        "type": "census",
-        "title": "1850 United States Federal Census — Jacob Singletary Household",
-        "people": [
-            "jacob-singletary-1801",
-            "eliza-singletary",
-            "silas-p-singletary-1835",
-            "sarah-r-singletary-1840"
-        ],
-        "date": "1850",
-        "location": "Sumter District, South Carolina",
-        "description": "1850 United States Federal Census, Sumter District, South Carolina, household 1617. Jacob Singletary, age 50, farmer, and Eliza B. Singletary, age 35, were enumerated with Silas P., Sarah R., Mary E., George M., Jane H., and Samuel J. Singletary. FamilySearch transcribes the surname as Singletarry. NARA publication M432, film 859.",
-        "supports": [
-            "Jacob Singletary's residence in South Carolina in 1850",
-            "Jacob Singletary's approximate birth year and occupation",
-            "Eliza B. Singletary's residence and reported age in 1850",
-            "Members of the Singletary household in 1850"
-        ],
-        "documents": [
-            "1850_census_jacob_singletary.jpg"
-        ]
-    },
-    {
-  "id": "1860-census-jacob-singletary",
-  "type": "census",
-  "title": "1860 United States Federal Census — Jacob Singletary Household",
-  "people": [
-    "jacob-singletary-1801",
-    "eliza-singletary",
-    "silas-p-singletary-1835",
-    "sarah-r-singletary-1840",
-    "john-vershal-singletary-1851"
-  ],
-  "date": "1860",
-  "location": "19th District, Decatur County, Georgia",
-  "description": "1860 United States Federal Census, 19th District, Decatur County, Georgia, page 34. Jacob Singletary, age 56, and Eliza Singletary, age 34, were enumerated with Silas, Sarah, Mary, George, Harrietta, Samuel, John, and Jacob Singletary. John, age 8, and the younger Jacob, age 7, were recorded as born in Georgia. FamilySearch transcribes the surname as Singletarry. NARA publication M653.",
-  "supports": [
-    "Jacob and Eliza Singletary's residence in Decatur County, Georgia, in 1860",
-    "John Singletary's presence in Jacob's household",
-    "The family's probable migration from South Carolina to Georgia",
-    "Birthplaces and reported ages of household members"
-  ],
-  "documents": [
-    "1860_census_jacob_singletary.jpg"
-  ]
+    "id": "1931-death-jacob-a-singletary",
+    "type": "death",
+    "title": "Florida Death Certificate of Reverend Jacob A. Singletary (1931)",
+    "people": [
+        "jacob-a-singletary-1852"
+    ],
+    "date": "1931-05-14",
+    "location": "Lafayette County, Florida",
+    "description": "Florida State Board of Health death certificate for Jacob Singletary, who died May 14, 1931, in Lafayette County, Florida. His birth date is recorded as March 1852, although the handwritten day is difficult to distinguish. His gravestone identifies his birth date as March 15, 1852. The certificate identifies his wife as Ida Singletary, his occupation as farmer, and his birthplace as Georgia. His parents' names were not known to the informant. The certificate records heart trouble as the principal cause of death and identifies Bell's Mill Creek Cemetery as his burial location.",
+    "supports": [
+        "Jacob Singletary died May 14, 1931, in Lafayette County, Florida.",
+        "His birth was recorded as March 1852.",
+        "His wife was Ida Singletary.",
+        "His occupation was farmer.",
+        "His birthplace was recorded as Georgia.",
+        "His burial location was Bell's Mill Creek Cemetery."
+    ],
+    "documents": [
+        "1931_jacob_a_singletary_death_certificate.jpg"
+    ]
 },
 {
-  "id": "1870-census-jacob-singletary",
-  "type": "census",
-  "title": "1870 United States Federal Census — Jacob Singletary Household",
-  "people": [
-    "jacob-singletary-1801",
-    "eliza-singletary",
-    "silas-p-singletary-1835",
-    "sarah-r-singletary-1840",
-    "john-vershal-singletary-1851"
-  ],
-  "date": "1870",
-  "location": "District 720, Decatur County, Georgia",
-  "description": "1870 United States Federal Census, Jones District, Decatur County, Georgia, household 108, page 16, beginning at line 28. Jacob Singletary, age 69, was enumerated with Elizabeth Singletary, age 45, Silas, Rachel, Sarah A., Mary E., John, and Jacob Singletary. Jacob and Elizabeth were recorded as born in South Carolina. FamilySearch transcribes the surname as Singletarry. NARA publication M593.",
-  "supports": [
-    "Jacob Singletary's residence in Decatur County, Georgia, in 1870",
-    "Jacob Singletary's reported age and South Carolina birthplace",
-    "Elizabeth Singletary's reported age and birthplace",
-    "John Singletary's presence in Jacob's household in 1870"
-  ],
-  "documents": [
-    "1870_census_jacob_singletary.jpg"
-  ]
-},
-{
-  "id": "1869-marriage-simon-p-singletary-rachel-griffin",
-  "type": "marriage",
-  "title": "1869 Marriage of Simon P. Singletary and Rachel Griffin",
-  "people": [
-    "silas-p-singletary-1835",
-    "rachel-griffin-1850"
-  ],
-  "date": "1869-10-14",
-  "location": "Decatur County, Georgia",
-  "description": "Original Decatur County, Georgia, marriage register, page 49, documenting the marriage of Simon P. Singletary and Rachel Griffin on October 14, 1869. The marriage license was issued October 1, 1869, and the ceremony was performed by J. W. Oliver, Minister of the Gospel. Other records identify the groom as Silas P. Singletary.",
-  "supports": [
-    "Marriage of Simon P. Singletary and Rachel Griffin",
-    "Marriage date of October 14, 1869",
-    "Marriage location in Decatur County, Georgia",
-    "Use of the name Simon P. Singletary"
-  ],
-  "documents": [
-    "1869_simon_p_singletary_rachel_griffin_marriage.jpg"
-  ]
-},
-{
-  "id": "1935-death-certificate-rachel-griffin-singletary",
-  "type": "death",
-  "title": "1935 Georgia Death Certificate — Rachel Griffin Singletary",
-  "people": [
-    "rachel-griffin-1850"
-  ],
-  "date": "1935-06-28",
-  "location": "Ochlocknee, Thomas County, Georgia",
-  "description": "Georgia Department of Public Health Certificate of Death No. 34037 for Rachel Singletary, who died June 28, 1935, in Ochlocknee, Thomas County, Georgia. The certificate records her marital status as widowed, age as 95, birthplace as Grady County, Georgia, father as John Griffin, and mother under a handwritten maiden name requiring verification. Burial was recorded at Springhill Cemetery on June 29, 1935. The certificate's reported age conflicts with earlier census records.",
-  "supports": [
-    "Death of Rachel Singletary on June 28, 1935",
-    "Residence and death in Ochlocknee, Thomas County, Georgia",
-    "Reported birthplace and age",
-    "Father identified as John Griffin",
-    "Burial at Springhill Cemetery on June 29, 1935"
-  ],
-  "documents": [
-    "1935_rachel_griffin_singletary_death_certificate.jpg"
-  ]
-},
-{
-  "id": "1916-confederate-pension-rachel-singletary",
-  "type": "pension",
-  "title": "1916 Confederate Widow's Pension Application — Rachel Griffin Singletary",
-  "people": [
-    "rachel-griffin-1850",
-    "silas-p-singletary-1835"
-  ],
-  "date": "1916-08-10",
-  "location": "Thomas County, Georgia",
-  "description": "Georgia Archives, Virtual Vault, Confederate Pension Applications, widow's pension application of Rachel Singletary, 1916. The original application identifies Rachel as the widow of S. P. Singletary and contains sworn statements concerning their marriage and his death. The application provides evidence connecting S. P. Singletary to Rachel Griffin, who married Simon P. Singletary in Decatur County, Georgia, on October 14, 1869. The file also contains a handwritten statement concerning differing recollections of the marriage. The original county marriage register independently documents the marriage date. Original pension documents: https://vault.georgiaarchives.org/digital/collection/TestApps/id/340053/rec/20. FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:W1QX-NKMM.",
-  "supports": [
-    "Rachel Singletary's application for a Confederate widow's pension in 1916",
-    "Identification of Rachel as the widow of S. P. Singletary",
-    "Connection between S. P. Singletary and Rachel Griffin",
-    "Additional evidence supporting the identification of S. P. Singletary as Silas P. Singletary",
-    "Historical testimony concerning the marriage and death of S. P. Singletary"
-  ],
-  "documents": ["1916_rachel_griffin_singletary_confederate_pension.pdf"]
-},
-{
-  "id": "1890-marriage-william-johnson-sarah-singletary",
-  "type": "marriage",
-  "title": "1890 Marriage Record of William Johnson and S. R. A. Singletary (1890)",
-  "people": [
-    "sarah-r-singletary-1840"
-  ],
-  "date": "1890-01-30",
-  "location": "Lafayette County, Florida",
-  "description": "Original marriage record from Lafayette County, Florida, page 412. A marriage license was issued on January 28, 1890, authorizing the marriage of William Johnson and Miss S. R. A. Singletary. The marriage ceremony was performed on January 30, 1890, by Elder J. A. Singletary, believed to be the bride's brother, Reverend Jacob A. Singletary. The marriage was recorded on February 3, 1890, by County Judge Redden B. Hill.",
-  "supports": [
-    "Marriage of William Johnson and S. R. A. Singletary on January 30, 1890.",
-    "Marriage license issued January 28, 1890.",
-    "Marriage ceremony performed by Elder J. A. Singletary.",
-    "Marriage recorded February 3, 1890.",
-    "Bride identified by the initials S. R. A."
-  ],
-  "documents": [
-    "1890_william_johnson_sarah_singletary_marriage.jpg"
-  ]
-},
-{
-  "id": "1900-census-william-johnson-sarah-singletary",
-  "type": "census",
-  "title": "1900 U.S. Federal Census – William and Sarah Johnson Household",
-  "people": [
-    "sarah-r-singletary-1840",
-    "eliza-singletary"
-  ],
-  "date": "1900-06",
-  "location": "Lafayette County, Florida",
-  "description": "1900 United States Federal Census, Lafayette County, Florida, lines 21–24. The household includes William Johnson, head; Sarah Johnson, wife; Mary Singletary, sister-in-law; and Eliza Singletary, mother-in-law. Sarah was recorded as born in March 1840, age sixty, and having given birth to no children, with none living. Both William and Sarah were recorded as having been married for thirty years, although their original marriage record documents a ceremony on January 30, 1890.",
-  "supports": [
-    "Sarah Johnson was born in March 1840 in South Carolina.",
-    "Sarah Johnson was married to William Johnson.",
-    "Eliza Singletary was Sarah Johnson's mother.",
-    "Mary Singletary was Sarah Johnson's sister.",
-    "Sarah reported zero children born and zero children living.",
-    "William and Sarah were both recorded as having been married for thirty years."
-  ],
-  "documents": [
-    "1900_census_william_johnson_sarah_singletary.jpg"
-  ]
-},
-{
-  "id": "1907-death-sarah-johnson",
-  "type": "death",
-  "title": "1907 Florida Death Certificate – Sarah Johnson",
-  "people": [
-    "sarah-r-singletary-1840"
-  ],
-  "date": "1907-10-31",
-  "location": "Day, Lafayette County, Florida",
-  "description": "Florida death certificate for Sarah Johnson, who died October 31, 1907, in Day, Lafayette County, Florida. The certificate records her birth year as 1840 and her birthplace as South Carolina. Her husband is identified as William Johnson, who also served as the informant. Her father's surname is recorded as Singletary, although his given name is not provided. The recorded cause of death was paralysis of the heart.",
-  "supports": [
-    "Sarah Johnson died October 31, 1907, in Day, Lafayette County, Florida.",
-    "Sarah was born in South Carolina in 1840.",
-    "Sarah's husband was William Johnson.",
-    "Sarah's father's surname was Singletary.",
-    "The recorded cause of death was paralysis of the heart."
-  ],
-  "documents": [
-    "1907_sarah_singletary_johnson_death_certificate.jpg"
-  ]
+    "id": "1890-marriage-jacob-a-singletary-ida-alla-miller",
+    "type": "marriage",
+    "title": "Marriage Record of Jacob A. Singletary and Ida Alla Miller (1890)",
+    "people": [
+        "jacob-a-singletary-1852",
+        "ida-alla-miller-1873"
+    ],
+    "date": "1890-04-16",
+    "location": "Lafayette County, Florida",
+    "description": "Original marriage license and marriage certification from Lafayette County, Florida, documenting the marriage of Jacob A. Singletary and Ida Alla Miller. The marriage license was issued on April 16, 1890, by County Judge Redden B. Hill. The accompanying certification confirms that the marriage ceremony was performed on April 16, 1890, by D. H. Ward. The license was filed for record on April 26, 1890.",
+    "supports": [
+        "Jacob A. Singletary married Ida Alla Miller on April 16, 1890.",
+        "The marriage took place in Lafayette County, Florida.",
+        "The marriage license was issued April 16, 1890.",
+        "The marriage ceremony was performed by D. H. Ward.",
+        "The marriage license was filed for record April 26, 1890.",
+        "The bride's name was recorded as Ida Alla Miller."
+    ],
+    "documents": [
+        "1890_jacob_a_singletary_ida_miller_marriage_01.jpg",
+        "1890_jacob_a_singletary_ida_miller_marriage_02.jpg"
+    ]
 }
 ]

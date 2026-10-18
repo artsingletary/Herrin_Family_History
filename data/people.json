@@ -2168,5 +2168,93 @@
     "In 1900, Sarah was living in Lafayette County, Florida, with her husband, William Johnson. The federal census recorded her birth as March 1840 and her age as sixty. Her mother, Eliza Singletary, and sister, Mary Singletary, were also members of the household. Sarah was recorded as having given birth to no children, with none living. Interestingly, both Sarah and William were recorded as having been married for thirty years, suggesting a marriage around 1870. However, their original marriage record documents a ceremony on January 30, 1890. The reason for this discrepancy remains unresolved.",
     "Sarah died on October 31, 1907, in Day, Lafayette County, Florida. Her death certificate records her birth year as 1840, identifies her husband as William Johnson, and gives her father's surname as Singletary. The certificate lists paralysis of the heart as the cause of death. Her husband, William Johnson, served as the informant, establishing that he was still living at the time of her death. The certificate records her burial location as Day, Florida, but does not identify a cemetery. Bethel Creek Baptist Church Cemetery, where her mother Eliza Singletary is buried, is a possible burial location, although this has not been confirmed."
 ]
+},
+{
+    "id": "mary-e-singletary-1842",
+    "first_name": "Mary",
+    "middle_name": "E.",
+    "last_name": "Singletary",
+    "display_name": "Mary E. Singletary",
+    "family_lines": [
+        "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1842,
+    "birth_place": "South Carolina",
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "jacob-singletary-1801",
+    "mother": "eliza-singletary",
+    "spouses": [],
+    "biography": [
+        "Mary E. Singletary was born in South Carolina, probably in August 1842, according to the 1900 United States Federal Census. She was a daughter of Jacob and Eliza Singletary.",
+        "Mary first appears in the 1850 United States Federal Census in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. She was recorded as eight years old.",
+        "By 1860, Mary was living with the Singletary household in Decatur County, Georgia. The census recorded her as fourteen years old.",
+        "In 1870, Mary E. Singletary was enumerated in District 720 of Decatur County, Georgia, in the household of Jacob Singletary. Her age was recorded as twenty-three.",
+        "By 1880, Mary had moved to Lafayette County, Florida. She was enumerated in the household headed by Eliza Singletary, along with Sarah R., John V., and Jacob Singletary. Mary was recorded as twenty-two years old. Her reported age differs substantially from the ages recorded in earlier census records.",
+        "In 1900, Mary was living in Lafayette County, Florida, in the household of William and Sarah Johnson. She was identified as William's sister-in-law, while Eliza Singletary was identified as his mother-in-law. The census recorded Mary's birth as August 1842 and her marital status as single. These household relationships provide strong evidence that Mary and Sarah were sisters and that Eliza was their mother.",
+        "Mary's whereabouts after the 1900 census have not yet been established. No confirmed death record or burial location has been identified."
+    ]
+},
+{
+    "id": "jacob-a-singletary-1852",
+    "first_name": "Jacob",
+    "middle_name": "A.",
+    "last_name": "Singletary",
+    "display_name": "Rev. Jacob A. Singletary",
+    "family_lines": [
+        "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": "1852-03-15",
+    "birth_year": 1852,
+    "birth_place": null,
+    "death_date": "1931-05-14",
+    "death_year": 1931,
+    "death_place": "Lafayette County, Florida",
+    "father": "jacob-singletary-1801",
+    "mother": "eliza-singletary",
+    "spouses": ["ida-alla-miller-1873"],
+    "biography": [
+        "Jacob A. Singletary was born on March 15, 1852, a son of Jacob and Eliza Singletary. His gravestone records this birth date, and his Florida death certificate records March 1852, although the handwritten day is somewhat difficult to distinguish. His birthplace remains uncertain.",
+        "Jacob appears in the 1860 United States Federal Census in Decatur County, Georgia, in the household of Jacob and Eliza Singletary. He was recorded as approximately seven years old.",
+        "In 1870, Jacob was enumerated in Decatur County, Georgia, in the household of Jacob Singletary.",
+        "By 1880, Jacob was living in Lafayette County, Florida, in the household headed by Eliza Singletary. He was recorded as twenty years old.",
+        "Jacob became a minister and was identified as Reverend Jacob Singletary on his gravestone. Elder J. A. Singletary performed the marriage ceremony of William Johnson and Sarah R. Singletary on January 30, 1890, in Lafayette County, Florida. This was probably Reverend Jacob A. Singletary, although the identification has not yet been conclusively established.",
+        "On April 16, 1890, Jacob A. Singletary married Ida Alla Miller in Lafayette County, Florida. Their original marriage records identify Redden B. Hill as the county judge who issued the license and D. H. Ward as the person who performed the marriage ceremony. The license was filed for record on April 26, 1890. Ida's name appears as Ida Alla Miller in the marriage record and as Ally Ida Singletary on their shared gravestone.",
+        "Jacob's Florida death certificate identifies his occupation as farmer. He died on May 14, 1931, in Lafayette County, Florida. The certificate records heart trouble as his cause of death.",
+        "Reverend Jacob Singletary was buried at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida. His gravestone also commemorates his wife, Ally Ida Singletary, who died on October 16, 1945."
+    ]
+},
+{
+    "id": "ida-alla-miller-1873",
+    "first_name": "Ida",
+    "middle_name": "Alla",
+    "last_name": "Miller",
+    "display_name": "Ida Alla Miller Singletary",
+    "family_lines": [
+        "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": "1873-05-28",
+    "birth_year": 1873,
+    "birth_place": null,
+    "death_date": "1945-10-16",
+    "death_year": 1945,
+    "death_place": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+        "jacob-a-singletary-1852"
+    ],
+    "biography": [
+        "Ida Alla Miller was born on May 28, 1873, according to her gravestone. Her birthplace and parents have not yet been established.",
+        "On April 16, 1890, Ida married Jacob A. Singletary in Lafayette County, Florida. Their original marriage record identifies the bride as Ida Alla Miller and the groom as Jacob A. Singletary. The marriage ceremony was performed by D. H. Ward, and the license was filed for record on April 26, 1890.",
+        "Ida was sixteen years old at the time of her marriage, based on the birth date recorded on her gravestone. Jacob was thirty-eight years old.",
+        "Her husband, Jacob A. Singletary, was a minister and is identified as Reverend Jacob Singletary on their shared gravestone.",
+        "Ida died on October 16, 1945. Her gravestone identifies her as Ally Ida Singletary, a variation of the name recorded in her marriage record. She is commemorated alongside her husband at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida."
+    ]
 }
 ]

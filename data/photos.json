@@ -713,5 +713,19 @@
   "location": "Bethel Creek Baptist Church Cemetery, Day, Lafayette County, Florida",
   "description": "Photograph of the gravestone of Eliza L. Singletary at Bethel Creek Baptist Church Cemetery, formerly Bell's Mill Creek Cemetery, in Day, Lafayette County, Florida. The inscription reads: 'ELIZA L. SINGLETARY / MOTHER OF / J. A. SINGLETARY / AT REST.' Family research identifies J. A. as Jacob A. Singletary, who is buried nearby with his wife, Ida Alla Miller. A Florida marriage record documents the marriage of Jacob A. Singletary and Ida Alla Miller on April 16, 1890, in Lafayette County. The gravestone contains no birth or death dates.",
   "file": "eliza_l_singletary_gravestone.jpg"
+},
+{
+    "id": "jacob-a-singletary-gravestone",
+    "type": "grave",
+    "people": [
+        "jacob-a-singletary-1852",
+        "ida-alla-miller-1873"
+    ],
+    "title": "Gravestone of Reverend Jacob A. Singletary and Ally Ida Singletary",
+    "caption": "Gravestone of Reverend Jacob A. Singletary (March 15, 1852 – May 14, 1931) and Ally Ida Singletary (May 28, 1873 – October 16, 1945).",
+    "date": "",
+    "location": "Bell's Mill Creek Cemetery (Bethel Creek Baptist Church Cemetery), Day, Lafayette County, Florida",
+    "description": "The shared gravestone of Reverend Jacob A. Singletary and his wife, Ally Ida Singletary, records Jacob's birth as March 15, 1852, and his death as May 14, 1931. Ally Ida's inscription records her birth as May 28, 1873, and her death as October 16, 1945. The gravestone is located at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida. The date the photograph was taken has not been established.",
+    "file": "jacob_a_singletary_gravestone.jpg"
 }
 ]
