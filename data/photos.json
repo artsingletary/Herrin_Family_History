@@ -753,5 +753,31 @@
   "location": "",
   "description": "Historical family photograph of George William Singletary seated alone in a wooden armchair. He is wearing a light-colored shirt and dark trousers, with his hands resting on his knees. A round table covered with a fringed tablecloth stands beside him, and a wall calendar, window shutters, and patterned floor covering are visible in the background. The furnishings closely match those in another photograph showing George seated beside an unidentified woman, suggesting that both photographs were taken in the same room and possibly on the same occasion. The date and location remain unknown.",
   "file": "george_william_singletary_seated.jpg"
+},
+{
+  "id": "william-robert-singletary-gravestone",
+  "type": "grave",
+  "people": [
+    "william-robert-singletary-1894"
+  ],
+  "title": "Gravestone of William Robert Singletary",
+  "caption": "Gravestone of William Robert Singletary (May 3, 1894 – February 22, 1961).",
+  "date": "",
+  "location": "Bethel Creek Baptist Church Cemetery, Day, Lafayette County, Florida",
+  "description": "The gravestone records William Robert Singletary's birth and death dates as May 3, 1894, and February 22, 1961. These dates agree with his Florida death certificate. His burial at Bethel Creek is also documented in his obituary and death certificate.",
+  "file": "william_robert_singletary_gravestone.jpg"
+},
+{
+  "id": "sallie-singletary-spies-gravestone",
+  "type": "grave",
+  "people": [
+    "sarah-sallie-singletary-1892"
+  ],
+  "title": "Gravestone of Sallie Singletary Spies",
+  "caption": "Gravestone of Sallie Singletary Spies (August 24, 1892 – May 21, 1986).",
+  "date": "",
+  "location": "Bethel Creek Baptist Church Cemetery, Lafayette County, Florida",
+  "description": "Gravestone commemorating Sallie Singletary Spies, daughter of Reverend Jacob A. Singletary and Ida Alla Miller. The inscription records her birth on August 24, 1892, and death on May 21, 1986. These dates agree with her Florida death certificate, which also confirms her burial at Bethel Creek Cemetery.",
+  "file": "sallie_singletary_spies_gravestone.jpg"
 }
 ]
