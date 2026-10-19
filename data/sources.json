@@ -611,7 +611,8 @@
         "people": [
             "jacob-a-singletary-1852",
             "ida-alla-miller-1873",
-            "william-robert-singletary-1894"
+            "william-robert-singletary-1894",
+            "emma-singletary-1895"
         ],
         "date": "1900-06",
         "location": "Lafayette County, Florida",
@@ -747,7 +748,8 @@
             "jacob-a-singletary-1852",
             "ida-alla-miller-1873",
             "sarah-sallie-singletary-1892",
-            "william-robert-singletary-1894"
+            "william-robert-singletary-1894",
+            "emma-singletary-1895"
         ],
         "date": "1910-04-28",
         "location": "Precinct 1, Lafayette County, Florida",
@@ -2576,5 +2578,60 @@
         "documents": [
             "pioneer_williams_families_georgia_page_15.jpg"
         ]
-    }
+    },
+    {
+  "id": "1984-emma-singletary-evans-obituary",
+  "type": "obituary",
+  "title": "1984 Obituary of Emma Singletary Evans – The Florida Times-Union",
+  "people": [
+    "emma-singletary-1895"
+  ],
+  "date": "1984-04-30",
+  "location": "Palatka, Putnam County, Florida",
+  "description": "Obituary published in The Florida Times-Union on April 30, 1984, reporting the death of Emma Singletary Evans, age 88, of Palatka, Florida. Emma died on Saturday, April 28, 1984, at Putnam Memorial Nursing Home in Palatka following a long illness. A native of Lafayette County, Florida, she had lived in Palatka for approximately thirteen years and was a member of Tabernacle Baptist Church. The obituary identifies her surviving children as daughter Grace Lassiter of Palatka and sons Ernest and Fred Evans of Jacksonville. Her surviving siblings were identified as sister Sallie Spies of Live Oak and brothers Giddy and Sammy Singletary of Mayo and Jasper Singletary of Live Oak. The funeral memorial separately identifies the brother listed as Sammy in the newspaper as Jammie Singletary. The obituary also records ten grandchildren and twenty-five great-grandchildren. Funeral services were scheduled for April 30, 1984, at Westwood Baptist Church in Live Oak, with Reverend Lorace Cothron officiating, followed by burial at Live Oak Cemetery. Harris Funeral Home of Live Oak handled the arrangements.",
+  "supports": [
+    "Emma Singletary Evans died April 28, 1984, in Palatka, Putnam County, Florida",
+    "Emma was 88 years old at death",
+    "Emma was a native of Lafayette County, Florida",
+    "Emma had resided in Palatka for approximately thirteen years",
+    "Emma was a member of Tabernacle Baptist Church in Palatka",
+    "Grace Lassiter identified as Emma's daughter",
+    "Ernest Evans and Fred Evans identified as Emma's sons",
+    "Sallie Spies identified as Emma's surviving sister",
+    "Giddy, Sammy, and Jasper Singletary identified as Emma's surviving brothers",
+    "Emma had ten grandchildren and twenty-five great-grandchildren",
+    "Funeral services scheduled at Westwood Baptist Church on April 30, 1984",
+    "Burial at Live Oak Cemetery in Live Oak, Florida"
+  ],
+  "documents": [
+    "1984_emma_singletary_evans_obituary_florida_times_union.jpg"
+  ]
+},
+{
+  "id": "1984-emma-singletary-evans-funeral-memorial",
+  "type": "obituary",
+  "title": "1984 Funeral Memorial of Emma Singletary Evans",
+  "people": [
+    "emma-singletary-1895"
+  ],
+  "date": "1984-04-30",
+  "location": "Live Oak, Suwannee County, Florida",
+  "description": "Funeral memorial prepared for Emma Singletary Evans (August 24, 1895 – April 28, 1984). The memorial identifies her surviving children as Grace Lassiter, Ernest Evans, and Fred Evans. Her surviving siblings were listed as Sallie Spies, Giddy Singletary, Jammie Singletary, and Jasper Singletary. It also records ten grandchildren and twenty-five great-grandchildren. Funeral services were scheduled for Monday, April 30, 1984, at 3:00 p.m. at Westwood Baptist Church in Live Oak, Florida, with Reverend Lorace Cothron officiating. Interment was designated for Live Oak Cemetery, with arrangements handled by Harris Funeral Home. The memorial provides additional evidence for the identity of Emma's brother Jammie Singletary, whose name appears as Sammy in the newspaper obituary.",
+  "supports": [
+    "Emma Singletary Evans born August 24, 1895",
+    "Emma Singletary Evans died April 28, 1984",
+    "Grace Lassiter identified as Emma's daughter",
+    "Ernest Evans and Fred Evans identified as Emma's sons",
+    "Sallie Spies identified as Emma's sister",
+    "Giddy, Jammie, and Jasper Singletary identified as Emma's brothers",
+    "Emma had ten grandchildren and twenty-five great-grandchildren",
+    "Funeral services scheduled April 30, 1984, at Westwood Baptist Church",
+    "Reverend Lorace Cothron identified as the officiating minister",
+    "Interment designated for Live Oak Cemetery",
+    "Harris Funeral Home identified as responsible for funeral arrangements"
+  ],
+  "documents": [
+    "1984_emma_singletary_evans_funeral_memorial.jpg"
+  ]
+}
 ]

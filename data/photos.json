@@ -779,5 +779,18 @@
   "location": "Bethel Creek Baptist Church Cemetery, Lafayette County, Florida",
   "description": "Gravestone commemorating Sallie Singletary Spies, daughter of Reverend Jacob A. Singletary and Ida Alla Miller. The inscription records her birth on August 24, 1892, and death on May 21, 1986. These dates agree with her Florida death certificate, which also confirms her burial at Bethel Creek Cemetery.",
   "file": "sallie_singletary_spies_gravestone.jpg"
+},
+{
+  "id": "emma-singletary-evans-gravestone",
+  "type": "grave",
+  "people": [
+    "emma-singletary-1895"
+  ],
+  "title": "Gravestone of Willie and Emma Singletary Evans",
+  "caption": "Shared gravestone of Willie Evans (July 9, 1887 – October 7, 1971) and Emma Singletary Evans (August 24, 1895 – April 28, 1984).",
+  "date": "",
+  "location": "Live Oak Cemetery, Live Oak, Suwannee County, Florida",
+  "description": "Photograph of the shared gravestone of Willie Evans and his wife, Emma Singletary Evans. The inscription records Willie's birth on July 9, 1887, and death on October 7, 1971, and Emma's birth on August 24, 1895, and death on April 28, 1984. Emma's burial at Live Oak Cemetery is also documented in her 1984 obituary and funeral memorial. The photograph is credited to Alton and Loudonia, January 2012.",
+  "file": "emma_singletary_evans_gravestone.jpg"
 }
 ]
