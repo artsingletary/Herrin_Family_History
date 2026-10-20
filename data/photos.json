@@ -285,8 +285,8 @@
 },
 {
     "id": "william-m-williams-gravestone",
-    "file": "william_m_williams_gravestone.jpg",
     "type": "grave",
+    "file": "william_m_williams_gravestone.jpg",
     "caption": "Gravestone of Private William M. Williams, Company K, 26th Georgia Infantry, Confederate Army.",
     "people": [
         "william-williams-1843"
@@ -316,8 +316,8 @@
 },
 {
     "id": "william-levi-herrin-laura-palmer-gravestone",
-    "file": "william_levi_herrin_laura_etta_palmer_gravestone.jpg",
     "type": "grave",
+    "file": "william_levi_herrin_laura_etta_palmer_gravestone.jpg",
     "caption": "Gravestones of William Levi Herrin (May 4, 1892 – March 12, 1975) and Laura E. Palmer (June 25, 1898 – July 3, 1959).",
     "people": [
         "william-levi-herrin-1892",
@@ -327,8 +327,8 @@
 },
 {
     "id": "shelby-jean-herrin-gravestone",
-    "file": "shelby_jean_herrin_gravestone.jpg",
     "type": "grave",
+    "file": "shelby_jean_herrin_gravestone.jpg",
     "caption": "Gravestone of Shelby Jean Herrin Freeman (1939–1978), Woodlawn Cemetery, Perry, Florida. The graves of her parents, William Levi Herrin and Laura Etta Palmer, are visible in the background.",
     "people": ["shelby-jean-herrin-1939"],
     "location": "Woodlawn Cemetery, Perry, Taylor County, Florida"
@@ -380,8 +380,8 @@
 },
 {
     "id": "james-talmadge-herrin-gravestone",
-    "file": "james_talmadge_herrin_gravestone.jpg",
     "type": "grave",
+    "file": "james_talmadge_herrin_gravestone.jpg",
     "caption": "Military gravestone of James Talmadge Herrin (1919–1986), U.S. Army veteran of World War II, Woodlawn Cemetery, Perry, Florida.",
     "people": [
         "james-talmage-herrin-1919"
@@ -433,8 +433,8 @@
 },
 {
     "id": "linda-miller-gravestone",
-    "file": "linda_miller_gravestone.jpg",
     "type": "grave",
+    "file": "linda_miller_gravestone.jpg",
     "caption": "Gravestone of Linda Miller (December 13, 1953 – January 8, 2020) at Woodlawn Cemetery in Perry, Florida. The marker bears the inscription 'Much Love.' Linda is buried beside her mother, Mary Lou Herrin.",
     "people": [
         "linda-miller-1953"
@@ -443,8 +443,8 @@
 },
 {
     "id": "frank-mathis-gravestone",
-    "file": "frank_mathis_gravestone.jpg",
     "type": "grave",
+    "file": "frank_mathis_gravestone.jpg",
     "caption": "Gravestone of Frank Mathis (April 30, 1907 – July 22, 1969) at Mount Pleasant Cemetery in Chattahoochee, Florida. The marker bears the inscription 'Daddy.'",
     "people": [
         "frank-mathis-1907"

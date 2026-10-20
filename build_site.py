@@ -237,7 +237,7 @@ environment.filters["format_date"] = format_date
 index_template = environment.get_template("index.html")
 person_template = environment.get_template("person.html")
 family_template = environment.get_template("family.html")
-
+gallery_template = environment.get_template("photos.html")
 
 # --------------------------------------------------
 # Create output folders
@@ -331,6 +331,61 @@ for family in family_pages:
 
     with open(family_file, "w", encoding="utf-8") as file:
         file.write(html)
+
+
+# --------------------------------------------------
+# Generate Family Photo Gallery
+# --------------------------------------------------
+
+gallery_photos = []
+
+for photo in photos:
+    gallery_photo = photo.copy()
+
+    # Identify people associated with the photograph
+    photo_people = [
+        people_by_id[person_id]
+        for person_id in photo.get("people", [])
+        if person_id in people_by_id
+    ]
+
+    gallery_photo["people_details"] = photo_people
+
+    # Determine which family lines the photo belongs to
+    family_lines = set()
+
+    for person in photo_people:
+        family_lines.update(person.get("family_lines", []))
+
+    gallery_photo["family_lines"] = sorted(family_lines)
+
+    gallery_photos.append(gallery_photo)
+
+
+# --------------------------------------------------
+# Sort gallery photographs
+# Regular photographs first, gravestones last
+# --------------------------------------------------
+
+gallery_photos.sort(
+    key=lambda photo: (
+        photo.get("type") == "grave",
+        (photo.get("title") or "").casefold()
+    )
+)
+
+
+# Render the gallery page
+html = gallery_template.render(
+    gallery_photos=gallery_photos
+)
+
+gallery_file = OUTPUT_DIR / "photos.html"
+
+with open(gallery_file, "w", encoding="utf-8") as file:
+    file.write(html)
+
+
 
 # --------------------------------------------------
 # Generate individual person pages

@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/css/style.css">
+    <title>Family Photos | Singletary-Herrin Family Archive</title>
+</head>
+<body>
+
+    <header>
+        <h1>Singletary-Herrin Family Archive</h1>
+        <p>Preserving our family's photographs and memories.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="#">Family Tree</a>
+        <a href="photos.html">Photos</a>
+        <a href="#">Stories</a>
+        <a href="#">Documents</a>
+        <a href="#">Reunions</a>
+    </nav>
+
+    <main>
+        <h2>Family Photo Gallery</h2>
+
+        <p>
+            Explore photographs from the Singletary and Herrin
+            families, including family portraits, historical
+            photographs, and gravestones.
+        </p>
+
+
+        <div class="gallery-filters">
+            <button type="button" class="active" data-filter="all" aria-pressed="true">All Photos</button>
+            <button type="button" data-filter="singletary" aria-pressed="false">Singletary Family</button>
+            <button type="button" data-filter="herrin" aria-pressed="false">Herrin Family</button>
+        </div>
+
+
+        <div class="photo-gallery">
+            {% for photo in gallery_photos %}
+            <article class="gallery-item"
+                     data-families="{{ photo.family_lines | join(' ') }}">
+
+                <a href="photos/{{ photo.file }}" target="_blank"
+                   rel="noopener noreferrer">
+                    <img src="photos/{{ photo.file }}"
+                         alt="{{ photo.title }}"
+                         loading="lazy">
+                </a>
+
+                {% if photo.title %}
+                    <h3>{{ photo.title }}</h3>
+                {% elif photo.people_details %}
+                    <h3>
+                        {% for person in photo.people_details %}
+                            {{ person.display_name }}{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                    </h3>
+                {% else %}
+                    <h3>Family Photograph</h3>
+                {% endif %}
+
+                {% if photo.caption %}
+                    <p>{{ photo.caption }}</p>
+                {% endif %}
+
+                {% if photo.people_details %}
+                <p>
+                    People:
+                    {% for person in photo.people_details %}
+                    <a href="people/{{ person.id }}.html">
+                        {{ person.display_name }}
+                    </a>{% if not loop.last %}, {% endif %}
+                    {% endfor %}
+                </p>
+                {% endif %}
+
+            </article>
+            {% endfor %}
+        </div>
+    </main>
+
+    <footer>
+        <p>Singletary-Herrin Family Archive</p>
+    </footer>
+
+
+    <script>
+        const buttons = document.querySelectorAll("[data-filter]");
+        const items = document.querySelectorAll(".gallery-item");
+
+        buttons.forEach(button => {
+            button.addEventListener("click", () => {
+                const filter = button.dataset.filter;
+
+                // Highlight the selected filter
+                buttons.forEach(btn => {
+                    const selected = btn === button;
+                    btn.classList.toggle("active", selected);
+                    btn.setAttribute("aria-pressed", String(selected));
+                });
+
+                // Show photographs matching the selected family
+                items.forEach(item => {
+                    const families = item.dataset.families.split(" ");
+
+                    item.hidden = filter !== "all" &&
+                              !families.includes(filter);
+                });
+        });
+    });
+</script>
+
+</body>
+</html>
