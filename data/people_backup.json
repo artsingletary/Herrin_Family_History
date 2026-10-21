@@ -211,7 +211,7 @@
       "Mary has not been positively identified in the 1920 census records examined during this research. Her absence from the household, together with the residence of her two youngest daughters with their older brother, provides circumstantial evidence that she may have died sometime between 1910 and 1920. It is also possible that her death occurred around the time of John's probable death in 1911, although no documentary evidence has been found to establish this. Other explanations for her absence from the household, including remarriage or residence elsewhere, cannot be ruled out. Despite efforts to locate a death certificate or other contemporary record, Mary's date and circumstances of death remain unknown.",
       "Mary Eveline Bryant Singletary and John Vershal Singletary are buried at Bethel Creek Baptist Church Cemetery, formerly known as Bell's Mill Creek Cemetery, in Day, Lafayette County, Florida. Their original grave markers remain at the cemetery, although the inscriptions have deteriorated considerably. A cemetery survey conducted in May 1968 by Moseley and Verrill identified Mary Eveline Singletary as the wife of John V. Singletary but recorded no birth or death dates for her. The survey provides valuable historical documentation of the cemetery inscriptions before further deterioration occurred. A photograph of Mary's original gravestone taken in spring 2026 shows that the inscription is now extremely difficult to read.",
       "In 2011, their great-grandson Arthur Singletary Sr. installed an additional shared headstone commemorating John and Mary. The death dates inscribed on this newer memorial reflect family research and have not been independently verified through contemporary records. The original grave markers, the 1968 cemetery survey, and the additional memorial together preserve important evidence of the family's burial history while also illustrating the uncertainties that remain concerning John and Mary's deaths."
-  ]
+    ]
   },
   {
     "id": "myram-bryant-1860",
@@ -354,6 +354,38 @@
       "John S. George was married to Evelyn Herrin.",
       "Florida divorce records identify Evelyn Y. George and John S. George as divorcing in Pinellas County, Florida, in October 1968. The divorce was recorded under certificate number 25814.",
       "John's birth and death dates have not yet been established."
+    ]
+  },
+  {
+    "id": "rachel-griffin-1850",
+    "first_name": "Rachel",
+    "middle_name": "",
+    "last_name": "Griffin",
+    "display_name": "Rachel Griffin Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1850,
+    "birth_place": "Georgia",
+    "death_date": "1935-06-28",
+    "death_year": 1935,
+    "death_place": "Ochlocknee, Thomas County, Georgia",
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "silas-p-singletary-1835"
+    ],
+    "biography": [
+      "Rachel Griffin was born in Georgia around March 1850. In August 1850, she was enumerated in District 81 of Thomas County, Georgia, in the household of John and Eliza Griffin. The census recorded her age as five months. Her 1935 death certificate independently identifies John Griffin as her father, providing additional evidence connecting Rachel to this household.",
+      "On October 14, 1869, Rachel married Simon P. Singletary in Decatur County, Georgia. Their marriage is documented in the original county marriage register. Her husband appears in other historical records as Silas P. Singletary and S. P. Singletary.",
+      "In 1870, Rachel was living in Decatur County, Georgia, in the household of Jacob Singletary. The federal census recorded her as eighteen years old. Her presence alongside Silas Singletary, whom she had married the previous year, provides additional evidence connecting the marriage record to the Singletary family.",
+      "By June 1900, Rachel and Silas were living in Thomas County, Georgia. The federal census identified Rachel as Silas's wife and recorded four children in their household: Emma P., Mary, Robert, and Dollie Singletary.",
+      "Rachel's husband, Silas P. Singletary, died on January 10, 1915, according to his burial record. He was buried at Springhill Christian Church Cemetery near Ochlocknee, Thomas County, Georgia.",
+      "In 1916, Rachel applied for a Confederate widow's pension in Thomas County, Georgia, based on her late husband's military service. Her application, preserved in the Georgia Archives, identifies her husband as S. P. Singletary and provides information about their marriage. The pension documents also contain a handwritten statement concerning differences in recollections of the couple's marriage. Their marriage is independently documented in the original Decatur County marriage register dated October 14, 1869.",
+      "Rachel died on June 28, 1935, in Ochlocknee, Thomas County, Georgia. Her Georgia death certificate records her age as ninety-five, suggesting a birth around 1840. However, the 1850 federal census recorded her as five months old, suggesting a birth around March 1850. The earlier census provides stronger evidence for her approximate birth year, although the discrepancy remains unresolved.",
+      "Rachel's death certificate identifies her father as John Griffin and records a mother's maiden name that has not yet been conclusively deciphered. The certificate lists chronic nephritis and senility among the causes of death. Rachel was buried on June 29, 1935, at Springhill Cemetery near Ochlocknee, Georgia."
     ]
   },
   {
@@ -1221,6 +1253,35 @@
     ]
   },
   {
+    "id": "ida-alla-miller-1873",
+    "first_name": "Ida",
+    "middle_name": "Alla",
+    "last_name": "Miller",
+    "display_name": "Ida Alla Miller Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": "1873-05-28",
+    "birth_year": 1873,
+    "birth_place": null,
+    "death_date": "1945-10-16",
+    "death_year": 1945,
+    "death_place": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "jacob-a-singletary-1852"
+    ],
+    "biography": [
+      "Ida Alla Miller was born on May 28, 1873, according to her gravestone. Her birthplace and parents have not yet been established.",
+      "On April 16, 1890, Ida married Jacob A. Singletary in Lafayette County, Florida. Their original marriage record identifies the bride as Ida Alla Miller and the groom as Jacob A. Singletary. The marriage ceremony was performed by D. H. Ward, and the license was filed for record on April 26, 1890.",
+      "Ida was sixteen years old at the time of her marriage, based on the birth date recorded on her gravestone. Jacob was thirty-eight years old.",
+      "Her husband, Jacob A. Singletary, was a minister and is identified as Reverend Jacob Singletary on their shared gravestone.",
+      "Ida died on October 16, 1945. Her gravestone identifies her as Ally Ida Singletary, a variation of the name recorded in her marriage record. She is commemorated alongside her husband at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida."
+    ]
+  },
+  {
     "id": "linda-miller-1953",
     "first_name": "Linda",
     "middle_name": null,
@@ -1467,6 +1528,37 @@
     ]
   },
   {
+    "id": "eliza-singletary",
+    "first_name": "Eliza",
+    "middle_name": "",
+    "last_name": "Singletary",
+    "display_name": "Eliza L. Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": null,
+    "birth_place": "South Carolina",
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "jacob-singletary-1801"
+    ],
+    "biography": [
+      "Eliza Singletary was born in South Carolina, although her exact birth date and maiden name have not been established. Historical records identify her as Eliza B. Singletary, Eliza Singletary, and Elizabeth Singletary. Her gravestone appears to identify her as Eliza L. Singletary. The differences in her recorded name and age have not been fully resolved.",
+      "In 1850, Eliza was living in Sumter District, South Carolina, in the household of Jacob Singletary, a farmer. The federal census recorded her as Eliza B. Singletary, age thirty-five. The household also included Silas P., Sarah R., Mary E., George M., Jane H., and Samuel J. Singletary.",
+      "By 1860, the family had relocated to Decatur County, Georgia. The federal census recorded Eliza as thirty-four years old and born in South Carolina. The household included several individuals previously recorded in South Carolina, along with John Singletary, age eight, and a younger Jacob Singletary, age seven, both born in Georgia.",
+      "In 1870, Eliza appears to have been recorded as Elizabeth Singletary, age forty-five, in the household of Jacob Singletary in Decatur County, Georgia. Other household members included Silas, Rachel, Sarah A., Mary E., John, and a younger Jacob Singletary.",
+      "By June 1880, Eliza was living in Lafayette County, Florida, where the federal census identified her as head of household, age fifty-four. Her household included Sarah Singletary, Mary E. Singletary, John V. Singletary, and Jacob Singletary. The record provides evidence that members of the family had moved from Georgia to northern Florida.",
+      "In 1900, Eliza was living in Lafayette County, Florida, in a household associated with William Johnson and Sarah Singletary Johnson. The census recorded her birth as May 1812 and her age as eighty-eight. These details conflict with several earlier census records, particularly those from 1860, 1870, and 1880, which suggest a birth around 1825–1826.",
+      "Eliza is buried at Bell's Mill Creek Cemetery, now known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida. Her gravestone bears the inscription 'ELIZA L. SINGLETARY / MOTHER OF / J. A. SINGLETARY / AT REST.' The inscription identifies her middle initial as L., although the 1850 federal census recorded her as Eliza B. Singletary. The identity of J. A. Singletary has not been conclusively established. The gravestone contains no birth or death dates, and Eliza's exact date of death remains unknown."
+    ]
+  },
+  {
     "id": "emory-dewey-singletary-1945",
     "first_name": "Emory",
     "middle_name": "Dewey",
@@ -1519,6 +1611,73 @@
       }
     ],
     "biography": []
+  },
+  {
+    "id": "jacob-singletary-1801",
+    "first_name": "Jacob",
+    "middle_name": null,
+    "last_name": "Singletary",
+    "display_name": "Jacob Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1801,
+    "birth_place": "South Carolina",
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "eliza-singletary"
+    ],
+    "biography": [
+      "Jacob Singletary was born in South Carolina around 1800–1804, according to information recorded in the United States federal censuses of 1850, 1860, and 1870. His exact birth date and the identities of his parents have not been established.",
+      "In 1850, Jacob was living in Sumter District, South Carolina, where the federal census recorded him as fifty years old and employed as a farmer. His household included Eliza B. Singletary, age thirty-five, and six younger family members: Silas P., Sarah R., Mary E., George M., Jane H., and Samuel J. Singletary.",
+      "By 1860, Jacob and his family had relocated to the 19th District of Decatur County, Georgia. The federal census recorded Jacob as fifty-six years old and born in South Carolina. His household included Eliza, Silas, Sarah, Mary, George, Harrietta, Samuel, John, and a younger Jacob Singletary. The birthplaces recorded for the younger household members suggest that the family moved from South Carolina to Georgia during the early 1850s.",
+      "The 1860 census included John Singletary, age eight, born in Georgia. John also appeared in Jacob's household in 1870. These records provide strong evidence connecting John Vershal Singletary to Jacob's family, although the censuses themselves do not explicitly identify their relationship.",
+      "In 1870, Jacob was living in District 720, also identified as the Jones District, in Decatur County, Georgia. The federal census recorded him as sixty-nine years old and born in South Carolina. His household included Elizabeth Singletary, Silas, Rachel, Sarah A., Mary E., John, and a younger Jacob Singletary.",
+      "Jacob's whereabouts after 1870 have not been established. By 1880, Eliza Singletary was living in Lafayette County, Florida, as head of a household that included John V. Singletary and other family members. Jacob's exact date and place of death remain unknown."
+    ]
+  },
+  {
+    "id": "jacob-a-singletary-1852",
+    "first_name": "Jacob",
+    "middle_name": "A.",
+    "last_name": "Singletary",
+    "display_name": "Rev. Jacob A. Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": "1852-03-15",
+    "birth_year": 1852,
+    "birth_place": "Bainbridge, Decatur County, Georgia",
+    "death_date": "1931-05-14",
+    "death_year": 1931,
+    "death_place": "Lafayette County, Florida",
+    "father": "jacob-singletary-1801",
+    "mother": "eliza-singletary",
+    "spouses": [
+      "ida-alla-miller-1873"
+    ],
+    "biography": [
+      "Reverend Jacob A. Singletary was born on March 15, 1852, reportedly in Bainbridge, Decatur County, Georgia, the son of Jacob Singletary and Eliza Singletary. His birth date is recorded on his gravestone, while his 1931 Florida death certificate confirms March 1852, although the handwritten day is difficult to distinguish. His birthplace is specifically identified as Bainbridge, Georgia, on the June 5, 1918, World War I draft registration completed by his son, William Robert Singletary. Jacob's death certificate independently identifies Georgia as his state of birth. Although no contemporary birth record has been located, the available evidence supports Bainbridge as his probable birthplace.",
+      "Jacob's parents were living in Sumter District, South Carolina, when the 1850 United States Federal Census was recorded. By 1860, the family had relocated to Decatur County, Georgia, where Jacob appeared in his parents' household at approximately seven years of age. The family's presence in Decatur County during his childhood is consistent with the birthplace reported by his son many years later.",
+      "In the 1870 United States Federal Census, Jacob was again enumerated in Decatur County, Georgia, in the household of his father, Jacob Singletary. By 1880, the family had relocated to Lafayette County, Florida, where Jacob was recorded as twenty years old in the household headed by his mother, Eliza Singletary. His reported age in the 1880 census differs from the birth year recorded on his gravestone and death certificate.",
+      "Jacob became a Baptist minister and was identified as Reverend Jacob Singletary on his gravestone. On January 30, 1890, Elder J. A. Singletary performed the marriage ceremony of William Johnson and Sarah R. Singletary in Lafayette County, Florida. Sarah was Jacob's sister, and the officiant was probably Reverend Jacob A. Singletary, although this identification has not been conclusively established.",
+      "On April 16, 1890, Jacob A. Singletary married Ida Alla Miller in Lafayette County, Florida. Their original marriage records identify Redden B. Hill as the county judge who issued the license and D. H. Ward as the person who performed the ceremony. The marriage was filed for record on April 26, 1890. Ida was born on May 28, 1873, according to their shared gravestone. Her name appears as Ida Alla Miller in the marriage record and as Ally Ida Singletary on the gravestone.",
+      "Jacob and Ida established their family in Lafayette County, Florida, where they raised at least eight children: Eliza E. Singletary, later Eliza Bell; Sarah 'Sallie' Singletary, later Sallie Spies; William Robert Singletary (1894–1961); Emma Singletary, later Emma Evans; Henry Singletary; Giddy Singletary; Jamie Singletary; and Jasper Singletary. Their identities are supported by federal census records and the February 1961 obituary of William Robert Singletary, which identifies seven surviving brothers and sisters. The available records have not yet established complete birth and death dates for all of the children.",
+      "The 1900 United States Federal Census records Jacob and Ida living in Lafayette County with five children: Eliza E., Sarah, Robert, Emma, and Henry. Robert, later identified as William Robert Singletary, was recorded as born in May 1894. Subsequent records contain conflicting information about his birth year, including a May 3, 1897, date on his 1918 draft registration. His death certificate and gravestone record May 3, 1894.",
+      "In April 1910, Jacob and Ida were living in Precinct 1 of Lafayette County, Florida, with several of their children, including Robert, Henry, Giddy, and Jamie. The same census page also records the household of Jacob's brother, John Vershal Singletary, and his family. Their appearance on the same enumeration page suggests that the two brothers and their families continued living in the same general community, although it does not establish that their homes were immediately adjacent.",
+      "The 1920 United States Federal Census records Jacob, age sixty-eight, and Ida, age forty-six, living in Lafayette County with six children: Sallie, Robert, Henry, Jasper, Jamie, and Giddie. This census provides important evidence for the younger sons, particularly Jasper, who was subsequently identified as a surviving brother in William Robert Singletary's 1961 obituary.",
+      "By the 1930 United States Federal Census, Jacob and Ida were still living in the Day community of Lafayette County. Jacob was recorded as approximately seventy-six years old and continued working as a farmer. Their household included several adult children, among them William Robert, Henry, Jamie, and Giddie. The census recorded William Robert, Henry, and Jamie as sawmill laborers, while Giddie worked as a farm laborer. The household was enumerated on April 7, 1930, approximately thirteen months before Jacob's death.",
+      "Jacob's occupation was also recorded as farmer on his Florida death certificate. He died on May 14, 1931, in Lafayette County, Florida, at the age of seventy-nine. His death certificate records heart trouble as the cause of death. His parents' names were not provided by the informant, but their identities are established through earlier census records.",
+      "Reverend Jacob A. Singletary was buried at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, near Day in Lafayette County, Florida. His shared gravestone records his birth on March 15, 1852, and death on May 14, 1931. The same marker commemorates his wife, Ally Ida Singletary, who was born on May 28, 1873, and died on October 16, 1945.",
+      "Following Jacob's death, Ida continued living in Lafayette County. The 1940 United States Federal Census records her as a sixty-six-year-old widow living with their sons Robert, Henry, and Giddy, and their widowed daughter Sally Spies. This record documents the family's continued presence in the community nearly a decade after Jacob's death and five years before Ida's death."
+    ]
   },
   {
     "id": "james-loyd-singletary-1955",
@@ -1625,6 +1784,138 @@
     ]
   },
   {
+    "id": "mary-e-singletary-1842",
+    "first_name": "Mary",
+    "middle_name": "E.",
+    "last_name": "Singletary",
+    "display_name": "Mary E. Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1842,
+    "birth_place": "South Carolina",
+    "death_date": null,
+    "death_year": null,
+    "death_place": null,
+    "father": "jacob-singletary-1801",
+    "mother": "eliza-singletary",
+    "spouses": [],
+    "biography": [
+      "Mary E. Singletary was born in South Carolina, probably in August 1842, according to the 1900 United States Federal Census. She was a daughter of Jacob and Eliza Singletary.",
+      "Mary first appears in the 1850 United States Federal Census in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. She was recorded as eight years old.",
+      "By 1860, Mary was living with the Singletary household in Decatur County, Georgia. The census recorded her as fourteen years old.",
+      "In 1870, Mary E. Singletary was enumerated in District 720 of Decatur County, Georgia, in the household of Jacob Singletary. Her age was recorded as twenty-three.",
+      "By 1880, Mary had moved to Lafayette County, Florida. She was enumerated in the household headed by Eliza Singletary, along with Sarah R., John V., and Jacob Singletary. Mary was recorded as twenty-two years old. Her reported age differs substantially from the ages recorded in earlier census records.",
+      "In 1900, Mary was living in Lafayette County, Florida, in the household of William and Sarah Johnson. She was identified as William's sister-in-law, while Eliza Singletary was identified as his mother-in-law. The census recorded Mary's birth as August 1842 and her marital status as single. These household relationships provide strong evidence that Mary and Sarah were sisters and that Eliza was their mother.",
+      "Mary's whereabouts after the 1900 census have not yet been established. No confirmed death record or burial location has been identified."
+    ]
+  },
+  {
+    "id": "sarah-sallie-singletary-1892",
+    "first_name": "Sallie",
+    "middle_name": "Sarah",
+    "last_name": "Singletary",
+    "display_name": "Sallie Sarah Singletary Spies",
+    "family_lines": [
+      "singletary"
+    ],
+    "birth_year": 1892,
+    "birth_date": "1892-08-24",
+    "birth_place": "Florida",
+    "death_year": 1986,
+    "death_date": "1986-05-21",
+    "death_place": "Live Oak, Suwannee County, Florida",
+    "father": "jacob-a-singletary-1852",
+    "mother": "ida-alla-miller-1873",
+    "spouses": [],
+    "biography": [
+      "Sallie Sarah Singletary Spies was born on August 24, 1892, in Florida, the daughter of Reverend Jacob A. Singletary (1852–1931) and Ida Alla Miller Singletary (1873–1945). Her gravestone and Florida death certificate agree on her birth date. Although she appears as Sarah in early census records and Sallie in later records, her 1986 death certificate identifies her as Sallie Sarah Spies. Her obituary identifies her as a native of Lafayette County, Florida, where she spent much of her life.",
+      "Sallie grew up in Lafayette County, Florida, where her father worked as a farmer and was also identified as a minister. The 1900 United States Federal Census records her in her parents' household, with her birth listed as August 1892. Her siblings in the household included Eliza E., William Robert, Emma, and Henry Singletary.",
+      "Sallie continued living in Lafayette County during her childhood and early adulthood. She appears in her parents' household in the 1910 and 1920 federal censuses. The 1920 census records her as twenty-three years old, although her established birth date indicates that she was twenty-seven at the time. Such differences in reported ages occur elsewhere in the family's census records.",
+      "On May 2, 1920, Sallie Singletary married Horace W. Spies in Lafayette County, Florida. Their original marriage license was issued on May 1, 1920, by County Judge Hall W. Adams at the courthouse in Mayo. The marriage ceremony was performed the following day by J. J. Fannell, M.G., with J. R. Banks and Will Evans serving as witnesses. The marriage was filed and recorded on June 2, 1920, in Lafayette County Marriage License Record E, page 459.",
+      "The 1930 United States Federal Census appears to list Sallie in the household of her parents, Jacob and Ida Singletary, in the Day community of Lafayette County. She was recorded under the Singletary surname and apparently identified as single, despite her documented marriage to Horace Spies ten years earlier. The reason for this discrepancy has not been established. It is possible that the marriage had already ended or that the census information was recorded incorrectly, but neither explanation has been confirmed.",
+      "Following the death of her father on May 14, 1931, Sallie continued living in the Lafayette County community. The 1940 United States Federal Census records Sally Spies, age forty-seven, living in the household of her widowed mother, Ida Singletary. Her brothers Robert, Henry, and Giddy were also members of the household. Sallie was recorded as widowed, although her 1986 Florida death certificate later identified her marital status as divorced. The circumstances surrounding the end of her marriage to Horace W. Spies remain uncertain, and no divorce record or death record for Horace has yet been established.",
+      "Sallie remained connected to her siblings throughout her adult life. She was identified as a surviving sister in the February 1961 obituary of her brother William Robert Singletary. The obituary listed Mrs. Sally Spies of Lafayette County, Florida, along with her sisters Eliza Bell and Emma Evans and brothers Henry, Giddy, Jamie, and Jasper Singletary. This record confirms that she continued using the Spies surname more than forty years after her marriage.",
+      "In her later years, Sallie lived in Live Oak, Suwannee County, Florida. Her 1986 Florida death certificate records her usual residence as 1120 Helvenston in Live Oak and lists her occupation as homemaker. She was also a member of Bethel Creek Baptist Church, reflecting her continued association with the Lafayette County community where she had grown up and where several members of her family were buried.",
+      "Sallie died on Wednesday, May 21, 1986, at Suwannee County Hospital in Live Oak, Florida, following a long illness. She was ninety-three years old. Her Florida death certificate identifies her parents as Jacob Singletary and Ida Miller and records her marital status as divorced. The informant was Gid Singletary of Mayo, Florida.",
+      "Her obituary, published in The Florida Times-Union on May 23, 1986, identifies her as Sallie Singletary Spies, age ninety-three, of Live Oak. It describes her as a native of Lafayette County, a homemaker, and a member of Bethel Creek Baptist Church. The obituary identifies her surviving brother as Gid Singletary of Mayo, Florida. This provides additional evidence that Gid was the brother identified as Giddy or Giddie Singletary in earlier census records and in William Robert Singletary's 1961 obituary. Although the obituary names no other surviving siblings, their death dates must be established through separate records.",
+      "Funeral services were scheduled for 3:00 p.m. on May 23, 1986, at Bethel Creek Baptist Church, followed by burial in the church cemetery. Daniels Funeral Home of Live Oak was responsible for the arrangements. Sallie's gravestone at Bethel Creek Baptist Church Cemetery identifies her as Sallie Singletary Spies and records her birth on August 24, 1892, and death on May 21, 1986. These dates agree with her Florida death certificate."
+    ]
+  },
+  {
+    "id": "sarah-r-singletary-1840",
+    "first_name": "Sarah",
+    "middle_name": "R.",
+    "last_name": "Singletary",
+    "display_name": "Sarah R. Singletary Johnson",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1840,
+    "birth_place": "South Carolina",
+    "death_date": "1907-10-31",
+    "death_year": 1907,
+    "death_place": "Day, Lafayette County, Florida",
+    "father": "jacob-singletary-1801",
+    "mother": "eliza-singletary",
+    "spouses": [],
+    "biography": [
+      "Sarah R. Singletary was born in South Carolina around 1840. She was enumerated in the 1850 United States Federal Census in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. The census recorded her as ten years old.",
+      "By 1860, Sarah had moved with the Singletary household to Decatur County, Georgia. The federal census recorded her as nineteen years old.",
+      "In 1870, Sarah was enumerated in District 720 of Decatur County, Georgia, in the household of Jacob Singletary. The census recorded her name as Sarah A. Singletarry, age twenty-five, born in South Carolina. Earlier census records identified her as Sarah R. Singletary. The variation in her middle initial remains unresolved, although her 1890 marriage record later identified her as S. R. A. Singletary.",
+      "On January 30, 1890, Sarah married William Johnson in Lafayette County, Florida. Their marriage license was issued on January 28, and the ceremony was performed by Elder J. A. Singletary, believed to be Sarah's brother, Reverend Jacob A. Singletary. The marriage was officially recorded on February 3, 1890. The original marriage record identifies the bride as Miss S. R. A. Singletary, providing additional evidence of her middle initials. Although she is identified as Sarah Ann Singletary in FamilySearch, her full middle names have not yet been independently established.",
+      "In 1900, Sarah was living in Lafayette County, Florida, with her husband, William Johnson. The federal census recorded her birth as March 1840 and her age as sixty. Her mother, Eliza Singletary, and sister, Mary Singletary, were also members of the household. Sarah was recorded as having given birth to no children, with none living. Interestingly, both Sarah and William were recorded as having been married for thirty years, suggesting a marriage around 1870. However, their original marriage record documents a ceremony on January 30, 1890. The reason for this discrepancy remains unresolved.",
+      "Sarah died on October 31, 1907, in Day, Lafayette County, Florida. Her death certificate records her birth year as 1840, identifies her husband as William Johnson, and gives her father's surname as Singletary. The certificate lists paralysis of the heart as the cause of death. Her husband, William Johnson, served as the informant, establishing that he was still living at the time of her death. The certificate records her burial location as Day, Florida, but does not identify a cemetery. Bethel Creek Baptist Church Cemetery, where her mother Eliza Singletary is buried, is a possible burial location, although this has not been confirmed."
+    ]
+  },
+  {
+    "id": "silas-p-singletary-1835",
+    "first_name": "Silas",
+    "middle_name": "P.",
+    "last_name": "Singletary",
+    "display_name": "Silas P. Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "profile_photo": null,
+    "birth_date": null,
+    "birth_year": 1835,
+    "birth_place": "South Carolina",
+    "death_date": "1915-01-10",
+    "death_year": 1915,
+    "death_place": null,
+    "father": "jacob-singletary-1801",
+    "mother": "eliza-singletary",
+    "spouses": [
+      "rachel-griffin-1850"
+    ],
+    "military_service": [
+      {
+        "branch": "Confederate States Army",
+        "conflict": "American Civil War",
+        "rank": "Private",
+        "unit": "Company A, 59th Georgia Infantry Regiment",
+        "enlistment_date": null,
+        "discharge_date": null
+      }
+    ],
+    "biography": [
+      "Silas P. Singletary was born in South Carolina, probably in March 1835. Both the 1900 United States Federal Census and a burial record report his birth as March 1835. However, federal census records from 1850, 1860, and 1870 consistently suggest a birth around 1839. His exact birth date has not been conclusively established.",
+      "In 1850, Silas was living in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. The federal census recorded him as eleven years old.",
+      "By 1860, Silas had moved with the Singletary household to Decatur County, Georgia. The census recorded him as twenty-one years old and born in South Carolina. The household included Jacob, Eliza, and several younger family members.",
+      "During the American Civil War, Silas P. Singletary served in the Confederate Army. The National Archives' Index to Compiled Service Records of Confederate Soldiers from Georgia (publication M226) identifies an S. P. Singletary as a private in Company A of the 59th Georgia Infantry. His exact dates of military service have not been established. A Confederate widow's pension application filed by Rachel Griffin Singletary in Thomas County, Georgia, in 1916 provides additional evidence connecting this soldier to her husband, Silas P. Singletary. The original compiled military service records have not yet been examined.",
+      "On October 14, 1869, Silas married Rachel Griffin in Decatur County, Georgia. The original county marriage register records the groom's name as Simon P. Singletary, indicating that he may also have been known by that name. The marriage was performed by J. W. Oliver, a minister of the gospel. Rachel's later Confederate widow's pension application also identifies her husband as S. P. Singletary and reports their marriage in October 1869.",
+      "In 1870, Silas remained in Decatur County, Georgia, where he was enumerated in the household of Jacob Singletary. He was recorded as thirty-one years old. Rachel Griffin, whom he had married the previous year, was also recorded in the household.",
+      "By June 1900, Silas was living in Thomas County, Georgia, with his wife Rachel and four children: Emma P., Mary, Robert, and Dollie. The census recorded his birth as March 1835, consistent with the information reported in his burial record.",
+      "Silas P. Singletary died on January 10, 1915, according to a burial record. He was buried at Springhill Christian Church Cemetery in Ochlocknee, Thomas County, Georgia.",
+      "Following Silas's death, his widow, Rachel Griffin Singletary, applied for a Confederate widow's pension in Thomas County, Georgia. The application, dated in 1916, identifies her husband as S. P. Singletary and provides information about their marriage and his military service. The application also contains a handwritten statement concerning differences in recollections of the couple's marriage. Their marriage date is independently documented in the original Decatur County marriage register dated October 14, 1869."
+    ]
+  },
+  {
     "id": "viola-singletary-1908",
     "first_name": "Viola",
     "last_name": "Singletary",
@@ -1639,6 +1930,38 @@
     "biography": [
       "Viola Singletary was born around 1908 in Florida. She was the daughter of John V. Singletary and Mary Bryant Singletary.",
       "The 1910 United States Federal Census lists Viola, approximately two years old, living with her parents and siblings in Lafayette County, Florida."
+    ]
+  },
+  {
+    "id": "william-robert-singletary-1894",
+    "first_name": "William",
+    "middle_name": "Robert",
+    "last_name": "Singletary",
+    "display_name": "William Robert Singletary",
+    "family_lines": [
+      "singletary"
+    ],
+    "birth_year": 1894,
+    "birth_date": "1894-05-03",
+    "birth_place": "Florida",
+    "death_year": 1961,
+    "death_date": "1961-02-22",
+    "death_place": "Live Oak, Suwannee County, Florida",
+    "father": "jacob-a-singletary-1852",
+    "mother": "ida-alla-miller-1873",
+    "spouses": [],
+    "biography": [
+      "William Robert Singletary was born on May 3, 1894, in Florida, the son of Reverend Jacob A. Singletary (1852–1931) and Ida Alla Miller Singletary (1873–1945). He grew up in Lafayette County, Florida, where his family lived in the rural community around Day and Bethel Creek Baptist Church.",
+      "The 1900 United States Federal Census records William as Robert Singletary, living with his parents and siblings in Lafayette County. His birth was recorded as May 1894. The household included his sisters Eliza, Sarah, and Emma, and his brother Henry.",
+      "In the 1910 census, Robert was again living with his parents in Lafayette County. The household included several of his siblings, including Henry, Giddy, and Jamie. Census records from this period contain inconsistencies in the children's reported ages, which should be considered when evaluating their birth years.",
+      "On June 5, 1918, William registered for the World War I draft in Lafayette County, Florida. His registration identifies him as William Robert Singletary, living in Dowling Park, Florida, and employed by Jacob Singletary. He described himself as having brown eyes and brown hair. The registration records his birth date as May 3, 1897, three years later than the date recorded in the 1900 census, his death certificate, and his gravestone. The reason for this discrepancy is unknown.",
+      "The 1920 United States Federal Census records Robert, age 22, living with his parents in Lafayette County. In 1930, he was still living in the household of Jacob and Ida Singletary in the Day community. At that time, he was recorded as age 32 and employed as a laborer at a sawmill. These reported ages are consistent with a birth around 1897 or 1898 rather than 1894.",
+      "Following his father's death in May 1931, William continued living with his mother and several siblings. The 1940 census records Robert Singletary, age 45, in the household of his widowed mother, Ida, along with his brothers Henry and Giddy and his widowed sister Sally Spies. His reported age in 1940 is consistent with a birth in May 1894.",
+      "William's death certificate records that he was never married. No spouse or children have been identified in the records examined during this research.",
+      "William Robert Singletary died on February 22, 1961, at Suwannee County Hospital in Live Oak, Florida. His death certificate records his usual residence as Mayo, Lafayette County, Florida. The immediate cause of death was recorded as probable acute myocardial failure, associated with coronary occlusion and hypertensive cardiovascular disease. He was sixty-six years old according to his recorded birth date.",
+      "His obituary reported that funeral services were held at Bethel Creek Baptist Church, with Reverend Tom Allen officiating. William was buried on February 24, 1961, at Bethel Creek Baptist Church Cemetery in Lafayette County, Florida.",
+      "William's obituary identified seven surviving siblings: sisters Eliza Bell, Sally Spies, and Emma Evans, and brothers Henry, Giddy, Jamie, and Jasper Singletary. This obituary provides important evidence for reconstructing the children of Reverend Jacob A. Singletary and Ida Alla Miller.",
+      "William's gravestone records his birth as May 3, 1894, and his death as February 22, 1961. These dates agree with his death certificate. Although his 1918 draft registration and some census records suggest a later birth year, May 3, 1894, is retained provisionally because it is supported by the 1900 census, his death certificate, and his gravestone."
     ]
   },
   {
@@ -2030,306 +2353,98 @@
     ]
   },
   {
-  "id": "jacob-singletary-1801",
-  "first_name": "Jacob",
+  "id": "emma-singletary-1895",
+  "first_name": "Emma",
   "middle_name": null,
   "last_name": "Singletary",
-  "display_name": "Jacob Singletary",
-  "family_lines": ["singletary"],
-  "profile_photo": null,
-  "birth_date": null,
-  "birth_year": 1801,
-  "birth_place": "South Carolina",
-  "death_date": null,
-  "death_year": null,
-  "death_place": null,
-  "father": null,
-  "mother": null,
-  "spouses": ["eliza-singletary"],
-  "biography": [
-    "Jacob Singletary was born in South Carolina around 1800–1804, according to information recorded in the United States federal censuses of 1850, 1860, and 1870. His exact birth date and the identities of his parents have not been established.",
-    "In 1850, Jacob was living in Sumter District, South Carolina, where the federal census recorded him as fifty years old and employed as a farmer. His household included Eliza B. Singletary, age thirty-five, and six younger family members: Silas P., Sarah R., Mary E., George M., Jane H., and Samuel J. Singletary.",
-    "By 1860, Jacob and his family had relocated to the 19th District of Decatur County, Georgia. The federal census recorded Jacob as fifty-six years old and born in South Carolina. His household included Eliza, Silas, Sarah, Mary, George, Harrietta, Samuel, John, and a younger Jacob Singletary. The birthplaces recorded for the younger household members suggest that the family moved from South Carolina to Georgia during the early 1850s.",
-    "The 1860 census included John Singletary, age eight, born in Georgia. John also appeared in Jacob's household in 1870. These records provide strong evidence connecting John Vershal Singletary to Jacob's family, although the censuses themselves do not explicitly identify their relationship.",
-    "In 1870, Jacob was living in District 720, also identified as the Jones District, in Decatur County, Georgia. The federal census recorded him as sixty-nine years old and born in South Carolina. His household included Elizabeth Singletary, Silas, Rachel, Sarah A., Mary E., John, and a younger Jacob Singletary.",
-    "Jacob's whereabouts after 1870 have not been established. By 1880, Eliza Singletary was living in Lafayette County, Florida, as head of a household that included John V. Singletary and other family members. Jacob's exact date and place of death remain unknown."
-  ]
-},
-{
-  "id": "eliza-singletary",
-  "first_name": "Eliza",
-  "middle_name": "",
-  "last_name": "Singletary",
-  "display_name": "Eliza L. Singletary",
-  "family_lines": ["singletary"],
-  "profile_photo": null,
-  "birth_date": null,
-  "birth_year": null,
-  "birth_place": "South Carolina",
-  "death_date": null,
-  "death_year": null,
-  "death_place": null,
-  "father": null,
-  "mother": null,
-  "spouses": ["jacob-singletary-1801"],
-  "biography": [
-      "Eliza Singletary was born in South Carolina, although her exact birth date and maiden name have not been established. Historical records identify her as Eliza B. Singletary, Eliza Singletary, and Elizabeth Singletary. Her gravestone appears to identify her as Eliza L. Singletary. The differences in her recorded name and age have not been fully resolved.",
-      "In 1850, Eliza was living in Sumter District, South Carolina, in the household of Jacob Singletary, a farmer. The federal census recorded her as Eliza B. Singletary, age thirty-five. The household also included Silas P., Sarah R., Mary E., George M., Jane H., and Samuel J. Singletary.",
-      "By 1860, the family had relocated to Decatur County, Georgia. The federal census recorded Eliza as thirty-four years old and born in South Carolina. The household included several individuals previously recorded in South Carolina, along with John Singletary, age eight, and a younger Jacob Singletary, age seven, both born in Georgia.",
-      "In 1870, Eliza appears to have been recorded as Elizabeth Singletary, age forty-five, in the household of Jacob Singletary in Decatur County, Georgia. Other household members included Silas, Rachel, Sarah A., Mary E., John, and a younger Jacob Singletary.",
-      "By June 1880, Eliza was living in Lafayette County, Florida, where the federal census identified her as head of household, age fifty-four. Her household included Sarah Singletary, Mary E. Singletary, John V. Singletary, and Jacob Singletary. The record provides evidence that members of the family had moved from Georgia to northern Florida.",
-      "In 1900, Eliza was living in Lafayette County, Florida, in a household associated with William Johnson and Sarah Singletary Johnson. The census recorded her birth as May 1812 and her age as eighty-eight. These details conflict with several earlier census records, particularly those from 1860, 1870, and 1880, which suggest a birth around 1825–1826.",
-      "Eliza is buried at Bell's Mill Creek Cemetery, now known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida. Her gravestone bears the inscription 'ELIZA L. SINGLETARY / MOTHER OF / J. A. SINGLETARY / AT REST.' The inscription identifies her middle initial as L., although the 1850 federal census recorded her as Eliza B. Singletary. The identity of J. A. Singletary has not been conclusively established. The gravestone contains no birth or death dates, and Eliza's exact date of death remains unknown."
-  ]
-},
-{
-  "id": "silas-p-singletary-1835",
-  "first_name": "Silas",
-  "middle_name": "P.",
-  "last_name": "Singletary",
-  "display_name": "Silas P. Singletary",
-  "family_lines": ["singletary"],
-  "profile_photo": null,
-  "birth_date": null,
-  "birth_year": 1835,
-  "birth_place": "South Carolina",
-  "death_date": "1915-01-10",
-  "death_year": 1915,
-  "death_place": null,
-  "father": "jacob-singletary-1801",
-  "mother": "eliza-singletary",
-  "spouses": ["rachel-griffin-1850"],
-  "military_service": [
-  {
-    "branch": "Confederate States Army",
-    "conflict": "American Civil War",
-    "rank": "Private",
-    "unit": "Company A, 59th Georgia Infantry Regiment",
-    "enlistment_date": null,
-    "discharge_date": null
-  }
-],
-  "biography": [
-    "Silas P. Singletary was born in South Carolina, probably in March 1835. Both the 1900 United States Federal Census and a burial record report his birth as March 1835. However, federal census records from 1850, 1860, and 1870 consistently suggest a birth around 1839. His exact birth date has not been conclusively established.",
-    "In 1850, Silas was living in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. The federal census recorded him as eleven years old.",
-    "By 1860, Silas had moved with the Singletary household to Decatur County, Georgia. The census recorded him as twenty-one years old and born in South Carolina. The household included Jacob, Eliza, and several younger family members.",
-    "During the American Civil War, Silas P. Singletary served in the Confederate Army. The National Archives' Index to Compiled Service Records of Confederate Soldiers from Georgia (publication M226) identifies an S. P. Singletary as a private in Company A of the 59th Georgia Infantry. His exact dates of military service have not been established. A Confederate widow's pension application filed by Rachel Griffin Singletary in Thomas County, Georgia, in 1916 provides additional evidence connecting this soldier to her husband, Silas P. Singletary. The original compiled military service records have not yet been examined.",
-    "On October 14, 1869, Silas married Rachel Griffin in Decatur County, Georgia. The original county marriage register records the groom's name as Simon P. Singletary, indicating that he may also have been known by that name. The marriage was performed by J. W. Oliver, a minister of the gospel. Rachel's later Confederate widow's pension application also identifies her husband as S. P. Singletary and reports their marriage in October 1869.",
-    "In 1870, Silas remained in Decatur County, Georgia, where he was enumerated in the household of Jacob Singletary. He was recorded as thirty-one years old. Rachel Griffin, whom he had married the previous year, was also recorded in the household.",
-    "By June 1900, Silas was living in Thomas County, Georgia, with his wife Rachel and four children: Emma P., Mary, Robert, and Dollie. The census recorded his birth as March 1835, consistent with the information reported in his burial record.",
-    "Silas P. Singletary died on January 10, 1915, according to a burial record. He was buried at Springhill Christian Church Cemetery in Ochlocknee, Thomas County, Georgia.",
-    "Following Silas's death, his widow, Rachel Griffin Singletary, applied for a Confederate widow's pension in Thomas County, Georgia. The application, dated in 1916, identifies her husband as S. P. Singletary and provides information about their marriage and his military service. The application also contains a handwritten statement concerning differences in recollections of the couple's marriage. Their marriage date is independently documented in the original Decatur County marriage register dated October 14, 1869."
-  ]
-},
-{
-  "id": "rachel-griffin-1850",
-  "first_name": "Rachel",
-  "middle_name": "",
-  "last_name": "Griffin",
-  "display_name": "Rachel Griffin Singletary",
-  "family_lines": ["singletary"],
-  "profile_photo": null,
-  "birth_date": null,
-  "birth_year": 1850,
-  "birth_place": "Georgia",
-  "death_date": "1935-06-28",
-  "death_year": 1935,
-  "death_place": "Ochlocknee, Thomas County, Georgia",
-  "father": null,
-  "mother": null,
-  "spouses": ["silas-p-singletary-1835"],
-  "biography": [
-    "Rachel Griffin was born in Georgia around March 1850. In August 1850, she was enumerated in District 81 of Thomas County, Georgia, in the household of John and Eliza Griffin. The census recorded her age as five months. Her 1935 death certificate independently identifies John Griffin as her father, providing additional evidence connecting Rachel to this household.",
-    "On October 14, 1869, Rachel married Simon P. Singletary in Decatur County, Georgia. Their marriage is documented in the original county marriage register. Her husband appears in other historical records as Silas P. Singletary and S. P. Singletary.",
-    "In 1870, Rachel was living in Decatur County, Georgia, in the household of Jacob Singletary. The federal census recorded her as eighteen years old. Her presence alongside Silas Singletary, whom she had married the previous year, provides additional evidence connecting the marriage record to the Singletary family.",
-    "By June 1900, Rachel and Silas were living in Thomas County, Georgia. The federal census identified Rachel as Silas's wife and recorded four children in their household: Emma P., Mary, Robert, and Dollie Singletary.",
-    "Rachel's husband, Silas P. Singletary, died on January 10, 1915, according to his burial record. He was buried at Springhill Christian Church Cemetery near Ochlocknee, Thomas County, Georgia.",
-    "In 1916, Rachel applied for a Confederate widow's pension in Thomas County, Georgia, based on her late husband's military service. Her application, preserved in the Georgia Archives, identifies her husband as S. P. Singletary and provides information about their marriage. The pension documents also contain a handwritten statement concerning differences in recollections of the couple's marriage. Their marriage is independently documented in the original Decatur County marriage register dated October 14, 1869.",
-    "Rachel died on June 28, 1935, in Ochlocknee, Thomas County, Georgia. Her Georgia death certificate records her age as ninety-five, suggesting a birth around 1840. However, the 1850 federal census recorded her as five months old, suggesting a birth around March 1850. The earlier census provides stronger evidence for her approximate birth year, although the discrepancy remains unresolved.",
-    "Rachel's death certificate identifies her father as John Griffin and records a mother's maiden name that has not yet been conclusively deciphered. The certificate lists chronic nephritis and senility among the causes of death. Rachel was buried on June 29, 1935, at Springhill Cemetery near Ochlocknee, Georgia."
-  ]
-},
-{
-  "id": "sarah-r-singletary-1840",
-  "first_name": "Sarah",
-  "middle_name": "R.",
-  "last_name": "Singletary",
-  "display_name": "Sarah R. Singletary Johnson",
-  "family_lines": ["singletary"],
-  "profile_photo": null,
-  "birth_date": null,
-  "birth_year": 1840,
-  "birth_place": "South Carolina",
-  "death_date": "1907-10-31",
-  "death_year": 1907,
-  "death_place": "Day, Lafayette County, Florida",
-  "father": "jacob-singletary-1801",
-  "mother": "eliza-singletary",
-  "spouses": [],
-  "biography": [
-    "Sarah R. Singletary was born in South Carolina around 1840. She was enumerated in the 1850 United States Federal Census in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. The census recorded her as ten years old.",
-    "By 1860, Sarah had moved with the Singletary household to Decatur County, Georgia. The federal census recorded her as nineteen years old.",
-    "In 1870, Sarah was enumerated in District 720 of Decatur County, Georgia, in the household of Jacob Singletary. The census recorded her name as Sarah A. Singletarry, age twenty-five, born in South Carolina. Earlier census records identified her as Sarah R. Singletary. The variation in her middle initial remains unresolved, although her 1890 marriage record later identified her as S. R. A. Singletary.",
-    "On January 30, 1890, Sarah married William Johnson in Lafayette County, Florida. Their marriage license was issued on January 28, and the ceremony was performed by Elder J. A. Singletary, believed to be Sarah's brother, Reverend Jacob A. Singletary. The marriage was officially recorded on February 3, 1890. The original marriage record identifies the bride as Miss S. R. A. Singletary, providing additional evidence of her middle initials. Although she is identified as Sarah Ann Singletary in FamilySearch, her full middle names have not yet been independently established.",
-    "In 1900, Sarah was living in Lafayette County, Florida, with her husband, William Johnson. The federal census recorded her birth as March 1840 and her age as sixty. Her mother, Eliza Singletary, and sister, Mary Singletary, were also members of the household. Sarah was recorded as having given birth to no children, with none living. Interestingly, both Sarah and William were recorded as having been married for thirty years, suggesting a marriage around 1870. However, their original marriage record documents a ceremony on January 30, 1890. The reason for this discrepancy remains unresolved.",
-    "Sarah died on October 31, 1907, in Day, Lafayette County, Florida. Her death certificate records her birth year as 1840, identifies her husband as William Johnson, and gives her father's surname as Singletary. The certificate lists paralysis of the heart as the cause of death. Her husband, William Johnson, served as the informant, establishing that he was still living at the time of her death. The certificate records her burial location as Day, Florida, but does not identify a cemetery. Bethel Creek Baptist Church Cemetery, where her mother Eliza Singletary is buried, is a possible burial location, although this has not been confirmed."
-]
-},
-{
-    "id": "mary-e-singletary-1842",
-    "first_name": "Mary",
-    "middle_name": "E.",
-    "last_name": "Singletary",
-    "display_name": "Mary E. Singletary",
-    "family_lines": [
-        "singletary"
-    ],
-    "profile_photo": null,
-    "birth_date": null,
-    "birth_year": 1842,
-    "birth_place": "South Carolina",
-    "death_date": null,
-    "death_year": null,
-    "death_place": null,
-    "father": "jacob-singletary-1801",
-    "mother": "eliza-singletary",
-    "spouses": [],
-    "biography": [
-        "Mary E. Singletary was born in South Carolina, probably in August 1842, according to the 1900 United States Federal Census. She was a daughter of Jacob and Eliza Singletary.",
-        "Mary first appears in the 1850 United States Federal Census in Sumter District, South Carolina, in the household of Jacob and Eliza B. Singletary. She was recorded as eight years old.",
-        "By 1860, Mary was living with the Singletary household in Decatur County, Georgia. The census recorded her as fourteen years old.",
-        "In 1870, Mary E. Singletary was enumerated in District 720 of Decatur County, Georgia, in the household of Jacob Singletary. Her age was recorded as twenty-three.",
-        "By 1880, Mary had moved to Lafayette County, Florida. She was enumerated in the household headed by Eliza Singletary, along with Sarah R., John V., and Jacob Singletary. Mary was recorded as twenty-two years old. Her reported age differs substantially from the ages recorded in earlier census records.",
-        "In 1900, Mary was living in Lafayette County, Florida, in the household of William and Sarah Johnson. She was identified as William's sister-in-law, while Eliza Singletary was identified as his mother-in-law. The census recorded Mary's birth as August 1842 and her marital status as single. These household relationships provide strong evidence that Mary and Sarah were sisters and that Eliza was their mother.",
-        "Mary's whereabouts after the 1900 census have not yet been established. No confirmed death record or burial location has been identified."
-    ]
-},
-{
-    "id": "jacob-a-singletary-1852",
-    "first_name": "Jacob",
-    "middle_name": "A.",
-    "last_name": "Singletary",
-    "display_name": "Rev. Jacob A. Singletary",
-    "family_lines": [
-        "singletary"
-    ],
-    "profile_photo": null,
-    "birth_date": "1852-03-15",
-    "birth_year": 1852,
-    "birth_place": "Bainbridge, Decatur County, Georgia",
-    "death_date": "1931-05-14",
-    "death_year": 1931,
-    "death_place": "Lafayette County, Florida",
-    "father": "jacob-singletary-1801",
-    "mother": "eliza-singletary",
-    "spouses": ["ida-alla-miller-1873"],
-    "biography": [
-        "Reverend Jacob A. Singletary was born on March 15, 1852, reportedly in Bainbridge, Decatur County, Georgia, the son of Jacob Singletary and Eliza Singletary. His birth date is recorded on his gravestone, while his 1931 Florida death certificate confirms March 1852, although the handwritten day is difficult to distinguish. His birthplace is specifically identified as Bainbridge, Georgia, on the June 5, 1918, World War I draft registration completed by his son, William Robert Singletary. Jacob's death certificate independently identifies Georgia as his state of birth. Although no contemporary birth record has been located, the available evidence supports Bainbridge as his probable birthplace.",
-        "Jacob's parents were living in Sumter District, South Carolina, when the 1850 United States Federal Census was recorded. By 1860, the family had relocated to Decatur County, Georgia, where Jacob appeared in his parents' household at approximately seven years of age. The family's presence in Decatur County during his childhood is consistent with the birthplace reported by his son many years later.",
-        "In the 1870 United States Federal Census, Jacob was again enumerated in Decatur County, Georgia, in the household of his father, Jacob Singletary. By 1880, the family had relocated to Lafayette County, Florida, where Jacob was recorded as twenty years old in the household headed by his mother, Eliza Singletary. His reported age in the 1880 census differs from the birth year recorded on his gravestone and death certificate.",
-        "Jacob became a Baptist minister and was identified as Reverend Jacob Singletary on his gravestone. On January 30, 1890, Elder J. A. Singletary performed the marriage ceremony of William Johnson and Sarah R. Singletary in Lafayette County, Florida. Sarah was Jacob's sister, and the officiant was probably Reverend Jacob A. Singletary, although this identification has not been conclusively established.",
-        "On April 16, 1890, Jacob A. Singletary married Ida Alla Miller in Lafayette County, Florida. Their original marriage records identify Redden B. Hill as the county judge who issued the license and D. H. Ward as the person who performed the ceremony. The marriage was filed for record on April 26, 1890. Ida was born on May 28, 1873, according to their shared gravestone. Her name appears as Ida Alla Miller in the marriage record and as Ally Ida Singletary on the gravestone.",
-        "Jacob and Ida established their family in Lafayette County, Florida, where they raised at least eight children: Eliza E. Singletary, later Eliza Bell; Sarah 'Sallie' Singletary, later Sallie Spies; William Robert Singletary (1894–1961); Emma Singletary, later Emma Evans; Henry Singletary; Giddy Singletary; Jamie Singletary; and Jasper Singletary. Their identities are supported by federal census records and the February 1961 obituary of William Robert Singletary, which identifies seven surviving brothers and sisters. The available records have not yet established complete birth and death dates for all of the children.",
-        "The 1900 United States Federal Census records Jacob and Ida living in Lafayette County with five children: Eliza E., Sarah, Robert, Emma, and Henry. Robert, later identified as William Robert Singletary, was recorded as born in May 1894. Subsequent records contain conflicting information about his birth year, including a May 3, 1897, date on his 1918 draft registration. His death certificate and gravestone record May 3, 1894.",
-        "In April 1910, Jacob and Ida were living in Precinct 1 of Lafayette County, Florida, with several of their children, including Robert, Henry, Giddy, and Jamie. The same census page also records the household of Jacob's brother, John Vershal Singletary, and his family. Their appearance on the same enumeration page suggests that the two brothers and their families continued living in the same general community, although it does not establish that their homes were immediately adjacent.",
-        "The 1920 United States Federal Census records Jacob, age sixty-eight, and Ida, age forty-six, living in Lafayette County with six children: Sallie, Robert, Henry, Jasper, Jamie, and Giddie. This census provides important evidence for the younger sons, particularly Jasper, who was subsequently identified as a surviving brother in William Robert Singletary's 1961 obituary.",
-        "By the 1930 United States Federal Census, Jacob and Ida were still living in the Day community of Lafayette County. Jacob was recorded as approximately seventy-six years old and continued working as a farmer. Their household included several adult children, among them William Robert, Henry, Jamie, and Giddie. The census recorded William Robert, Henry, and Jamie as sawmill laborers, while Giddie worked as a farm laborer. The household was enumerated on April 7, 1930, approximately thirteen months before Jacob's death.",
-        "Jacob's occupation was also recorded as farmer on his Florida death certificate. He died on May 14, 1931, in Lafayette County, Florida, at the age of seventy-nine. His death certificate records heart trouble as the cause of death. His parents' names were not provided by the informant, but their identities are established through earlier census records.",
-        "Reverend Jacob A. Singletary was buried at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, near Day in Lafayette County, Florida. His shared gravestone records his birth on March 15, 1852, and death on May 14, 1931. The same marker commemorates his wife, Ally Ida Singletary, who was born on May 28, 1873, and died on October 16, 1945.",
-         "Following Jacob's death, Ida continued living in Lafayette County. The 1940 United States Federal Census records her as a sixty-six-year-old widow living with their sons Robert, Henry, and Giddy, and their widowed daughter Sally Spies. This record documents the family's continued presence in the community nearly a decade after Jacob's death and five years before Ida's death."
-    ]
-},
-{
-    "id": "ida-alla-miller-1873",
-    "first_name": "Ida",
-    "middle_name": "Alla",
-    "last_name": "Miller",
-    "display_name": "Ida Alla Miller Singletary",
-    "family_lines": [
-        "singletary"
-    ],
-    "profile_photo": null,
-    "birth_date": "1873-05-28",
-    "birth_year": 1873,
-    "birth_place": null,
-    "death_date": "1945-10-16",
-    "death_year": 1945,
-    "death_place": null,
-    "father": null,
-    "mother": null,
-    "spouses": [
-        "jacob-a-singletary-1852"
-    ],
-    "biography": [
-        "Ida Alla Miller was born on May 28, 1873, according to her gravestone. Her birthplace and parents have not yet been established.",
-        "On April 16, 1890, Ida married Jacob A. Singletary in Lafayette County, Florida. Their original marriage record identifies the bride as Ida Alla Miller and the groom as Jacob A. Singletary. The marriage ceremony was performed by D. H. Ward, and the license was filed for record on April 26, 1890.",
-        "Ida was sixteen years old at the time of her marriage, based on the birth date recorded on her gravestone. Jacob was thirty-eight years old.",
-        "Her husband, Jacob A. Singletary, was a minister and is identified as Reverend Jacob Singletary on their shared gravestone.",
-        "Ida died on October 16, 1945. Her gravestone identifies her as Ally Ida Singletary, a variation of the name recorded in her marriage record. She is commemorated alongside her husband at Bell's Mill Creek Cemetery, also known as Bethel Creek Baptist Church Cemetery, in Day, Lafayette County, Florida."
-    ]
-},
-{
-  "id": "william-robert-singletary-1894",
-  "first_name": "William",
-  "middle_name": "Robert",
-  "last_name": "Singletary",
-  "display_name": "William Robert Singletary",
+  "display_name": "Emma Singletary Evans",
   "family_lines": [
     "singletary"
   ],
-  "birth_year": 1894,
-  "birth_date": "1894-05-03",
-  "birth_place": "Florida",
-  "death_year": 1961,
-  "death_date": "1961-02-22",
-  "death_place": "Live Oak, Suwannee County, Florida",
+  "birth_year": 1895,
+  "birth_date": "1895-08-24",
+  "birth_place": "Lafayette County, Florida",
+  "death_year": 1984,
+  "death_date": "1984-04-28",
+  "death_place": "Palatka, Putnam County, Florida",
+  "father": "jacob-a-singletary-1852",
+  "mother": "ida-alla-miller-1873",
+  "spouses": ["willie-evans-1887"],
+  "biography": [
+     "Emma Singletary Evans was born on August 24, 1895, in Lafayette County, Florida, the daughter of Reverend Jacob A. Singletary (1852–1931) and Ida Alla Miller Singletary (1873–1945). She grew up in a large family in northern Florida, where her father was a minister. Emma appears with her parents and siblings in the 1900 and 1910 United States federal censuses for Lafayette County. Her siblings included Eliza, Sallie, William Robert, Henry, Jasper, Jamie, and Giddy Singletary.",
+     "On October 24, 1915, Emma married Willie Evans (1887–1971) in Lafayette County, Florida. Their marriage license was issued on October 23 in Mayo, and the marriage was recorded on November 13, 1915, in Marriage Record Book E, page 166. The couple began their married life during a period when the timber and lumber industries were important sources of employment throughout northern Florida.",
+     "By January 1920, Emma and Willie were living in Precinct 8 of Suwannee County, Florida, in the Dowling Park area. The federal census recorded Willie working in a sawmill and identified their infant son Ernest Evans, then approximately three months old. Emma was listed as Willie's wife. The age recorded for Emma in this census appears inconsistent with her established birth date.",
+     "Dowling Park had developed into a significant lumber-producing community around the turn of the twentieth century. Large sawmill operations and railroad connections supported the timber industry and provided employment for area residents. Willie worked in this industry, although the available records do not establish which lumber company employed him.",
+     "The family remained in the Dowling Park area in 1930. The federal census recorded Willie working in a shingle or lath mill and identified two children in the household, Ernest and Gracie Evans. Emma's younger brother Jasper Singletary was enumerated in the immediately preceding household with his wife. Their consecutive census entries suggest that Emma and Jasper lived near one another, illustrating the continuing connections among members of the extended Singletary family.",
+     "By April 1940, Emma and Willie were living in Mayo, Lafayette County, Florida. The federal census recorded their sons Ernest Evans, age 20, and Frederick Evans, age 16, in the household. Their daughter Gracie, age 18, was also living with them, along with her husband, Owen Lassiter, age 22. This record establishes that Gracie had married Owen Lassiter by 1940 and helps identify her as Grace Lassiter, the daughter named in Emma's obituary many years later.",
+     "In April 1950, Emma and Willie were again living in Suwannee County, Florida. The federal census recorded Willie, age 62, working as a watchman at a wholesale planing mill. Emma, age 54, was listed as his wife. No children were enumerated in their household, and the couple reported that they had been living in the same house one year earlier. Willie's continued employment in the lumber industry reflected an occupation that had supported the family for much of their married life.",
+     "Willie died on October 7, 1971, at the age of 84. Emma later lived in Palatka, Putnam County, Florida, where she resided for approximately thirteen years before her death. She was a member of Tabernacle Baptist Church.",
+     "Emma died on April 28, 1984, at Putnam Memorial Nursing Home in Palatka, Florida, following a lengthy illness. She was 88 years old. Her obituary identified her surviving children as Grace Lassiter of Palatka and Ernest Evans and Fred Evans of Jacksonville. It also named her sister Sallie Spies and brothers Giddy, Jammie, and Jasper Singletary. Emma was survived by ten grandchildren and twenty-five great-grandchildren.",
+     "Funeral services for Emma were held on April 30, 1984, at Westwood Baptist Church in Live Oak, Florida, with Reverend Lorace Cothron officiating. Harris Funeral Home handled the arrangements. She was buried in Live Oak Cemetery in Live Oak, Florida, where she shares a gravestone with her husband, Willie Evans. Their marriage of nearly fifty-six years and the records of their children and descendants form an important part of the Singletary family history."
+  ]
+},
+
+{
+  "id": "willie-evans-1887",
+  "first_name": "Willie",
+  "middle_name": null,
+  "last_name": "Evans",
+  "display_name": "Willie Evans",
+  "family_lines": [
+    "singletary"
+  ],
+  "birth_year": 1887,
+  "birth_date": "1887-07-09",
+  "birth_place": null,
+  "death_year": 1971,
+  "death_date": "1971-10-07",
+  "death_place": null,
+  "father": null,
+  "mother": null,
+  "spouses": [
+    "emma-singletary-1895"
+  ],
+  "biography": [
+      "Willie Evans, also recorded as Will Evans, was born on July 9, 1887, according to the dates inscribed on his gravestone in Live Oak Cemetery, Live Oak, Florida. His birthplace and the identities of his parents have not yet been conclusively established. Federal census records provide differing information about his birthplace, identifying Florida in some years and Georgia in 1930.",
+      "On October 24, 1915, Willie married Emma Singletary (1895–1984), daughter of Reverend Jacob A. Singletary and Ida Alla Miller Singletary, in Lafayette County, Florida. Their marriage license was issued on October 23, 1915, in Mayo, and the marriage was recorded on November 13 in Marriage Record Book E, page 166. The marriage record identifies him as Will Evans.",
+      "By January 1920, Willie and Emma were living in Precinct 8 of Suwannee County, Florida, in the Dowling Park area. The federal census recorded Willie, age 32, as head of household and employed in a sawmill. Emma and their infant son Ernest Evans, approximately three months old, were also enumerated in the household.",
+      "Dowling Park was an important center of the northern Florida lumber industry during the early twentieth century. Sawmills, timber operations, and railroad connections shaped the community and provided employment for local families. Willie's occupation placed him within this regional lumber economy, although the available records do not identify his specific employer.",
+      "In April 1930, Willie and Emma continued to live in the Dowling Park area of Suwannee County. The census recorded Willie, age 42, working as a laborer in a shingle or lath mill. Their children Ernest and Gracie were living with them. Emma's younger brother Jasper Singletary and his wife were enumerated in the preceding household, suggesting that the two families were close neighbors. The Evans family was recorded as renting its residence.",
+      "By April 1940, Willie and Emma had moved to Mayo in Lafayette County, Florida. The federal census recorded Willie E. Evans, age 52, as head of household. His wife Emma, their sons Ernest and Frederick, and their daughter Gracie were living with him. Also in the household was Gracie's husband, Owen Lassiter, identified as Willie's son-in-law. This census provides a particularly useful record of the family together during their adult children's early years.",
+      "In April 1950, Willie and Emma were living in Suwannee County, Florida. Willie, age 62, was employed as a watchman at a wholesale planing mill, continuing his long association with the lumber industry. Emma, age 54, was listed as his wife, and no children or other relatives were enumerated in their household. The couple reported that they had lived in the same house one year earlier.",
+      "Willie and Emma had at least three children: Ernest Evans, Frederick Evans, also known as Fred, and Gracie Evans Lassiter, also known as Grace. The family's census records trace their lives between Lafayette and Suwannee counties and document Willie's employment in sawmill and lumber-related occupations over several decades.",
+      "Willie Evans died on October 7, 1971, at the age of 84. His obituary, published in The Florida Times-Union on October 9, 1971, identified his surviving wife, Emma; daughter Grace Lassiter of Palatka; and sons Ernest and Fred Evans of Jacksonville. He was also survived by four grandchildren and seven great-grandchildren. Funeral services were scheduled for October 9, 1971, at Westwood Baptist Church in Live Oak, Florida, with Harris Funeral Home handling the arrangements. Willie was buried in Live Oak Cemetery, where he shares a gravestone with Emma, who died in 1984."
+
+ ]
+},
+{
+  "id": "jasper-eugene-singletary-1902",
+  "first_name": "Jasper",
+  "middle_name": "Eugene",
+  "last_name": "Singletary",
+  "display_name": "Jasper Eugene Singletary",
+  "family_lines": [
+    "singletary"
+  ],
+  "birth_year": 1902,
+  "birth_date": "1902-03-18",
+  "birth_place": "Suwannee County, Florida",
+  "death_year": null,
+  "death_date": null,
+  "death_place": null,
   "father": "jacob-a-singletary-1852",
   "mother": "ida-alla-miller-1873",
   "spouses": [],
   "biography": [
-    "William Robert Singletary was born on May 3, 1894, in Florida, the son of Reverend Jacob A. Singletary (1852–1931) and Ida Alla Miller Singletary (1873–1945). He grew up in Lafayette County, Florida, where his family lived in the rural community around Day and Bethel Creek Baptist Church.",
-    "The 1900 United States Federal Census records William as Robert Singletary, living with his parents and siblings in Lafayette County. His birth was recorded as May 1894. The household included his sisters Eliza, Sarah, and Emma, and his brother Henry.",
-    "In the 1910 census, Robert was again living with his parents in Lafayette County. The household included several of his siblings, including Henry, Giddy, and Jamie. Census records from this period contain inconsistencies in the children's reported ages, which should be considered when evaluating their birth years.",
-    "On June 5, 1918, William registered for the World War I draft in Lafayette County, Florida. His registration identifies him as William Robert Singletary, living in Dowling Park, Florida, and employed by Jacob Singletary. He described himself as having brown eyes and brown hair. The registration records his birth date as May 3, 1897, three years later than the date recorded in the 1900 census, his death certificate, and his gravestone. The reason for this discrepancy is unknown.",
-    "The 1920 United States Federal Census records Robert, age 22, living with his parents in Lafayette County. In 1930, he was still living in the household of Jacob and Ida Singletary in the Day community. At that time, he was recorded as age 32 and employed as a laborer at a sawmill. These reported ages are consistent with a birth around 1897 or 1898 rather than 1894.",
-    "Following his father's death in May 1931, William continued living with his mother and several siblings. The 1940 census records Robert Singletary, age 45, in the household of his widowed mother, Ida, along with his brothers Henry and Giddy and his widowed sister Sally Spies. His reported age in 1940 is consistent with a birth in May 1894.",
-    "William's death certificate records that he was never married. No spouse or children have been identified in the records examined during this research.",
-    "William Robert Singletary died on February 22, 1961, at Suwannee County Hospital in Live Oak, Florida. His death certificate records his usual residence as Mayo, Lafayette County, Florida. The immediate cause of death was recorded as probable acute myocardial failure, associated with coronary occlusion and hypertensive cardiovascular disease. He was sixty-six years old according to his recorded birth date.",
-    "His obituary reported that funeral services were held at Bethel Creek Baptist Church, with Reverend Tom Allen officiating. William was buried on February 24, 1961, at Bethel Creek Baptist Church Cemetery in Lafayette County, Florida.",
-    "William's obituary identified seven surviving siblings: sisters Eliza Bell, Sally Spies, and Emma Evans, and brothers Henry, Giddy, Jamie, and Jasper Singletary. This obituary provides important evidence for reconstructing the children of Reverend Jacob A. Singletary and Ida Alla Miller.",
-    "William's gravestone records his birth as May 3, 1894, and his death as February 22, 1961. These dates agree with his death certificate. Although his 1918 draft registration and some census records suggest a later birth year, May 3, 1894, is retained provisionally because it is supported by the 1900 census, his death certificate, and his gravestone."
-  ]
-},
-{
-  "id": "sarah-sallie-singletary-1892",
-  "first_name": "Sallie",
-  "middle_name": "Sarah",
-  "last_name": "Singletary",
-  "display_name": "Sallie Sarah Singletary Spies",
-  "family_lines": [
-    "singletary"
-  ],
-  "birth_year": 1892,
-  "birth_date": "1892-08-24",
-  "birth_place": "Florida",
-  "death_year": 1986,
-  "death_date": "1986-05-21",
-  "death_place": "Live Oak, Suwannee County, Florida",
-  "father": "jacob-a-singletary-1852",
-  "mother": "ida-alla-miller-1873",
-  "spouses": [],
-  "biography": [
-      "Sallie Sarah Singletary Spies was born on August 24, 1892, in Florida, the daughter of Reverend Jacob A. Singletary (1852–1931) and Ida Alla Miller Singletary (1873–1945). Her gravestone and Florida death certificate agree on her birth date. Although she appears as Sarah in early census records and Sallie in later records, her 1986 death certificate identifies her as Sallie Sarah Spies. Her obituary identifies her as a native of Lafayette County, Florida, where she spent much of her life.",
-      "Sallie grew up in Lafayette County, Florida, where her father worked as a farmer and was also identified as a minister. The 1900 United States Federal Census records her in her parents' household, with her birth listed as August 1892. Her siblings in the household included Eliza E., William Robert, Emma, and Henry Singletary.",
-      "Sallie continued living in Lafayette County during her childhood and early adulthood. She appears in her parents' household in the 1910 and 1920 federal censuses. The 1920 census records her as twenty-three years old, although her established birth date indicates that she was twenty-seven at the time. Such differences in reported ages occur elsewhere in the family's census records.",
-      "On May 2, 1920, Sallie Singletary married Horace W. Spies in Lafayette County, Florida. Their original marriage license was issued on May 1, 1920, by County Judge Hall W. Adams at the courthouse in Mayo. The marriage ceremony was performed the following day by J. J. Fannell, M.G., with J. R. Banks and Will Evans serving as witnesses. The marriage was filed and recorded on June 2, 1920, in Lafayette County Marriage License Record E, page 459.",
-      "The 1930 United States Federal Census appears to list Sallie in the household of her parents, Jacob and Ida Singletary, in the Day community of Lafayette County. She was recorded under the Singletary surname and apparently identified as single, despite her documented marriage to Horace Spies ten years earlier. The reason for this discrepancy has not been established. It is possible that the marriage had already ended or that the census information was recorded incorrectly, but neither explanation has been confirmed.",
-      "Following the death of her father on May 14, 1931, Sallie continued living in the Lafayette County community. The 1940 United States Federal Census records Sally Spies, age forty-seven, living in the household of her widowed mother, Ida Singletary. Her brothers Robert, Henry, and Giddy were also members of the household. Sallie was recorded as widowed, although her 1986 Florida death certificate later identified her marital status as divorced. The circumstances surrounding the end of her marriage to Horace W. Spies remain uncertain, and no divorce record or death record for Horace has yet been established.",
-      "Sallie remained connected to her siblings throughout her adult life. She was identified as a surviving sister in the February 1961 obituary of her brother William Robert Singletary. The obituary listed Mrs. Sally Spies of Lafayette County, Florida, along with her sisters Eliza Bell and Emma Evans and brothers Henry, Giddy, Jamie, and Jasper Singletary. This record confirms that she continued using the Spies surname more than forty years after her marriage.",
-      "In her later years, Sallie lived in Live Oak, Suwannee County, Florida. Her 1986 Florida death certificate records her usual residence as 1120 Helvenston in Live Oak and lists her occupation as homemaker. She was also a member of Bethel Creek Baptist Church, reflecting her continued association with the Lafayette County community where she had grown up and where several members of her family were buried.",
-      "Sallie died on Wednesday, May 21, 1986, at Suwannee County Hospital in Live Oak, Florida, following a long illness. She was ninety-three years old. Her Florida death certificate identifies her parents as Jacob Singletary and Ida Miller and records her marital status as divorced. The informant was Gid Singletary of Mayo, Florida.",
-      "Her obituary, published in The Florida Times-Union on May 23, 1986, identifies her as Sallie Singletary Spies, age ninety-three, of Live Oak. It describes her as a native of Lafayette County, a homemaker, and a member of Bethel Creek Baptist Church. The obituary identifies her surviving brother as Gid Singletary of Mayo, Florida. This provides additional evidence that Gid was the brother identified as Giddy or Giddie Singletary in earlier census records and in William Robert Singletary's 1961 obituary. Although the obituary names no other surviving siblings, their death dates must be established through separate records.",
-      "Funeral services were scheduled for 3:00 p.m. on May 23, 1986, at Bethel Creek Baptist Church, followed by burial in the church cemetery. Daniels Funeral Home of Live Oak was responsible for the arrangements. Sallie's gravestone at Bethel Creek Baptist Church Cemetery identifies her as Sallie Singletary Spies and records her birth on August 24, 1892, and death on May 21, 1986. These dates agree with her Florida death certificate."
+    "Jasper Eugene Singletary was born on March 18, 1902, in Suwannee County, Florida, according to his World War II draft registration dated February 16, 1942. He was a son of Reverend Jacob A. Singletary (1852–1931) and Ida Alla Miller Singletary (1873–1945). Jasper grew up in the extended Singletary family of northern Florida, which included his siblings Eliza, Sallie, William Robert, Emma, Henry, Jamie, and Giddy Singletary.",
+    "The 1920 United States Federal Census records Jasper, age 18, living in Lafayette County, Florida, in the household of his parents, Jacob and Ida Singletary. Several of his siblings were also living in the family household at that time.",
+    "In 1927, Jasper Singletary married Amojine Landen in Suwannee County, Florida. Their marriage is recorded in the Florida Department of Health marriage index under certificate number 6071, volume 20. Jasper's 1942 World War II draft registration later identified Amogine Singletary as his next of kin, providing additional evidence of their relationship.",
+    "By April 1930, Jasper was living in the Dowling Park community of Suwannee County, Florida. He was enumerated in the household immediately preceding that of his sister Emma Singletary Evans and her husband, Willie Evans. Their consecutive census entries suggest that Jasper and Emma lived near one another during this period. The 1930 census also identifies a woman in Jasper's household whose name requires further verification.",
+    "On February 16, 1942, Jasper registered for the World War II draft in Live Oak, Suwannee County, Florida. His registration recorded his full name as Jasper Eugene Singletary, his date of birth as March 18, 1902, and his birthplace as Suwannee County, Florida. He was living in Live Oak and identified himself as his own employer. The registration named Amogine Singletary as his next of kin.",
+    "Jasper's draft registration described him as five feet eleven inches tall, weighing 150 pounds, with brown hair, brown eyes, and a ruddy complexion. Although the registration provides valuable biographical information, it does not establish that Jasper served in the military.",
+    "Jasper was named among the surviving brothers in the February 1961 obituary of William Robert Singletary and again in the April 1984 obituary and funeral memorial of his sister Emma Singletary Evans. At the time of Emma's death, Jasper was reported to be living in Live Oak, Florida. His date and place of death have not yet been established."
   ]
 }
+
+
 ]

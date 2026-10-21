@@ -126,13 +126,14 @@ def get_siblings(person):
         if other_person["id"] == person["id"]:
             continue
 
+        # Only compare actual parent IDs
         same_father = (
-            father_id is not None
+            bool(father_id)
             and other_person.get("father") == father_id
         )
 
         same_mother = (
-            mother_id is not None
+            bool(mother_id)
             and other_person.get("mother") == mother_id
         )
 

@@ -792,5 +792,152 @@
   "location": "Live Oak Cemetery, Live Oak, Suwannee County, Florida",
   "description": "Photograph of the shared gravestone of Willie Evans and his wife, Emma Singletary Evans. The inscription records Willie's birth on July 9, 1887, and death on October 7, 1971, and Emma's birth on August 24, 1895, and death on April 28, 1984. Emma's burial at Live Oak Cemetery is also documented in her 1984 obituary and funeral memorial. The photograph is credited to Alton and Loudonia, January 2012.",
   "file": "emma_singletary_evans_gravestone.jpg"
+},
+{
+  "id": "1993-fred-evans-sr-gravestone",
+  "title": "Fred Evans Sr. (1924–1993)",
+  "caption": "Gravestone of Fred Evans Sr. (May 21, 1924 – July 26, 1993), Live Oak Cemetery, Live Oak, Suwannee County, Florida. The marker commemorates his World War II service in the United States Army as a Technician Fifth Grade (TEC 5).",
+  "type": "grave",
+  "people": [
+    "frederick-fred-evans"
+  ],
+  "family_lines": [
+    "singletary"
+  ],
+  "date": "1993",
+  "file": "fred_evans_sr_gravestone.jpg"
+},
+
+{
+  "id": "2003-ida-mae-secreast-gravestone",
+  "file": "ida_mae_secreast_gravestone.jpg",
+  "title": "Ida Mae Herrin Secreast and Lawrence M. Secreast",
+  "caption": "Shared gravestone of Ida Mae Herrin Secreast (January 2, 1922 – July 14, 2003) and Lawrence M. Secreast (February 18, 1912 – June 3, 1982), Old Town Memorial Cemetery, Old Town, Dixie County, Florida. The monument records their marriage on April 5, 1959, and names eight children.",
+  "type": "grave",
+  "people": [
+    "lawrence-monroe-secreast-1912",
+    "ida-mae-herrin-1922"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": "2003"
+},
+
+
+{
+  "id": "1982-hope-wayland-sullivan-headstone",
+  "file": "hope_wayland_sullivan_headstone.jpg",
+  "title": "Hope Wayland Sullivan (1920–1982)",
+  "caption": "Headstone of Hope Wayland Sullivan (September 12, 1920 – May 27, 1982), Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida. The inscription identifies his parents as John M. Sullivan and Arzada Boyd Sullivan.",
+  "type": "grave",
+  "people": [
+    "hope-wayland-sullivan-1920"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": "1982"
+},
+{
+  "id": "1982-hope-wayland-sullivan-grave-marker",
+  "file": "hope_wayland_sullivan_grave_marker.jpg",
+  "title": "Hope Wayland Sullivan – Grave Marker",
+  "caption": "Flat grave marker of Hope Wayland Sullivan (September 12, 1920 – May 27, 1982), Airline Baptist Church Cemetery, Mayo, Lafayette County, Florida. The marker includes the inscriptions 'Daddy' and 'Gone But Not Forgotten.'",
+  "type": "grave",
+  "people": [
+    "hope-wayland-sullivan-1920"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": "1982"
+},
+
+{
+  "id": "ida-mae-herrin-portrait-01",
+  "file": "ida_mae_herrin_portrait_01.png",
+  "title": "Ida Mae Herrin – Portrait",
+  "caption": "Portrait of Ida Mae \"Shorty\" Herrin (1922–2003). Date unknown.",
+  "type": "portrait",
+  "people": [
+    "ida-mae-herrin-1922"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": ""
+},
+{
+  "id": "ida-mae-herrin-portrait-02",
+  "file": "ida_mae_herrin_portrait_02.png",
+  "title": "Ida Mae Herrin – Young Woman",
+  "caption": "Portrait of Ida Mae \"Shorty\" Herrin (1922–2003) as a young woman. Date unknown.",
+  "type": "portrait",
+  "people": [
+    "ida-mae-herrin-1922"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": ""
+},
+{
+  "id": "ida-mae-herrin-portrait-03",
+  "file": "ida_mae_herrin_portrait_03.jpg",
+  "title": "Ida Mae Herrin – Seated Portrait",
+  "caption": "Photograph of Ida Mae \"Shorty\" Herrin (1922–2003), seated in a patterned dress. Date unknown.",
+  "type": "portrait",
+  "people": [
+    "ida-mae-herrin-1922"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": ""
+},
+{
+  "id": "ida-mae-herrin-family-group",
+  "file": "ida_mae_herrin_family_group.jpg",
+  "title": "Ida Mae Herrin and Family",
+  "caption": "Family photograph showing, from left to right: Hope Wayland Sullivan Jr., Ida Mae Herrin, Gary Drew Sullivan, Nelda June Sullivan, Jack Dores Sullivan Sr., Connie Mack Sullivan, Stella Emily Seacreast, Michael Paul Sullivan, and Billy John Sullivan. Date and location unknown.",
+  "type": "family",
+  "people": [
+    "ida-mae-herrin-1922"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": ""
+},
+
+{
+  "id": "ida-mae-herrin-lawrence-monroe-secreast-portrait",
+  "file": "1959_ida_mae_herrin_lawrence_monroe_secreast_restored.png",
+  "title": "Ida Mae Herrin and Lawrence Monroe Secreast",
+  "caption": "Ida Mae \"Shorty\" Herrin Secreast (1922–2003) with her second husband, Lawrence Monroe Secreast (1912–1982). The couple married on April 5, 1959, in Florida. The date and occasion of this photograph have not yet been established. Digitally restored from an original family photograph.",
+  "type": "family",
+  "people": [
+    "ida-mae-herrin-1922",
+    "lawrence-monroe-secreast-1912"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": ""
+},
+{
+    "id": "lawrence-monroe-secreast-military-gravestone",
+    "file": "lawrence_monroe_secreast_military_gravestone.jpg",
+    "title": "Lawrence Monroe Secreast – U.S. Navy Military Gravestone",
+    "caption": "Military gravestone of Lawrence Monroe Secreast (February 18, 1912 – June 3, 1982), a Seaman Second Class in the United States Navy during World War II, at Old Town Memorial Cemetery, Old Town, Dixie County, Florida.",
+    "type": "grave",
+    "people": [
+    "lawrence-monroe-secreast-1912"
+    ],
+    "family_lines": [
+        "herrin"
+    ],
+    "date": ""
 }
 ]

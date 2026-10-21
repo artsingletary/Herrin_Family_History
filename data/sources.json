@@ -765,6 +765,49 @@
         ]
     },
     {
+        "id": "1912-lawrence-monroe-secreast-birth-index",
+        "type": "birth",
+        "title": "1912 North Carolina Birth Index – Laurence Monroe Secreast",
+        "people": [
+            "lawrence-monroe-secreast-1912"
+        ],
+        "date": "1912-02-18",
+        "location": "Caldwell County, North Carolina",
+        "description": "North Carolina Birth Index, 1800–2000, entry for Laurence Monroe Secreast, recording his birth on February 18, 1912, in Caldwell County, North Carolina. The indexed record appears in volume 2, page 392. The first name is recorded as Laurence, whereas his later gravestone and marriage records use Lawrence. FamilySearch record: https://www.familysearch.org/ark:/61903/1:1:VH5W-39G.",
+        "supports": [
+            "Lawrence Monroe Secreast was born February 18, 1912",
+            "Lawrence Monroe Secreast was born in Caldwell County, North Carolina",
+            "His name was recorded as Laurence Monroe Secreast in the North Carolina Birth Index"
+        ],
+        "documents": []
+    },
+    {
+        "id": "1915-marriage-will-evans-emma-singletary",
+        "type": "marriage",
+        "title": "1915 Marriage Record of Will Evans and Emma Singletary",
+        "people": [
+            "willie-evans-1887",
+            "emma-singletary-1895"
+        ],
+        "date": "1915-10-24",
+        "location": "Lafayette County, Florida",
+        "description": "Marriage license and recorded marriage certification for Will Evans and Emma Singletary in Lafayette County, Florida. The marriage license was issued on October 23, 1915, at the courthouse in Mayo, Florida, under County Judge John McCallum. The certification records that Will Evans and Emma Singletary were united in marriage on October 24, 1915. Witnesses named on the recorded document include L. M. Pert, W. C. Pert, J. T. Farnell, and an additional individual identified by initials that appear to read M. S. The marriage was filed and recorded on November 13, 1915, in Lafayette County Marriage Record Book E, page 166. The groom's name appears as Will Evans in the marriage documents and as Willie Evans on the couple's shared gravestone at Live Oak Cemetery.",
+        "supports": [
+            "Will Evans married Emma Singletary on October 24, 1915",
+            "Marriage took place in Lafayette County, Florida",
+            "Marriage license issued October 23, 1915",
+            "Marriage license issued at the courthouse in Mayo, Florida",
+            "John McCallum served as county judge",
+            "Marriage filed and recorded November 13, 1915",
+            "Marriage recorded in Lafayette County Marriage Record Book E, page 166"
+        ],
+        "documents": [
+            "1915_will_evans_emma_singletary_marriage_license_cover.jpg",
+            "1915_will_evans_emma_singletary_marriage_license.jpg",
+            "1915_will_evans_emma_singletary_marriage_record.jpg"
+        ]
+    },
+    {
         "id": "1916-confederate-pension-rachel-singletary",
         "type": "pension",
         "title": "1916 Confederate Widow's Pension Application — Rachel Griffin Singletary",
@@ -993,6 +1036,32 @@
         ],
         "documents": [
             "1920_census_william_levi_herrin.jpg"
+        ]
+    },
+    {
+        "id": "1920-census-will-evans-family",
+        "type": "census",
+        "title": "1920 U.S. Census – Will and Emma Evans Household",
+        "people": [
+            "willie-evans-1887",
+            "emma-singletary-1895"
+        ],
+        "date": "1920-01-23",
+        "location": "Dowling Park, Suwannee County, Florida",
+        "description": "1920 United States Federal Census, Suwannee County, Florida, Precinct 8 (Dowling Park), Enumeration District 154, Sheet 14A, enumerated January 23, 1920. The household of Will Evans appears on lines 10–12, dwelling and family number 56. Will Evans, age 32, was recorded as head of household, born in Florida, and employed in a sawmill. His wife Emma Evans has an age entry that appears to read 20, although this differs from her documented birth date of August 24, 1895, which would make her 24 years old at the time of enumeration. Their son Ernest Evans was recorded as 3/12, indicating that he was approximately three months old and suggesting a birth around October 1919. All three household members were recorded as born in Florida. The census documents the Evans family living in Suwannee County approximately four years after Will Evans and Emma Singletary married on October 24, 1915, in Lafayette County, Florida.",
+        "supports": [
+            "Will Evans was head of household in the 1920 census",
+            "Will Evans was recorded as 32 years old",
+            "Emma Evans was identified as Will Evans' wife",
+            "Emma Evans' age appears to read 20, differing from her documented birth date",
+            "Ernest Evans was identified as the son of Will and Emma Evans",
+            "Ernest Evans was recorded as three months old, suggesting birth around October 1919",
+            "The Evans household resided in Dowling Park, Suwannee County, Florida",
+            "Will Evans was employed in a sawmill",
+            "Will, Emma, and Ernest Evans were recorded as born in Florida"
+        ],
+        "documents": [
+            "1920_census_will_evans_family.jpg"
         ]
     },
     {
@@ -1270,6 +1339,39 @@
         ]
     },
     {
+        "id": "1930-census-will-evans-family",
+        "type": "census",
+        "title": "1930 U.S. Census – Willie and Emma Evans Household",
+        "people": [
+            "willie-evans-1887",
+            "emma-singletary-1895"
+        ],
+        "date": "1930-04-22",
+        "location": "Precinct 8, Dowling Park, Suwannee County, Florida",
+        "description": "1930 United States Federal Census, Suwannee County, Florida, Precinct 8, Dowling Park, Enumeration District 61-13, Sheet 6A, enumerated April 22, 1930. The household of Willie Evans appears on lines 28–31, dwelling and family number 133. Willie Evans, age 42, was recorded as head of household, born in Georgia, and employed as a laborer in a shingle or lath mill. His wife Emma Evans, age 35, was born in Florida. Their son Ernest Evans, age 8, and daughter Gracie Evans, age 5, were both born in Florida. The family rented its residence. Emma's younger brother, Jasper Singletary, was enumerated immediately above the Evans family on lines 26–27, in dwelling and family number 132, with his wife Roxanne Singletary. The consecutive household entries suggest that Emma and Jasper lived near one another in the Dowling Park community. The census also documents the family's connection to the local lumber industry. Willie's birthplace was recorded as Georgia, differing from the Florida birthplace recorded in the 1920 census. Ernest's recorded age of 8 also differs from the age of three months identified in the 1920 census. These discrepancies remain unresolved. Gracie Evans is likely the Grace Lassiter identified as Emma's daughter in her 1984 obituary.",
+        "supports": [
+            "Willie Evans was head of household in the 1930 census",
+            "Willie Evans was recorded as 42 years old",
+            "Willie Evans was recorded as born in Georgia",
+            "Willie Evans worked as a laborer in a shingle or lath mill",
+            "Emma Evans was identified as Willie's wife, age 35",
+            "Emma Evans was recorded as born in Florida",
+            "Ernest Evans was identified as their son, age 8",
+            "Gracie Evans was identified as their daughter, age 5",
+            "The Evans family resided in Precinct 8, Dowling Park, Suwannee County, Florida",
+            "The Evans household rented its residence",
+            "Jasper Singletary, Emma's brother, was enumerated in the preceding household, dwelling and family number 132",
+            "Jasper Singletary was living with his wife Roxanne Singletary",
+            "The consecutive census entries suggest that Emma Evans and Jasper Singletary lived near one another",
+            "Gracie Evans is a possible match for Grace Lassiter named in Emma's 1984 obituary",
+            "Willie's recorded birthplace differs between the 1920 and 1930 census records",
+            "Ernest's recorded age differs between the 1920 and 1930 census records"
+        ],
+        "documents": [
+            "1930_census_will_evans_family.jpg"
+        ]
+    },
+    {
         "id": "1931-death-jacob-a-singletary",
         "type": "death",
         "title": "1931 Florida Death Certificate of Reverend Jacob A. Singletary",
@@ -1400,6 +1502,36 @@
         ]
     },
     {
+        "id": "1940-census-will-evans-family",
+        "type": "census",
+        "title": "1940 U.S. Census – Willie and Emma Evans Household",
+        "people": [
+            "willie-evans-1887",
+            "emma-singletary-1895",
+            "frederick-fred-evans"
+        ],
+        "date": "1940-04-09",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "1940 United States Federal Census, Mayo, Lafayette County, Florida, Enumeration District 34-2, Sheet 4B, enumerated April 9, 1940. The household of Willie E. Evans appears on lines 50–55. Willie E. Evans, age 52, was recorded as head of household, with his wife Emma Evans, age 40. Their sons Ernest Evans, age 20, and Frederick Evans, age 16, were also living in the household. The census additionally identifies Owen Lassiter, age 22, as Willie's son-in-law, and Gracie Lassiter, age 18, as his daughter. This establishes that Gracie Evans had married Owen Lassiter by April 1940 and supports identifying her as Grace Lassiter, the daughter named in Emma's 1984 obituary. The record also establishes that Willie and Emma were residing in Mayo, Lafayette County, Florida, by 1940, following their earlier residence in the Dowling Park area of Suwannee County. Emma's recorded age of 40 is inconsistent with her established birth date of August 24, 1895.",
+        "supports": [
+            "Willie E. Evans was head of household in Mayo, Florida, in 1940",
+            "Willie E. Evans was recorded as 52 years old",
+            "Emma Evans was identified as Willie's wife, age 40",
+            "Ernest Evans was identified as their son, age 20",
+            "Frederick Evans was identified as their son, age 16",
+            "Owen Lassiter was identified as Willie's son-in-law, age 22",
+            "Gracie Lassiter was identified as Willie's daughter, age 18",
+            "Gracie Evans had married Owen Lassiter by April 1940",
+            "Gracie Lassiter is the daughter identified as Grace Lassiter in Emma's 1984 obituary",
+            "The Evans family resided in Mayo, Lafayette County, Florida, in April 1940",
+            "The Evans family had moved from the Dowling Park area by 1940",
+            "Emma's recorded age differs from the age indicated by her established birth date"
+        ],
+        "documents": [
+            "1940_census_will_evans_family.jpg"
+        ]
+    },
+    {
         "id": "1940-census-ida-singletary-family",
         "type": "census",
         "title": "1940 United States Federal Census – Ida Singletary Household",
@@ -1490,6 +1622,74 @@
         ],
         "documents": [
             "1941_arthur_singletary_sr_birth_certificate.jpg"
+        ]
+    },
+    {
+        "id": "1942-hope-wayland-sullivan-draft-registration",
+        "type": "military",
+        "title": "1942 World War II Draft Registration – Hope Wayland Sullivan",
+        "people": [
+            "hope-wayland-sullivan-1920"
+        ],
+        "date": "1942-02-15",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "World War II Selective Service registration card for Hope Wayland Sullivan, completed February 15, 1942, in Mayo, Lafayette County, Florida. The card records his birth on September 12, 1920, in Mayo, Florida, his residence at Route 2, Mayo, and his age as 21. John M. Sullivan of Route 2, Mayo, was listed as both his employer and the person who would always know his address. The registrar described Hope as five feet eight inches tall, weighing 118 pounds, with blue eyes, brown hair, and a ruddy complexion. The card includes Hope's signature. This document establishes draft registration, not military service.",
+        "supports": [
+            "Hope Sullivan's full name was Hope Wayland Sullivan",
+            "Hope Wayland Sullivan was born September 12, 1920",
+            "Hope Wayland Sullivan was born in Mayo, Florida",
+            "Hope resided on Route 2 in Mayo in February 1942",
+            "Hope identified John M. Sullivan as his employer and contact person",
+            "Hope registered for the World War II draft on February 15, 1942"
+        ],
+        "documents": [
+            "1942_hope_wayland_sullivan_draft_registration_front.jpg",
+            "1942_hope_wayland_sullivan_draft_registration_back.jpg"
+        ]
+    },
+    {
+        "id": "1942-hope-sullivan-ida-mae-herrin-marriage",
+        "type": "marriage",
+        "title": "1942 Marriage License – Hope Sullivan and Ida Mae Herrin",
+        "people": [
+            "hope-wayland-sullivan-1920",
+            "ida-mae-herrin-1922"
+        ],
+        "date": "1942-04-17",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "Florida marriage license and certificate number 13098 for Hope Sullivan and Ida Mae Herrin, issued April 17, 1942, by Lafayette County Judge Lacy M. McClain in Mayo, Florida. The certificate records that the couple married on April 17, 1942, at a private home in Florida. The marriage return was filed April 18, 1942, and recorded in the county marriage book. This original document confirms the marriage date, location, and the names used by both parties.",
+        "supports": [
+            "Hope Sullivan married Ida Mae Herrin",
+            "Their marriage took place April 17, 1942",
+            "Their marriage was licensed in Lafayette County, Florida",
+            "The marriage return was filed April 18, 1942"
+        ],
+        "documents": [
+            "1942_hope_sullivan_ida_mae_herrin_marriage_license.jpg"
+        ]
+    },
+    {
+        "id": "1942-fred-evans-wwii-draft-registration",
+        "type": "military",
+        "title": "1942 World War II Draft Registration – Fred Evans",
+        "people": [
+            "frederick-fred-evans"
+        ],
+        "date": "1942-06-30",
+        "location": "Live Oak, Suwannee County, Florida",
+        "description": "World War II Selective Service registration card for Fred Evans, completed June 30, 1942, at the Suwannee County Local Board in Live Oak, Florida. The card records his birth as May 3, 1924, in Suwannee County, Florida, and his age as 18. His residence and mailing address were General Delivery, Live Oak, Florida. He identified Mrs. Emma Evans of Live Oak as the person who would always know his address. His employer was Dan Sanders of Live Oak, and his place of employment was Madison Highway, Live Oak, Suwannee County, Florida. The registrar's report describes Fred as approximately five feet nine and one-half inches tall, weighing 135 pounds, with blue eyes, blond hair, and a light complexion. The card includes Fred's signature. This record documents draft registration but does not establish military service.",
+        "supports": [
+            "Fred Evans was born May 3, 1924",
+            "Fred Evans was born in Suwannee County, Florida",
+            "Fred Evans registered for the World War II draft on June 30, 1942",
+            "Fred Evans resided in Live Oak, Florida, in June 1942",
+            "Fred Evans identified Mrs. Emma Evans as the person who would always know his address",
+            "Fred Evans was employed by Dan Sanders in Live Oak, Florida",
+            "Fred Evans worked on Madison Highway in Live Oak",
+            "Fred Evans had blue eyes and blond hair"
+        ],
+        "documents": [
+            "1942_fred_evans_wwii_draft_registration.jpg"
         ]
     },
     {
@@ -1787,6 +1987,32 @@
         ]
     },
     {
+        "id": "1950-census-will-evans-family",
+        "type": "census",
+        "title": "1950 U.S. Census – Willie and Emma Evans Household",
+        "people": [
+            "willie-evans-1887",
+            "emma-singletary-1895"
+        ],
+        "date": "1950-04-03",
+        "location": "Suwannee County, Florida",
+        "description": "1950 United States Federal Census, Suwannee County, Florida, Enumeration District 61-89, Sheet 23, enumerated April 3, 1950. Willie Evans and his wife Emma Evans appear on lines 21–22. Willie, age 62, was recorded as head of household, born in Florida, and employed as a watchman at a wholesale planing mill. Emma, age 54, was recorded as his wife and was also born in Florida. Both were recorded as living in the same house one year earlier. No children or other relatives were listed in their household. This census documents the couple's continued residence in northern Florida and Willie's employment in the lumber industry in 1950.",
+        "supports": [
+            "Willie Evans was recorded as head of household in the 1950 census",
+            "Willie Evans was recorded as 62 years old",
+            "Willie Evans was recorded as born in Florida",
+            "Willie Evans worked as a watchman at a wholesale planing mill",
+            "Emma Evans was identified as Willie's wife, age 54",
+            "Emma Evans was recorded as born in Florida",
+            "Willie and Emma Evans were living in Suwannee County, Florida, in April 1950",
+            "Willie and Emma Evans had lived in the same house one year earlier",
+            "No children or other relatives were enumerated in the Evans household"
+        ],
+        "documents": [
+            "1950_census_will_evans_family.jpg"
+        ]
+    },
+    {
         "id": "lela-mae-mathis-singletary-death-certificate-1951",
         "type": "Death Certificate",
         "title": "1951 Florida Death Certificate - Lela Mae Singletary",
@@ -1806,6 +2032,32 @@
         ],
         "documents": [
             "1951_lela_mae_mathis_singletary_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "1952-st-augustine-record-evans-drowning",
+        "type": "newspaper",
+        "title": "1952 Newspaper Article – Mother and Two Sons Drowned in Suwannee River",
+        "people": [
+            "marie-richmond-1926"
+        ],
+        "date": "1952-06-08",
+        "location": "Live Oak, Suwannee County, Florida",
+        "description": "Article titled 'Mother And Two Sons Drowned In Suwannee River,' published in The St. Augustine Record on June 8, 1952. The Associated Press report, datelined Live Oak, Florida, June 7, describes the drowning of Mrs. Fred Evans, identified through family research as Marie Richmond Evans, and her sons Donald Ray Evans, age 10, and Charles Evans, age 12, during a family fishing and swimming outing on the Suwannee River. According to the article, Donald Ray entered the river and was caught in a strong undertow. Charles attempted to help his brother and was also pulled under. Their mother entered the water to rescue the boys and drowned as well. Fred Evans, who had been fishing nearby, entered the river in an attempt to save his family but was rescued by his brother-in-law, Owen Lassiter. Lassiter reported that he had briefly held all four family members but could not pull them from the strong current. The article identifies the victims by the surname Evans; the 1950 federal census separately records Charles and Donald with the surname Richmond and identifies them as Fred's stepsons. The newspaper does not provide Marie's given name. The report establishes that the tragedy occurred on June 7, 1952.",
+        "supports": [
+            "Marie Richmond Evans died in a drowning accident on June 7, 1952",
+            "Marie was identified in the newspaper as Mrs. Fred Evans",
+            "Charles Evans, age 12, drowned in the Suwannee River",
+            "Donald Ray Evans, age 10, drowned in the Suwannee River",
+            "The three deaths occurred during a family fishing and swimming outing",
+            "Fred Evans attempted to rescue his wife and sons and survived",
+            "Owen Lassiter was identified as Fred Evans' brother-in-law",
+            "Owen Lassiter rescued Fred Evans from the river",
+            "The newspaper identified Charles and Donald by the surname Evans",
+            "The article was published in The St. Augustine Record on June 8, 1952"
+        ],
+        "documents": [
+            "1952_06_08_st_augustine_record_evans_drowning.jpg"
         ]
     },
     {
@@ -1831,7 +2083,7 @@
     },
     {
         "id": "james-loyd-singletary-stillbirth-certificate",
-        "type": "Certificate of Stillbirth",
+        "type": "1955 Certificate of Stillbirth",
         "title": "Certificate of Stillbirth of James Loyd Singletary",
         "people": [
             "james-loyd-singletary-1955"
@@ -2162,6 +2414,33 @@
         ]
     },
     {
+        "id": "1971-willie-evans-obituary",
+        "type": "obituary",
+        "title": "1971 Obituary – Willie Evans",
+        "people": [
+            "willie-evans-1887",
+            "emma-singletary-1895"
+        ],
+        "date": "1971-10-09",
+        "location": "Live Oak, Suwannee County, Florida",
+        "description": "Obituary for Willie Evans published in The Florida Times-Union on October 9, 1971. The notice reports that Willie Evans, age 84, died on Thursday. He was survived by his widow, Emma Evans; a daughter, Mrs. Grace Lassiter of Palatka; two sons, Ernest and Fred Evans of Jacksonville; four grandchildren; and seven great-grandchildren. Funeral services were scheduled for Saturday at 4 p.m. at Westwood Baptist Church, with burial in Live Oak Cemetery. Harris Funeral Home was in charge of arrangements. The obituary does not specify Willie's place of death. His October 7, 1971, death date is established by his gravestone and is consistent with the obituary's reference to Thursday.",
+        "supports": [
+            "Willie Evans died at age 84 in October 1971",
+            "Emma Evans was Willie's surviving wife",
+            "Grace Lassiter of Palatka was Willie's daughter",
+            "Ernest Evans of Jacksonville was Willie's son",
+            "Fred Evans of Jacksonville was Willie's son",
+            "Willie was survived by four grandchildren",
+            "Willie was survived by seven great-grandchildren",
+            "Willie's funeral was scheduled for October 9, 1971, at Westwood Baptist Church",
+            "Willie was to be buried in Live Oak Cemetery",
+            "Harris Funeral Home handled Willie's funeral arrangements"
+        ],
+        "documents": [
+            "1971_willie_evans_obituary.jpg"
+        ]
+    },
+    {
         "id": "mary-lou-herrin-obituary-1972",
         "type": "Obituary",
         "title": "1972 Obituary — Mary Lou Miller",
@@ -2358,6 +2637,85 @@
         ]
     },
     {
+        "id": "1982-hope-wayland-sullivan-obituary",
+        "type": "obituary",
+        "title": "1982 Obituary – Hope W. Sullivan",
+        "people": [
+            "hope-wayland-sullivan-1920"
+        ],
+        "date": "1982-05-29",
+        "location": "Perry, Taylor County, Florida",
+        "description": "Obituary titled 'Hope W. Sullivan,' published in the Tallahassee Democrat on Saturday, May 29, 1982. The notice reports that Hope W. Sullivan, age 61, died Thursday at his home in Perry after a brief illness. A native of Mayo, he had lived in Perry for five years and worked as a lineman for an electrical company. Funeral services were scheduled for Sunday at Airline Baptist Church in Mayo, followed by burial in the church cemetery. Survivors included daughter Nell Slaughter of Fanning Springs; sons Connie Mack Sullivan, Billy John Sullivan, Wayland Sullivan, Paul (Mike) Sullivan, and Drew Sullivan of Perry, and Jack Sullivan of Old Town; brother Hugh E. Sullivan of Jacksonville; and 19 grandchildren. Joe P. Burns Funeral Home of Perry handled arrangements.",
+        "supports": [
+            "Hope W. Sullivan died May 27, 1982, as inferred from the obituary's publication date and reference to Thursday",
+            "Hope was 61 years old at death",
+            "Hope lived in Perry, Florida, at the time of his death",
+            "Hope worked as an electrical company lineman",
+            "Hope was a native of Mayo, Florida",
+            "Hope's obituary identified seven surviving children",
+            "Hugh E. Sullivan was Hope's brother",
+            "Hope's burial was planned at Airline Baptist Church cemetery in Mayo"
+        ],
+        "documents": [
+            "1982_hope_wayland_sullivan_obituary.jpg"
+        ]
+    },
+    {
+        "id": "1984-emma-singletary-evans-funeral-memorial",
+        "type": "obituary",
+        "title": "1984 Funeral Memorial of Emma Singletary Evans",
+        "people": [
+            "emma-singletary-1895"
+        ],
+        "date": "1984-04-30",
+        "location": "Live Oak, Suwannee County, Florida",
+        "description": "Funeral memorial prepared for Emma Singletary Evans (August 24, 1895 – April 28, 1984). The memorial identifies her surviving children as Grace Lassiter, Ernest Evans, and Fred Evans. Her surviving siblings were listed as Sallie Spies, Giddy Singletary, Jammie Singletary, and Jasper Singletary. It also records ten grandchildren and twenty-five great-grandchildren. Funeral services were scheduled for Monday, April 30, 1984, at 3:00 p.m. at Westwood Baptist Church in Live Oak, Florida, with Reverend Lorace Cothron officiating. Interment was designated for Live Oak Cemetery, with arrangements handled by Harris Funeral Home. The memorial provides additional evidence for the identity of Emma's brother Jammie Singletary, whose name appears as Sammy in the newspaper obituary.",
+        "supports": [
+            "Emma Singletary Evans born August 24, 1895",
+            "Emma Singletary Evans died April 28, 1984",
+            "Grace Lassiter identified as Emma's daughter",
+            "Ernest Evans and Fred Evans identified as Emma's sons",
+            "Sallie Spies identified as Emma's sister",
+            "Giddy, Jammie, and Jasper Singletary identified as Emma's brothers",
+            "Emma had ten grandchildren and twenty-five great-grandchildren",
+            "Funeral services scheduled April 30, 1984, at Westwood Baptist Church",
+            "Reverend Lorace Cothron identified as the officiating minister",
+            "Interment designated for Live Oak Cemetery",
+            "Harris Funeral Home identified as responsible for funeral arrangements"
+        ],
+        "documents": [
+            "1984_emma_singletary_evans_funeral_memorial.jpg"
+        ]
+    },
+    {
+        "id": "1984-emma-singletary-evans-obituary",
+        "type": "obituary",
+        "title": "1984 Obituary of Emma Singletary Evans – The Florida Times-Union",
+        "people": [
+            "emma-singletary-1895"
+        ],
+        "date": "1984-04-30",
+        "location": "Palatka, Putnam County, Florida",
+        "description": "Obituary published in The Florida Times-Union on April 30, 1984, reporting the death of Emma Singletary Evans, age 88, of Palatka, Florida. Emma died on Saturday, April 28, 1984, at Putnam Memorial Nursing Home in Palatka following a long illness. A native of Lafayette County, Florida, she had lived in Palatka for approximately thirteen years and was a member of Tabernacle Baptist Church. The obituary identifies her surviving children as daughter Grace Lassiter of Palatka and sons Ernest and Fred Evans of Jacksonville. Her surviving siblings were identified as sister Sallie Spies of Live Oak and brothers Giddy and Sammy Singletary of Mayo and Jasper Singletary of Live Oak. The funeral memorial separately identifies the brother listed as Sammy in the newspaper as Jammie Singletary. The obituary also records ten grandchildren and twenty-five great-grandchildren. Funeral services were scheduled for April 30, 1984, at Westwood Baptist Church in Live Oak, with Reverend Lorace Cothron officiating, followed by burial at Live Oak Cemetery. Harris Funeral Home of Live Oak handled the arrangements.",
+        "supports": [
+            "Emma Singletary Evans died April 28, 1984, in Palatka, Putnam County, Florida",
+            "Emma was 88 years old at death",
+            "Emma was a native of Lafayette County, Florida",
+            "Emma had resided in Palatka for approximately thirteen years",
+            "Emma was a member of Tabernacle Baptist Church in Palatka",
+            "Grace Lassiter identified as Emma's daughter",
+            "Ernest Evans and Fred Evans identified as Emma's sons",
+            "Sallie Spies identified as Emma's surviving sister",
+            "Giddy, Sammy, and Jasper Singletary identified as Emma's surviving brothers",
+            "Emma had ten grandchildren and twenty-five great-grandchildren",
+            "Funeral services scheduled at Westwood Baptist Church on April 30, 1984",
+            "Burial at Live Oak Cemetery in Live Oak, Florida"
+        ],
+        "documents": [
+            "1984_emma_singletary_evans_obituary_florida_times_union.jpg"
+        ]
+    },
+    {
         "id": "james-talmadge-herrin-death-certificate-1986",
         "type": "Death Certificate",
         "title": "1986 Florida Death Certificate — James Talmadge Herrin",
@@ -2486,6 +2844,52 @@
         ]
     },
     {
+        "id": "ida-mae-herrin-numident-record",
+        "type": "social-security",
+        "title": "2007 Social Security NUMIDENT Record – Ida Mae Herrin Secreast",
+        "people": [
+            "ida-mae-herrin-1922"
+        ],
+        "date": "2007",
+        "location": "United States",
+        "description": "United States Social Security Numerical Identification Files (NUMIDENT), 1936–2007, record for Ida Mae Herrin, later known as Ida Mae Secreast. The record identifies her birth date as January 2, 1922, and birthplace as Homerville, Georgia. It records a Social Security application in November 1941, lists Trenton, Gilchrist County, Florida, as a residence, and gives her death date as July 14, 2003. Family relationships identify her parents as William L. Herrin and Laura Palmer. The record supports the birth year engraved on her gravestone, while a separate Social Security index transcription previously supplied a birth year of 1923.",
+        "supports": [
+            "Ida Mae Herrin was born January 2, 1922",
+            "Ida Mae Herrin was born in Homerville, Georgia",
+            "Ida Mae Herrin later used the name Ida Mae Secreast",
+            "Ida Mae applied for Social Security in November 1941",
+            "Trenton, Gilchrist County, Florida, is recorded as a residence",
+            "Ida Mae Secreast died July 14, 2003",
+            "William L. Herrin was Ida Mae's father",
+            "Laura Palmer was Ida Mae's mother"
+        ],
+        "documents": []
+    },
+    {
+        "id": "2020-stella-emily-osborn-obituary",
+        "type": "obituary",
+        "title": "2020 Obituary – Stella Emily Secreast Osborn",
+        "people": [
+            "lawrence-monroe-secreast-1912"
+        ],
+        "date": "2020-02-19",
+        "location": "Ellabell, Bryan County, Georgia",
+        "description": "Obituary for Mrs. Stella Emily Osborn, who died February 19, 2020, at age 72. Born January 13, 1948, in Macon, Georgia, she was the daughter of Lawrence Monroe Secreast and Margaret Fussell Secreast. Her maternal grandparents were Dr. Thomas Daniel Fussell and Sarah Redman Fussell. Stella earned an associate degree in Forest Technology from Savannah Technical College and worked at Fort Stewart as a forest technician and endangered species technician, locating rare and endangered plants. Her husband was Steve Osborn, and her children included Ernest Coren Rahn, Donald Lee Rahn, and Sarah Emily Osborn. The obituary identifies Mike Sullivan and Billy John Sullivan as her stepbrothers, supporting the family connection through Lawrence's later marriage to Ida Mae Herrin Sullivan. Funeral services were scheduled for February 22, 2020, at Ellabell Methodist Church, followed by burial at Bethany Campground Cemetery. Obituary provided by Flanders Morrison Funeral Home and Crematory and indexed in FamilySearch's United States, Obituary Records, 2014–2023 collection. FamilySearch record: https://www.familysearch.org/ark:/61903/1:1:XMLF-PLFQ. The FamilySearch index lists an event date of April 5, 2023, which should not be confused with Stella's death date or assumed to be the original obituary publication date.",
+        "supports": [
+            "Stella Emily Secreast Osborn was born January 13, 1948, in Macon, Georgia",
+            "Stella Emily Osborn died February 19, 2020",
+            "Lawrence Monroe Secreast was Stella's father",
+            "Margaret Fussell Secreast was Stella's mother",
+            "Dr. Thomas Daniel Fussell and Sarah Redman Fussell were Stella's maternal grandparents",
+            "Steve Osborn was Stella's husband",
+            "Ernest Coren Rahn, Donald Lee Rahn, and Sarah Emily Osborn were Stella's children",
+            "Mike Sullivan and Billy John Sullivan were identified as Stella's stepbrothers",
+            "Stella worked as a forest technician and endangered species technician at Fort Stewart",
+            "Stella's burial was planned at Bethany Campground Cemetery"
+        ],
+        "documents": []
+    },
+    {
         "id": "aldermans-in-america-blanton-family-page-59",
         "type": "Published Family History",
         "title": "Aldermans in America — Blanton Family, Page 59",
@@ -2578,60 +2982,5 @@
         "documents": [
             "pioneer_williams_families_georgia_page_15.jpg"
         ]
-    },
-    {
-  "id": "1984-emma-singletary-evans-obituary",
-  "type": "obituary",
-  "title": "1984 Obituary of Emma Singletary Evans – The Florida Times-Union",
-  "people": [
-    "emma-singletary-1895"
-  ],
-  "date": "1984-04-30",
-  "location": "Palatka, Putnam County, Florida",
-  "description": "Obituary published in The Florida Times-Union on April 30, 1984, reporting the death of Emma Singletary Evans, age 88, of Palatka, Florida. Emma died on Saturday, April 28, 1984, at Putnam Memorial Nursing Home in Palatka following a long illness. A native of Lafayette County, Florida, she had lived in Palatka for approximately thirteen years and was a member of Tabernacle Baptist Church. The obituary identifies her surviving children as daughter Grace Lassiter of Palatka and sons Ernest and Fred Evans of Jacksonville. Her surviving siblings were identified as sister Sallie Spies of Live Oak and brothers Giddy and Sammy Singletary of Mayo and Jasper Singletary of Live Oak. The funeral memorial separately identifies the brother listed as Sammy in the newspaper as Jammie Singletary. The obituary also records ten grandchildren and twenty-five great-grandchildren. Funeral services were scheduled for April 30, 1984, at Westwood Baptist Church in Live Oak, with Reverend Lorace Cothron officiating, followed by burial at Live Oak Cemetery. Harris Funeral Home of Live Oak handled the arrangements.",
-  "supports": [
-    "Emma Singletary Evans died April 28, 1984, in Palatka, Putnam County, Florida",
-    "Emma was 88 years old at death",
-    "Emma was a native of Lafayette County, Florida",
-    "Emma had resided in Palatka for approximately thirteen years",
-    "Emma was a member of Tabernacle Baptist Church in Palatka",
-    "Grace Lassiter identified as Emma's daughter",
-    "Ernest Evans and Fred Evans identified as Emma's sons",
-    "Sallie Spies identified as Emma's surviving sister",
-    "Giddy, Sammy, and Jasper Singletary identified as Emma's surviving brothers",
-    "Emma had ten grandchildren and twenty-five great-grandchildren",
-    "Funeral services scheduled at Westwood Baptist Church on April 30, 1984",
-    "Burial at Live Oak Cemetery in Live Oak, Florida"
-  ],
-  "documents": [
-    "1984_emma_singletary_evans_obituary_florida_times_union.jpg"
-  ]
-},
-{
-  "id": "1984-emma-singletary-evans-funeral-memorial",
-  "type": "obituary",
-  "title": "1984 Funeral Memorial of Emma Singletary Evans",
-  "people": [
-    "emma-singletary-1895"
-  ],
-  "date": "1984-04-30",
-  "location": "Live Oak, Suwannee County, Florida",
-  "description": "Funeral memorial prepared for Emma Singletary Evans (August 24, 1895 – April 28, 1984). The memorial identifies her surviving children as Grace Lassiter, Ernest Evans, and Fred Evans. Her surviving siblings were listed as Sallie Spies, Giddy Singletary, Jammie Singletary, and Jasper Singletary. It also records ten grandchildren and twenty-five great-grandchildren. Funeral services were scheduled for Monday, April 30, 1984, at 3:00 p.m. at Westwood Baptist Church in Live Oak, Florida, with Reverend Lorace Cothron officiating. Interment was designated for Live Oak Cemetery, with arrangements handled by Harris Funeral Home. The memorial provides additional evidence for the identity of Emma's brother Jammie Singletary, whose name appears as Sammy in the newspaper obituary.",
-  "supports": [
-    "Emma Singletary Evans born August 24, 1895",
-    "Emma Singletary Evans died April 28, 1984",
-    "Grace Lassiter identified as Emma's daughter",
-    "Ernest Evans and Fred Evans identified as Emma's sons",
-    "Sallie Spies identified as Emma's sister",
-    "Giddy, Jammie, and Jasper Singletary identified as Emma's brothers",
-    "Emma had ten grandchildren and twenty-five great-grandchildren",
-    "Funeral services scheduled April 30, 1984, at Westwood Baptist Church",
-    "Reverend Lorace Cothron identified as the officiating minister",
-    "Interment designated for Live Oak Cemetery",
-    "Harris Funeral Home identified as responsible for funeral arrangements"
-  ],
-  "documents": [
-    "1984_emma_singletary_evans_funeral_memorial.jpg"
-  ]
-}
+    }
 ]
