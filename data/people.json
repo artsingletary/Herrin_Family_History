@@ -958,6 +958,7 @@
     ],
     "biography": [
       "William Levi Herrin was born on May 4, 1892, in Clinch County, Georgia, the son of Thomas Levi Herrin and Nancy T. Jewell. He grew up in south Georgia and as a young man married Laura Etta Palmer of Pearson, Georgia. Together they would raise a large family of ten children.",
+      "In June 1917, William registered for the World War I draft in Clinch County, Georgia. At age 25, he was living on Rural Free Delivery Route 2 near Pearson, Georgia, and working as a farmer. He reported that he was married and that his wife depended upon him for support. The registrar described William as being of medium height and build, with blue eyes and dark hair. He reported no previous military service. His draft registration does not establish that he subsequently served in the armed forces.",
       "By 1920, William and Laura Etta were living in Clinch County with their first two children, Ollie Clayton and James Talmage. William was working as a farmer on a general farm. During the following decade the family moved to the Pearson area of Atkinson County, Georgia. By 1930, William and Laura owned their home and were raising six children: Ollie, James, Ida Mae, Gladys, Mary Lou, and Dorothy. William continued to support his growing family through farming.",
       "The family continued to grow during the 1930s with the births of William \"Billy,\" Evelyn, and Shelby Jean. By 1940, William and Laura Etta had moved their family from Georgia to Lafayette County, Florida. Their tenth and youngest child, Deloris, was born in Florida in 1942. The 1950 census found William and Laura Etta still in Lafayette County, with five of their younger children remaining at home. William, then 58, was still working as a farmer.",
       "Farming was a major part of William's working life, but in his later years he also worked in the logging and sawmill business. In 1954, he moved from Mayo to Perry, Florida. Laura Etta died in 1959, leaving William a widower after more than four decades of marriage.",
@@ -2573,10 +2574,11 @@
   "birth_place": "Lenoir, Caldwell County, North Carolina",
   "death_date": "1982-06-03",
   "death_year": 1982,
-  "death_place": "",
+  "death_place": "Fanning Springs, Gilchrist County, Florida",
   "father": "",
   "mother": "",
   "spouses": [
+    "margaret-fussell-1913",
     "ida-mae-herrin-1922"
   ],
    "military_service": [
@@ -2600,7 +2602,8 @@
     "Lawrence subsequently married Margaret Fussell, who was born on November 4, 1913, in Georgia. They had a daughter, Stella Emily Secreast, born on January 13, 1948, in Macon, Georgia. The dates of Lawrence and Margaret's marriage and its ending have not yet been established.",
     "On April 26, 1950, the United States federal census recorded Lawrence, age 38, living in Pensacola, Escambia County, Florida, with Margaret, age 36, and their daughter Stella, age 2. Lawrence worked as a cabinet maker in a furniture shop.",
     "On April 5, 1959, Lawrence married Ida Mae Herrin Sullivan, known as Shorty. Their marriage was recorded in Wakulla County, Florida, and the exact date appears on their shared gravestone. Ida Mae had previously been married to Hope Wayland Sullivan and had children from that marriage. Lawrence's daughter Stella became part of this blended family.",
-    "Lawrence died on June 3, 1982, at the age of 70. He was buried at Old Town Memorial Cemetery in Old Town, Dixie County, Florida, where Ida Mae was later buried alongside him. Their shared gravestone commemorates their marriage and lists children from their blended family."
+    "Lawrence worked in the roofing trade and was described as a retired roofer in his obituary. Earlier records identify him as an employee of Barger-Ashe Roofing Company in Lenoir, North Carolina, in 1940, and as a cabinet maker working in a furniture shop in Pensacola, Florida, in 1950. He was a member of Granite Falls Methodist Church in Granite Falls, North Carolina.",
+    "Lawrence died at his home in Fanning Springs, Florida, on June 3, 1982, following a long illness. His obituary, published in the Tallahassee Democrat on June 5, 1982, identified his surviving wife Ida Mae, daughter Stella Osborn, members of the Sullivan family, brothers Arno, Bob, and Cade Secreast, and 25 grandchildren. Funeral services were scheduled at Joe P. Burns Funeral Home Chapel in Perry, Florida. The obituary announced burial at Spring Warrior Cemetery in Taylor County, although other family records identify Old Town Memorial Cemetery as his burial location."
   ]
 },
 
@@ -2620,7 +2623,7 @@
   "death_year": 2020,
   "death_place": "",
   "father": "lawrence-monroe-secreast-1912",
-  "mother": "",
+  "mother": "margaret-fussell-1913",
   "spouses": [],
   "biography": [
     "Stella Emily Secreast was born on January 13, 1948, in Macon, Bibb County, Georgia. She was the daughter of Lawrence Monroe Secreast and Margaret Fussell Secreast. Her maternal grandparents were Dr. Thomas Daniel Fussell and Sarah Redman Fussell.",
@@ -2632,6 +2635,37 @@
     "Stella died on February 19, 2020, at St. Joseph's Hospital, at the age of 72. Her obituary identified her husband Steve, her three children, five grandchildren, and her stepbrothers Mike Sullivan and Billy John Sullivan among her surviving family. She was preceded in death by her granddaughter Krista Breanna Rahn.",
     "Funeral services were held on February 22, 2020, at Ellabell Methodist Church in Georgia, with burial at Bethany Campground Cemetery."
   ]
+},
+
+{
+  "id": "margaret-fussell-1913",
+  "first_name": "Margaret",
+  "middle_name": "",
+  "last_name": "Fussell",
+  "display_name": "Margaret Fussell Secreast",
+  "family_lines": [
+    "herrin"
+  ],
+  "birth_date": "1913-11-04",
+  "birth_year": 1913,
+  "birth_place": "Georgia",
+  "death_date": "1984-01-26",
+  "death_year": 1984,
+  "death_place": "",
+  "father": "",
+  "mother": "",
+  "spouses": [
+    "lawrence-monroe-secreast-1912"
+  ],
+  "biography": [
+    "Margaret Fussell was born on November 4, 1913, in Georgia. She was the daughter of Dr. Thomas Daniel Fussell and Sarah Redman Fussell, as identified in the obituary of her daughter, Stella Emily Secreast Osborn.",
+    "Margaret married Lawrence Monroe Secreast, who was born on February 18, 1912, in Lenoir, North Carolina. Lawrence had previously been married to Ruth A. Sherrill, whom he divorced on November 22, 1946, in St. Johns County, Florida. The exact date and location of Margaret and Lawrence's marriage have not yet been established.",
+    "Margaret and Lawrence had a daughter, Stella Emily Secreast, born on January 13, 1948, in Macon, Bibb County, Georgia.",
+    "On April 26, 1950, the United States federal census recorded Margaret, age 36, living with her husband Lawrence, age 38, and their daughter Stella, age two, in Pensacola, Escambia County, Florida. Lawrence was employed as a cabinet maker in a furniture shop. The census recorded Margaret and Stella as having been born in Georgia.",
+    "Margaret and Lawrence's marriage ended sometime before Lawrence married Ida Mae Herrin Sullivan on April 5, 1959. The date and circumstances of the end of Margaret and Lawrence's marriage have not yet been established.",
+    "Margaret died on January 26, 1984, at the age of 70. She was buried at Sharon Baptist Church Cemetery in Telfair County, Georgia."
+  ]
 }
+
 
 ]

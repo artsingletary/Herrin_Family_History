@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/css/style.css">
+    <title>Historical Documents | Singletary-Herrin Family Archive</title>
+</head>
+<body>
+
+    <header>
+        <h1>Singletary-Herrin Family Archive</h1>
+        <p>Preserving our family's history through original records.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="#">Family Tree</a>
+        <a href="photos.html">Photos</a>
+        <a href="#">Stories</a>
+        <a href="documents.html">Documents</a>
+        <a href="#">Reunions</a>
+    </nav>
+
+    <main>
+        <h2>Historical Documents</h2>
+
+        <p>
+            Explore census records, marriage certificates, military
+            registrations, obituaries, and other documents from
+            the Singletary and Herrin families.
+        </p>
+
+        <div class="document-controls">
+            <input
+                type="search"
+                id="document-search"
+                placeholder="Search documents or family members..."
+                aria-label="Search historical documents"
+            >
+
+            <select id="document-type" aria-label="Filter by document type">
+                <option value="all">All Documents</option>
+
+                {% for document_type in document_types %}
+                <option value="{{ document_type | lower }}">
+                    {{ document_type }}
+                </option>
+                {% endfor %}
+            </select>
+
+        </div>
+
+        <div class="document-gallery">
+            {% for source in document_sources %}
+            <article class="document-item"
+                     data-type="{{ source.category | lower }}"
+                     data-search="{{ (source.title ~ ' ' ~ source.description ~ ' ' ~ (source.people_names | join(' '))) | lower | e }}">
+
+                <h3>{{ source.title }}</h3>
+
+                <p><strong>Type:</strong> {{ source.type }}</p>
+
+                {% if source.date %}
+                <p><strong>Date:</strong> {{ source.date }}</p>
+                {% endif %}
+
+                {% if source.location %}
+                <p><strong>Location:</strong> {{ source.location }}</p>
+                {% endif %}
+
+                {% if source.description %}
+                <p>{{ source.description }}</p>
+                {% endif %}
+
+                {% if source.people_details %}
+                <p>
+                    <strong>People:</strong>
+                    {% for person in source.people_details %}
+                    <a href="people/{{ person.id }}.html">
+                        {{ person.display_name }}
+                    </a>{% if not loop.last %}, {% endif %}
+                    {% endfor %}
+                </p>
+                {% endif %}
+
+                {% for filename in source.documents %}
+                <p>
+                    <a href="documents/{{ filename }}"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        View Document{% if source.documents | length > 1 %} {{ loop.index }}{% endif %}
+                    </a>
+                </p>
+                {% endfor %}
+
+            </article>
+            {% endfor %}
+        </div>
+
+        <p id="no-results" hidden>No matching documents found.</p>
+    </main>
+
+    <footer>
+        <p>Singletary-Herrin Family Archive</p>
+    </footer>
+
+    <script>
+        const searchInput = document.getElementById("document-search");
+        const typeSelect = document.getElementById("document-type");
+        const documents = document.querySelectorAll(".document-item");
+        const noResults = document.getElementById("no-results");
+
+        function filterDocuments() {
+            const query = searchInput.value.trim().toLowerCase();
+            const type = typeSelect.value;
+            let visibleCount = 0;
+
+            documents.forEach(item => {
+                const matchesSearch = item.dataset.search.includes(query);
+                const matchesType =
+                    type === "all" || item.dataset.type === type;
+
+                const visible = matchesSearch && matchesType;
+                item.hidden = !visible;
+
+                if (visible) visibleCount++;
+            });
+
+            noResults.hidden = visibleCount !== 0;
+        }
+
+        searchInput.addEventListener("input", filterDocuments);
+        typeSelect.addEventListener("change", filterDocuments);
+    </script>
+
+</body>
+</html>

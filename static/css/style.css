@@ -319,3 +319,120 @@ footer {
     line-height: 1.5;
     margin: 8px 0;
 }
+
+/* --------------------------------------------------
+   Historical Documents Page
+-------------------------------------------------- */
+
+/* Search and category controls */
+
+.document-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 25px 0 30px;
+}
+
+.document-controls input,
+.document-controls select {
+    padding: 12px 15px;
+    border: 1px solid #d8d3c8;
+    border-radius: 6px;
+    background-color: white;
+    color: #2f2f2f;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+}
+
+.document-controls input {
+    flex: 1;
+    min-width: 220px;
+}
+
+.document-controls select {
+    min-width: 180px;
+    cursor: pointer;
+}
+
+.document-controls input:focus,
+.document-controls select:focus {
+    outline: 2px solid #52664b;
+    outline-offset: 2px;
+}
+
+/* Document cards */
+
+.document-gallery {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fill,
+        minmax(min(100%, 300px), 1fr)
+    );
+    gap: 22px;
+    margin-top: 20px;
+}
+
+.document-item {
+    background-color: #ffffff;
+    border: 1px solid #d8d3c8;
+    border-radius: 8px;
+    padding: 22px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+}
+
+.document-item h3 {
+    margin: 0 0 15px;
+    color: #3f4a3c;
+    font-size: 19px;
+    line-height: 1.4;
+}
+
+.document-item p {
+    margin: 10px 0;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.document-item a {
+    color: #52664b;
+    font-weight: bold;
+}
+
+.document-item a:hover {
+    color: #293126;
+}
+
+/* Hide documents excluded by filters */
+
+.document-item[hidden],
+#no-results[hidden] {
+    display: none;
+}
+
+/* Empty search results */
+
+#no-results {
+    text-align: center;
+    padding: 30px;
+    color: #666;
+    font-style: italic;
+}
+
+/* Mobile layout */
+
+@media (max-width: 600px) {
+    .document-controls {
+        flex-direction: column;
+    }
+
+    .document-controls input,
+    .document-controls select {
+        width: 100%;
+        min-width: 0;
+        box-sizing: border-box;
+    }
+
+    .document-gallery {
+        grid-template-columns: 1fr;
+    }
+}

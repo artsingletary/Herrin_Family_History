@@ -1484,7 +1484,7 @@
     {
         "id": "james-talmage-herrin-draft-registration",
         "type": "Draft Registration Card",
-        "title": "Selective Service Registration Card of James Talmage Herrin",
+        "title": "1940 Selective Service Registration Card of James Talmage Herrin",
         "people": [
             "james-talmage-herrin-1919"
         ],
@@ -1498,7 +1498,8 @@
             "William Levi Herrin as James Talmage Herrin's father"
         ],
         "documents": [
-            "james_talmage_herrin_draft_registration_card.jpg"
+            "1940_james_talmadge_herrin_draft_registration_card_front.jpg",
+            "1940_james_talmadge_herrin_draft_registration_card_back.jpg"
         ]
     },
     {
@@ -2870,7 +2871,7 @@
         "type": "obituary",
         "title": "2020 Obituary – Stella Emily Secreast Osborn",
         "people": [
-            "lawrence-monroe-secreast-1912"
+            "stella-emily-secreast-1948"
         ],
         "date": "2020-02-19",
         "location": "Ellabell, Bryan County, Georgia",
@@ -2982,5 +2983,61 @@
         "documents": [
             "pioneer_williams_families_georgia_page_15.jpg"
         ]
-    }
+    },
+
+{
+  "id": "1982-lawrence-monroe-secreast-obituary",
+  "type": "obituary",
+  "title": "1982 Obituary – Lawrence Monroe Secreast",
+  "people": [
+    "lawrence-monroe-secreast-1912"
+  ],
+  "date": "1982-06-05",
+  "location": "Perry, Taylor County, Florida",
+  "description": "Obituary published in the Tallahassee Democrat on Saturday, June 5, 1982, announcing the death of Lawrence M. Secreast, age 70, at his home in Fanning Springs, Florida, following a long illness. A native of Lenoir, North Carolina, he had lived in Fanning Springs for eight years. He was a retired roofer, a World War II veteran of the United States Navy, and a member of Granite Falls Methodist Church in North Carolina. Survivors included his wife Ida Mae Secreast; daughters Stella Osborn and Nell Slaughter; sons Jack, Wayland, Mike, Drew, Connie Mack, and Billy John Sullivan; brothers Arno, Bob, and Cade Secreast; and 25 grandchildren. Services were scheduled at Joe P. Burns Funeral Home Chapel in Perry, with burial announced for Spring Warrior Cemetery in Taylor County. This announced burial location differs from the previously recorded Old Town Memorial Cemetery and requires verification.",
+  "supports": [
+    "Lawrence Monroe Secreast died at his home in Fanning Springs, Florida",
+    "Lawrence was a retired roofer",
+    "Lawrence served in the United States Navy during World War II",
+    "Lawrence belonged to Granite Falls Methodist Church",
+    "Ida Mae Secreast was Lawrence's surviving wife",
+    "Stella Osborn and Nell Slaughter were identified among his surviving daughters",
+    "Jack, Wayland, Mike, Drew, Connie Mack, and Billy John Sullivan were identified among his surviving sons",
+    "Arno, Bob, and Cade Secreast were Lawrence's surviving brothers",
+    "Lawrence had 25 grandchildren",
+    "The obituary announced burial at Spring Warrior Cemetery in Taylor County, Florida"
+  ],
+  "documents": [
+    "1982_lawrence_monroe_secreast_obituary.jpg"
+  ]
+},
+
+{
+  "id": "1917-william-levi-herrin-ww1-draft-registration",
+  "type": "draft-registration",
+  "title": "1917 World War I Draft Registration – William Levi Herrin",
+  "people": [
+    "william-levi-herrin-1892"
+  ],
+  "date": "1917-06-05",
+  "location": "Clinch County, Georgia",
+  "description": "World War I draft registration card for William L. Herrin, registered June 5, 1917, in Clinch County, Georgia. William reported that he was born May 4, 1892, in Clinch County, Georgia, and resided at Rural Free Delivery Route 2, Pearson, Georgia. He identified himself as a farmer, recorded no employer, and reported that he was married with a wife dependent upon him for support. He indicated no previous military service. The registrar described him as medium height and build, with blue eyes and dark hair. The record documents William's registration for the draft but does not establish that he served in the armed forces.",
+  "supports": [
+    "William Levi Herrin was born May 4, 1892",
+    "William Levi Herrin was born in Clinch County, Georgia",
+    "William Levi Herrin resided near Pearson, Georgia, in June 1917",
+    "William Levi Herrin worked as a farmer in 1917",
+    "William Levi Herrin was married by June 5, 1917",
+    "William Levi Herrin reported his wife as a dependent",
+    "William Levi Herrin reported no previous military service",
+    "William Levi Herrin registered for the World War I draft on June 5, 1917",
+    "William Levi Herrin had blue eyes and dark hair"
+  ],
+  "documents": [
+    "1917_william_levi_herrin_ww1_draft_front.jpg",
+    "1917_william_levi_herrin_ww1_draft_back.jpg"
+  ]
+}
+
+
 ]

@@ -239,6 +239,7 @@ index_template = environment.get_template("index.html")
 person_template = environment.get_template("person.html")
 family_template = environment.get_template("family.html")
 gallery_template = environment.get_template("photos.html")
+documents_template = environment.get_template("documents.html")
 
 # --------------------------------------------------
 # Create output folders
@@ -386,6 +387,103 @@ gallery_file = OUTPUT_DIR / "photos.html"
 with open(gallery_file, "w", encoding="utf-8") as file:
     file.write(html)
 
+
+# --------------------------------------------------
+# Generate Historical Documents Page
+# --------------------------------------------------
+
+document_sources = []
+
+for source in sources:
+
+    # Only include records with attached document files
+    if not source.get("documents"):
+        continue
+
+    document_source = source.copy()
+
+    # Find family members associated with this source
+    source_people = [
+        people_by_id[person_id]
+        for person_id in source.get("people", [])
+        if person_id in people_by_id
+    ]
+
+    document_source["people_details"] = source_people
+
+    document_source["people_names"] = [
+        person["display_name"]
+        for person in source_people
+    ]
+
+    document_sources.append(document_source)
+
+
+# Sort documents by date, then title
+document_sources.sort(
+    key=lambda source: (
+        source.get("date") or "9999",
+        (source.get("title") or "").casefold()
+    )
+)
+
+
+
+# Standardize document categories for filtering
+
+def get_document_category(source_type):
+    value = (source_type or "").strip().lower()
+    value = value.replace("_", " ").replace("-", " ")
+
+    if "census" in value:
+        return "Census"
+    elif "birth" in value or "stillbirth" in value:
+        return "Birth Records"
+    elif "death" in value or "cemetery" in value:
+        return "Death & Burial"
+    elif "marriage" in value:
+        return "Marriage Records"
+    elif "draft" in value or "military" in value:
+        return "Military Records"
+    elif "obituary" in value or "newspaper" in value:
+        return "Newspapers & Obituaries"
+    elif "city directory" in value:
+        return "City Directories"
+    elif "land" in value:
+        return "Land Records"
+    elif "pension" in value:
+        return "Pension Records"
+    elif "voter" in value:
+        return "Voter Registration"
+    elif "published" in value:
+        return "Published Histories"
+
+    return "Other Records"
+
+
+for source in document_sources:
+    source["category"] = get_document_category(
+        source.get("type")
+    )
+
+
+document_types = sorted({
+    source["category"]
+    for source in document_sources
+})
+
+
+
+# Render the Documents page
+html = documents_template.render(
+    document_sources=document_sources,
+    document_types=document_types
+)
+
+documents_file = OUTPUT_DIR / "documents.html"
+
+with open(documents_file, "w", encoding="utf-8") as file:
+    file.write(html)
 
 
 # --------------------------------------------------
