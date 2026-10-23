@@ -12,6 +12,7 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_FILE = BASE_DIR / "data" / "people.json"
 SOURCES_FILE = BASE_DIR / "data" / "sources.json"
 PHOTOS_FILE = BASE_DIR/ "data"/ "photos.json"
+STORIES_FILE = BASE_DIR / "data" / "stories.json"
 
 TEMPLATE_DIR = BASE_DIR / "templates"
 # Create output folders
@@ -54,6 +55,8 @@ with open(SOURCES_FILE, "r", encoding="utf-8") as file:
     sources = json.load(file)
 with open(PHOTOS_FILE, encoding="utf-8") as file:
     photos = json.load(file)
+with open(STORIES_FILE, "r", encoding="utf-8") as file:
+    stories = json.load(file)
 
 # --------------------------------------------------
 # Helper functions
@@ -240,6 +243,8 @@ person_template = environment.get_template("person.html")
 family_template = environment.get_template("family.html")
 gallery_template = environment.get_template("photos.html")
 documents_template = environment.get_template("documents.html")
+stories_template = environment.get_template("stories.html")
+story_template = environment.get_template("story.html")
 
 # --------------------------------------------------
 # Create output folders
@@ -484,6 +489,72 @@ documents_file = OUTPUT_DIR / "documents.html"
 
 with open(documents_file, "w", encoding="utf-8") as file:
     file.write(html)
+
+
+# --------------------------------------------------
+# Generate Family Stories Page
+# --------------------------------------------------
+
+# Only show stories that are ready for publication
+published_stories = [
+    story for story in stories
+    if story.get("status", "").lower() == "published"
+]
+
+# Sort published stories alphabetically by title
+published_stories.sort(
+    key=lambda story: story.get("title", "").casefold()
+)
+
+# Generate the Stories landing page
+html = stories_template.render(
+    stories=published_stories
+)
+
+stories_file = OUTPUT_DIR / "stories.html"
+
+with open(stories_file, "w", encoding="utf-8") as file:
+    file.write(html)
+
+
+# --------------------------------------------------
+# Generate Individual Story Pages
+# --------------------------------------------------
+
+# Create the folder for individual stories
+STORIES_OUTPUT_DIR = OUTPUT_DIR / "stories"
+
+# Remove previously generated story pages
+if STORIES_OUTPUT_DIR.exists():
+    shutil.rmtree(STORIES_OUTPUT_DIR)
+
+# Recreate the folder for published stories
+STORIES_OUTPUT_DIR.mkdir(exist_ok=True)
+
+# Generate a page for each published story
+for story in published_stories:
+
+    # Identify family members associated with the story
+    story_people = [
+        people_by_id[person_id]
+        for person_id in story.get("people", [])
+        if person_id in people_by_id
+    ]
+
+    # Create a copy so we don't modify stories.json data
+    story_data = story.copy()
+    story_data["people_details"] = story_people
+
+    # Render the individual story
+    html = story_template.render(
+        story=story_data
+    )
+
+    # Save the HTML file
+    story_file = STORIES_OUTPUT_DIR / f"{story['id']}.html"
+
+    with open(story_file, "w", encoding="utf-8") as file:
+        file.write(html)
 
 
 # --------------------------------------------------

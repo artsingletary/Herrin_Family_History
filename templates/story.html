@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <title>{{ story.title }} | Singletary-Herrin Family Archive</title>
+</head>
+<body>
+
+    <header>
+        <h1>Singletary-Herrin Family Archive</h1>
+        <p>Preserving the stories and memories of our family.</p>
+    </header>
+
+    <nav>
+        <a href="../index.html">Home</a>
+        <a href="#">Family Tree</a>
+        <a href="../photos.html">Photos</a>
+        <a href="../stories.html">Stories</a>
+        <a href="../documents.html">Documents</a>
+        <a href="#">Reunions</a>
+    </nav>
+
+    <main class="story-page">
+
+        <p><a href="../stories.html">&larr; Back to Stories</a></p>
+
+        <h2>{{ story.title }}</h2>
+
+        <p class="story-category">{{ story.category }}</p>
+
+        {% if story.cover_photo %}
+        <div class="story-cover">
+            <img src="../photos/{{ story.cover_photo }}"
+                 alt="{{ story.title }}">
+        </div>
+        {% endif %}
+
+        {% if story.author %}
+        <p><strong>Author:</strong> {{ story.author }}</p>
+        {% endif %}
+
+        <!-- Story chapters -->
+
+        {% for section in story.sections %}
+
+        <section class="story-section">
+
+            {% if section.heading %}
+            <h3>{{ section.heading }}</h3>
+            {% endif %}
+
+            {% if section.text %}
+            <p>{{ section.text }}</p>
+            {% endif %}
+
+            {% if section.photo %}
+            <figure>
+                <img src="../photos/{{ section.photo }}"
+                     alt="{{ section.caption | default('Family photograph') }}">
+
+                {% if section.caption %}
+                <figcaption>{{ section.caption }}</figcaption>
+                {% endif %}
+            </figure>
+            {% endif %}
+
+        </section>
+
+        <!-- Family connection diagram after Chapter 3 -->
+
+        {% if story.id == "two-branches-herrin-reunite"
+              and section.heading == "Charlotte Herrin and the Williams Family" %}
+
+        <section class="family-connection">
+
+            <h3>Two Branches of the Herrin Family</h3>
+
+            <p class="connection-intro">
+                Both William Levi Herrin and Laura Etta Palmer
+                descended from Levi Herrin and Charity Sears.
+            </p>
+
+            <div class="common-ancestors">
+                <strong>
+                    <a href="../people/levi-herrin-1804.html">
+                        Levi Herrin
+                    </a>
+                    &amp;
+                    <a href="../people/charity-sears-1812.html">
+                        Charity Sears
+                    </a>
+                </strong>
+                <span>Common Ancestors</span>
+            </div>
+
+            <div class="family-branches">
+
+                <!-- William Levi's family line -->
+
+                <div class="family-branch">
+                    <h4>William Levi's Family Line</h4>
+                    
+                    <div class="ancestor-box">
+                        <a href="../people/william-m-herrin-1831.html">
+                            William M. Herrin
+                        </a>
+                        <small>Married Mary Hargraves, 1853</small>
+                    </div>
+
+                    <div class="ancestor-arrow">↓</div>
+
+                    <div class="ancestor-box">
+                        <a href="../people/thomas-levi-herrin-1854.html">
+                            Thomas Levi Herrin
+                        </a>
+                        <small>1854–1922</small>
+                    </div>
+
+                    <div class="ancestor-arrow">↓</div>
+
+                    <div class="ancestor-box">
+                        <a href="../people/william-levi-herrin-1892.html">
+                            William Levi Herrin
+                        </a>
+                        <small>1892–1975</small>
+                    </div>
+                </div>
+
+                <!-- Laura Etta's family line -->
+
+                <div class="family-branch">
+                    <h4>Laura Etta's Family Line</h4>
+
+                    <div class="ancestor-box">
+                        <a href="../people/charlotte-herrin-1837.html">
+                            Charlotte Herrin
+                        </a>
+                        <small>Married Hezekiah P. Williams, c. 1854</small>
+                    </div>
+
+                    <div class="ancestor-arrow">↓</div>
+
+                    <div class="ancestor-box">
+                        <a href="../people/laura-williams-1855.html">
+                            Laura Williams
+                        </a>
+                        <small>1855–1944</small>
+                    </div>
+
+                    <div class="ancestor-arrow">↓</div>
+
+                    <div class="ancestor-box">
+                        <a href="../people/lauretta-palmer-1898.html">
+                            Laura Etta Palmer
+                        </a>
+                        <small>1898–1959</small>
+                    </div>
+                </div> <!-- Closes Laura Etta's family branch -->
+            </div> <!--Closes family-branches-->
+
+            <!-- Marriage joins the two branches -->
+
+            <div class="family-reunion">
+                <strong>William Levi Herrin &amp; Laura Etta Palmer</strong>
+                <span>Married April 1916 · Clinch County, Georgia</span>
+                <small>Third Cousins</small>
+            </div>
+
+        </section>
+
+        {% endif %}
+
+        {% endfor %}
+
+        <!-- Related family members -->
+
+        {% if story.people_details %}
+        <section class="story-related">
+
+            <h3>People in This Story</h3>
+
+            <ul>
+                {% for person in story.people_details %}
+                <li>
+                    <a href="../people/{{ person.id }}.html">
+                        {{ person.display_name }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+
+        </section>
+        {% endif %}
+
+    </main>
+
+    <footer>
+        <p>Singletary-Herrin Family Archive</p>
+    </footer>
+
+</body>
+</html>

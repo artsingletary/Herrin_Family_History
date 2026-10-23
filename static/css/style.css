@@ -436,3 +436,153 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+/* ==========================================
+   Family Connection Diagram
+   ========================================== */
+
+.family-connection {
+    margin: 35px 0;
+    padding: 25px;
+    background-color: #f5f2eb;
+    border: 1px solid #d8d5cc;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.family-connection h3 {
+    color: #3f4a3c;
+    margin-top: 0;
+}
+
+.connection-intro {
+    margin-bottom: 25px;
+    line-height: 1.6;
+}
+
+.common-ancestors {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-width: 360px;
+    margin: 0 auto 25px;
+    padding: 15px;
+    background-color: #3f4a3c;
+    color: white;
+    border-radius: 8px;
+}
+
+.common-ancestors span {
+    font-size: 0.85rem;
+    opacity: 0.85;
+}
+
+.family-branches {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 25px;
+    margin: 25px 0;
+}
+
+.family-branch {
+    min-width: 0;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #d8d5cc;
+    border-radius: 8px;
+}
+
+.family-branch h4 {
+    margin: 0 0 20px;
+    color: #3f4a3c;
+}
+
+.ancestor-box {
+    padding: 12px;
+    background-color: #edf0e9;
+    border: 1px solid #c8d0c3;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.ancestor-box small {
+    display: block;
+    margin-top: 6px;
+    color: #555;
+    font-size: 0.8rem;
+    font-weight: normal;
+}
+
+.ancestor-arrow {
+    margin: 8px 0;
+    color: #3f4a3c;
+    font-size: 1.5rem;
+}
+
+.family-reunion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: fit-content;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 25px auto 0;
+    padding: 18px 24px;
+    background-color: #3f4a3c;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.family-reunion span,
+.family-reunion small {
+    font-size: 0.85rem;
+}
+
+@media (max-width: 600px) {
+    .family-connection {
+        padding: 15px;
+    }
+
+    .family-branches {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+}
+
+/* Final alignment fixes for the family diagram */
+
+.family-connection .family-reunion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: fit-content;
+    max-width: 100%;
+    box-sizing: border-box;
+
+    margin: 25px auto 0;
+    padding: 18px 24px;
+
+    text-align: center;
+}
+
+.family-connection .family-reunion strong,
+.family-connection .family-reunion span,
+.family-connection .family-reunion small {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.common-ancestors a {
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.common-ancestors a:hover {
+    color: #e0e8d7;
+}

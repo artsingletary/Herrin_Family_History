@@ -939,5 +939,19 @@
         "herrin"
     ],
     "date": ""
+},
+{
+  "id": "1804-levi-herrin-gravestone",
+  "file": "levi_herrin_gravestone.jpg",
+  "title": "Levi Herrin Gravestone",
+  "caption": "Grave marker of Levi Herrin (July 8, 1804 – September 29, 1890), Hargraves Chapel Cemetery, Millwood, Georgia. The visible inscription records his name and birth date of July 8, 1804. The death date comes from existing family records and is not visible in this photograph.",
+  "type": "grave",
+  "people": [
+    "levi-herrin-1804"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": null
 }
 ]

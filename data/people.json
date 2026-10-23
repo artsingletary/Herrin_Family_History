@@ -736,7 +736,15 @@
         "rank_in": "Private",
         "rank_out": "Private"
       }
-    ]
+    ],
+    "biography": [
+      "Levi Herrin was born on July 8, 1804, in Georgia. He was the son of Herron Herrin and Ann D., according to the family records currently collected.",
+      "Levi married Charity Sears, who was born on October 28, 1812. Together, they raised a family in southern Georgia during a period of significant settlement and development.",
+      "Among their children were William M. Herrin and Charlotte Herrin. These two children established separate branches of the family that would eventually reconnect through the marriage of their descendants.",
+      "William M. Herrin's grandson, William Levi Herrin (1892–1975), married Charlotte Herrin's granddaughter, Laura Etta Palmer (1898–1959), in April 1916 in Clinch County, Georgia. They were third cousins through their common ancestors, Levi Herrin and Charity Sears.",
+      "Family records identify possible Confederate military service during the American Civil War as a private in Company I, 50th Georgia Infantry. This service has not yet been independently verified.",
+      "Levi died on September 29, 1890, in Millwood, Clinch County, Georgia, at the age of 86."
+]
   },
   {
     "id": "mary-lou-herrin-1927",
@@ -1428,10 +1436,13 @@
     "death_year": 1898,
     "death_date": "1898-05-28",
     "death_place": "Millwood, Clinch, Georgia, United States",
-    "father": null,
-    "mother": null,
+    "father": "david-sears-1791",
+    "mother": "levicy-nobles-1792",
     "spouses": [
       "levi-herrin-1804"
+    ],
+    "biography": [
+      "Charity Sears ]was born on October 28, 1812, in Georgia. She was the daughter of David Sears (1791–1879) and Levicy Nobles (1792–1868)."
     ]
   },
   {
@@ -2665,6 +2676,57 @@
     "Margaret and Lawrence's marriage ended sometime before Lawrence married Ida Mae Herrin Sullivan on April 5, 1959. The date and circumstances of the end of Margaret and Lawrence's marriage have not yet been established.",
     "Margaret died on January 26, 1984, at the age of 70. She was buried at Sharon Baptist Church Cemetery in Telfair County, Georgia."
   ]
+},
+{
+  "id": "david-sears-1791",
+  "first_name": "David",
+  "middle_name": null,
+  "last_name": "Sears",
+  "family_lines": [
+    "herrin"
+  ],
+  "birth_year": 1791,
+  "death_year": 1879,
+  "father": null,
+  "mother": null,
+  "spouses": [
+    "levicy-nobles-1792"
+  ],
+  "biography": [
+    "David Sears was born in North Carolina in 1791, the son of John Sears, a Revolutionary War soldier. According to Pioneers of Wiregrass Georgia, his father moved the family to Montgomery County, Georgia, around 1795 or 1796.",
+    "David married Levicy Nobles on April 19, 1810, in Montgomery County, Georgia. Levicy was the daughter of Lewis Sanders Nobles, who also served during the Revolutionary War.",
+    "David and Levicy raised thirteen children, including Charity Sears (1812–1898), who married Levi Herrin. Through Charity, they became ancestors of both branches of the Herrin family featured in the story Two Branches of the Herrin Family Reunite.",
+    "On June 20, 1809, David was commissioned an ensign in the 52nd District of Emanuel County. During the War of 1812, he served as a private in Captain John G. Colbert's company, 2nd Regiment of Georgia Militia. He enlisted on October 12, 1814, and was discharged on March 15, 1815, according to the published family history.",
+    "Around 1825, David moved his family from Montgomery County to what was then Ware County, Georgia, settling in the 586th Georgia Militia District. This territory subsequently became part of Clinch, Coffee, and Atkinson counties.",
+    "The published family history references David in the 1820 Montgomery County census, the 1830, 1840, and 1850 Ware County censuses, and the 1860 Coffee County census.",
+    "David died in 1879. He and Levicy were buried at Union Hill Congregational Church cemetery, where they were members."
+  ]
+},
+{
+  "id": "levicy-nobles-1792",
+  "first_name": "Levicy",
+  "middle_name": null,
+  "last_name": "Nobles",
+  "family_lines": [
+    "herrin"
+  ],
+  "birth_place": "Georgia, United States",
+  "birth_year": 1792,
+  "death_year": 1868,
+  "father": null,
+  "mother": null,
+  "spouses": [
+    "david-sears-1791"
+  ],
+  "biography": [
+   "Levicy Nobles was born in Georgia in 1792, the daughter of Lewis Sanders Nobles, who is identified as a Revolutionary War soldier in Pioneers of Wiregrass Georgia. The name of her mother has not yet been established in the records collected for this archive.",
+    "On April 19, 1810, Levicy married David Sears (1791–1879) in Montgomery County, Georgia. Their marriage is documented in a historical marriage record and is also recorded in Pioneers of Wiregrass Georgia.",
+    "Levicy and David raised thirteen children: Luraney, Charity, Hiram, Lavina, Harriet, Matilda, George W., Charlotte, Mary, Tobitha, Benjamin Franklin, Thaddeus, and David. Their children were born between approximately 1811 and 1830.",
+    "Among their children was Charity Sears (1812–1898), who married Levi Herrin (1804–1890). Through Charity, Levicy became an ancestor of both branches of the Herrin family that eventually reunited through the marriage of William Levi Herrin and Laura Etta Palmer in April 1916.",
+    "Around 1825, the Sears family moved from Montgomery County to what was then Ware County, Georgia, settling in the 586th Georgia Militia District. The area later became part of Clinch, Coffee, and Atkinson counties as county boundaries changed.",
+    "Levicy lived through a period of considerable change in southern Georgia, including the years leading up to the American Civil War. She died in 1868, three years after the war ended.",
+    "Levicy and David were members of Union Hill Congregational Church and were buried in its cemetery near present-day Axson, Atkinson County, Georgia."
+]
 }
 
 
