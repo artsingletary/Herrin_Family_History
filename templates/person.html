@@ -169,6 +169,7 @@
             {% endif %}
 
         </section>
+
         <section class="person-section">
 
             <h2>Military Service</h2>
@@ -200,8 +201,8 @@
 
                     {% if service.unit %}
                         <p>
-                            <strong>Unit:</strong>
-                            {{ service.unit }}
+                             <strong>Unit:</strong>
+                             {{ service.unit }}
                         </p>
                     {% endif %}
 
@@ -212,10 +213,32 @@
                         </p>
                     {% endif %}
 
-                    {% if service.rank_in %}
+                    {% if service.rank %}
+                        <p>
+                            <strong>Rank:</strong>
+                            {{ service.rank }}
+                        </p>
+                    {% elif service.rank_in %}
                         <p>
                             <strong>Rank:</strong>
                             {{ service.rank_in }}
+                            {% if service.rank_out and service.rank_out != service.rank_in %}
+                                → {{ service.rank_out }}
+                            {% endif %}
+                        </p>
+                    {% endif %}
+
+                    {% if service.service_year %}
+                        <p>
+                            <strong>Service Year:</strong>
+                            {{ service.service_year }}
+                        </p>
+                    {% endif %}
+
+                    {% if service.commanders %}
+                        <p>
+                            <strong>Commanders:</strong>
+                            {{ service.commanders | join(", ") }}
                         </p>
                     {% endif %}
 
@@ -229,14 +252,28 @@
                     {% if service.enlistment_place %}
                         <p>
                             <strong>Enlistment Place:</strong>
-                            {{ service.enlistment_place}}
+                            {{ service.enlistment_place }}
                         </p>
                     {% endif %}
 
                     {% if service.discharge_date %}
-                       <p>
+                        <p>
                             <strong>Discharged:</strong>
                             {{ service.discharge_date | format_date }}
+                        </p>
+                    {% endif %}
+
+                    {% if service.pension_application %}
+                        <p>
+                            <strong>Pension Application:</strong>
+                            {{ service.pension_application }}
+                        </p>
+                    {% endif %}
+
+                    {% if service.notes %}
+                        <p>
+                            <strong>Research Notes:</strong>
+                            {{ service.notes }}
                         </p>
                     {% endif %}
 
@@ -244,9 +281,7 @@
 
             {% else %}
 
-                <p>
-                   No military service information has been added.
-                </p>
+                <p>No military service information has been added.</p>
 
             {% endif %}
 
@@ -378,6 +413,10 @@
                             </p>
                         {% endif %}
 
+                        {% if source.caption %}
+                            <p>{{ source.caption }}</p>
+                        {% endif %}
+
                         {% if source.location %}
                             <p>
                                 <strong>Location:</strong>
@@ -418,6 +457,18 @@
                         </p>
 
                     {% endif %}
+
+
+                    {% if source.file %}
+
+                        <p>
+                            <a href="../documents/{{ source.file }}" target="_blank">
+                                View Document
+                            </a>
+                        </p>
+
+                    {% endif %}
+
 
                     {% if source.documents %}
 

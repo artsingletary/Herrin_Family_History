@@ -154,7 +154,7 @@ def get_sources(person_id):
             person_sources.append(source)
 
     person_sources.sort(
-        key=lambda source: source.get("date", "9999")
+        key=lambda source: source.get("date") or "9999"
     )
 
     return person_sources

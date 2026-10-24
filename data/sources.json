@@ -3037,7 +3037,92 @@
     "1917_william_levi_herrin_ww1_draft_front.jpg",
     "1917_william_levi_herrin_ww1_draft_back.jpg"
   ]
+},
+{
+  "id": "1810-david-sears-levicy-nobles-marriage",
+  "file": "1810_david_sears_levicy_nobles_marriage.jpg",
+  "title": "1810 Marriage Record of David Sears and Levicy Nobles",
+  "caption": "Montgomery County, Georgia, marriage register, page 16. Records the marriage of David Sears and Levicy Nobles on April 19, 1810. The officiant's signature appears to read James Nobles, Justice of the Peace.",
+  "type": "marriage",
+  "people": [
+    "david-sears-1791",
+    "levicy-nobles-1792"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": "1810-04-19"
+},
+{
+  "id": "1854-lewis-sanders-nobles-revolutionary-war-pension",
+  "title": "1854 Revolutionary War Pension Application of Lewis Sanders Nobles",
+  "type": "military",
+  "documents": [
+    "1854_lewis_sanders_nobles_revolutionary_war_pension.pdf"
+  ],
+  "description": "Five-page Revolutionary War pension file, application R.7683, for Lewis Sanders Nobles of Clinch County, Georgia. Includes his 1854 application and an August 23, 1930, government letter to Folks Huxford. The letter states that the application was rejected because sufficient evidence of the claimed military service had not been provided.",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": "1854-11-14"
+},
+{
+  "id": "1949-lewis-sanders-nobles-headstone-application",
+  "file": "1949_lewis_sanders_nobles_headstone_application.jpg",
+  "title": "1949 Military Headstone Application for Lewis Sanders Nobles",
+  "caption": "Government application dated September 15, 1949, for a military grave marker for Lewis Sanders Nobles (1760–1856), buried at Guest Mill Pond Cemetery, also known as Lang Country Church Cemetery, in Clinch County, Georgia. The application identifies him as a lieutenant in the South Carolina Militia under Captain Elijah Clark during the Revolutionary War and references pension application R.7683. The marker was ordered in April 1950.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": "1949-09-15"
+},
+{
+  "id": "lewis-sanders-nobles-service-reference",
+  "file": "1760_lewis_sanders_nobles_service_reference.jpg",
+  "title": "Lewis Sanders Nobles - Revolutionary War Service Reference",
+  "description": "Compiled genealogical reference card identifying Lewis Sanders Nobles (1760–1856), his burial at Guest Mill Pond Cemetery (also known as Lang Country Church Cemetery), and reported Revolutionary War service under Elijah Clarke. The card mentions King's Mountain, Brandywine, and Yorktown. Original compiler and repository are unknown; image obtained from another researcher's shared collection. Military service details have not been independently verified.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": null
+},
+{
+  "id": "lewis-sanders-nobles-pension-index",
+  "file": "1854_lewis_sanders_nobles_pension_index.jpg",
+  "title": "Lewis Sanders Nobles - Revolutionary War Pension Index Card",
+  "description": "Index card identifying Lewis Sanders Nobles under the name Nobles Sanders, or Lewis Sanders, and referencing rejected Revolutionary War pension application R.7683. Original repository and date of the card are unknown; image obtained from another researcher's shared collection.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": null
+},
+{
+  "id": "lewis-sanders-nobles-sc-patriots-roster",
+  "file": "1781_lewis_sanders_nobles_sc_patriots_roster.jpg",
+  "title": "Lewis Sanders Nobles - Roster of South Carolina Patriots",
+  "description": "Page 731 of Roster of South Carolina Patriots in the American Revolution. The entry for Lewis Sanders Nobles, reference R7683, reports Revolutionary War service under Captain Elijah Clarke and Colonel Roebuck, with participation in the battles of Camden, King's Mountain, Cowpens, and Yorktown. The reference number matches his rejected Revolutionary War pension application. This is a compiled historical source; the reported service and battle participation have not been independently verified.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": null
 }
-
-
 ]

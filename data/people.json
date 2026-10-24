@@ -2713,13 +2713,13 @@
   "birth_place": "Georgia, United States",
   "birth_year": 1792,
   "death_year": 1868,
-  "father": null,
+  "father": "lewis-sanders-nobles-1760",
   "mother": null,
   "spouses": [
     "david-sears-1791"
   ],
   "biography": [
-   "Levicy Nobles was born in Georgia in 1792, the daughter of Lewis Sanders Nobles, who is identified as a Revolutionary War soldier in Pioneers of Wiregrass Georgia. The name of her mother has not yet been established in the records collected for this archive.",
+    "Levicy Nobles was born in Georgia in 1792, the daughter of Lewis Sanders Nobles, who is identified as a Revolutionary War soldier in Pioneers of Wiregrass Georgia. The name of her mother has not yet been established in the records collected for this archive.",
     "On April 19, 1810, Levicy married David Sears (1791–1879) in Montgomery County, Georgia. Their marriage is documented in a historical marriage record and is also recorded in Pioneers of Wiregrass Georgia.",
     "Levicy and David raised thirteen children: Luraney, Charity, Hiram, Lavina, Harriet, Matilda, George W., Charlotte, Mary, Tobitha, Benjamin Franklin, Thaddeus, and David. Their children were born between approximately 1811 and 1830.",
     "Among their children was Charity Sears (1812–1898), who married Levi Herrin (1804–1890). Through Charity, Levicy became an ancestor of both branches of the Herrin family that eventually reunited through the marriage of William Levi Herrin and Laura Etta Palmer in April 1916.",
@@ -2727,7 +2727,49 @@
     "Levicy lived through a period of considerable change in southern Georgia, including the years leading up to the American Civil War. She died in 1868, three years after the war ended.",
     "Levicy and David were members of Union Hill Congregational Church and were buried in its cemetery near present-day Axson, Atkinson County, Georgia."
 ]
+},
+{
+  "id": "lewis-sanders-nobles-1760",
+  "first_name": "Lewis",
+  "middle_name": "Sanders",
+  "last_name": "Nobles",
+  "family_lines": [
+    "herrin"
+  ],
+  "birth_year": 1760,
+  "birth_place": "South Carolina, United States",
+  "death_year": 1856,
+  "death_place": "Clinch County, Georgia, United States",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    "esther-robinson"
+  ],
+  "military_service": [
+  {
+    "branch": "South Carolina Militia",
+    "conflict": "American Revolutionary War",
+    "rank": "Lieutenant (reported)",
+    "commanders": [
+      "Captain Elijah Clarke",
+      "Colonel Roebuck"
+    ],
+    "service_year": 1778,
+    "enlistment_date": null,
+    "discharge_date": null,
+    "pension_application": "R7683",
+    "notes": "Revolutionary War service is described in published histories, the South Carolina Patriots roster, and Lewis's pension application. His 1854 pension claim was rejected for insufficient supporting proof."
+  }
+  ],
+  "biography": [
+    "Lewis Sanders Nobles was born around 1760 in South Carolina. According to Pioneers of Wiregrass Georgia, he lived in Edgefield District when the Revolutionary War began.",
+    "The published family history describes Revolutionary War service under Elijah Clark and other commanders. Lewis later applied for a Revolutionary War pension, but the application was rejected for insufficient proof of service.",
+    "According to Pioneers of Wiregrass Georgia, Lewis served as a lieutenant in the South Carolina militia in 1778. The same history reports that he received land through Georgia's 1827 and 1838 land lotteries as a Revolutionary War soldier. These claims provide additional leads for verifying his military service.",
+    "Land records cited in Pioneers of Wiregrass Georgia place Lewis and his wife Esther in Laurens County, Georgia, in 1813. An October 25, 1813, deed records their conveyance of two tracts totaling 400 acres to Seaborn Jones. Another deed dated November 3, 1814, identifies Lewis and his sons William, James, and Sanders Nobles in a transaction involving the same property.",
+    "Lewis married Esther Robinson, also recorded as Easter Robinson. They reportedly had thirteen children, including Levicy Nobles (1792–1868), who married David Sears in 1810.",
+    "Lewis and Esther lived in Montgomery and Laurens counties, Georgia. Esther reportedly died around 1840. Lewis spent his later years living with children and grandchildren.",
+    "Lewis died in Clinch County in 1856. Published family history and a government headstone application give November 1, 1856, although a newspaper account reports conflicting information.",
+    "Lewis was buried at Guest Mill Pond Cemetery, also known as Lang Country Church Cemetery, near Homerville in Clinch County, Georgia. A government grave marker was ordered in 1950."
+  ]
 }
-
-
 ]
