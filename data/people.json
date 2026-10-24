@@ -308,7 +308,8 @@
       "daniel-m-mathis"
     ],
     "biography": [
-      "Mary Frances Darling was the wife of Daniel M. Mathis and the mother of Lela Mae Mathis. The family was living in Madison County, Florida, when the 1910 United States Census was recorded."
+    "Mary Frances Darling was born on June 4, 1881. She married Daniel M. Mathis on January 1, 1899, in Madison County, Florida.",
+    "Daniel and Mary Frances had eight children: Claude, Lela Mae, Rubin Ellis, Frank, Roy Eugene, Glover, Shirley Lee, and Jessie Mae Mathis. The family was living in Madison County, Florida, when the 1910 United States Census was recorded."
     ]
   },
   {
@@ -1130,7 +1131,9 @@
       "mary-frances-darling"
     ],
     "biography": [
-      "Daniel M. Mathis was born on December 13, 1873, according to his World War I draft registration. He married Mary Frances Darling on January 1, 1899, in Madison County, Florida. By 1918, Daniel was living in Mayo, Lafayette County, Florida, where he worked as a farmer."
+      "Daniel M. Mathis was born on December 13, 1873, according to his World War I draft registration. He was the son of Malachi M. Matthews and Mary Williams.",
+      "Daniel married Mary Frances Darling on January 1, 1899, in Madison County, Florida. Together, they had eight children: Claude (1900–1940), Lela Mae (1902–1951), Rubin Ellis (1904–1981), Frank (1907–1969), Roy Eugene (1909–1974), Glover (1910–1973), Shirley Lee (1915–1949), and Jessie Mae Mathis (1917–1995).",
+      "The family was living in Madison County, Florida, when the 1910 United States Census was recorded. By 1918, Daniel was living in Mayo, Lafayette County, Florida, where he worked as a farmer."
     ]
   },
   {
@@ -1284,6 +1287,7 @@
       "singletary"
     ],
     "birth_year": 1840,
+    "birth_place": "Thomas County, Georgia",
     "death_date": "1924-08-23",
     "death_year": 1924,
     "death_place": "Norton Creek, Madison County, Florida",
@@ -2770,6 +2774,150 @@
     "Lewis and Esther lived in Montgomery and Laurens counties, Georgia. Esther reportedly died around 1840. Lewis spent his later years living with children and grandchildren.",
     "Lewis died in Clinch County in 1856. Published family history and a government headstone application give November 1, 1856, although a newspaper account reports conflicting information.",
     "Lewis was buried at Guest Mill Pond Cemetery, also known as Lang Country Church Cemetery, near Homerville in Clinch County, Georgia. A government grave marker was ordered in 1950."
+  ]
+},
+{
+  "id": "claude-mathis-1900",
+  "first_name": "Claude",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1900,
+  "death_year": 1940,
+  "father": "daniel-m-mathis",
+  "mother": "mary-frances-darling"
+},
+{
+  "id": "rubin-ellis-mathis-1904",
+  "first_name": "Rubin",
+  "middle_name": "Ellis",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1904,
+  "death_year": 1981,
+  "father": "daniel-m-mathis",
+  "mother": "mary-frances-darling"
+},
+{
+  "id": "roy-eugene-mathis-1909",
+  "first_name": "Roy",
+  "middle_name": "Eugene",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1909,
+  "death_year": 1974,
+  "father": "daniel-m-mathis",
+  "mother": "mary-frances-darling"
+},
+{
+  "id": "glover-mathis-1910",
+  "first_name": "Glover",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1910,
+  "death_year": 1973,
+  "father": "daniel-m-mathis",
+  "mother": "mary-frances-darling",
+  "spouses":[
+    "eller-matthews-1907"
+  ]
+},
+{
+  "id": "shirley-lee-mathis-1915",
+  "first_name": "Shirley",
+  "middle_name": "Lee",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1915,
+  "death_year": 1949,
+  "father": "daniel-m-mathis",
+  "mother": "mary-frances-darling"
+},
+{
+  "id": "jessie-mae-mathis-1917",
+  "first_name": "Jessie",
+  "middle_name": "Mae",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1917,
+  "death_year": 1995,
+  "father": "daniel-m-mathis",
+  "mother": "mary-frances-darling"
+},
+{
+  "id": "mary-jane-mathis-1873",
+  "first_name": "Mary",
+  "middle_name": "Jane",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1873,
+  "father": "malachi-m-matthews",
+  "mother": "mary-williams",
+  "biography": [
+    "Mary Jane Mathis was a daughter of Mack Mathis and Mary Williams. She appears in the 1880 United States Census in Madison County, Florida, at age seven, living with her parents and brothers Daniel and John. Her birth year is estimated from her age in that census."
+  ]
+},
+{
+  "id": "john-mathis-1879",
+  "first_name": "John",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1879,
+  "father": "malachi-m-matthews",
+  "mother": "mary-williams",
+  "biography": [
+    "John Mathis was a son of Mack Mathis and Mary Williams. He appears in the 1880 United States Census in Madison County, Florida, at age one, living with his parents and siblings Daniel and Mary Jane. His birth year is estimated from his age in that census."
+  ]
+},
+{
+  "id": "annie-mathis-1883",
+  "first_name": "Annie",
+  "last_name": "Mathis",
+  "family_lines": ["singletary"],
+  "birth_year": 1883,
+  "father": "malachi-m-matthews",
+  "mother": "mary-williams",
+  "biography": [
+    "Annie Mathis appears in the 1885 Florida State Census in Madison County, Florida, at age two. She was living with her parents, Malachi and Mary Mathis, and her siblings. Her birth year is estimated from the census."
+  ]
+},
+{
+  "id": "william-mathis-1885",
+  "first_name": "William",
+  "middle_name": "M.",
+  "last_name": "Matthews",
+  "family_lines": ["singletary"],
+  "birth_date": "1883-12-16",
+  "birth_year": 1883,
+  "death_date": "1959-12-04",
+  "death_year": 1959,
+  "father": "malachi-m-matthews",
+  "mother": "mary-williams",
+   "biography": [
+    "William M. Matthews was born on December 16, 1883, according to his World War I draft registration. His Florida death certificate records the same month and day but gives his birth year as 1882.",
+    "William appears to be the son of Malachi M. Matthews and Mary Williams. Census records identify a William or Willie in Malachi's household, although the recorded ages are inconsistent. His death certificate identifies his father as Miliki Matthews and his mother as Mary Adams, a discrepancy that remains unresolved.",
+    "On September 12, 1918, William registered for the World War I draft while living in Lee, Madison County, Florida. He worked in sawmilling for the West Yellow Pine Company in Weston, Florida. He identified Daniel M. Matthews of Mayo, Lafayette County, Florida, as his nearest relative. This provides additional evidence connecting William to Daniel M. Mathis.",
+    "William died on December 4, 1959, in Chattahoochee, Gadsden County, Florida. His obituary in the Tallahassee Democrat reported that he was a lifelong Madison resident and that his funeral arrangements included burial at Oak Ridge Cemetery."
+  ]
+},
+{
+  "id": "eller-matthews-1907",
+  "first_name": "Eller",
+  "last_name": "Matthews",
+  "family_lines": ["singletary"],
+  "birth_date": "1907-09-13",
+  "birth_year": 1907,
+  "death_date": "1980-12-16",
+  "death_year": 1980,
+  "death_place": "Sarasota, Sarasota County, Florida",
+  "father": "william-mathis-1885",
+  "spouses": [
+    "glover-mathis-1910"
+  ],
+  "biography": [
+  "Eller Matthews was born on September 13, 1907. She was the daughter of William M. Matthews, also known by the nickname Bunk.",
+  "Eller married Glover Mathis on December 16, 1932, in Mayo, Florida. Glover was the son of Daniel M. Mathis and Mary Frances Darling.",
+  "William M. Matthews's 1959 obituary identifies Mrs. Glover Mathis as his daughter. Eller's 1980 Florida death certificate identifies her father as Bunk Matthews, the nickname used by William M. Matthews. These records provide supporting evidence of their father-daughter relationship.",
+  "Eller died on December 16, 1980, in Sarasota, Florida. Her death certificate identifies Woodlawn Cemetery in Miami as her burial location."
   ]
 }
 ]
