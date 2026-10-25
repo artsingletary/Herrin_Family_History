@@ -765,6 +765,23 @@
         ]
     },
     {
+        "id": "1912-lawrence-monroe-secreast-birth-index",
+        "type": "birth",
+        "title": "1912 North Carolina Birth Index – Laurence Monroe Secreast",
+        "people": [
+            "lawrence-monroe-secreast-1912"
+        ],
+        "date": "1912-02-18",
+        "location": "Caldwell County, North Carolina",
+        "description": "North Carolina Birth Index, 1800–2000, entry for Laurence Monroe Secreast, recording his birth on February 18, 1912, in Caldwell County, North Carolina. The indexed record appears in volume 2, page 392. The first name is recorded as Laurence, whereas his later gravestone and marriage records use Lawrence. FamilySearch record: https://www.familysearch.org/ark:/61903/1:1:VH5W-39G.",
+        "supports": [
+            "Lawrence Monroe Secreast was born February 18, 1912",
+            "Lawrence Monroe Secreast was born in Caldwell County, North Carolina",
+            "His name was recorded as Laurence Monroe Secreast in the North Carolina Birth Index"
+        ],
+        "documents": []
+    },
+    {
         "id": "1915-marriage-will-evans-emma-singletary",
         "type": "marriage",
         "title": "1915 Marriage Record of Will Evans and Emma Singletary",
@@ -1467,7 +1484,7 @@
     {
         "id": "james-talmage-herrin-draft-registration",
         "type": "Draft Registration Card",
-        "title": "Selective Service Registration Card of James Talmage Herrin",
+        "title": "1940 Selective Service Registration Card of James Talmage Herrin",
         "people": [
             "james-talmage-herrin-1919"
         ],
@@ -1481,7 +1498,8 @@
             "William Levi Herrin as James Talmage Herrin's father"
         ],
         "documents": [
-            "james_talmage_herrin_draft_registration_card.jpg"
+            "1940_james_talmadge_herrin_draft_registration_card_front.jpg",
+            "1940_james_talmadge_herrin_draft_registration_card_back.jpg"
         ]
     },
     {
@@ -1605,6 +1623,74 @@
         ],
         "documents": [
             "1941_arthur_singletary_sr_birth_certificate.jpg"
+        ]
+    },
+    {
+        "id": "1942-hope-wayland-sullivan-draft-registration",
+        "type": "military",
+        "title": "1942 World War II Draft Registration – Hope Wayland Sullivan",
+        "people": [
+            "hope-wayland-sullivan-1920"
+        ],
+        "date": "1942-02-15",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "World War II Selective Service registration card for Hope Wayland Sullivan, completed February 15, 1942, in Mayo, Lafayette County, Florida. The card records his birth on September 12, 1920, in Mayo, Florida, his residence at Route 2, Mayo, and his age as 21. John M. Sullivan of Route 2, Mayo, was listed as both his employer and the person who would always know his address. The registrar described Hope as five feet eight inches tall, weighing 118 pounds, with blue eyes, brown hair, and a ruddy complexion. The card includes Hope's signature. This document establishes draft registration, not military service.",
+        "supports": [
+            "Hope Sullivan's full name was Hope Wayland Sullivan",
+            "Hope Wayland Sullivan was born September 12, 1920",
+            "Hope Wayland Sullivan was born in Mayo, Florida",
+            "Hope resided on Route 2 in Mayo in February 1942",
+            "Hope identified John M. Sullivan as his employer and contact person",
+            "Hope registered for the World War II draft on February 15, 1942"
+        ],
+        "documents": [
+            "1942_hope_wayland_sullivan_draft_registration_front.jpg",
+            "1942_hope_wayland_sullivan_draft_registration_back.jpg"
+        ]
+    },
+    {
+        "id": "1942-hope-sullivan-ida-mae-herrin-marriage",
+        "type": "marriage",
+        "title": "1942 Marriage License – Hope Sullivan and Ida Mae Herrin",
+        "people": [
+            "hope-wayland-sullivan-1920",
+            "ida-mae-herrin-1922"
+        ],
+        "date": "1942-04-17",
+        "location": "Mayo, Lafayette County, Florida",
+        "description": "Florida marriage license and certificate number 13098 for Hope Sullivan and Ida Mae Herrin, issued April 17, 1942, by Lafayette County Judge Lacy M. McClain in Mayo, Florida. The certificate records that the couple married on April 17, 1942, at a private home in Florida. The marriage return was filed April 18, 1942, and recorded in the county marriage book. This original document confirms the marriage date, location, and the names used by both parties.",
+        "supports": [
+            "Hope Sullivan married Ida Mae Herrin",
+            "Their marriage took place April 17, 1942",
+            "Their marriage was licensed in Lafayette County, Florida",
+            "The marriage return was filed April 18, 1942"
+        ],
+        "documents": [
+            "1942_hope_sullivan_ida_mae_herrin_marriage_license.jpg"
+        ]
+    },
+    {
+        "id": "1942-fred-evans-wwii-draft-registration",
+        "type": "military",
+        "title": "1942 World War II Draft Registration – Fred Evans",
+        "people": [
+            "frederick-fred-evans"
+        ],
+        "date": "1942-06-30",
+        "location": "Live Oak, Suwannee County, Florida",
+        "description": "World War II Selective Service registration card for Fred Evans, completed June 30, 1942, at the Suwannee County Local Board in Live Oak, Florida. The card records his birth as May 3, 1924, in Suwannee County, Florida, and his age as 18. His residence and mailing address were General Delivery, Live Oak, Florida. He identified Mrs. Emma Evans of Live Oak as the person who would always know his address. His employer was Dan Sanders of Live Oak, and his place of employment was Madison Highway, Live Oak, Suwannee County, Florida. The registrar's report describes Fred as approximately five feet nine and one-half inches tall, weighing 135 pounds, with blue eyes, blond hair, and a light complexion. The card includes Fred's signature. This record documents draft registration but does not establish military service.",
+        "supports": [
+            "Fred Evans was born May 3, 1924",
+            "Fred Evans was born in Suwannee County, Florida",
+            "Fred Evans registered for the World War II draft on June 30, 1942",
+            "Fred Evans resided in Live Oak, Florida, in June 1942",
+            "Fred Evans identified Mrs. Emma Evans as the person who would always know his address",
+            "Fred Evans was employed by Dan Sanders in Live Oak, Florida",
+            "Fred Evans worked on Madison Highway in Live Oak",
+            "Fred Evans had blue eyes and blond hair"
+        ],
+        "documents": [
+            "1942_fred_evans_wwii_draft_registration.jpg"
         ]
     },
     {
@@ -1947,6 +2033,32 @@
         ],
         "documents": [
             "1951_lela_mae_mathis_singletary_death_certificate.jpg"
+        ]
+    },
+    {
+        "id": "1952-st-augustine-record-evans-drowning",
+        "type": "newspaper",
+        "title": "1952 Newspaper Article – Mother and Two Sons Drowned in Suwannee River",
+        "people": [
+            "marie-richmond-1926"
+        ],
+        "date": "1952-06-08",
+        "location": "Live Oak, Suwannee County, Florida",
+        "description": "Article titled 'Mother And Two Sons Drowned In Suwannee River,' published in The St. Augustine Record on June 8, 1952. The Associated Press report, datelined Live Oak, Florida, June 7, describes the drowning of Mrs. Fred Evans, identified through family research as Marie Richmond Evans, and her sons Donald Ray Evans, age 10, and Charles Evans, age 12, during a family fishing and swimming outing on the Suwannee River. According to the article, Donald Ray entered the river and was caught in a strong undertow. Charles attempted to help his brother and was also pulled under. Their mother entered the water to rescue the boys and drowned as well. Fred Evans, who had been fishing nearby, entered the river in an attempt to save his family but was rescued by his brother-in-law, Owen Lassiter. Lassiter reported that he had briefly held all four family members but could not pull them from the strong current. The article identifies the victims by the surname Evans; the 1950 federal census separately records Charles and Donald with the surname Richmond and identifies them as Fred's stepsons. The newspaper does not provide Marie's given name. The report establishes that the tragedy occurred on June 7, 1952.",
+        "supports": [
+            "Marie Richmond Evans died in a drowning accident on June 7, 1952",
+            "Marie was identified in the newspaper as Mrs. Fred Evans",
+            "Charles Evans, age 12, drowned in the Suwannee River",
+            "Donald Ray Evans, age 10, drowned in the Suwannee River",
+            "The three deaths occurred during a family fishing and swimming outing",
+            "Fred Evans attempted to rescue his wife and sons and survived",
+            "Owen Lassiter was identified as Fred Evans' brother-in-law",
+            "Owen Lassiter rescued Fred Evans from the river",
+            "The newspaper identified Charles and Donald by the surname Evans",
+            "The article was published in The St. Augustine Record on June 8, 1952"
+        ],
+        "documents": [
+            "1952_06_08_st_augustine_record_evans_drowning.jpg"
         ]
     },
     {
@@ -2526,6 +2638,30 @@
         ]
     },
     {
+        "id": "1982-hope-wayland-sullivan-obituary",
+        "type": "obituary",
+        "title": "1982 Obituary – Hope W. Sullivan",
+        "people": [
+            "hope-wayland-sullivan-1920"
+        ],
+        "date": "1982-05-29",
+        "location": "Perry, Taylor County, Florida",
+        "description": "Obituary titled 'Hope W. Sullivan,' published in the Tallahassee Democrat on Saturday, May 29, 1982. The notice reports that Hope W. Sullivan, age 61, died Thursday at his home in Perry after a brief illness. A native of Mayo, he had lived in Perry for five years and worked as a lineman for an electrical company. Funeral services were scheduled for Sunday at Airline Baptist Church in Mayo, followed by burial in the church cemetery. Survivors included daughter Nell Slaughter of Fanning Springs; sons Connie Mack Sullivan, Billy John Sullivan, Wayland Sullivan, Paul (Mike) Sullivan, and Drew Sullivan of Perry, and Jack Sullivan of Old Town; brother Hugh E. Sullivan of Jacksonville; and 19 grandchildren. Joe P. Burns Funeral Home of Perry handled arrangements.",
+        "supports": [
+            "Hope W. Sullivan died May 27, 1982, as inferred from the obituary's publication date and reference to Thursday",
+            "Hope was 61 years old at death",
+            "Hope lived in Perry, Florida, at the time of his death",
+            "Hope worked as an electrical company lineman",
+            "Hope was a native of Mayo, Florida",
+            "Hope's obituary identified seven surviving children",
+            "Hugh E. Sullivan was Hope's brother",
+            "Hope's burial was planned at Airline Baptist Church cemetery in Mayo"
+        ],
+        "documents": [
+            "1982_hope_wayland_sullivan_obituary.jpg"
+        ]
+    },
+    {
         "id": "1984-emma-singletary-evans-funeral-memorial",
         "type": "obituary",
         "title": "1984 Funeral Memorial of Emma Singletary Evans",
@@ -2709,6 +2845,52 @@
         ]
     },
     {
+        "id": "ida-mae-herrin-numident-record",
+        "type": "social-security",
+        "title": "2007 Social Security NUMIDENT Record – Ida Mae Herrin Secreast",
+        "people": [
+            "ida-mae-herrin-1922"
+        ],
+        "date": "2007",
+        "location": "United States",
+        "description": "United States Social Security Numerical Identification Files (NUMIDENT), 1936–2007, record for Ida Mae Herrin, later known as Ida Mae Secreast. The record identifies her birth date as January 2, 1922, and birthplace as Homerville, Georgia. It records a Social Security application in November 1941, lists Trenton, Gilchrist County, Florida, as a residence, and gives her death date as July 14, 2003. Family relationships identify her parents as William L. Herrin and Laura Palmer. The record supports the birth year engraved on her gravestone, while a separate Social Security index transcription previously supplied a birth year of 1923.",
+        "supports": [
+            "Ida Mae Herrin was born January 2, 1922",
+            "Ida Mae Herrin was born in Homerville, Georgia",
+            "Ida Mae Herrin later used the name Ida Mae Secreast",
+            "Ida Mae applied for Social Security in November 1941",
+            "Trenton, Gilchrist County, Florida, is recorded as a residence",
+            "Ida Mae Secreast died July 14, 2003",
+            "William L. Herrin was Ida Mae's father",
+            "Laura Palmer was Ida Mae's mother"
+        ],
+        "documents": []
+    },
+    {
+        "id": "2020-stella-emily-osborn-obituary",
+        "type": "obituary",
+        "title": "2020 Obituary – Stella Emily Secreast Osborn",
+        "people": [
+            "stella-emily-secreast-1948"
+        ],
+        "date": "2020-02-19",
+        "location": "Ellabell, Bryan County, Georgia",
+        "description": "Obituary for Mrs. Stella Emily Osborn, who died February 19, 2020, at age 72. Born January 13, 1948, in Macon, Georgia, she was the daughter of Lawrence Monroe Secreast and Margaret Fussell Secreast. Her maternal grandparents were Dr. Thomas Daniel Fussell and Sarah Redman Fussell. Stella earned an associate degree in Forest Technology from Savannah Technical College and worked at Fort Stewart as a forest technician and endangered species technician, locating rare and endangered plants. Her husband was Steve Osborn, and her children included Ernest Coren Rahn, Donald Lee Rahn, and Sarah Emily Osborn. The obituary identifies Mike Sullivan and Billy John Sullivan as her stepbrothers, supporting the family connection through Lawrence's later marriage to Ida Mae Herrin Sullivan. Funeral services were scheduled for February 22, 2020, at Ellabell Methodist Church, followed by burial at Bethany Campground Cemetery. Obituary provided by Flanders Morrison Funeral Home and Crematory and indexed in FamilySearch's United States, Obituary Records, 2014–2023 collection. FamilySearch record: https://www.familysearch.org/ark:/61903/1:1:XMLF-PLFQ. The FamilySearch index lists an event date of April 5, 2023, which should not be confused with Stella's death date or assumed to be the original obituary publication date.",
+        "supports": [
+            "Stella Emily Secreast Osborn was born January 13, 1948, in Macon, Georgia",
+            "Stella Emily Osborn died February 19, 2020",
+            "Lawrence Monroe Secreast was Stella's father",
+            "Margaret Fussell Secreast was Stella's mother",
+            "Dr. Thomas Daniel Fussell and Sarah Redman Fussell were Stella's maternal grandparents",
+            "Steve Osborn was Stella's husband",
+            "Ernest Coren Rahn, Donald Lee Rahn, and Sarah Emily Osborn were Stella's children",
+            "Mike Sullivan and Billy John Sullivan were identified as Stella's stepbrothers",
+            "Stella worked as a forest technician and endangered species technician at Fort Stewart",
+            "Stella's burial was planned at Bethany Campground Cemetery"
+        ],
+        "documents": []
+    },
+    {
         "id": "aldermans-in-america-blanton-family-page-59",
         "type": "Published Family History",
         "title": "Aldermans in America — Blanton Family, Page 59",
@@ -2802,211 +2984,319 @@
             "pioneer_williams_families_georgia_page_15.jpg"
         ]
     },
-  
-{
-  "id": "1952-st-augustine-record-evans-drowning",
-  "type": "newspaper",
-  "title": "1952 Newspaper Article – Mother and Two Sons Drowned in Suwannee River",
-  "people": [
-    "marie-richmond-1926"
-  ],
-  "date": "1952-06-08",
-  "location": "Live Oak, Suwannee County, Florida",
-  "description": "Article titled 'Mother And Two Sons Drowned In Suwannee River,' published in The St. Augustine Record on June 8, 1952. The Associated Press report, datelined Live Oak, Florida, June 7, describes the drowning of Mrs. Fred Evans, identified through family research as Marie Richmond Evans, and her sons Donald Ray Evans, age 10, and Charles Evans, age 12, during a family fishing and swimming outing on the Suwannee River. According to the article, Donald Ray entered the river and was caught in a strong undertow. Charles attempted to help his brother and was also pulled under. Their mother entered the water to rescue the boys and drowned as well. Fred Evans, who had been fishing nearby, entered the river in an attempt to save his family but was rescued by his brother-in-law, Owen Lassiter. Lassiter reported that he had briefly held all four family members but could not pull them from the strong current. The article identifies the victims by the surname Evans; the 1950 federal census separately records Charles and Donald with the surname Richmond and identifies them as Fred's stepsons. The newspaper does not provide Marie's given name. The report establishes that the tragedy occurred on June 7, 1952.",
-  "supports": [
-    "Marie Richmond Evans died in a drowning accident on June 7, 1952",
-    "Marie was identified in the newspaper as Mrs. Fred Evans",
-    "Charles Evans, age 12, drowned in the Suwannee River",
-    "Donald Ray Evans, age 10, drowned in the Suwannee River",
-    "The three deaths occurred during a family fishing and swimming outing",
-    "Fred Evans attempted to rescue his wife and sons and survived",
-    "Owen Lassiter was identified as Fred Evans' brother-in-law",
-    "Owen Lassiter rescued Fred Evans from the river",
-    "The newspaper identified Charles and Donald by the surname Evans",
-    "The article was published in The St. Augustine Record on June 8, 1952"
-  ],
-  "documents": [
-    "1952_06_08_st_augustine_record_evans_drowning.jpg"
-  ]
-},
-{
-  "id": "1942-fred-evans-wwii-draft-registration",
-  "type": "military",
-  "title": "1942 World War II Draft Registration – Fred Evans",
-  "people": [
-    "frederick-fred-evans"
-  ],
-  "date": "1942-06-30",
-  "location": "Live Oak, Suwannee County, Florida",
-  "description": "World War II Selective Service registration card for Fred Evans, completed June 30, 1942, at the Suwannee County Local Board in Live Oak, Florida. The card records his birth as May 3, 1924, in Suwannee County, Florida, and his age as 18. His residence and mailing address were General Delivery, Live Oak, Florida. He identified Mrs. Emma Evans of Live Oak as the person who would always know his address. His employer was Dan Sanders of Live Oak, and his place of employment was Madison Highway, Live Oak, Suwannee County, Florida. The registrar's report describes Fred as approximately five feet nine and one-half inches tall, weighing 135 pounds, with blue eyes, blond hair, and a light complexion. The card includes Fred's signature. This record documents draft registration but does not establish military service.",
-  "supports": [
-    "Fred Evans was born May 3, 1924",
-    "Fred Evans was born in Suwannee County, Florida",
-    "Fred Evans registered for the World War II draft on June 30, 1942",
-    "Fred Evans resided in Live Oak, Florida, in June 1942",
-    "Fred Evans identified Mrs. Emma Evans as the person who would always know his address",
-    "Fred Evans was employed by Dan Sanders in Live Oak, Florida",
-    "Fred Evans worked on Madison Highway in Live Oak",
-    "Fred Evans had blue eyes and blond hair"
-  ],
-  "documents": [
-    "1942_fred_evans_wwii_draft_registration.jpg"
-  ]
-},
 
 {
-  "id": "ida-mae-herrin-numident-record",
-  "type": "social-security",
-  "title": "2007 Social Security NUMIDENT Record – Ida Mae Herrin Secreast",
-  "people": [
-    "ida-mae-herrin-1922"
-  ],
-  "date": "2007",
-  "location": "United States",
-  "description": "United States Social Security Numerical Identification Files (NUMIDENT), 1936–2007, record for Ida Mae Herrin, later known as Ida Mae Secreast. The record identifies her birth date as January 2, 1922, and birthplace as Homerville, Georgia. It records a Social Security application in November 1941, lists Trenton, Gilchrist County, Florida, as a residence, and gives her death date as July 14, 2003. Family relationships identify her parents as William L. Herrin and Laura Palmer. The record supports the birth year engraved on her gravestone, while a separate Social Security index transcription previously supplied a birth year of 1923.",
-  "supports": [
-    "Ida Mae Herrin was born January 2, 1922",
-    "Ida Mae Herrin was born in Homerville, Georgia",
-    "Ida Mae Herrin later used the name Ida Mae Secreast",
-    "Ida Mae applied for Social Security in November 1941",
-    "Trenton, Gilchrist County, Florida, is recorded as a residence",
-    "Ida Mae Secreast died July 14, 2003",
-    "William L. Herrin was Ida Mae's father",
-    "Laura Palmer was Ida Mae's mother"
-  ],
-  "documents": []
-},
-
-{
-  "id": "1942-hope-wayland-sullivan-draft-registration",
-  "type": "military",
-  "title": "1942 World War II Draft Registration – Hope Wayland Sullivan",
-  "people": [
-    "hope-wayland-sullivan-1920"
-  ],
-  "date": "1942-02-15",
-  "location": "Mayo, Lafayette County, Florida",
-  "description": "World War II Selective Service registration card for Hope Wayland Sullivan, completed February 15, 1942, in Mayo, Lafayette County, Florida. The card records his birth on September 12, 1920, in Mayo, Florida, his residence at Route 2, Mayo, and his age as 21. John M. Sullivan of Route 2, Mayo, was listed as both his employer and the person who would always know his address. The registrar described Hope as five feet eight inches tall, weighing 118 pounds, with blue eyes, brown hair, and a ruddy complexion. The card includes Hope's signature. This document establishes draft registration, not military service.",
-  "supports": [
-    "Hope Sullivan's full name was Hope Wayland Sullivan",
-    "Hope Wayland Sullivan was born September 12, 1920",
-    "Hope Wayland Sullivan was born in Mayo, Florida",
-    "Hope resided on Route 2 in Mayo in February 1942",
-    "Hope identified John M. Sullivan as his employer and contact person",
-    "Hope registered for the World War II draft on February 15, 1942"
-  ],
-  "documents": [
-    "1942_hope_wayland_sullivan_draft_registration_front.jpg",
-    "1942_hope_wayland_sullivan_draft_registration_back.jpg"
-  ]
-},
-
-{
-  "id": "1942-hope-sullivan-ida-mae-herrin-marriage",
-  "type": "marriage",
-  "title": "1942 Marriage License – Hope Sullivan and Ida Mae Herrin",
-  "people": [
-    "hope-wayland-sullivan-1920",
-    "ida-mae-herrin-1922"
-  ],
-  "date": "1942-04-17",
-  "location": "Mayo, Lafayette County, Florida",
-  "description": "Florida marriage license and certificate number 13098 for Hope Sullivan and Ida Mae Herrin, issued April 17, 1942, by Lafayette County Judge Lacy M. McClain in Mayo, Florida. The certificate records that the couple married on April 17, 1942, at a private home in Florida. The marriage return was filed April 18, 1942, and recorded in the county marriage book. This original document confirms the marriage date, location, and the names used by both parties.",
-  "supports": [
-    "Hope Sullivan married Ida Mae Herrin",
-    "Their marriage took place April 17, 1942",
-    "Their marriage was licensed in Lafayette County, Florida",
-    "The marriage return was filed April 18, 1942"
-  ],
-  "documents": [
-    "1942_hope_sullivan_ida_mae_herrin_marriage_license.jpg"
-  ]
-},
-
-{
-  "id": "1982-hope-wayland-sullivan-obituary",
+  "id": "1982-lawrence-monroe-secreast-obituary",
   "type": "obituary",
-  "title": "1982 Obituary – Hope W. Sullivan",
+  "title": "1982 Obituary – Lawrence Monroe Secreast",
   "people": [
-    "hope-wayland-sullivan-1920"
+    "lawrence-monroe-secreast-1912"
   ],
-  "date": "1982-05-29",
+  "date": "1982-06-05",
   "location": "Perry, Taylor County, Florida",
-  "description": "Obituary titled 'Hope W. Sullivan,' published in the Tallahassee Democrat on Saturday, May 29, 1982. The notice reports that Hope W. Sullivan, age 61, died Thursday at his home in Perry after a brief illness. A native of Mayo, he had lived in Perry for five years and worked as a lineman for an electrical company. Funeral services were scheduled for Sunday at Airline Baptist Church in Mayo, followed by burial in the church cemetery. Survivors included daughter Nell Slaughter of Fanning Springs; sons Connie Mack Sullivan, Billy John Sullivan, Wayland Sullivan, Paul (Mike) Sullivan, and Drew Sullivan of Perry, and Jack Sullivan of Old Town; brother Hugh E. Sullivan of Jacksonville; and 19 grandchildren. Joe P. Burns Funeral Home of Perry handled arrangements.",
+  "description": "Obituary published in the Tallahassee Democrat on Saturday, June 5, 1982, announcing the death of Lawrence M. Secreast, age 70, at his home in Fanning Springs, Florida, following a long illness. A native of Lenoir, North Carolina, he had lived in Fanning Springs for eight years. He was a retired roofer, a World War II veteran of the United States Navy, and a member of Granite Falls Methodist Church in North Carolina. Survivors included his wife Ida Mae Secreast; daughters Stella Osborn and Nell Slaughter; sons Jack, Wayland, Mike, Drew, Connie Mack, and Billy John Sullivan; brothers Arno, Bob, and Cade Secreast; and 25 grandchildren. Services were scheduled at Joe P. Burns Funeral Home Chapel in Perry, with burial announced for Spring Warrior Cemetery in Taylor County. This announced burial location differs from the previously recorded Old Town Memorial Cemetery and requires verification.",
   "supports": [
-    "Hope W. Sullivan died May 27, 1982, as inferred from the obituary's publication date and reference to Thursday",
-    "Hope was 61 years old at death",
-    "Hope lived in Perry, Florida, at the time of his death",
-    "Hope worked as an electrical company lineman",
-    "Hope was a native of Mayo, Florida",
-    "Hope's obituary identified seven surviving children",
-    "Hugh E. Sullivan was Hope's brother",
-    "Hope's burial was planned at Airline Baptist Church cemetery in Mayo"
+    "Lawrence Monroe Secreast died at his home in Fanning Springs, Florida",
+    "Lawrence was a retired roofer",
+    "Lawrence served in the United States Navy during World War II",
+    "Lawrence belonged to Granite Falls Methodist Church",
+    "Ida Mae Secreast was Lawrence's surviving wife",
+    "Stella Osborn and Nell Slaughter were identified among his surviving daughters",
+    "Jack, Wayland, Mike, Drew, Connie Mack, and Billy John Sullivan were identified among his surviving sons",
+    "Arno, Bob, and Cade Secreast were Lawrence's surviving brothers",
+    "Lawrence had 25 grandchildren",
+    "The obituary announced burial at Spring Warrior Cemetery in Taylor County, Florida"
   ],
   "documents": [
-    "1982_hope_wayland_sullivan_obituary.jpg"
+    "1982_lawrence_monroe_secreast_obituary.jpg"
   ]
 },
 
 {
-  "id": "ida-mae-herrin-lawrence-monroe-secreast-portrait",
-  "file": "1959_ida_mae_herrin_lawrence_monroe_secreast_restored.png",
-  "title": "Ida Mae Herrin and Lawrence Monroe Secreast",
-  "caption": "Ida Mae \"Shorty\" Herrin Secreast (1922–2003) with her second husband, Lawrence Monroe Secreast (1912–1982). The couple married on April 5, 1959, in Florida. The date and occasion of this photograph have not yet been established. Digitally restored from an original family photograph.",
-  "type": "family",
+  "id": "1917-william-levi-herrin-ww1-draft-registration",
+  "type": "draft-registration",
+  "title": "1917 World War I Draft Registration – William Levi Herrin",
   "people": [
-    "ida-mae-herrin-1922"
+    "william-levi-herrin-1892"
+  ],
+  "date": "1917-06-05",
+  "location": "Clinch County, Georgia",
+  "description": "World War I draft registration card for William L. Herrin, registered June 5, 1917, in Clinch County, Georgia. William reported that he was born May 4, 1892, in Clinch County, Georgia, and resided at Rural Free Delivery Route 2, Pearson, Georgia. He identified himself as a farmer, recorded no employer, and reported that he was married with a wife dependent upon him for support. He indicated no previous military service. The registrar described him as medium height and build, with blue eyes and dark hair. The record documents William's registration for the draft but does not establish that he served in the armed forces.",
+  "supports": [
+    "William Levi Herrin was born May 4, 1892",
+    "William Levi Herrin was born in Clinch County, Georgia",
+    "William Levi Herrin resided near Pearson, Georgia, in June 1917",
+    "William Levi Herrin worked as a farmer in 1917",
+    "William Levi Herrin was married by June 5, 1917",
+    "William Levi Herrin reported his wife as a dependent",
+    "William Levi Herrin reported no previous military service",
+    "William Levi Herrin registered for the World War I draft on June 5, 1917",
+    "William Levi Herrin had blue eyes and dark hair"
+  ],
+  "documents": [
+    "1917_william_levi_herrin_ww1_draft_front.jpg",
+    "1917_william_levi_herrin_ww1_draft_back.jpg"
+  ]
+},
+{
+  "id": "1810-david-sears-levicy-nobles-marriage",
+  "file": "1810_david_sears_levicy_nobles_marriage.jpg",
+  "title": "1810 Marriage Record of David Sears and Levicy Nobles",
+  "caption": "Montgomery County, Georgia, marriage register, page 16. Records the marriage of David Sears and Levicy Nobles on April 19, 1810. The officiant's signature appears to read James Nobles, Justice of the Peace.",
+  "type": "marriage",
+  "people": [
+    "david-sears-1791",
+    "levicy-nobles-1792"
   ],
   "family_lines": [
     "herrin"
   ],
-  "date": ""
+  "date": "1810-04-19"
 },
-
 {
-  "id": "1912-lawrence-monroe-secreast-birth-index",
-  "type": "birth",
-  "title": "1912 North Carolina Birth Index – Laurence Monroe Secreast",
+  "id": "1854-lewis-sanders-nobles-revolutionary-war-pension",
+  "title": "1854 Revolutionary War Pension Application of Lewis Sanders Nobles",
+  "type": "military",
+  "documents": [
+    "1854_lewis_sanders_nobles_revolutionary_war_pension.pdf"
+  ],
+  "description": "Five-page Revolutionary War pension file, application R.7683, for Lewis Sanders Nobles of Clinch County, Georgia. Includes his 1854 application and an August 23, 1930, government letter to Folks Huxford. The letter states that the application was rejected because sufficient evidence of the claimed military service had not been provided.",
   "people": [
-    "lawrence-monroe-secreast-1912"
+    "lewis-sanders-nobles-1760"
   ],
-  "date": "1912-02-18",
-  "location": "Caldwell County, North Carolina",
-  "description": "North Carolina Birth Index, 1800–2000, entry for Laurence Monroe Secreast, recording his birth on February 18, 1912, in Caldwell County, North Carolina. The indexed record appears in volume 2, page 392. The first name is recorded as Laurence, whereas his later gravestone and marriage records use Lawrence. FamilySearch record: https://www.familysearch.org/ark:/61903/1:1:VH5W-39G.",
-  "supports": [
-    "Lawrence Monroe Secreast was born February 18, 1912",
-    "Lawrence Monroe Secreast was born in Caldwell County, North Carolina",
-    "His name was recorded as Laurence Monroe Secreast in the North Carolina Birth Index"
+  "family_lines": [
+    "herrin"
   ],
-  "documents": []
+  "date": "1854-11-14"
 },
-
 {
-  "id": "2020-stella-emily-osborn-obituary",
+  "id": "1949-lewis-sanders-nobles-headstone-application",
+  "file": "1949_lewis_sanders_nobles_headstone_application.jpg",
+  "title": "1949 Military Headstone Application for Lewis Sanders Nobles",
+  "caption": "Government application dated September 15, 1949, for a military grave marker for Lewis Sanders Nobles (1760–1856), buried at Guest Mill Pond Cemetery, also known as Lang Country Church Cemetery, in Clinch County, Georgia. The application identifies him as a lieutenant in the South Carolina Militia under Captain Elijah Clark during the Revolutionary War and references pension application R.7683. The marker was ordered in April 1950.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": "1949-09-15"
+},
+{
+  "id": "lewis-sanders-nobles-service-reference",
+  "file": "1760_lewis_sanders_nobles_service_reference.jpg",
+  "title": "Lewis Sanders Nobles - Revolutionary War Service Reference",
+  "description": "Compiled genealogical reference card identifying Lewis Sanders Nobles (1760–1856), his burial at Guest Mill Pond Cemetery (also known as Lang Country Church Cemetery), and reported Revolutionary War service under Elijah Clarke. The card mentions King's Mountain, Brandywine, and Yorktown. Original compiler and repository are unknown; image obtained from another researcher's shared collection. Military service details have not been independently verified.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": null
+},
+{
+  "id": "lewis-sanders-nobles-pension-index",
+  "file": "1854_lewis_sanders_nobles_pension_index.jpg",
+  "title": "Lewis Sanders Nobles - Revolutionary War Pension Index Card",
+  "description": "Index card identifying Lewis Sanders Nobles under the name Nobles Sanders, or Lewis Sanders, and referencing rejected Revolutionary War pension application R.7683. Original repository and date of the card are unknown; image obtained from another researcher's shared collection.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": null
+},
+{
+  "id": "lewis-sanders-nobles-sc-patriots-roster",
+  "file": "1781_lewis_sanders_nobles_sc_patriots_roster.jpg",
+  "title": "Lewis Sanders Nobles - Roster of South Carolina Patriots",
+  "description": "Page 731 of Roster of South Carolina Patriots in the American Revolution. The entry for Lewis Sanders Nobles, reference R7683, reports Revolutionary War service under Captain Elijah Clarke and Colonel Roebuck, with participation in the battles of Camden, King's Mountain, Cowpens, and Yorktown. The reference number matches his rejected Revolutionary War pension application. This is a compiled historical source; the reported service and battle participation have not been independently verified.",
+  "type": "military",
+  "people": [
+    "lewis-sanders-nobles-1760"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": null
+},
+{
+  "id": "1880-mack-mathis-family-census",
+  "file": "1880_mack_mathis_family_census.jpg",
+  "title": "1880 United States Census - Mack Mathis Household",
+  "description": "1880 United States Census, Madison County, Florida, District 7, enumerated June 16, 1880, page 19, lines 22–26. The household lists Mack Mathis, age 34; his wife Mary, age 28; and their children Daniel, age 8, Mary Jane, age 7, and John, age 1. The family surname appears as Mathis, a spelling variation also found as Matthews in other family records.",
+  "type": "census",
+  "date": "1880-06-16",
+  "people": [
+    "malachi-m-matthews",
+    "mary-williams",
+    "daniel-m-mathis",
+    "mary-jane-mathis-1873",
+    "john-mathis-1879"
+  ],
+  "family_lines": [
+    "singletary"
+  ]
+},
+{
+  "id": "1885-malachi-mathis-family-census",
+  "file": "1885_malachi_mathis_family_census.jpg",
+  "title": "1885 Florida State Census - Malachi Mathis Household",
+  "description": "1885 Florida State Census, Madison County, Florida, page 6, enumerated June 21, 1885. The household includes Malachi Mathis, his wife Mary, and children including Daniel, John, Annie, and William. Annie was recorded as age two and William as five months old. The family's reported ages and names should be compared with other census records.",
+  "type": "census",
+  "date": "1885-06-21",
+  "people": [
+    "malachi-m-matthews",
+    "mary-williams",
+    "daniel-m-mathis",
+    "john-mathis-1879",
+    "annie-mathis-1883",
+    "william-mathis-1885"
+  ],
+  "family_lines": [
+    "singletary"
+  ]
+},
+{
+  "id": "1900-mac-mathes-family-census",
+  "file": "1900_mac_mathes_family_census.jpg",
+  "title": "1900 United States Census - Mac Mathes Household",
+  "description": "1900 United States Census, Madison County, Florida, Precinct 3, enumerated June 22, 1900, lines 60–64. The household lists Mac Mathes, born May 1844, age 56; wife Mary, born May 1861, age 39; son John, born October 1879, age 20; daughter Annie, born September 1882, age 17; and son Willie, born in 1890, age nine. The surname appears as Mathes, another spelling associated with the Mathis/Matthews family. The identity of Willie in relation to William recorded in the 1885 census requires further investigation.",
+  "type": "census",
+  "date": "1900-06-22",
+  "people": [
+    "malachi-m-matthews",
+    "mary-williams",
+    "john-mathis-1879",
+    "annie-mathis-1883",
+    "william-mathis-1885"
+  ],
+  "family_lines": [
+    "singletary"
+  ]
+},
+{
+  "id": "1906-william-mathews-maggie-hill-marriage",
+  "file": "1906_william_m_mathews_maggie_lee_hill_marriage.jpg",
+  "title": "1906 Marriage Certificate - W. M. Mathews and Maggie Lee Hill",
+  "description": "Madison County, Florida, marriage certificate documenting the marriage of W. M. Mathews and Maggie Lee Hill on December 9, 1906, following issuance of their marriage license on December 8, 1906. The ceremony was performed by M. S. Williams, Notary Public. The groom's surname is spelled Mathews, another documented variation of the Mathis/Matthews family surname.",
+  "type": "marriage",
+  "date": "1906-12-09",
+  "people": [
+    "william-mathis-1885"
+  ],
+  "family_lines": [
+    "singletary"
+  ]
+},
+{
+  "id": "1918-william-m-matthews-draft-registration",
+  "file": [
+      "1918_william_m_matthews_draft_registration_front.jpg",
+      "1918_william_m_matthews_draft_registration_back.jpg"
+  ], 
+  "title": "1918 World War I Draft Registration - William Matthews",
+  "description": "World War I draft registration completed September 12, 1918, in Madison County, Florida. William Matthews reported his birth date as December 16, 1883, and his residence as Lee, Madison County, Florida. He worked in sawmilling for the West Yellow Pine Company in Weston, Florida. He identified Daniel M. Matthews of Mayo, Lafayette County, Florida, as his nearest relative. This provides additional evidence connecting William to Daniel M. Mathis.",
+  "type": "military",
+  "date": "1918-09-12",
+  "people": [
+    "william-mathis-1885",
+    "daniel-m-mathis"
+  ],
+  "family_lines": ["singletary"]
+},
+{
+  "id": "1959-william-m-matthews-death-certificate",
+  "file": "1959_william_m_matthews_death_certificate.jpg",
+  "title": "1959 Florida Death Certificate - William M. Matthews",
+  "description": "Florida death certificate documenting the death of William M. Matthews on December 4, 1959, at Florida State Hospital in Chattahoochee, Gadsden County, Florida. His birth date is recorded as December 16, 1882, in Madison County, Florida. His father is identified as Miliki Matthews and his mother as Mary Adams. These parental names are being compared with other family records identifying Malachi M. Matthews and Mary Williams. The certificate identifies his usual residence as Madison, Florida.",
+  "type": "death",
+  "date": "1959-12-04",
+  "people": [
+    "william-mathis-1885"
+  ],
+  "family_lines": ["singletary"]
+},
+{
+  "id": "1959-william-m-matthews-obituary",
+  "file": "1959_william_m_matthews_obituary.jpg",
+  "title": "1959 Obituary - William M. Matthews",
+  "description": "Obituary published December 5, 1959, in the Tallahassee Democrat, announcing funeral arrangements for William M. Matthews, age 76, of Madison, Florida. The obituary identifies nine surviving children, including Mrs. Glover Mathis of Miami, and a sister, Miss Mary Matthews of Stuart, Florida. Burial was scheduled at Oak Ridge Cemetery in Madison. The obituary provides evidence connecting William to his daughter Eller Matthews Mathis.",
   "type": "obituary",
-  "title": "2020 Obituary – Stella Emily Secreast Osborn",
+  "date": "1959-12-05",
   "people": [
-    "lawrence-monroe-secreast-1912"
+    "william-mathis-1885"
   ],
-  "date": "2020-02-19",
-  "location": "Ellabell, Bryan County, Georgia",
-  "description": "Obituary for Mrs. Stella Emily Osborn, who died February 19, 2020, at age 72. Born January 13, 1948, in Macon, Georgia, she was the daughter of Lawrence Monroe Secreast and Margaret Fussell Secreast. Her maternal grandparents were Dr. Thomas Daniel Fussell and Sarah Redman Fussell. Stella earned an associate degree in Forest Technology from Savannah Technical College and worked at Fort Stewart as a forest technician and endangered species technician, locating rare and endangered plants. Her husband was Steve Osborn, and her children included Ernest Coren Rahn, Donald Lee Rahn, and Sarah Emily Osborn. The obituary identifies Mike Sullivan and Billy John Sullivan as her stepbrothers, supporting the family connection through Lawrence's later marriage to Ida Mae Herrin Sullivan. Funeral services were scheduled for February 22, 2020, at Ellabell Methodist Church, followed by burial at Bethany Campground Cemetery. Obituary provided by Flanders Morrison Funeral Home and Crematory and indexed in FamilySearch's United States, Obituary Records, 2014–2023 collection. FamilySearch record: https://www.familysearch.org/ark:/61903/1:1:XMLF-PLFQ. The FamilySearch index lists an event date of April 5, 2023, which should not be confused with Stella's death date or assumed to be the original obituary publication date.",
-  "supports": [
-    "Stella Emily Secreast Osborn was born January 13, 1948, in Macon, Georgia",
-    "Stella Emily Osborn died February 19, 2020",
-    "Lawrence Monroe Secreast was Stella's father",
-    "Margaret Fussell Secreast was Stella's mother",
-    "Dr. Thomas Daniel Fussell and Sarah Redman Fussell were Stella's maternal grandparents",
-    "Steve Osborn was Stella's husband",
-    "Ernest Coren Rahn, Donald Lee Rahn, and Sarah Emily Osborn were Stella's children",
-    "Mike Sullivan and Billy John Sullivan were identified as Stella's stepbrothers",
-    "Stella worked as a forest technician and endangered species technician at Fort Stewart",
-    "Stella's burial was planned at Bethany Campground Cemetery"
+  "family_lines": ["singletary"]
+},
+{
+  "id": "1980-eller-matthews-mathis-death-certificate",
+  "file": "1980_eller_matthews_mathis_death_certificate.jpg",
+  "title": "1980 Florida Death Certificate - Eller Matthews Mathis",
+  "description": "Florida death certificate documenting the death of Eller Matthews Mathis on December 16, 1980, in Sarasota, Sarasota County, Florida. Her birth date is recorded as September 13, 1907. Her father is identified as Bunk Matthews, the nickname of William M. Matthews. The certificate records her marital status as widowed and identifies Woodlawn Cemetery in Miami, Florida, as her burial location.",
+  "type": "death",
+  "date": "1980-12-16",
+  "people": [
+    "eller-matthews-1907"
   ],
-  "documents": []
+  "family_lines": ["singletary"]
+},
+{
+  "id": "1973-glover-mathis-death-certificate",
+  "file": "1973_glover_mathis_death_certificate.jpg",
+  "title": "1973 Florida Death Certificate - Glover Mathis",
+  "description": "Florida death certificate documenting the death of Glover Mathis on December 12, 1973, in West Palm Beach, Palm Beach County, Florida. His birth date is recorded as November 16, 1911. His father is identified as Daniel Mathis and his mother as Mary Dowling, a surname variation associated with Mary Frances Darling in family records. His surviving wife is identified as Eller Matthews. Glover was a retired truck driver and was buried at Airline Church Cemetery in Lafayette County, Florida.",
+  "type": "death",
+  "date": "1973-12-12",
+  "people": [
+    "glover-mathis-1910"
+  ],
+  "family_lines": ["singletary"]
+},
+{
+  "id": "1932-glover-mathis-eller-matthews-marriage",
+  "file": "1932_glover_mathis_eller_matthews_marriage.jpg",
+  "title": "1932 Marriage Certificate - Glover Mathis and Eller Matthews",
+  "description": "Marriage record from Mayo, Lafayette County, Florida, documenting the marriage of Glover Mathis and Eller Mathis on December 16, 1932. The record identifies the couple by their names as written at the time of marriage. Their subsequent Florida death certificates confirm their marriage and identify Eller Matthews as Glover's surviving wife in 1973.",
+  "type": "marriage",
+  "date": "1932-12-16",
+  "people": [
+    "glover-mathis-1910",
+    "eller-matthews-1907"
+  ],
+  "family_lines": ["singletary"]
+},
+{
+  "id": "1850-malachi-matthews-census",
+  "file": "1850_malachi_matthews_census.jpg",
+  "title": "1850 United States Census - Malachi Matthews",
+  "description": "1850 United States Census, Decatur County, Georgia. Malachi Matthews, approximately age 4, appears in the household of John and Tamsy Snipes, along with Mary Matthews, approximately age 2. The census documents their residence together but does not establish their relationships to one another.",
+  "type": "census",
+  "people": [
+    "malachi-m-matthews"
+  ],
+  "family_lines": [
+    "singletary"
+  ],
+  "date": "1850-08-07"
+},
+{
+  "id": "1860-malachi-matthews-census",
+  "file": "1860_malachi_matthews_census.jpg",
+  "title": "1860 United States Census - Malachi Matthews",
+  "description": "1860 United States Census, Taylor County, Florida, post office Finholloway. Malachi Matthews, approximately age 14, appears in the household of John and Tamsy Snipes. The record establishes his continued residence with the Snipes family but does not establish a biological relationship.",
+  "type": "census",
+  "people": [
+    "malachi-m-matthews"
+  ],
+  "family_lines": [
+    "singletary"
+  ],
+  "date": "1860-06-02"
 }
-
-
-
-
 ]

@@ -1251,7 +1251,9 @@
     "spouses": [
       "george-william-singletary-1895"
     ],
-    "biography": []
+    "biography": [
+        " In the 1920 United States Federal Census, Lela Mae Mathis Single$tary was recorded twice: once in the household of her parents, Daniel M. Mathis and Mary Frances Darling, and again in the household of her husband, George W. Singletary. The latter household included their infant son, Dewey Singletary, born August 23, 1919. The reason for Lela's duplicate enumeration is unknown."
+    ]
   },
   {
     "id": "richard-mathis",
@@ -2806,7 +2808,13 @@
   "birth_year": 1909,
   "death_year": 1974,
   "father": "daniel-m-mathis",
-  "mother": "mary-frances-darling"
+  "mother": "mary-frances-darling",
+  "biography": [
+    "Roy Eugene Mathis was born on December 3, 1909, in Madison County, Florida, according to his World War II draft registration. His parents were Daniel Mathis and Mary Frances, whose maiden name has not yet been established.",
+    "Roy married Dolly, whose maiden surname appears as Cumbass on his 1940 draft registration and Combass on his death certificate. At the time of his draft registration on October 16, 1940, Roy was living in Mayo, Lafayette County, Florida, and working on a Works Progress Administration (WPA) project in Tallahassee.",
+    "Roy later worked as a farmer and continued to reside in the Mayo area. He died on February 23, 1974, at Suwannee County Hospital in Live Oak, Florida, at the age of 64.",
+    "Roy was buried at Airline Cemetery in Mayo, Lafayette County, Florida. His gravestone shares a family marker with Dolly Mathis. Two smaller markers nearby commemorate Maple Jane Mathis (1947) and Mary Jane Mathis (1948), although their relationship to Roy and Dolly has not yet been independently established."
+  ]
 },
 {
   "id": "glover-mathis-1910",
