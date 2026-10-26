@@ -981,5 +981,17 @@
     "singletary"
   ],
   "date": null
+},
+{
+  "id": "susan-nipper-everett-darling-portrait",
+  "file": "susan_nipper_everett_darling.jpg",
+  "title": "Susan Nipper Darling and Everett Darling",
+  "caption": "Photograph of Susan Nipper Darling seated beside her husband, Everett Darling, standing in front of a wooden building. Date and location unknown. Photograph courtesy of Bettie Darling Prestridge.",
+  "type": "portrait",
+  "people": [
+    "susan-nipper",
+    "everett-darling"
+  ],
+  "family_lines": ["singletary"]
 }
 ]

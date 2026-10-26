@@ -1583,26 +1583,6 @@
         ]
     },
     {
-        "id": "mary-virginia-allen-death-certificate-1933",
-        "type": "Death Certificate",
-        "title": "1933 Florida Death Certificate — Mary Mathis",
-        "people": [
-            "mary-virginia-allen"
-        ],
-        "date": "1933-06-07",
-        "location": "Mayo, Lafayette County, Florida",
-        "description": "Florida death certificate, state file number 20078, recording the death of Mary Mathis on June 7, 1933. Identifies her husband as Frank Mathis, her father as Lewis Allen, and her mother as Florence Fryer. Records her birth on May 4, 1911, in Lafayette County, Florida.",
-        "supports": [
-            "Mary Mathis died June 7, 1933",
-            "Mary was married to Frank Mathis at the time of her death",
-            "Mary was born May 4, 1911, in Lafayette County, Florida",
-            "Mary's parents were Lewis Allen and Florence Fryer"
-        ],
-        "documents": [
-            "1933_mary_virginia_allen_death_certificate.jpg"
-        ]
-    },
-    {
         "id": "1935-death-certificate-rachel-griffin-singletary",
         "type": "death",
         "title": "1935 Georgia Death Certificate — Rachel Griffin Singletary",
@@ -3389,5 +3369,77 @@
     "singletary"
   ],
   "date": "1940"
+},
+{
+  "id": "1946-daniel-m-mathis-death-certificate",
+  "file": "1946_daniel_m_mathis_death_certificate.jpg",
+  "title": "1946 Florida Death Certificate — Daniel Mathis",
+  "description": "Florida death certificate, state file number 8538, documenting the death of Daniel Mathis on April 27, 1946, at his home in Mayo, Lafayette County, Florida. The certificate records his age as 72, birth in January 1873 in Madison County, Florida, occupation as farmer, and marital status as married. His wife is identified as Mrs. Daniel Mathis. Both parents are recorded as unknown. The cause of death was arteriosclerosis, and he was buried at Airline Cemetery near Mayo on April 28, 1946.",
+  "type": "death",
+  "people": [
+    "daniel-m-mathis"
+  ],
+  "family_lines": [
+    "singletary"
+  ],
+  "date": "1946-04-27"
+},
+{
+  "id": "1935-daniel-m-mathis-family-census",
+  "file": "1935_daniel_m_mathis_family.jpg",
+  "title": "1935 Florida State Census — Daniel M. Mathis Family",
+  "description": "1935 Florida State Census, Lafayette County, Precinct No. 2. The census lists D. M. Mathis (62), Emma F. Mathis (54), Claude Mathis (35), Roy Mathis (25), Shirley Mathis (19), Jessie Mathis (17), E. Darling (81), Joseph Mathis (5), and Honorine Mathis (2). E. Darling is identified as a boarder and is believed to be Everett Darling, father of Mary Frances Darling Mathis. Joseph Henry Mathis and Honorine Virginia Mathis were children of Daniel and Mary's son Frank Mathis. The name Emma F. Mathis should be compared with other records identifying Daniel's wife as Mary Frances Mathis.",
+  "type": "census",
+  "people": [
+    "daniel-m-mathis",
+    "mary-frances-darling",
+    "claude-mathis-1900",
+    "roy-eugene-mathis-1909",
+    "shirley-lee-mathis-1915",
+    "jessie-mae-mathis-1917",
+    "everett-darling",
+    "joseph-henry-mathis-1930",
+    "honorine-virginia-mathis-1932"
+  ],
+  "family_lines": ["singletary"],
+  "date": "1935"
+},
+{
+  "id": "1933-mary-virginia-allen-mathis-death-certificate",
+  "file": "1933_mary_virginia_allen_mathis_death_certificate.jpg",
+  "title": "1933 Florida Death Certificate — Mary Virginia Allen Mathis",
+  "description": "Florida death certificate, state file number 20078, documenting the death of Mary Mathis on June 7, 1933, in Mayo, Lafayette County, Florida, at age 21. She was born December 15, 1911, and was the wife of Frank Mathis. Her parents were Newt Allen and Florence Fryer. She was buried at Riverside Cemetery in Lafaytte County on June 8, 1933. Her death preceded the appearance of her children Joseph Henry and Honorine Virginia Mathis in their paternal grandparents' household in the 1935 Florida State Census.",
+  "type": "death",
+  "people": [
+    "mary-virginia-allen"
+  ],
+  "family_lines": ["singletary"],
+  "date": "1933-06-07"
+},
+{
+  "id": "1929-everett-darling-susan-nipper-marriage",
+  "file": "1929_everett_darling_susan_nipper_marriage.jpg",
+  "title": "1929 Marriage Certificate — Everett Darling and Susan Nipper",
+  "description": "Madison County, Florida, marriage record documenting the marriage of Everett Darling and Susan Nipper on April 18, 1929. The marriage license was issued April 12, 1929, and the ceremony was performed by G. B. Harrell, Notary Public.",
+  "type": "marriage",
+  "people": [
+    "everett-darling",
+    "susan-nipper"
+  ],
+  "family_lines": ["singletary"],
+  "date": "1929-04-18"
+},
+{
+  "id": "1949-susan-nipper-darling-death-certificate",
+  "file": "1949_susan_nipper_darling_death_certificate.jpg",
+  "title": "1949 Florida Death Certificate — Susan Nipper Darling",
+  "description": "Florida death certificate, state file number 28269, for Mrs. Susan Darling, widow of Everett Darling. The certificate records her age as 72 years, 3 months, and 12 days and identifies Madison County, Florida, as her birthplace.",
+  "type": "death",
+  "people": [
+    "susan-nipper",
+    "everett-darling"
+  ],
+  "family_lines": ["singletary"],
+  "date": "1949-12"
 }
 ]
