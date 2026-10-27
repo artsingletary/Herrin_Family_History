@@ -457,7 +457,8 @@
         "title": "1880 U.S. Federal Census — Everett and Sarah Dowling Household",
         "people": [
             "everett-darling",
-            "sarah-sallie-wadsworth-1840"
+            "sarah-sallie-wadsworth-1840",
+            "liddy-a-blanton"
         ],
         "date": "1880-06-16",
         "location": "Ellaville and Norton's Creek Precinct, Madison County, Florida",
@@ -517,6 +518,24 @@
         "documents": [
             "1880_eliza_singletary_federal_census.jpg"
         ]
+    },
+    {
+        "id": "1885-everett-darling-family-census",
+        "file": "1885_everett_darling_family_census.jpg",
+        "title": "1885 Florida State Census — Everett Darling Family",
+        "description": "1885 Florida State Census, Madison County, Florida, documenting the household of Everett Darling and his wife Sarah Wadsworth. Lydia, Everett's stepdaughter, is enumerated immediately below Sarah, followed by their daughters Mary and Martha Darling. Lydia's biological father has not been identified. This census provides evidence of the blended Darling-Wadsworth household.",
+        "type": "census",
+        "people": [
+            "everett-darling",
+            "sarah-sallie-wadsworth-1840",
+            "liddy-a-blanton",
+            "mary-frances-darling",
+            "martha-darling-1882"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1885-06-08"
     },
     {
         "id": "1885-malachi-mathis-family-census",
@@ -724,6 +743,21 @@
         ]
     },
     {
+        "id": "1900-everett-darling-sarah-wadsworth-census",
+        "file": "1900_everett_darling_sarah_wadsworth_census.jpg",
+        "title": "1900 U.S. Census — Everett Darling and Sarah Wadsworth",
+        "description": "1900 United States Census, Madison Precinct, Madison County, Florida, enumerated June 20, 1900, sheet 18. Everett Darling and his wife Sarah appear on lines 85–86, immediately following the household of Sarah's brother Burton Wadsworth, his wife Elizabeth, and their children Louis, Gordon, and Marrie. Everett is recorded as a farmer whose birthplace was listed as New York, although other family records identify Connecticut and Rhode Island. Sarah's birthplace is recorded as Georgia. The neighboring households document the proximity of the Darling and Wadsworth families.",
+        "type": "census",
+        "people": [
+            "everett-darling",
+            "sarah-sallie-wadsworth-1840"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1900-06-20"
+    },
+    {
         "id": "1900-census-daniel-mathis-family",
         "type": "Census",
         "title": "1900 U.S. Census — Daniel Mathis Family",
@@ -769,6 +803,21 @@
         ]
     },
     {
+        "id": "1900-george-simpson-martha-darling-census",
+        "file": "1900_george_simpson_martha_darling_census.jpg",
+        "title": "1900 U.S. Census — George and Martha Simpson",
+        "description": "1900 United States Census, Madison County, Florida, enumerated June 23, 1900. George Simpson and his wife Martha appear on lines 83–84. George is recorded as age 23, born December 1876. Martha's birth date appears to be September 1882, consistent with her later death certificate and Social Security records, although her recorded age may differ slightly. The census identifies them as a married couple.",
+        "type": "census",
+        "people": [
+            "george-riley-simpson",
+            "martha-darling-1882"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1900-06-23"
+    },
+    {
         "id": "1906-william-mathews-maggie-hill-marriage",
         "file": "1906_william_m_mathews_maggie_lee_hill_marriage.jpg",
         "title": "1906 Marriage Certificate - W. M. Mathews and Maggie Lee Hill",
@@ -804,6 +853,21 @@
         ]
     },
     {
+        "id": "1909-everett-darling-susan-nipper-marriage",
+        "file": "1909_everett_darling_susan_nipper_marriage.jpg",
+        "title": "1909 Marriage Certificate — Everett Darling and Susan Nipper",
+        "description": "Madison County, Florida, marriage record documenting the marriage of Everett Darling and Susan Nipper on April 18, 1909. The marriage license was issued April 12, 1909, and the ceremony was performed by G. B. Harrell, Notary Public.",
+        "type": "marriage",
+        "people": [
+            "everett-darling",
+            "susan-nipper"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1909-04-18"
+    },
+    {
         "id": "1910-census-daniel-mathis-family",
         "type": "Census",
         "title": "1910 U.S. Census — Daniel Mathis Family",
@@ -837,6 +901,21 @@
         "documents": [
             "1910_census_daniel_mathis_family.jpg"
         ]
+    },
+    {
+        "id": "1910-everett-darling-susan-nipper-census",
+        "file": "1910_everett_darling_susan_nipper_census.jpg",
+        "title": "1910 U.S. Census — Everett Darling and Susan Nipper",
+        "description": "1910 United States Census, Norton Creek, Precinct 3, Madison County, Florida, Enumeration District 89, sheet 5A, lines 18–19. Everett Darling is recorded as head of household, approximately age 57, with his wife Susan, approximately age 26. Everett worked as a laborer at a sawmill and his birthplace is recorded as Connecticut. The census documents Everett and Susan living together following their marriage on April 18, 1909.",
+        "type": "census",
+        "people": [
+            "everett-darling",
+            "susan-nipper"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1910"
     },
     {
         "id": "john-singletary-family-1910-census",
@@ -1182,6 +1261,43 @@
         ]
     },
     {
+        "id": "1920-everett-darling-family-census",
+        "file": "1920_everett_darling_family_census.jpg",
+        "title": "1920 U.S. Census — Everett Darling Household",
+        "description": "1920 United States Census, Madison County, Florida, sheet 10B, lines 84–88. Everett Darling is enumerated with a woman named Martha, identified as his wife, and three children: William, Nettie, and James Darling. Everett had married Susan Nipper on April 18, 1909, and family research identifies Susan as the mother of these children. The name Martha and the recorded age remain unresolved discrepancies requiring further investigation.",
+        "type": "census",
+        "people": [
+            "everett-darling"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1920"
+    },
+    {
+        "id": "1920-daniel-m-mathis-family-census",
+        "file": "1920_daniel_m_mathis_family_census.jpg",
+        "title": "1920 U.S. Federal Census — Daniel M. Mathis Family",
+        "description": "1920 United States Federal Census, Lafayette County, Florida, Precinct No. 3, sheet 7B, lines 86–96. The household includes Dan M. Mathis (47), wife Mary (37), and their eight children: Claude (19), Lela (17), Rube (15), Frank (13), Roy (11), Glover (10), Shirley (6), and Jessie M. (2). Also residing in the household was Ella Truluck (15), identified as a niece. Ella was the daughter of Silas P. Truluck and Annie E. Mathis, Daniel's sister and a daughter of Malachi M. Mathis and Mary Williams.",
+        "type": "Census",
+        "people": [
+            "daniel-m-mathis",
+            "mary-frances-darling",
+            "claude-mathis-1900",
+            "lela-mae-mathis-1902",
+            "rubin-ellis-mathis-1904",
+            "frank-mathis-1907",
+            "roy-eugene-mathis-1909",
+            "glover-mathis-1910",
+            "shirley-lee-mathis-1915",
+            "jessie-mae-mathis-1917"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1920"
+    },
+    {
         "id": "william-levi-herrin-family-1920-census",
         "type": "Census",
         "title": "1920 United States Census — William Levi Herrin Household",
@@ -1416,6 +1532,26 @@
         ]
     },
     {
+        "id": "1930-daniel-m-mathis-family-census",
+        "file": "1930_daniel_m_mathis_family_census.jpg",
+        "title": "1930 U.S. Federal Census — Daniel M. Mathis Family",
+        "description": "1930 United States Federal Census, Lafayette County, Florida, Election Precinct No. 3, Arline, Enumeration District 34-4, sheet 1A, lines 1–7, enumerated April 2, 1930. The household includes Daniel M. Mathis (56), wife Mary F. Mathis (46), sons Claude E. (29) and Roy E. (20), daughters Shirley L. (13) and Jessie M. (11), and Daniel's father-in-law Everett Darling (79). Everett's presence provides additional evidence that Mary Frances Mathis was his daughter. Daniel, Claude, and Roy were recorded as farm workers or farmers.",
+        "type": "census",
+        "people": [
+            "daniel-m-mathis",
+            "mary-frances-darling",
+            "claude-mathis-1900",
+            "roy-eugene-mathis-1909",
+            "shirley-lee-mathis-1915",
+            "jessie-mae-mathis-1917",
+            "everett-darling"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1930"
+    },
+    {
         "id": "william-levi-herrin-family-1930-census",
         "type": "Census",
         "title": "1930 United States Census — William Levi Herrin Household",
@@ -1583,6 +1719,42 @@
         ]
     },
     {
+        "id": "1933-mary-virginia-allen-mathis-death-certificate",
+        "file": "1933_mary_virginia_allen_mathis_death_certificate.jpg",
+        "title": "1933 Florida Death Certificate — Mary Virginia Allen Mathis",
+        "description": "Florida death certificate, state file number 20078, documenting the death of Mary Mathis on June 7, 1933, in Mayo, Lafayette County, Florida, at age 21. She was born December 15, 1911, and was the wife of Frank Mathis. Her parents were Newt Allen and Florence Fryer. She was buried at Riverside Cemetery in Lafaytte County on June 8, 1933. Her death preceded the appearance of her children Joseph Henry and Honorine Virginia Mathis in their paternal grandparents' household in the 1935 Florida State Census.",
+        "type": "death",
+        "people": [
+            "mary-virginia-allen"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1933-06-07"
+    },
+    {
+        "id": "1935-daniel-m-mathis-family-census",
+        "file": "1935_daniel_m_mathis_family.jpg",
+        "title": "1935 Florida State Census — Daniel M. Mathis Family",
+        "description": "1935 Florida State Census, Lafayette County, Precinct No. 2. The census lists D. M. Mathis (62), Emma F. Mathis (54), Claude Mathis (35), Roy Mathis (25), Shirley Mathis (19), Jessie Mathis (17), E. Darling (81), Joseph Mathis (5), and Honorine Mathis (2). E. Darling is identified as a boarder and is believed to be Everett Darling, father of Mary Frances Darling Mathis. Joseph Henry Mathis and Honorine Virginia Mathis were children of Daniel and Mary's son Frank Mathis. The name Emma F. Mathis should be compared with other records identifying Daniel's wife as Mary Frances Mathis.",
+        "type": "census",
+        "people": [
+            "daniel-m-mathis",
+            "mary-frances-darling",
+            "claude-mathis-1900",
+            "roy-eugene-mathis-1909",
+            "shirley-lee-mathis-1915",
+            "jessie-mae-mathis-1917",
+            "everett-darling",
+            "joseph-henry-mathis-1930",
+            "honorine-virginia-mathis-1932"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1935"
+    },
+    {
         "id": "1935-death-certificate-rachel-griffin-singletary",
         "type": "death",
         "title": "1935 Georgia Death Certificate — Rachel Griffin Singletary",
@@ -1604,6 +1776,19 @@
         ]
     },
     {
+        "id": "1937-martha-darling-simpson-numident",
+        "title": "1937 Social Security NUMIDENT Record — Martha Darling Simpson",
+        "description": "United States Social Security Numerical Identification Files (NUMIDENT), 1936–2007. Record for Martha Darling Simpson, with alias Martha Darling, documenting a May 1937 Social Security application. The record gives her birth date as September 14, 1882, in Madison County, Florida, and identifies her parents as Everett Darling and Sarah L. Wadsworth. Her Florida death certificate instead records September 9, 1882, and identifies her father as Jim Darling.",
+        "type": "other",
+        "people": [
+            "martha-darling-1882"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1937-05"
+    },
+    {
         "id": "james-talmage-herrin-draft-registration",
         "type": "Draft Registration Card",
         "title": "1940 Selective Service Registration Card of James Talmage Herrin",
@@ -1623,6 +1808,26 @@
             "1940_james_talmadge_herrin_draft_registration_card_front.jpg",
             "1940_james_talmadge_herrin_draft_registration_card_back.jpg"
         ]
+    },
+    {
+        "id": "1940-daniel-m-mathis-family-census",
+        "file": "1940_daniel_m_mathis_family_census.jpg",
+        "title": "1940 U.S. Federal Census — Daniel M. Mathis Family",
+        "description": "1940 United States Federal Census, Lafayette County, Florida, Enumeration District 34-4, sheet 9A, enumerated April 17, 1940. Lines 30–34 record Daniel M. Mathis (65), his wife Mary Frances Darling Mathis (58), their son Roy Eugene Mathis (28), their son-in-law John Sapp (28), and their daughter Jessie Mae Mathis Sapp (22). Also appearing on the same census page are Joseph Henry Mathis (10) and Honorine Virginia Mathis (7), children of Daniel and Mary's son Frank Mathis.",
+        "type": "census",
+        "people": [
+            "daniel-m-mathis",
+            "mary-frances-darling",
+            "roy-eugene-mathis-1909",
+            "john-sapp",
+            "jessie-mae-mathis-1917",
+            "joseph-henry-mathis-1930",
+            "honorine-virginia-mathis-1932"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1940"
     },
     {
         "id": "william-levi-herrin-family-1940-census",
@@ -1771,6 +1976,20 @@
             "1940_dewey_singletary_ww2_draft_front.jpg",
             "1940_dewey_singletary_ww2_draft_back.jpg"
         ]
+    },
+    {
+        "id": "1940-roy-eugene-mathis-draft-registration",
+        "file": "1940_roy_eugene_mathis_draft_registration.jpg",
+        "title": "1940 World War II Draft Registration — Roy Eugene Mathis",
+        "description": "World War II draft registration dated October 16, 1940, in Lafayette County, Florida. Roy Eugene Mathis reported his birth on December 3, 1909, in Madison County, Florida, and his residence in Mayo, Lafayette County. He identified Mrs. Dolly Z. Mathis, whose maiden surname appears as Cumbass on the registration, as his wife and contact person. His employer was listed as a WPA project in Tallahassee, Leon County, Florida.",
+        "type": "military",
+        "people": [
+            "roy-eugene-mathis-1909"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1940-10-16"
     },
     {
         "id": "1941-birth-certificate-arthur-singletary",
@@ -2000,6 +2219,20 @@
         ]
     },
     {
+        "id": "1946-daniel-m-mathis-death-certificate",
+        "file": "1946_daniel_m_mathis_death_certificate.jpg",
+        "title": "1946 Florida Death Certificate — Daniel Mathis",
+        "description": "Florida death certificate, state file number 8538, documenting the death of Daniel Mathis on April 27, 1946, at his home in Mayo, Lafayette County, Florida. The certificate records his age as 72, birth in January 1873 in Madison County, Florida, occupation as farmer, and marital status as married. His wife is identified as Mrs. Daniel Mathis. Both parents are recorded as unknown. The cause of death was arteriosclerosis, and he was buried at Airline Cemetery near Mayo on April 28, 1946.",
+        "type": "death",
+        "people": [
+            "daniel-m-mathis"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1946-04-27"
+    },
+    {
         "id": "herrin-sisters-marriages-1947",
         "type": "Marriage Record",
         "title": "1947 Brooks County Marriage Register — Gladys and Marylou Herrin",
@@ -2075,6 +2308,33 @@
             "herrin"
         ],
         "date": "1949-09-15"
+    },
+    {
+        "id": "1949-susan-nipper-darling-death-certificate",
+        "file": "1949_susan_nipper_darling_death_certificate.jpg",
+        "title": "1949 Florida Death Certificate — Susan Nipper Darling",
+        "description": "Florida death certificate, state file number 28269, for Mrs. Susan Darling, widow of Everett Darling. The certificate records her age as 72 years, 3 months, and 12 days and identifies Madison County, Florida, as her birthplace.",
+        "type": "death",
+        "people": [
+            "susan-nipper"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1949-12"
+    },
+    {
+        "id": "1950-martha-dowling-simpson-florida-death-index",
+        "title": "1950 Florida Death Index — Martha Dowling Simpson",
+        "description": "Florida Death Index entry for Martha Dowling Simpson, who died in Suwannee County, Florida, in 1950. Certificate number 27485, volume 1443, file FDI03-1950.txt, line 24264. The entry corresponds to her Florida death certificate.",
+        "type": "death",
+        "people": [
+            "martha-darling-1882"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1950"
     },
     {
         "id": "james-herrin-family-1950-census",
@@ -2195,6 +2455,20 @@
         "documents": [
             "1950_census_will_evans_family.jpg"
         ]
+    },
+    {
+        "id": "1950-martha-darling-simpson-death-certificate",
+        "file": "1950_martha_darling_simpson_death_certificate.jpg",
+        "title": "1950 Florida Death Certificate — Martha Darling Simpson",
+        "description": "Florida death certificate, state file number 27485, documenting the death of Martha Darling Simpson on December 18, 1950, in Live Oak, Suwannee County, Florida. Born September 9, 1882, in Madison County, Florida, she was widowed at the time of her death. The certificate names her father as Jim Darling and lists her mother's maiden name as unknown. She was buried at Philadelphia Cemetery on December 20, 1950.",
+        "type": "death",
+        "people": [
+            "martha-darling-1882"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1950-12-18"
     },
     {
         "id": "lela-mae-mathis-singletary-death-certificate-1951",
@@ -2775,6 +3049,20 @@
         ]
     },
     {
+        "id": "1974-roy-eugene-mathis-death-certificate",
+        "file": "1974_roy_eugene_mathis_death_certificate.jpg",
+        "title": "1974 Florida Death Certificate — Roy Eugene Mathis",
+        "description": "Florida death certificate, state file number 74-058282, documenting the death of Roy Eugene Mathis on February 23, 1974, at Suwannee County Hospital in Live Oak, Florida. The certificate records his birth on December 3, 1909, identifies his parents as Daniel Mathis and Mary Frances (maiden surname not recorded), and names his surviving wife as Dolly Combass. Roy was a farmer residing in Mayo, Lafayette County, Florida, and was buried at Airline Cemetery in Mayo.",
+        "type": "death",
+        "people": [
+            "roy-eugene-mathis-1909"
+        ],
+        "family_lines": [
+            "singletary"
+        ],
+        "date": "1974-02-23"
+    },
+    {
         "id": "william-levi-herrin-death-certificate",
         "type": "Death Certificate",
         "title": "1975 Death Certificate of William Levi Herrin",
@@ -3290,156 +3578,5 @@
         "documents": [
             "pioneer_williams_families_georgia_page_15.jpg"
         ]
-    },
-    {
-        "id": "1974-roy-eugene-mathis-death-certificate",
-        "file": "1974_roy_eugene_mathis_death_certificate.jpg",
-        "title": "1974 Florida Death Certificate — Roy Eugene Mathis",
-        "description": "Florida death certificate, state file number 74-058282, documenting the death of Roy Eugene Mathis on February 23, 1974, at Suwannee County Hospital in Live Oak, Florida. The certificate records his birth on December 3, 1909, identifies his parents as Daniel Mathis and Mary Frances (maiden surname not recorded), and names his surviving wife as Dolly Combass. Roy was a farmer residing in Mayo, Lafayette County, Florida, and was buried at Airline Cemetery in Mayo.",
-        "type": "death",
-        "people": ["roy-eugene-mathis-1909"],
-        "family_lines": ["singletary"],
-         "date": "1974-02-23"
-},
-{
-        "id": "1940-roy-eugene-mathis-draft-registration",
-        "file": "1940_roy_eugene_mathis_draft_registration.jpg",
-        "title": "1940 World War II Draft Registration — Roy Eugene Mathis",
-        "description": "World War II draft registration dated October 16, 1940, in Lafayette County, Florida. Roy Eugene Mathis reported his birth on December 3, 1909, in Madison County, Florida, and his residence in Mayo, Lafayette County. He identified Mrs. Dolly Z. Mathis, whose maiden surname appears as Cumbass on the registration, as his wife and contact person. His employer was listed as a WPA project in Tallahassee, Leon County, Florida.",
-        "type": "military",
-        "people": ["roy-eugene-mathis-1909"],
-        "family_lines": ["singletary"],
-        "date": "1940-10-16"
-},
-{
-  "id": "1920-daniel-m-mathis-family-census",
-  "file": "1920_daniel_m_mathis_family_census.jpg",
-  "title": "1920 U.S. Federal Census — Daniel M. Mathis Family",
-  "description": "1920 United States Federal Census, Lafayette County, Florida, Precinct No. 3, sheet 7B, lines 86–96. The household includes Dan M. Mathis (47), wife Mary (37), and their eight children: Claude (19), Lela (17), Rube (15), Frank (13), Roy (11), Glover (10), Shirley (6), and Jessie M. (2). Also residing in the household was Ella Truluck (15), identified as a niece. Ella was the daughter of Silas P. Truluck and Annie E. Mathis, Daniel's sister and a daughter of Malachi M. Mathis and Mary Williams.",
-  "type": "Census",
-  "people": [
-    "daniel-m-mathis",
-    "mary-frances-darling",
-    "claude-mathis-1900",
-    "lela-mae-mathis-1902",
-    "rubin-ellis-mathis-1904",
-    "frank-mathis-1907",
-    "roy-eugene-mathis-1909",
-    "glover-mathis-1910",
-    "shirley-lee-mathis-1915",
-    "jessie-mae-mathis-1917"
-  ],
-  "family_lines": ["singletary"],
-  "date": "1920"
-},
-{
-  "id": "1930-daniel-m-mathis-family-census",
-  "file": "1930_daniel_m_mathis_family_census.jpg",
-  "title": "1930 U.S. Federal Census — Daniel M. Mathis Family",
-  "description": "1930 United States Federal Census, Lafayette County, Florida, Election Precinct No. 3, Arline, Enumeration District 34-4, sheet 1A, lines 1–7, enumerated April 2, 1930. The household includes Daniel M. Mathis (56), wife Mary F. Mathis (46), sons Claude E. (29) and Roy E. (20), daughters Shirley L. (13) and Jessie M. (11), and Daniel's father-in-law Everett Darling (79). Everett's presence provides additional evidence that Mary Frances Mathis was his daughter. Daniel, Claude, and Roy were recorded as farm workers or farmers.",
-  "type": "census",
-  "people": [
-    "daniel-m-mathis",
-    "mary-frances-darling",
-    "claude-mathis-1900",
-    "roy-eugene-mathis-1909",
-    "shirley-lee-mathis-1915",
-    "jessie-mae-mathis-1917",
-    "everett-darling"
-  ],
-  "family_lines": ["singletary"],
-  "date": "1930"
-},
-{
-  "id": "1940-daniel-m-mathis-family-census",
-  "file": "1940_daniel_m_mathis_family_census.jpg",
-  "title": "1940 U.S. Federal Census — Daniel M. Mathis Family",
-  "description": "1940 United States Federal Census, Lafayette County, Florida, Enumeration District 34-4, sheet 9A, enumerated April 17, 1940. Lines 30–34 record Daniel M. Mathis (65), his wife Mary Frances Darling Mathis (58), their son Roy Eugene Mathis (28), their son-in-law John Sapp (28), and their daughter Jessie Mae Mathis Sapp (22). Also appearing on the same census page are Joseph Henry Mathis (10) and Honorine Virginia Mathis (7), children of Daniel and Mary's son Frank Mathis.",
-  "type": "census",
-  "people": [
-    "daniel-m-mathis",
-    "mary-frances-darling",
-    "roy-eugene-mathis-1909",
-    "john-sapp",
-    "jessie-mae-mathis-1917",
-    "joseph-henry-mathis-1930",
-    "honorine-virginia-mathis-1932"
-  ],
-  "family_lines": [
-    "singletary"
-  ],
-  "date": "1940"
-},
-{
-  "id": "1946-daniel-m-mathis-death-certificate",
-  "file": "1946_daniel_m_mathis_death_certificate.jpg",
-  "title": "1946 Florida Death Certificate — Daniel Mathis",
-  "description": "Florida death certificate, state file number 8538, documenting the death of Daniel Mathis on April 27, 1946, at his home in Mayo, Lafayette County, Florida. The certificate records his age as 72, birth in January 1873 in Madison County, Florida, occupation as farmer, and marital status as married. His wife is identified as Mrs. Daniel Mathis. Both parents are recorded as unknown. The cause of death was arteriosclerosis, and he was buried at Airline Cemetery near Mayo on April 28, 1946.",
-  "type": "death",
-  "people": [
-    "daniel-m-mathis"
-  ],
-  "family_lines": [
-    "singletary"
-  ],
-  "date": "1946-04-27"
-},
-{
-  "id": "1935-daniel-m-mathis-family-census",
-  "file": "1935_daniel_m_mathis_family.jpg",
-  "title": "1935 Florida State Census — Daniel M. Mathis Family",
-  "description": "1935 Florida State Census, Lafayette County, Precinct No. 2. The census lists D. M. Mathis (62), Emma F. Mathis (54), Claude Mathis (35), Roy Mathis (25), Shirley Mathis (19), Jessie Mathis (17), E. Darling (81), Joseph Mathis (5), and Honorine Mathis (2). E. Darling is identified as a boarder and is believed to be Everett Darling, father of Mary Frances Darling Mathis. Joseph Henry Mathis and Honorine Virginia Mathis were children of Daniel and Mary's son Frank Mathis. The name Emma F. Mathis should be compared with other records identifying Daniel's wife as Mary Frances Mathis.",
-  "type": "census",
-  "people": [
-    "daniel-m-mathis",
-    "mary-frances-darling",
-    "claude-mathis-1900",
-    "roy-eugene-mathis-1909",
-    "shirley-lee-mathis-1915",
-    "jessie-mae-mathis-1917",
-    "everett-darling",
-    "joseph-henry-mathis-1930",
-    "honorine-virginia-mathis-1932"
-  ],
-  "family_lines": ["singletary"],
-  "date": "1935"
-},
-{
-  "id": "1933-mary-virginia-allen-mathis-death-certificate",
-  "file": "1933_mary_virginia_allen_mathis_death_certificate.jpg",
-  "title": "1933 Florida Death Certificate — Mary Virginia Allen Mathis",
-  "description": "Florida death certificate, state file number 20078, documenting the death of Mary Mathis on June 7, 1933, in Mayo, Lafayette County, Florida, at age 21. She was born December 15, 1911, and was the wife of Frank Mathis. Her parents were Newt Allen and Florence Fryer. She was buried at Riverside Cemetery in Lafaytte County on June 8, 1933. Her death preceded the appearance of her children Joseph Henry and Honorine Virginia Mathis in their paternal grandparents' household in the 1935 Florida State Census.",
-  "type": "death",
-  "people": [
-    "mary-virginia-allen"
-  ],
-  "family_lines": ["singletary"],
-  "date": "1933-06-07"
-},
-{
-  "id": "1929-everett-darling-susan-nipper-marriage",
-  "file": "1929_everett_darling_susan_nipper_marriage.jpg",
-  "title": "1929 Marriage Certificate — Everett Darling and Susan Nipper",
-  "description": "Madison County, Florida, marriage record documenting the marriage of Everett Darling and Susan Nipper on April 18, 1929. The marriage license was issued April 12, 1929, and the ceremony was performed by G. B. Harrell, Notary Public.",
-  "type": "marriage",
-  "people": [
-    "everett-darling",
-    "susan-nipper"
-  ],
-  "family_lines": ["singletary"],
-  "date": "1929-04-18"
-},
-{
-  "id": "1949-susan-nipper-darling-death-certificate",
-  "file": "1949_susan_nipper_darling_death_certificate.jpg",
-  "title": "1949 Florida Death Certificate — Susan Nipper Darling",
-  "description": "Florida death certificate, state file number 28269, for Mrs. Susan Darling, widow of Everett Darling. The certificate records her age as 72 years, 3 months, and 12 days and identifies Madison County, Florida, as her birthplace.",
-  "type": "death",
-  "people": [
-    "susan-nipper",
-    "everett-darling"
-  ],
-  "family_lines": ["singletary"],
-  "date": "1949-12"
-}
+    }
 ]
