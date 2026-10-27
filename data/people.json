@@ -3022,5 +3022,57 @@
       "Zilpha married Joseph J. Cohen. In the 1850 United States Census, she appears as Zelpha Cohen, age 28, in the household of John and Nancy Williams in Ware County, Georgia. A five-year-old child named William Cohen was also recorded in the household.",
       "Family research indicates that Zilpha died in 1905. Her exact birth and death dates have not yet been verified."
     ]
-  }
+  },
+
+{
+  "id": "william-everett-darling",
+  "first_name": "William",
+  "middle_name": "Everett",
+  "last_name": "Darling",
+  "suffix": "Sr.",
+  "family_lines": ["singletary"],
+  "birth_year": "1911",
+  "death_year": "1981",
+  "father": "everett-darling",
+  "mother": "susan-nipper",
+  "spouses": [],
+  "biography": [
+    "William Everett Darling Sr. was born in 1911, the son of Everett Darling and Susan Lucinda Nipper. He was one of four known children of their marriage.",
+    "He died in 1981."
+  ]
+},
+
+{
+  "id": "nettie-lucinda-darling",
+  "first_name": "Nettie",
+  "middle_name": "Lucinda",
+  "last_name": "Darling",
+  "family_lines": ["singletary"],
+  "birth_year": "1914",
+  "death_year": "1995",
+  "father": "everett-darling",
+  "mother": "susan-nipper",
+  "spouses": [],
+  "biography": [
+    "Nettie Lucinda Darling was born in 1914, the daughter of Everett Darling and Susan Lucinda Nipper. She was one of four known children of their marriage.",
+    "She died in 1995."
+  ]
+},
+
+{
+  "id": "james-thomas-darling",
+  "first_name": "James",
+  "middle_name": "Thomas",
+  "last_name": "Darling",
+  "family_lines": ["singletary"],
+  "birth_year": "1916",
+  "death_year": "2002",
+  "father": "everett-darling",
+  "mother": "susan-nipper",
+  "spouses": [],
+  "biography": [
+    "James Thomas Darling was a son of Everett Darling and Susan Lucinda Nipper. His birth year is provisionally recorded as 1916, pending verification against historical records.",
+    "He died in 2002."
+  ]
+}
 ]

@@ -24,7 +24,7 @@
 
     <nav>
         <a href="index.html">Home</a>
-        <a href="#">Family Tree</a>
+        <a href="family-tree.html">Family Tree</a>
         <a href="photos.html">Photos</a>
         <a href="stories.html">Stories</a>
         <a href="documents.html">Documents</a>
@@ -52,7 +52,59 @@
             </p>
 
         {% endif %}
+          
+        {% if family_name == "Singletary" or family_name == "All" %}
 
+        <section class="family-tree">
+            <h2>Explore the Family Tree</h2>
+
+            <p>
+                Select a family member to view their biography,
+                photographs, and historical records.
+            </p>
+
+            <div class="tree-generation">
+                {% for person_id in [
+                    "everett-darling",
+                    "sarah-sallie-wadsworth-1840"
+                ] %}
+                    {% set person = people_by_id.get(person_id) %}
+
+                    {% if person %}
+                    <div class="tree-person">
+                        <a href="people/{{ person.id }}.html">
+                            <strong>{{ person.display_name }}</strong>
+                            <span>{{ person.years }}</span>
+                        </a>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            <div class="tree-connector">│</div>
+            <div class="tree-connector">▼</div>
+
+            <div class="tree-generation">
+                {% for person_id in [
+                    "mary-frances-darling",
+                    "martha-darling-1882"
+                ] %}
+                    {% set person = people_by_id.get(person_id) %}
+
+                    {% if person %}
+                    <div class="tree-person">
+                        <a href="people/{{ person.id }}.html">
+                            <strong>{{ person.display_name }}</strong>
+                            <span>{{ person.years }}</span>
+                        </a>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+        {% endif %}
+  
         <div class="family-sort">
             <label for="sort-order">Sort by:</label>
 

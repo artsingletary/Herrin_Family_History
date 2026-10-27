@@ -241,6 +241,7 @@ environment.filters["format_date"] = format_date
 index_template = environment.get_template("index.html")
 person_template = environment.get_template("person.html")
 family_template = environment.get_template("family.html")
+tree_template = environment.get_template("family-tree.html")
 gallery_template = environment.get_template("photos.html")
 documents_template = environment.get_template("documents.html")
 stories_template = environment.get_template("stories.html")
@@ -305,6 +306,39 @@ with open(index_file, "w", encoding="utf-8") as file:
 
 
 # --------------------------------------------------
+# Generate Family Tree page
+# --------------------------------------------------
+# Prepare family relationships for the interactive tree
+tree_people = []
+
+for person in people:
+    tree_people.append({
+        "id": person["id"],
+        "name": person["display_name"],
+        "years": person["years"],
+        "birth_year": person.get("birth_year"),
+        "father": person.get("father"),
+        "mother": person.get("mother"),
+        "spouses": person.get("spouses", []),
+        "family_lines": person.get("family_lines", [])
+    })
+
+tree_html = tree_template.render(
+    people=people,
+    people_by_id=people_by_id,
+    tree_root=people_by_id.get("everett-darling"),
+    tree_children=get_children("everett-darling"),
+    tree_people_json=json.dumps(tree_people)
+)
+
+tree_file = OUTPUT_DIR / "family-tree.html"
+
+with open(tree_file, "w", encoding="utf-8") as file:
+    file.write(tree_html)
+
+
+
+# --------------------------------------------------
 # Generate family pages
 # --------------------------------------------------
 
@@ -331,7 +365,8 @@ for family in family_pages:
 
     html = family_template.render(
         family_name=family["family_name"],
-        family_people=family["people"]
+        family_people=family["people"],
+        people_by_id=people_by_id
     )
 
     family_file = OUTPUT_DIR / family["filename"]
