@@ -1,7 +1,7 @@
 [
     {
         "id": "james-myrtice-photo",
-        "file": "james_talmadge_and_myrtice.jpg",
+        "file": "james_talmadge_and_myrtis_restored.png",
         "caption": "James Talmadge Herrin Sr. and Myrtice Irene Hurst.",
         "people": [
             "james-talmage-herrin-1919",
@@ -993,5 +993,22 @@
     "everett-darling"
   ],
   "family_lines": ["singletary"]
+},
+
+{
+  "id": "james-talmadge-herrin-family-portrait",
+  "file": "james_talmadge_herrin_family_portrait_restored.png",
+  "title": "James Talmadge Herrin and Family",
+  "caption": "Family portrait of James Talmadge Herrin and Robbie Rosetta Gramling, with Curtis Coolage Murray, Kevin Don Murray, and Tonya Herrin. Date and location unknown.",
+  "type": "family",
+  "people": [
+    "james-talmage-herrin-1919",
+    "robbie-rosetta-gramling-1933"
+  ],
+  "family_lines": [
+    "herrin"
+  ],
+  "date": ""
 }
+
 ]

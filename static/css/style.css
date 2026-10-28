@@ -671,7 +671,6 @@ footer {
     gap: 20px;
 }
 
-
 /* Family Tree - Descendant Connection Lines */
 .tree-branch > .tree-descendants:not([hidden])::before {
     content: "";

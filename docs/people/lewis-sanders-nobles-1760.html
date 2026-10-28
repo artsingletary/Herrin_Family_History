@@ -2,6 +2,199 @@
 <html lang="en">
 
 <head>
+    
+<!-- Google Analytics 4 - Consent Controlled -->
+<script>
+    const GA_MEASUREMENT_ID = "G-MMTEL90RK4";
+
+    function loadGoogleAnalytics() {
+        if (window.gaAnalyticsLoaded) return;
+
+        window.gaAnalyticsLoaded = true;
+        window.dataLayer = window.dataLayer || [];
+
+        window.gtag = function () {
+            window.dataLayer.push(arguments);
+        };
+
+        gtag("js", new Date());
+        gtag("config", GA_MEASUREMENT_ID);
+
+        const script = document.createElement("script");
+        script.async = true;
+        script.src =
+            "https://www.googletagmanager.com/gtag/js?id=" +
+            GA_MEASUREMENT_ID;
+
+        document.head.appendChild(script);
+    }
+
+    // Load Analytics only if consent was previously granted.
+    try {
+        if (localStorage.getItem("analytics-consent") === "accepted") {
+            loadGoogleAnalytics();
+        }
+    } catch (error) {
+        // Analytics remains disabled if storage is unavailable.
+    }
+</script>
+
+
+<!-- Analytics Cookie Consent Banner -->
+<style>
+    #cookie-consent-banner {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999;
+        background: #f8f7f3;
+        border-top: 2px solid #b8a58c;
+        padding: 15px 25px;
+        box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.12);
+        display: none;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    #cookie-consent-banner p {
+        margin: 0;
+        flex: 1;
+        min-width: 240px;
+        color: #333;
+    }
+
+    #cookie-consent-banner a {
+        color: #3d4b3a;
+        text-decoration: underline;
+    }
+
+    #cookie-consent-banner button {
+        padding: 9px 18px;
+        border: 1px solid #8a6c48;
+        border-radius: 5px;
+        background: #fff;
+        color: #333;
+        cursor: pointer;
+    }
+
+    #cookie-consent-banner button:hover {
+        background: #f0e7d8;
+    }
+
+    #cookie-consent-banner button:focus-visible {
+        outline: 2px solid #3d4b3a;
+        outline-offset: 2px;
+    }
+</style>
+
+
+<!-- Cookie Consent Banner Behavior -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+        // Create the banner.
+        const banner = document.createElement("div");
+        banner.id = "cookie-consent-banner";
+        banner.setAttribute("role", "region");
+        banner.setAttribute("aria-label", "Analytics cookie preferences");
+
+        // Create the message.
+        const message = document.createElement("p");
+        message.textContent =
+            "This website uses optional analytics cookies to understand visitor activity. ";
+
+        // Create the Privacy Notice link.
+        const privacyLink = document.createElement("a");
+        privacyLink.textContent = "Privacy Notice";
+
+        // Use the correct relative path for each page.
+        const inSubdirectory =
+            window.location.pathname.includes("/people/") ||
+            window.location.pathname.includes("/stories/");
+
+        privacyLink.href = inSubdirectory
+            ? "../privacy.html"
+            : "privacy.html";
+
+        message.appendChild(privacyLink);
+
+        // Create the Accept button.
+        const acceptButton = document.createElement("button");
+        acceptButton.type = "button";
+        acceptButton.textContent = "Accept";
+
+        // Create the Reject button.
+        const rejectButton = document.createElement("button");
+        rejectButton.type = "button";
+        rejectButton.textContent = "Reject";
+
+        // Add everything to the banner.
+        banner.append(message, acceptButton, rejectButton);
+        document.body.appendChild(banner);
+
+        // Check for an existing consent choice.
+        let consent = null;
+
+        try {
+            consent = localStorage.getItem("analytics-consent");
+        } catch (error) {
+            // Storage may be unavailable.
+        }
+
+        // Show the banner if no choice has been saved.
+        if (consent !== "accepted" && consent !== "rejected") {
+            banner.style.display = "flex";
+        }
+
+        // Accept analytics cookies.
+        acceptButton.addEventListener("click", function () {
+            try {
+                localStorage.setItem("analytics-consent", "accepted");
+
+                banner.style.display = "none";
+                loadGoogleAnalytics();
+            } catch (error) {
+                // Do not enable analytics if consent cannot be saved.
+            }
+        });
+
+        // Reject analytics cookies.
+
+        // Reject analytics cookies.
+        rejectButton.addEventListener("click", function () {
+            try {
+                localStorage.setItem("analytics-consent", "rejected");
+
+                // Disable further Google Analytics collection.
+                window["ga-disable-" + GA_MEASUREMENT_ID] = true;
+
+                // Remove Google Analytics cookies on this domain.
+                document.cookie.split(";").forEach(function (cookie) {
+                    const name = cookie.split("=")[0].trim();
+
+                    if (name === "_ga" || name.startsWith("_ga_")) {
+                        document.cookie =
+                            name +
+                            "=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+                    }
+                });
+
+                banner.style.display = "none";
+
+                // Stop the previously loaded Analytics session.
+                window.location.reload();
+
+            } catch (error) {
+                // Analytics remains disabled if storage is unavailable.
+            }
+        });
+
+
+    });
+</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -495,6 +688,11 @@
 
     <footer>
         Singletary-Herrin Family Archive 
+
+        <p>
+            <a href="../privacy.html">Privacy Notice</a>
+        </p>
+
     </footer>
 
 </body>

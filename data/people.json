@@ -806,7 +806,8 @@
     "father": "william-levi-herrin-1892",
     "mother": "lauretta-palmer-1898",
     "spouses": [
-      "myrtice-irene-hurst"
+      "myrtice-irene-hurst",
+      "robbie-rosetta-grambling-1933"
     ],
     "military_service": [
       {
@@ -821,6 +822,7 @@
       "James Talmadge Herrin was born November 12, 1919, in Georgia. His obituary identifies Homerville, Georgia, as his birthplace. He was a son of William Levi Herrin and Laura Etta Palmer.",
       "During World War II, James served in the United States Army. His military gravestone identifies him as a World War II veteran, although his unit, rank, and dates of service have not yet been established.",
       "James married Myrtis Hurst on October 13, 1945, in Echols County, Georgia.",
+      "James Talmadge Herrin was married to Myrtis Irene Hurst. Their marriage ended in divorce in December 1968 in Pinellas County, Florida, according to the Florida Divorce Index (certificate 31069, volume 1333). He later married Robbie Rosetta Grambling on May 12, 1972, in Taylor County, Florida (marriage certificate 029248, volume 3205).",
       "James lived in Perry, Taylor County, Florida, for most of his life. He worked in the dairy business and later for Dan Stewart Gulf Stream Crab Company.",
       "James died February 8, 1986, at the Veterans Administration Medical Center in Lake City, Florida, at age 66.",
       "His obituary identifies four daughters, Diane Dodge, Pat La Blanc, Janet Dekyne, and Tonya Herrin, and two sons, William Herrin and James Herrin Jr.",
@@ -1142,7 +1144,7 @@
   },
   {
     "id": "myrtice-irene-hurst",
-    "first_name": "Myrtice",
+    "first_name": "Myrtis",
     "middle_name": "Irene",
     "last_name": "Hurst",
     "family_lines": [
@@ -1159,7 +1161,9 @@
     "spouses": [
       "james-talmage-herrin-1919"
     ],
-    "biography": []
+    "biography": [
+      "Myrtis Irene Hurst, also identified as Myrtis I. Jackson in her obituary, died on January 31, 2012, at age 81. She was a resident of Holiday, Florida. Her obituary noted that she was preceded in death by her son James T. Herrin and survived by four children: William, Diana, Patricia, and Janet, as well as numerous grandchildren and great-grandchildren. Funeral services were arranged through Sylvan Abbey Memorial Park & Funeral Home in Clearwater, Florida, for February 3, 2012. Source: Tampa Bay Times, February 2, 2012."
+    ]
   },
   {
     "id": "nancy-t-jewell-1854",
@@ -3074,5 +3078,29 @@
     "James Thomas Darling was a son of Everett Darling and Susan Lucinda Nipper. His birth year is provisionally recorded as 1916, pending verification against historical records.",
     "He died in 2002."
   ]
+},
+
+{
+  "id": "robbie-rosetta-grambling-1933",
+  "first_name": "Robbie",
+  "middle_name": "Rosetta",
+  "last_name": "Grambling",
+  "family_lines": [
+    "herrin"
+  ],
+  "birth_year": 1933,
+  "birth_date": "1933-02-22",
+  "death_year": 2021,
+  "death_date": "2021-06-04",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    "james-talmage-herrin-1919"
+  ],
+  "biography": [
+    "Robbie Rosetta Grambling was born on February 22, 1933, and died on June 4, 2021. She married James Talmadge Herrin on May 12, 1972, in Taylor County, Florida. Their marriage is recorded by the Florida Department of Health under certificate number 029248, volume 3205."
+  ]
 }
+
+
 ]

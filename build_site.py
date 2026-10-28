@@ -526,6 +526,17 @@ with open(documents_file, "w", encoding="utf-8") as file:
     file.write(html)
 
 
+# Render the Privacy Notice page
+privacy_template = environment.get_template("privacy.html")
+
+html = privacy_template.render()
+
+privacy_file = OUTPUT_DIR / "privacy.html"
+
+with open(privacy_file, "w", encoding="utf-8") as file:
+    file.write(html)
+
+
 # --------------------------------------------------
 # Generate Family Stories Page
 # --------------------------------------------------
