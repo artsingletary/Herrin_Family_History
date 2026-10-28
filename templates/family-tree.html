@@ -156,7 +156,64 @@
                 showFamily(person.id);
             });
 
+
             card.appendChild(exploreButton);
+
+            // Check whether this person has documented children.
+            const children = treePeople.filter(child =>
+                child.father === person.id ||
+                child.mother === person.id
+            );
+
+            if (children.length > 0) {
+                const expandButton = document.createElement("button");
+                expandButton.type = "button";
+                expandButton.textContent = "Expand Descendants";
+
+                const descendantsContainer = document.createElement("div");
+                descendantsContainer.className = "tree-descendants";
+                descendantsContainer.hidden = true;
+
+                expandButton.addEventListener("click", function () {
+                    if (descendantsContainer.hidden) {
+                        descendantsContainer.replaceChildren();
+
+                        const generation = document.createElement("div");
+                        generation.className = "tree-generation";
+
+                        children
+                            .sort((a, b) =>
+                                (Number(a.birth_year) || 9999) -
+                                (Number(b.birth_year) || 9999)
+                            )
+                            .forEach(child => {
+                                generation.appendChild(createPersonCard(child));
+                            });
+
+                        descendantsContainer.appendChild(generation);
+                        descendantsContainer.hidden = false;
+                        expandButton.textContent = "Collapse Descendants";
+                    } else {
+                        descendantsContainer.hidden = true;
+                        expandButton.textContent = "Expand Descendants";
+                    }
+                });
+
+
+                card.appendChild(expandButton);
+
+                // Keep descendants outside the person's card.
+                // The wrapper will contain both the card and descendants.
+                const wrapper = document.createElement("div");
+                wrapper.className = "tree-branch";
+
+                wrapper.appendChild(card);
+                wrapper.appendChild(descendantsContainer);
+
+                return wrapper;
+
+            }
+
 
             return card;
         }

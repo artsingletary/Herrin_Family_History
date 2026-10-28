@@ -638,3 +638,46 @@ footer {
     line-height: 1;
     font-size: 22px;
 }
+
+
+/* Family Tree - Expandable Branches */
+.tree-branch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    min-width: 0;
+}
+
+.tree-branch > .tree-person {
+    width: max-content;
+    max-width: 100%;
+}
+
+.tree-branch > .tree-descendants {
+    width: 100%;
+    min-width: 0;
+}
+
+.tree-descendants[hidden] {
+    display: none;
+}
+
+.tree-descendants > .tree-generation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+
+/* Family Tree - Descendant Connection Lines */
+.tree-branch > .tree-descendants:not([hidden])::before {
+    content: "";
+    display: block;
+    width: 2px;
+    height: 25px;
+    background-color: #b8a58c;
+    margin: 0 auto 15px;
+}
