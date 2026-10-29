@@ -157,7 +157,6 @@
             }
         });
 
-        // Reject analytics cookies.
 
         // Reject analytics cookies.
         rejectButton.addEventListener("click", function () {
@@ -167,14 +166,18 @@
                 // Disable further Google Analytics collection.
                 window["ga-disable-" + GA_MEASUREMENT_ID] = true;
 
-                // Remove Google Analytics cookies on this domain.
                 document.cookie.split(";").forEach(function (cookie) {
                     const name = cookie.split("=")[0].trim();
 
                     if (name === "_ga" || name.startsWith("_ga_")) {
+                        // Clear host-only cookies.
                         document.cookie =
+                        name + "=; Max-Age=0; path=/";
+
+                        // Clear cookies scoped to this website's domain.
+                         document.cookie =
                             name +
-                            "=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+                            "=; Max-Age=0; path=/; domain=artsingletary.github.io";
                     }
                 });
 
